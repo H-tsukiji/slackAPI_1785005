@@ -1,2 +1,5 @@
-# test
-hoggrhgorhgharvfjksbeghuiaelrgjkbaliwrglaebhvrgluiaehrlguibhadlvbghzajilvbgilaehrhgl
+# SlackAPI
+
+私がSlackAPIを動かしてみる為にいろいろと試行錯誤するレポジトリです
+
+ここには備忘録としてリンクなど張りたい
