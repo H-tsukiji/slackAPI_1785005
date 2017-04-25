@@ -1,7 +1,10 @@
 import requests
+import codecs
+
+token = codecs.open("../slackapi_token.txt", "r","utf-8")
 
 payload ={
-    "token" : "xoxp-18292672947-18354986291-166689903238-d1ff9554866a15e73129eb85d808d055",
+    "token" : token,
     "channel" : "@tsukiji",
     "text" : "Hello",
     "username": "mybot",
