@@ -3,8 +3,10 @@
 import codecs,json
 
 f = codecs.open("slack.json","r","utf-8")
-f2 = json.load(f)
+#文字列として読み込む
+f_str = f.read()
 
-#print(f_json)
+#なぜかシングルクォーテーションの部分を
+#ダブルクォーテーションに置換
+f_strjson = f_str.replace('\'','\"')
 
-#print (f["error"])
