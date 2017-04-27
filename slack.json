@@ -1,1 +1,72 @@
-{'error': None, 'raw': '{"ok":true,"messages":[{"type":"message","user":"U0JAEV08K","text":"\\u3042\\u3001\\u8aa4\\u5b57\\u3067\\u3059\\u306d\\u3002HDMI\\u3067\\u3059","ts":"1493258156.231157"},{"type":"message","user":"U0JACJLRJ","text":"HDMI\\u3060\\u3063\\u3051\\u3002","ts":"1493252003.297386"},{"type":"message","user":"U0JACJLRJ","text":"HDML\\u30b1\\u30fc\\u30d6\\u30eb\\u3082\\u9069\\u5f53\\u3067\\u3088\\u3044\\u3067\\u3059\\u304b\\u3002\\u77ed\\u3081\\u3068\\u9577\\u3081\\u306f\\u3069\\u3061\\u3089\\u304c\\u826f\\u3055\\u305d\\u3046\\u3067\\u3057\\u3087\\u3046\\u304b\\u3002","ts":"1493251966.291463"},{"type":"message","user":"U0JACJLRJ","text":"\\u30e2\\u30cb\\u30bf\\u30fc\\u306f\\u305d\\u308d\\u3048\\u305f\\u65b9\\u304c\\u3044\\u3044\\u3068\\u601d\\u3046\\u306e\\u3067\\u3001\\u77f3\\u5ddd\\u541b\\u3068\\u540c\\u3058\\u30e2\\u30cb\\u30bf\\u30fc\\u3092\\u8ab0\\u304b\\u304b\\u3089\\u79fb\\u52d5\\u3057\\u3066\\u3001\\u79fb\\u52d5\\u3057\\u305f\\u4eba\\u306b\\u30e2\\u30cb\\u30bf\\u30fc\\u3092\\u3042\\u3066\\u304c\\u3046\\u306e\\u304c\\u826f\\u3044\\u3068\\u601d\\u3044\\u307e\\u3059\\u304c\\u3044\\u3044\\u3067\\u3059\\u304b\\u3002","ts":"1493251892.279336"},{"type":"message","user":"U0JACJLRJ","text":"\\u30e2\\u30cb\\u30bf\\u30fc\\u30a2\\u30fc\\u30e0\\u306f\\u3001\\u7b20\\u4e95\\u541b\\u3068\\u540c\\u3058\\u306b\\u3057\\u3088\\u3046\\u3068\\u601d\\u3044\\u307e\\u3059\\u304c\\u3044\\u3044\\u3067\\u3059\\u304b\\u3002","ts":"1493251834.269975"}],"has_more":true,"is_limited":false}', 'successful': True, 'body': {'is_limited': False, 'ok': True, 'has_more': True, 'messages': [{'type': 'message', 'ts': '1493258156.231157', 'user': 'U0JAEV08K', 'text': 'あ、誤字ですね。HDMIです'}, {'type': 'message', 'ts': '1493252003.297386', 'user': 'U0JACJLRJ', 'text': 'HDMIだっけ。'}, {'type': 'message', 'ts': '1493251966.291463', 'user': 'U0JACJLRJ', 'text': 'HDMLケーブルも適当でよいですか。短めと長めはどちらが良さそうでしょうか。'}, {'type': 'message', 'ts': '1493251892.279336', 'user': 'U0JACJLRJ', 'text': 'モニターはそろえた方がいいと思うので、石川君と同じモニターを誰かから移動して、移動した人にモニターをあてがうのが良いと思いますがいいですか。'}, {'type': 'message', 'ts': '1493251834.269975', 'user': 'U0JACJLRJ', 'text': 'モニターアームは、笠井君と同じにしようと思いますがいいですか。'}]}}
+{
+    'error': None, 
+    'raw': '{
+        "ok": true,
+        "messages": [
+            {
+                "type": "message",
+                "user": "U0JAEV08K",
+                "text": "\\u3042\\u3001\\u8aa4\\u5b57\\u3067\\u3059\\u306d\\u3002HDMI\\u3067\\u3059",
+                "ts": "1493258156.231157"
+            },
+            {
+                "type": "message",
+                "user": "U0JACJLRJ",
+                "text": "HDMI\\u3060\\u3063\\u3051\\u3002",
+                "ts": "1493252003.297386"
+            },
+            {
+                "type": "message",
+                "user": "U0JACJLRJ",
+                "text": "HDML\\u30b1\\u30fc\\u30d6\\u30eb\\u3082\\u9069\\u5f53\\u3067\\u3088\\u3044\\u3067\\u3059\\u304b\\u3002\\u77ed\\u3081\\u3068\\u9577\\u3081\\u306f\\u3069\\u3061\\u3089\\u304c\\u826f\\u3055\\u305d\\u3046\\u3067\\u3057\\u3087\\u3046\\u304b\\u3002",
+                "ts": "1493251966.291463"
+            },
+            {
+                "type": "message",
+                "user": "U0JACJLRJ",
+                "text": "\\u30e2\\u30cb\\u30bf\\u30fc\\u306f\\u305d\\u308d\\u3048\\u305f\\u65b9\\u304c\\u3044\\u3044\\u3068\\u601d\\u3046\\u306e\\u3067\\u3001\\u77f3\\u5ddd\\u541b\\u3068\\u540c\\u3058\\u30e2\\u30cb\\u30bf\\u30fc\\u3092\\u8ab0\\u304b\\u304b\\u3089\\u79fb\\u52d5\\u3057\\u3066\\u3001\\u79fb\\u52d5\\u3057\\u305f\\u4eba\\u306b\\u30e2\\u30cb\\u30bf\\u30fc\\u3092\\u3042\\u3066\\u304c\\u3046\\u306e\\u304c\\u826f\\u3044\\u3068\\u601d\\u3044\\u307e\\u3059\\u304c\\u3044\\u3044\\u3067\\u3059\\u304b\\u3002",
+                "ts": "1493251892.279336"
+            },
+            {
+                "type": "message",
+                "user": "U0JACJLRJ",
+                "text": "\\u30e2\\u30cb\\u30bf\\u30fc\\u30a2\\u30fc\\u30e0\\u306f\\u3001\\u7b20\\u4e95\\u541b\\u3068\\u540c\\u3058\\u306b\\u3057\\u3088\\u3046\\u3068\\u601d\\u3044\\u307e\\u3059\\u304c\\u3044\\u3044\\u3067\\u3059\\u304b\\u3002",
+                "ts": "1493251834.269975"
+            }
+        ],
+        "has_more": true,
+        "is_limited": false
+    }', 
+    'successful': True, 
+    'body': {'is_limited': False, 
+            'ok': True, 
+            'has_more': True, 
+            'messages': [
+            {'type': 'message', 
+                        'ts': '1493258156.231157', 
+                        'user': 'U0JAEV08K', 
+                        'text': 'あ、誤字ですね。HDMIです'
+            },
+            {'type': 'message', 
+                        'ts': '1493252003.297386', 
+                        'user': 'U0JACJLRJ', 
+                        'text': 'HDMIだっけ。'
+            },
+            {'type': 'message', 
+                        'ts': '1493251966.291463', 
+                        'user': 'U0JACJLRJ', 
+                        'text': 'HDMLケーブルも適当でよいですか。短めと長めはどちらが良さそうでしょうか。'
+            },
+            {'type': 'message', 
+                        'ts': '1493251892.279336', 
+                        'user': 'U0JACJLRJ', 
+                        'text': 'モニターはそろえた方がいいと思うので、石川君と同じモニターを誰かから移動して、移動した人にモニターをあてがうのが良いと思いますがいいですか。'
+            },
+            {'type': 'message', 
+                        'ts': '1493251834.269975', 
+                        'user': 'U0JACJLRJ', 
+                        'text': 'モニターアームは、笠井君と同じにしようと思いますがいいですか。'
+            }
+        ]
+    }
+}
