@@ -8,7 +8,7 @@ token = codecs.open("../slackapi_token.txt", "r","utf-8")
 
 # 対象のチャンネル名
 c_name = 'C0J8KM6KF'
- 
+
 # 投稿する画像ファイルへのパス(パラメタから取得) 相対パス
 #f_path = sys.argv[1]
  
@@ -22,11 +22,9 @@ log = []
 log.append(result)
 
 
-f = codecs.open("slack.json","w","utf-8")
-
-f.write(json.dumps(log));
-
-
+#JSON形式に変換しファイルに出力
+#f = codecs.open("slack.json","w","utf-8")
+#f.write(result);
 
 #とりあえず表示させる
-#print(vars(result))
+print(vars(result))
