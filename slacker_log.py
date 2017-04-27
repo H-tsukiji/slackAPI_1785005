@@ -15,16 +15,13 @@ c_name = 'C0J8KM6KF'
 # logの取得を送る　token,指定チャンネルid,タイムスタンプの有無などを条件付けする
 # 返しはインスタンス変数になってる(？)
 slacker = Slacker(token)
-result = slacker.channels.history(c_name,count=5,inclusive=True,unreads=True)
+result = slacker.channels.history(c_name,count=5)
 
-#listに突っ込む
-log = []
-log.append(result)
-
+hoge = str(vars(result))
 
 #JSON形式に変換しファイルに出力
-#f = codecs.open("slack.json","w","utf-8")
-#f.write(result);
+f = codecs.open("slack.json","w","utf-8")
+f.write(hoge);
 
 #とりあえず表示させる
-print(vars(result))
+#print(vars(result))
