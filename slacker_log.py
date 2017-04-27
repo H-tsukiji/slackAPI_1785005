@@ -17,6 +17,14 @@ c_name = 'C0J8KM6KF'
 slacker = Slacker(token)
 result = slacker.channels.history(c_name,count=5)
 
+
+"""
+ここで分かったこと
+vars()で文字列化するといろいろと出力結果がカバる
+(シングルクォーテーションやないのが混在してJSON形式にして分析しやすいようにできない)
+なとかしないとつらみ
+"""
+
 hoge = str(vars(result))
 
 #JSON形式に変換しファイルに出力

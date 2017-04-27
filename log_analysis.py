@@ -10,3 +10,4 @@ f_str = f.read()
 #ダブルクォーテーションに置換
 f_strjson = f_str.replace('\'','\"')
 
+f_json = json.loads(f_strjson)
