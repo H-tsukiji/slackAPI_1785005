@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import sys,codecs,json
+import sys,codecs,json,pprint
 from slacker import Slacker
 
 # API token tokenが入ったファイルの読み込みをして取得(セキュリティ回避)
@@ -15,21 +15,17 @@ c_name = 'C0J8KM6KF'
 # logの取得を送る　token,指定チャンネルid,タイムスタンプの有無などを条件付けする
 # 返しはインスタンス変数になってる(？)
 slacker = Slacker(token)
-result = slacker.channels.history(c_name,count=5)
-
+#中身を取りたいなら、.bodyを付ける事！！！！
+result = slacker.channels.history(c_name,count=5).body
 
 """
 ここで分かったこと
 vars()で文字列化するといろいろと出力結果がカバる
 (シングルクォーテーションやないのが混在してJSON形式にして分析しやすいようにできない)
-なとかしないとつらみ
+slackerパッケージの関数の最後に.bodyとくっつけることで，オブジェクトの中身を取得することができる！！！！
 """
-
-hoge = str(vars(result))
 
 #JSON形式に変換しファイルに出力
 f = codecs.open("slack.json","w","utf-8")
-f.write(hoge);
-
-#とりあえず表示させる
-#print(vars(result))
+f.write(json.dumps(result,indent=3));
+f.close()

@@ -1,72 +1,50 @@
 {
-    'error': None, 
-    'raw': '{
-        "ok": true,
-        "messages": [
+   "ok": true,
+   "has_more": true,
+   "messages": [
+      {
+         "type": "message",
+         "text": "\u4eca\u6708\u306f\u3082\u3046\u65e5\u6570\u304c\u5c11\u306a\u3044\u306e\u3067\uff0c\u4eca\u65e5\u51fa\u305b\u308b\u4eba\u306f\u50d5\u306b\u51fa\u3057\u3066\u4e0b\u3055\u3044\uff0e",
+         "user": "U107TJHPF",
+         "ts": "1493343472.197211",
+         "reactions": [
             {
-                "type": "message",
-                "user": "U0JAEV08K",
-                "text": "\\u3042\\u3001\\u8aa4\\u5b57\\u3067\\u3059\\u306d\\u3002HDMI\\u3067\\u3059",
-                "ts": "1493258156.231157"
-            },
-            {
-                "type": "message",
-                "user": "U0JACJLRJ",
-                "text": "HDMI\\u3060\\u3063\\u3051\\u3002",
-                "ts": "1493252003.297386"
-            },
-            {
-                "type": "message",
-                "user": "U0JACJLRJ",
-                "text": "HDML\\u30b1\\u30fc\\u30d6\\u30eb\\u3082\\u9069\\u5f53\\u3067\\u3088\\u3044\\u3067\\u3059\\u304b\\u3002\\u77ed\\u3081\\u3068\\u9577\\u3081\\u306f\\u3069\\u3061\\u3089\\u304c\\u826f\\u3055\\u305d\\u3046\\u3067\\u3057\\u3087\\u3046\\u304b\\u3002",
-                "ts": "1493251966.291463"
-            },
-            {
-                "type": "message",
-                "user": "U0JACJLRJ",
-                "text": "\\u30e2\\u30cb\\u30bf\\u30fc\\u306f\\u305d\\u308d\\u3048\\u305f\\u65b9\\u304c\\u3044\\u3044\\u3068\\u601d\\u3046\\u306e\\u3067\\u3001\\u77f3\\u5ddd\\u541b\\u3068\\u540c\\u3058\\u30e2\\u30cb\\u30bf\\u30fc\\u3092\\u8ab0\\u304b\\u304b\\u3089\\u79fb\\u52d5\\u3057\\u3066\\u3001\\u79fb\\u52d5\\u3057\\u305f\\u4eba\\u306b\\u30e2\\u30cb\\u30bf\\u30fc\\u3092\\u3042\\u3066\\u304c\\u3046\\u306e\\u304c\\u826f\\u3044\\u3068\\u601d\\u3044\\u307e\\u3059\\u304c\\u3044\\u3044\\u3067\\u3059\\u304b\\u3002",
-                "ts": "1493251892.279336"
-            },
-            {
-                "type": "message",
-                "user": "U0JACJLRJ",
-                "text": "\\u30e2\\u30cb\\u30bf\\u30fc\\u30a2\\u30fc\\u30e0\\u306f\\u3001\\u7b20\\u4e95\\u541b\\u3068\\u540c\\u3058\\u306b\\u3057\\u3088\\u3046\\u3068\\u601d\\u3044\\u307e\\u3059\\u304c\\u3044\\u3044\\u3067\\u3059\\u304b\\u3002",
-                "ts": "1493251834.269975"
+               "users": [
+                  "U106UP90U"
+               ],
+               "count": 1,
+               "name": "white_check_mark"
             }
-        ],
-        "has_more": true,
-        "is_limited": false
-    }', 
-    'successful': True, 
-    'body': {'is_limited': False, 
-            'ok': True, 
-            'has_more': True, 
-            'messages': [
-            {'type': 'message', 
-                        'ts': '1493258156.231157', 
-                        'user': 'U0JAEV08K', 
-                        'text': 'あ、誤字ですね。HDMIです'
-            },
-            {'type': 'message', 
-                        'ts': '1493252003.297386', 
-                        'user': 'U0JACJLRJ', 
-                        'text': 'HDMIだっけ。'
-            },
-            {'type': 'message', 
-                        'ts': '1493251966.291463', 
-                        'user': 'U0JACJLRJ', 
-                        'text': 'HDMLケーブルも適当でよいですか。短めと長めはどちらが良さそうでしょうか。'
-            },
-            {'type': 'message', 
-                        'ts': '1493251892.279336', 
-                        'user': 'U0JACJLRJ', 
-                        'text': 'モニターはそろえた方がいいと思うので、石川君と同じモニターを誰かから移動して、移動した人にモニターをあてがうのが良いと思いますがいいですか。'
-            },
-            {'type': 'message', 
-                        'ts': '1493251834.269975', 
-                        'user': 'U0JACJLRJ', 
-                        'text': 'モニターアームは、笠井君と同じにしようと思いますがいいですか。'
-            }
-        ]
-    }
+         ]
+      },
+      {
+         "type": "message",
+         "text": "\u7dd1\u8272\u306e\u5c31\u8077\u6d3b\u52d5\u72b6\u6cc1\u5831\u544a\u30b7\u30fc\u30c8\u3092\u673a\u306e\u4e0a\u306b\u7f6e\u304d\u307e\u3057\u305f\uff0e",
+         "user": "U107TJHPF",
+         "ts": "1493343459.195230"
+      },
+      {
+         "type": "message",
+         "text": "\u308f\u304b\u308a\u307e\u3057\u305f\u3002",
+         "user": "U107TJHPF",
+         "ts": "1493325087.079868"
+      },
+      {
+         "type": "message",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1493299127.000000"
+         },
+         "text": "\u30ea\u30fc\u30c0\u30fc\u306f\u4ee3\u8868\u3057\u3066\u6708\u672b\u306b\u30016F\u5c31\u8077\u5ba4\u306b\u7814\u7a76\u5ba4\u306e\u5168\u54e1\u5206\u3092\u63d0\u51fa\u3057\u3066\u3082\u3089\u3046\u3088\u3046\u304a\u9858\u3044\u3057\u307e\u3059\u3002 ",
+         "user": "U0JACJLRJ",
+         "ts": "1493299100.181724"
+      },
+      {
+         "type": "message",
+         "text": "\u6559\u54e1\u306e\u62bc\u5370\u304c\u5fc5\u8981\u306a\u306e\u3067\u3001\u79c1\u306b\u3082\u7c21\u5358\u306b\u5831\u544a\u3059\u308b\u3088\u3046\u306b\u304a\u9858\u3044\u3057\u307e\u3059\u3002",
+         "user": "U0JACJLRJ",
+         "ts": "1493299059.166830"
+      }
+   ],
+   "is_limited": false
 }
