@@ -22,15 +22,23 @@ https://api.slack.com/methods/channels.list/test
 
 idがチャンネルidとなる
 
+## ユーザ名とユーザidの紐づけ
+memberlist.json  
+idとユーザ名がセットである。  
+これを作成するプログラムはslack_userlist.py  
+jsonファイル使いまわしてね
+
 ## ログを取る方法
-log_analysis.py  
+slacker_log.py  
 必要な情報  
 チャンネルid  
 現状オブジェクトで帰っているので、配列に整理するかなんかする必要がありそう・・・？  
 .bodyを付与することでできた。  
 csvファイル「log_report_channel」に名前内容時間を書き込む  
 
-
+#csvファイルの出力
+log_analysis.py  
+csvファイルにユーザ名、内容、タイムスタンプを出力するプログラム
 
 ### ここには備忘録としてリンクなど張りたい
 
