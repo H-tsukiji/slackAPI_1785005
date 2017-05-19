@@ -23,10 +23,12 @@ https://api.slack.com/methods/channels.list/test
 idがチャンネルidとなる
 
 ## ログを取る方法
+log_analysis.py  
 必要な情報  
 チャンネルid  
-
 現状オブジェクトで帰っているので、配列に整理するかなんかする必要がありそう・・・？  
+.bodyを付与することでできた。  
+csvファイル「log_report_channel」に名前内容時間を書き込む  
 
 
 

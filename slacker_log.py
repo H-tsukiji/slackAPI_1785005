@@ -7,14 +7,14 @@ from slacker import Slacker
 token = codecs.open("../slackapi_token.txt", "r","utf-8")
 
 # 対象のチャンネル名
-c_name = 'C0J8KM6KF'
+c_name = 'C0XMH9F0Q'
 
  
 # logの取得を送る　token,指定チャンネルid,タイムスタンプの有無などを条件付けする
 # 返しはインスタンス変数になってる(？)
 slacker = Slacker(token)
 #中身を取りたいなら、.bodyを付ける事！！！！
-result = slacker.channels.history(c_name,count=5).body
+result = slacker.channels.history(c_name,count=1000).body
 
 """
 ここで分かったこと
