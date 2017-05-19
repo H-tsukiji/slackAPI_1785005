@@ -36,7 +36,7 @@ slacker_log.py
 .bodyを付与することでできた。  
 csvファイル「log_report_channel」に名前内容時間を書き込む  
 
-##csvファイルの出力
+## csvファイルの出力
 log_analysis.py  
 csvファイルにユーザ名、内容、タイムスタンプを出力するプログラム
 
