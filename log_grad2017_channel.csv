@@ -1,0 +1,210 @@
+User,text,time
+takano,<@U0JACJLRJ|takano> uploaded a file: <https://kait-takanolab.slack.com/files/takano/F5ETXMSSX/research_plan-kasai-1.docx.docx|research_plan-kasai-1.docx>,1495097076.472720
+t.kasai,<@U0J8PMAQJ|t.kasai> uploaded a file: <https://kait-takanolab.slack.com/files/t.kasai/F5FQQDSMD/research_plan_kasai-v1.docx|research_plan_kasai-v1.docx>,1495095946.263156
+tsukiji,今遠藤先輩から連絡があり、5限に打ち合わせに来るようです,1495083036.677799
+tsukiji,"やったコマンド
+drop database order_login;  //データベースorder_loginの削除
+create databese order_login; //データベースorder_loginの作成
+mysql -u root -p order_login &lt; order_login.sql  //sqlファイルのインポート",1495082662.648175
+tsukiji,"速水研の引継ぎで、昨日の話であったuserデータの入ったデータベースを削除し入れなおしました。
+入れなおしたあと、テストとしてユーザをアプリ上で追加したら正常に追加されました",1495082436.630712
+tsukiji,DEIMとAINA2018の情報を追加しました,1494926904.465396
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F5E1AU69G/_____________________v3.xlsx|学会カレンダーv3.xlsx>,1494926861.457294
+takano,テストの仕方も確認しておく必要があるように思いました。,1494844796.199267
+takano,今週木曜日の3限以降で、遠藤君との打ち合わせを調整してもらえますか。,1494842507.827154
+takano,sql_modeをNO_ENGINE_SUBSTITUTIONにすると解決するかもしれない,1494842108.753736
+takano,"---
+遠藤 5.6.20 Mac @@sql_mode NO_ENGINE_SUBSTITUTION
+本番 5.1.x CentOS @@sql_modeに設定なし
+鷹野研 5.7.x Ubunts @@sql_mode STRICT_TRANS_TABLESの他にいろいろ設定されている
+---",1494842084.749508
+takano,5.6から起きている問題かもしれません,1494841129.579185
+takano,<http://blog.seeds-std.co.jp/entry/1035.html>,1494841112.576115
+t.kasai,ダウングレードは可能です,1494840939.544062
+takano,NOT NULLのときのINSERTの挙動が違うようなのですが、まだ公式文書で確認できていません。,1494840734.506907
+takano,5.6を稼働させることできますか。,1494840678.496602
+takano,mysql のバージョンは5.6がベターかもしれません。,1494840666.494258
+tsukiji,確認できたありがとう,1494836037.657999
+t.kasai,した,1494835747.608310
+tsukiji,sqlファイルのファイル2つインポートしたっけ？,1494835738.606760
+t.kasai,:kodakku1: ,1494835696.599774
+tsukiji,sqlファイル,1494835689.598652
+t.kasai,"ｱ,ｱﾚ",1494835684.597787
+tsukiji,笠井君のホームディレクトリにあったよ,1494835674.596263
+t.kasai,ディレクトリ構造自体はかわらない,1494835674.596119
+t.kasai,先輩にもらった `SQL/` ディレクトリを `/var/www/` と読み替えて,1494835654.592857
+t.kasai,`/var/www/html/` のどこか,1494835569.575961
+tsukiji,orderdb.sqlどこにある？,1494835399.544583
+takano,:scream:,1494835358.537772
+t.kasai,つ、使えない状態かもしれません... :fearful: ,1494835307.529209
+takano,築地くんに確認してもらっています。,1494835272.523361
+takano,インポートコマンドはどうもありがとう。,1494835264.521892
+takano,今、メールサーバつかえないじょうたいなのかな。。,1494835223.514886
+t.kasai,ベアボーンに www2 のドメインの IP アドレスを割り当てています,1494835090.492134
+t.kasai,インポートは `mysql -uroot -p orderdb &lt; orderdb.sql`,1494835032.482677
+takano,www2は今のメールサーバのドメインだけど、ベアボーンにこのドメインを割り当てるのだっけ？,1494834854.454632
+takano,ヒストリーに残ってる？,1494834592.413678
+takano,テーブルとデータをインポートしたときのコマンドを覚えていますか。,1494834586.412738
+t.kasai,していません,1494834303.369687
+takano,<@U0J8PMAQJ>  phpmyadminはインストールしてる？,1494834286.367014
+takano,<@U0JACJLRJ|takano> uploaded a file: <https://kait-takanolab.slack.com/files/takano/F5DEGM5CL/tsukiji-researchplan-170515-2.docx|ゼミでのディスカッション内容を赤入れしました。>,1494831557.981081
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F5DFHBVKP/1785005___________________2017.docx|1785005_研究計画概要2017.docx>,1494828938.707996
+takano,deimをマイルストーンに入れましょう。,1494828791.694468
+takano,卒論の拡張版を、日本語で、9月頃をめどにできないかを検討しましょう。,1494828639.680769
+takano,卒論についての英語発表は、もう少し早い時期にできると思うので、それを追加してみてください。,1494827922.606596
+takano,マイルストーンは，表にすると見やすくなると思います。,1494827893.604307
+tsukiji,"昨日赤入れしていただいた部分の修正と、概要図を入れました
+真ん中の利用者の活動履歴と情報コンテンツのマッチングの部分は自分でさらに手直しするかもしれないです",1494590866.109956
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F5DE2ND1U/research_plan_tsukiji_0512.docx|research_plan_tsukiji_0512.docx>,1494590791.092847
+tsukiji,マウス切り替え機です,1494556438.766149
+tsukiji,<http://amzn.asia/1ihFtQG>,1494556432.765599
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F5CCPPTQT/2017________________.xlsx|2017_研究室備品.xlsx>,1494556424.764837
+takano,整理した後に、提案方式の文書を再度見直し、必要に応じて修正すると良いでしょう。,1494504026.976619
+takano,提案方式の文章がちょっと曖昧な感じがしたので、概要図を描きながら必要な機能を整理してみてください。 ,1494503950.962430
+takano,赤入れしました。,1494503900.954225
+takano,<@U0JACJLRJ|takano> uploaded a file: <https://kait-takanolab.slack.com/files/takano/F5CR54Q31/research_plan-tsukiji.docx|research_plan-tsukiji-commented>,1494503887.951833
+takano,<@U0JAEV08K> だいぶ整ってきたように思います。,1494502615.756822
+t.kasai,明日から環境構築と動作確認を始めます,1494502317.712591
+t.kasai,わかりました,1494502225.698272
+takano,速水先生に念を押されたので、環境構築をよろしくお願いします。,1494500579.442427
+takano,速水研のSQL学習システムですが、3、4週間後には授業で使うとのことでした。,1494500519.433152
+tsukiji,研究計画の文章を書いてみました．目を通していただけると幸いです。概要図は今から制作します,1494498925.185364
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F5BCVV7LH/1785005___________________2017.docx|1785005 研究計画概要2017>,1494498925.185301
+takano,spotifyも興味深そうなpatentを持っていますね,1494464116.022530
+takano,<https://finance.strands.com/products/recommender/>,1494461844.791289
+takano,サーベイ対象としておもしろそうです。,1494461844.791215
+tsukiji,ヴィクトリアの学会を追加しました,1494427938.467654
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F5BEDKP0S/_____________________v2.xlsx|学会カレンダーv2.xlsx>,1494427925.463296
+t.kasai,<http://www.ece.uvic.ca/~pacrim/pacrim17/index.php>,1494426349.954048
+takano,Activity分析を技術系チャットを対象に行い、SlideShareのコンテンツ分析と結びつけることが可能ならば（良いアプリケーションがあることも重要）、卒研の発展として取り組むことができるのではないかと思います。一晩か二晩寝かせるように考えてみてください。,1494217846.441587
+tsukiji,"あ、はい
+わかりました",1493808869.882117
+takano,あと、国内・国際学会をマイルストーンとした達成目標が以前はあったと思うので、それも付け加えてみてください。,1493795649.909343
+takano,基本的な作業ですが、関連研究と比較して、有意性はどこにあるのかを文章化してみることをやってみてください。,1493795603.904051
+takano,関連研究は、良く調べられていて良いと思います。,1493795541.897410
+takano,他の類似手法も、この点はカバーしているものが多いとのではないかという感覚です。,1493795507.893555
+takano,「本研究における特徴は利用者に対して類似性のある専門知識を持った人物を抽出し，利用者の嗜好性を考慮した情報抽出および推薦が行える点にある．」,1493795420.883459
+takano,しかし、研究の特徴がやや弱いでしょうか。,1493795393.880227
+takano,<@U0JAEV08K> 文章は良くなってきたと思います。,1493795367.877483
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F58594E8P/_______________v4.docx|研究計画書v4.docx>,1493719807.620072
+tsukiji,昨日書いた研究計画書を自分なりに手直しと，提案する内容とその概要図をつけたしたのでここに送信します,1493719775.615167
+tsukiji,"現状行うことは，slackapiの続きと
+やりたいことは協調フィルタリングを用いることになりそうだと思ったので，自分のやりたい内容について関連のある協調フィルタリングの研究を調査しています",1493637909.684299
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F57KU3NP9/_______________v3.docx|研究計画書v3.docx>,1493637835.680590
+tsukiji,研究計画書を書いたのでここで送信します,1493637815.679423
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F567G5H1V/tensorflow_test0427.md|Tensorflow_test0427.md>,1493296398.078305
+takano,"~$ nvidia-docker run -it -v test170427:/testtest --name t
+ensorflowtest tensorflow/tensorflow:latest-gpu bash
+root@d8be6bc630f1:/notebooks# cd /testtest/
+/testtest# apt-get update &amp;&amp; apt-get install wget vim
+/testtest# wget <https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/examples/tutorials/mnist/mnist_softmax.py>
+/testtest# python mnist_softmax.py",1493296396.077888
+takano,そうでした。,1493296235.047296
+t.kasai,コンテナを破棄しない限りは大丈夫です,1493296222.044954
+takano,<@U0J8PMAQJ> vimとかwgetとかインストールしたものも、exitすると消えちゃうの？,1493296201.040548
+takano,<@U0J8PMAQJ> とりあえず、このプログラムは動きました。,1493296124.026210
+takano,wget <https://raw.githubusercontent.com/tensorflow/tensorflow/master/tensorflow/examples/tutorials/mnist/mnist_softmax.py>,1493296010.005472
+tsukiji,"合計で約6,3000円です",1493295445.905306
+tsukiji,"CPU	Intel CPU Core i5-7600K 3.8GHz 6Mキャッシュ 4コア/4スレッド	 <http://amzn.asia/96xBlJI>
+RAM	Crucial [Micron製] DDR4 デスク用メモリー 8GB 	<http://amzn.asia/2cj9iee>
+SSD	CFD販売 SSD 480GB 2.5inch TOSHIBA製 内蔵型 2.5→3.5inch変換マウンタ付 SATA6Gbps CSSD-S6T480NMG1Q	 <http://amzn.asia/iAoZHWJ>
+マザボ	ASUSTeK Intel H110搭載 マザーボード LGA1151対応 H110M-A/M.2 【microATX】	 <http://amzn.asia/8CeLVKq>",1493295301.879755
+takano,vimとかwgetとかインストールしたものも、exitすると消えちゃうの？,1493294480.740037
+takano,apt-get update &amp;&amp; apt-get install wget vim,1493294120.681536
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F55F1PGRK/mnist_softmax_py.py|mnist_softmax.py>,1493294029.667346
+takano,$cd /test170427/,1493293066.527050
+takano,"$ mkdir test170427
+$ nvidia-docker run -it -v test170427:/test170427 --name
+ tensorflowtest tensorflow/tensorflow:latest-gpu bash",1493293055.525641
+takano,TensorFlowの仮想環境に入る,1493292311.418261
+takano,$ nvidia-docker run -it tensorflow/tensorflow:latest-gpu bash,1493292273.412863
+takano,複数人で起動する場合は、ポート番号のバッティングに気を付ける,1493292194.401499
+takano,$ nvidia-docker run -it -p 8888:8888 tensorflow/tensorflow:latest-gpu,1493292122.391474
+takano,<https://hub.docker.com/r/tensorflow/tensorflow/>,1493292092.386983
+takano,Tensorflow/Tensorflow,1493292091.386794
+takano,説得力のある背景や、研究動向の調査から、研究の位置付けを明確にするなど、スライドを成長させていってください。,1493264993.761807
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F55AGKQ7P/slackapi.py|slackAPI>,1493264848.750392
+takano,築地：markdownを採用した知識蓄積型サービスがあるようなので、それも視野にいれてみる。,1493264793.746307
+t.kasai,<@U0J8PMAQJ|t.kasai> pinned a message to this channel.,1493263825.667849
+t.kasai,"【スタティックな質問】
+・説得力ある背景（理由付け）
+　・その研究がもたらす効果
+　・取り組む必要性
+・研究動向
+　・関連研究と比較してどこが優れているのか",1493263675.654727
+takano,卒業研究や、研究室の主流テーマの流れと接点を検討してみて欲しい。,1493263096.604069
+takano,笠井：とりあえず開発を進めてみるものとしては、面白い内容だと思われる。,1493263048.599883
+takano,また、24日は3年生の懇親会になりそうなので、5限になると賑わうと思います。,1492488708.848549
+takano,作業スケジュールを立てるのか、実作業まで含めるのか、など。,1492488699.847157
+takano,わかりました。具体にどこまでをやるのか確認しておいてもらうことはできますか。,1492488672.842666
+tsukiji,"<!channel> :速水研の遠藤先輩から返信が来たので報告します
+24日の4限以降に都合が合うそうなので、その日に引継ぎを行います",1492410863.935973
+takano,補足：ワークショップごとに異なっていると思います。,1492306242.854127
+takano,<https://kait-takanolab.slack.com/archives/C4W2RL2BA/p1492214644520071>,1492306226.853327
+takano,<@U0JAEV08K> DB分野ではそのグラフに特別な意味があると思うのでその確認をしてみてください,1492239285.450318
+t.kasai,自分も月曜日で大丈夫です,1492220172.814292
+tsukiji,"院ゼミは月曜ですね分かりました
+graphはそのままグラフと読んでました
+遠藤先輩へはこちらから連絡します
+来週で僕たちがいる日を何個か出しておく必要がありますね",1492218559.737733
+takano,ところで、速水研の遠藤くん（だっけ？）との打ち合わせはこちらから連絡をするのでしたっけ。,1492215369.570881
+takano,<@U0JAEV08K> knowledge graphのgraphとは何かわかりますか。,1492215072.552524
+takano,Luceneはソースコード検索エンジンと関連づけることできそうですね。 ,1492215018.549007
+takano,17日（月）ですが、大学には午前中いることにしました。2限の院ゼミを18日夜にずらすとしましたが、変更なく17日 2限に院ゼミをしておこうと思いますが良いですか。 ,1492214760.529526
+takano,どうもありがとう。論文締め切り日などを一覧にして、共有できるようにしてみてもらえますか。,1492214644.520071
+tsukiji,"・Conversational Approaches to Information Retrieval
+・Knowledge Graphs and Semantics for Text Retrival and Analysis
+あたりは関係がありそうだなと思いました",1492162690.983025
+tsukiji,ポスターセッションはみたところ無いようです,1492160814.766167
+tsukiji,"参加申し込みの期限と費用のページです
+申し込みの速さで費用が変動するようです
+<http://sigir.org/sigir2017/attend/registration/>",1492160431.719847
+takano,ワークショップや、ポスターセッションの情報を確認してみてください。,1492155788.195651
+takano,<http://sigir.org/sigir2017/program/workshops/>,1492155765.193292
+takano,17日は都内に行くので、院ゼミは18日 20:30 にしましょう,1492155353.150844
+t.kasai,現時点で調べた学会情報をまとめました,1492079903.482172
+t.kasai,<@U0J8PMAQJ|t.kasai> uploaded a file: <https://kait-takanolab.slack.com/files/t.kasai/F4ZDYFGES/_____________________.xlsx|学会カレンダー（2017/04/13）.xlsx>,1492079891.480428
+tsukiji,"電子情報通信学会
+
+IPSJ(情処学会)
+2017年7月19日(水)- 7月21日(金)
+函館コミュニティプラザ	ソフトウェア工学全般／知能ソフトウェア工学全般／ソフトウェアサイエンス全般
+SS, KBSE(共催)IPSJ-SE(連催)
+[5月16日(火)]
+
+IEICE:電子情報通信学会
+2017年12月2日(土)
+金沢工業大学	教育・学習支援プラットフォーム／一般
+ET(教育工学研究会)
+[10月7日(土)]	
+
+一応、教育工学も",1492073654.486544
+t.kasai,<@U0J8PMAQJ|t.kasai> pinned a message to this channel.,1492071653.162436
+t.kasai,<@U0J8PMAQJ|t.kasai> pinned a message to this channel.,1492071645.161161
+t.kasai,<@U0J8PMAQJ|t.kasai> pinned a message to this channel.,1492071633.159343
+t.kasai,<@U0J8PMAQJ|t.kasai> pinned a message to this channel.,1492071627.158454
+t.kasai,<@U0J8PMAQJ|t.kasai> pinned a message to this channel.,1492071621.157501
+tsukiji,"電気学会
+
+平成30年電気学会全国大会
+応募締め切り　1/4 九州大学伊都キャンパス(3/14～3/16)
+
+情報システム研究会
+応募締め切り　6/2 利尻　知的情報システム(8/2・3)
+	　　　9/4 宇部　知識情報技術と情報システム(11/1・2)",1492071422.126388
+takano,"教育システム情報学会
+<http://www.jsise.org/society/committee.html>",1492053970.375822
+takano,教育システム情報学会の研究会、全国大会,1492051673.166818
+takano,DBSの研究会,1492051660.165512
+takano,電気学会の研究会、情報処理学会や電子情報通信学会の全国大会、,1492051653.164672
+takano,は？,1492049577.910162
+takano,研究〇画書,1492049098.858093
+tsukiji,分かりました、自分の卒研の内容と調べた関連研究の研究背景と目的をもう一度見ながら考えてみます,1491795604.537799
+takano,スライドの特徴抽出は、よくやられている分野だと思うので、その観点から本研究を推進する意義の説明が欲しいですね。,1491795011.496510
+takano,<@U0JAEV08K> ありがとう。やってみようとしている内容はとりあえず伝わりました。,1491794926.490410
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F4WS5PLKX/_______________.pptx|研究計画書.pptx>,1491793210.366073
+tsukiji,<@U0JAEV08K|tsukiji> uploaded a file: <https://kait-takanolab.slack.com/files/tsukiji/F4W2S2NQG/_______________v2_tsukiji.docx|研究計画書v2_tsukiji.docx>,1491793206.365747
+tsukiji,<@U0JAEV08K|tsukiji> set the channel topic: 院生用のチャンネル(研究計画など),1491793176.363240
+takano,<@U0JACJLRJ|takano> has joined the channel,1491793084.356508
+t.kasai,<@U0J8PMAQJ|t.kasai> has joined the channel,1491793084.356478
+tsukiji,<@U0JAEV08K|tsukiji> has joined the channel,1491793083.356405

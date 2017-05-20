@@ -28,7 +28,7 @@ print(index_username)
 #utf-8で変換するため出力先は化けるので注意すること
 try:
     # 書き込み UTF-8
-    with open('log_report_channel.csv', 'w', encoding="utf-8") as csvfile:
+    with open('log_general_channel.csv', 'w', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile, lineterminator='\n')
         writer.writerow(['User', 'text', 'time'])
         for i in f_json["messages"]:

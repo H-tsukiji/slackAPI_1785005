@@ -7,7 +7,7 @@ from slacker import Slacker
 token = codecs.open("../slackapi_token.txt", "r","utf-8")
 
 # 対象のチャンネル名
-c_name = 'C0XMH9F0Q'
+c_name = 'C0J8KM6KF'
 
  
 # logの取得を送る　token,指定チャンネルid,タイムスタンプの有無などを条件付けする
