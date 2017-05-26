@@ -7,7 +7,8 @@ from slacker import Slacker
 token = codecs.open("../slackapi_token.txt", "r","utf-8")
 
 # 対象のチャンネル名
-c_name = 'C0J8KM6KF'
+# general:C0J8KM6KF  seminar1421:C18JT8ZNY  report:C0XMH9F0Q  grad2017:C4W2RL2BA  chat:C0J8Q0DK9
+c_name = 'C4W2RL2BA'
 
  
 # logの取得を送る　token,指定チャンネルid,タイムスタンプの有無などを条件付けする
@@ -24,6 +25,6 @@ slackerパッケージの関数の最後に.bodyとくっつけることで，�
 """
 
 #JSON形式に変換しファイルに出力
-f = codecs.open("slack.json","w","utf-8")
+f = codecs.open("slack_"+c_name+".json","w","utf-8")
 f.write(json.dumps(result,indent=3));
 f.close()
