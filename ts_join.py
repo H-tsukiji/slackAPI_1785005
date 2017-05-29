@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import codecs, json, csv, datetime
+import codecs, json, datetime
 #ログのJSONファイルの読み込み
 f = codecs.open("slack_C0J8KM6KF.json","r","utf-8")
 f1 = json.load(f)
@@ -19,19 +19,19 @@ for i in f1["messages"]:
     d = datetime.datetime.fromtimestamp(float(i["ts"]))
     for j in range(12):
         if d.month == j+1:
-            month.append({j+1:{"user": i["user"], "text": i["text"], "date": d, "ts": i["ts"], "channel": "f1"}})
+            month.append({int(j+1):{"user": i["user"], "text": i["text"], "date": d, "ts": i["ts"], "channel": "f1"}})
 
 for i in f2["messages"]:
     d = datetime.datetime.fromtimestamp(float(i["ts"]))
     for j in range(12):
         if d.month == j+1:
-            month.append({j+1:{"user": i["user"], "text": i["text"], "date": d, "ts": i["ts"], "channel": "f2"}})
+            month.append({int(j+1):{"user": i["user"], "text": i["text"], "date": d, "ts": i["ts"], "channel": "f2"}})
 
 for i in f3["messages"]:
     d = datetime.datetime.fromtimestamp(float(i["ts"]))
     for j in range(12):
         if d.month == j+1:
-            month.append({j+1:{"user": i["user"], "text": i["text"], "date": d, "ts": i["ts"], "channel": "f3"}})
+            month.append({int(j+1):{"user": i["user"], "text": i["text"], "date": d, "ts": i["ts"], "channel": "f3"}})
 
 for i in f4["messages"]:
     if (i.get("subtype") == "file_comment"):
@@ -39,13 +39,15 @@ for i in f4["messages"]:
     d = datetime.datetime.fromtimestamp(float(i["ts"]))
     for j in range(12):
         if d.month == j+1:
-            month.append({j+1:{"user": i["user"], "text": i["text"], "date": d, "ts": i["ts"], "channel": "f4"}})
+            month.append({int(j+1):{"user": i["user"], "text": i["text"], "date": d, "ts": i["ts"], "channel": "f4"}})
 
-print(month)
 
-"""
+def datetime_handler(x):
+    if isinstance(x, datetime.datetime):
+        return x.isoformat()
+    raise TypeError("Unknown type")
+
 #JSON形式に変換しファイルに出力
 f = codecs.open("test.json","w","utf-8")
-f.write(json.dumps(month));
+f.write(json.dumps(month, default=datetime_handler));
 f.close()
-"""
