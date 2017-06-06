@@ -49,5 +49,5 @@ def datetime_handler(x):
 
 #JSON形式に変換しファイルに出力
 f = codecs.open("test.json","w","utf-8")
-f.write(json.dumps(month, default=datetime_handler));
+f.write(json.dumps(month, default=datetime_handler, indent=3));
 f.close()
