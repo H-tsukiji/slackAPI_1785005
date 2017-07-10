@@ -28,7 +28,7 @@ pip install numpy‑1.13.0+mkl‑cp36‑cp36m‑win_amd64.whl
 
 ### word2vec_train.py
 これは学習させて学習モデルを作成するプログラム．  
-インプットは分かち書きされた(重要)テキストファイル  
+インプットは分かち書きされた(重要)テキストファイルで行う事．  
 学習させる際の関数word2vec.Word2Vec()の引数の解説は以下の通り  
 sg　　　　　　　わからん  
 size  　　　　　ベクトルの次元数  
@@ -37,14 +37,19 @@ window　　　　　文脈の最大単語数
 hs　　　　　　　学習に階層化ソフトマトリックスを使用するかどうか  
 negative　　　　ネガティブサンプリングに用いる単語数
 
-具体例
-python word2vec_train.py [分かち書きされたテキストファイル].txt
+実行のコマンド例
+>python word2vec_train.py [分かち書きされたテキストファイル].txt
 
 結果  
-成功した場合学習モデルが生成される．具体例の場合  
+成功した場合，学習モデルが生成される．具体例の場合は以下のmodelファイルが生成される．  
 [分かち書きされたテキストファイル].modelが生成される  
 
 ### word2vec_similarity.py  
+学習モデルを基に指定された単語に対してベクトルの距離が近い単語上位10個を表示するプログラム  
+結果は似ている単語とどれだけ似ているかのスコアが表示される．  
+↓の6行目のように，  
+
+    model   = word2vec.Word2Vec.load('word2vec-gensim-model/word2vec.gensim.model')
 
 python word2vec_similarity.py [指定の単語]  
 実行することで，指定された単語と位置買い物が10個表示される．  
