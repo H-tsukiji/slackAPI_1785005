@@ -37,7 +37,7 @@ try:
                     continue
                 if(i['user'] in j["id"]) == True :
                     username = j["name"]
-            writer.writerow([username, i["text"], i["ts"], datetime.fromtimestamp(float(i["ts"]))])
+            writer.writerow([username, i["text"], float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])
 
 # 起こりそうな例外をキャッチ
 except FileNotFoundError as e:

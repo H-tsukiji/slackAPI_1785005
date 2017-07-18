@@ -15,16 +15,19 @@ c_name = 'C4W2RL2BA'
 # 返しはインスタンス変数になってる(？)
 slacker = Slacker(token)
 #中身を取りたいなら、.bodyを付ける事！！！！
-result = slacker.channels.history(c_name,count=1000).body
+result = slacker.channels.history(c_name,count=5).body
 
+print(result)
 """
 ここで分かったこと
 vars()で文字列化するといろいろと出力結果がカバる
 (シングルクォーテーションやないのが混在してJSON形式にして分析しやすいようにできない)
 slackerパッケージの関数の最後に.bodyとくっつけることで，オブジェクトの中身を取得することができる！！！！
-"""
+
 
 #JSON形式に変換しファイルに出力
 f = codecs.open("slack_"+c_name+".json","w","utf-8")
 f.write(json.dumps(result,indent=3));
 f.close()
+
+"""
