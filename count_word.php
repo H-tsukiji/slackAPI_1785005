@@ -6,7 +6,6 @@ $data = @file($filename);
 //拡張子抜きのパスとファイル名の入手
 $filename = preg_replace('|\.+[a-z]+|',"",$filename);
 
-
 $word_list_index = array(); //登録された単語を入れる。ここで既に登録されたかを確認する
 $word_list = array();   //既に登録された単語の回数を入れていく
 
