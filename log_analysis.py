@@ -8,21 +8,6 @@ f_json = json.load(f)
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)
 
-
-
-"""
-#隔離
-#まずはf_json["messages"][番号]["user"]でユーザ名
-#具体例：i={'type': 'message', 'text': '教員の押印が必要なので、私にも簡単に報告するようにお願いします。', 'user': 'U0JACJLRJ', 'ts': '1493299059.166830'}
-for i in f_json["messages"]:
-    if (i["user"] in index_username)  == False :
-        index_username.append(i["user"])
-    else:
-        count += 1
-
-print(index_username)
-"""
-
 #csvファイルに発言、時間、人のデータを書き込む
 #member.jsonでユーザ名に変換
 
