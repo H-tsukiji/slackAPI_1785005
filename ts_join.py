@@ -42,6 +42,7 @@ for i in f4["messages"]:
             month.append({int(j+1):{"user": i["user"], "text": i["text"], "date": d, "ts": i["ts"], "channel": "f4"}})
 
 
+
 def datetime_handler(x):
     if isinstance(x, datetime.datetime):
         return x.isoformat()
