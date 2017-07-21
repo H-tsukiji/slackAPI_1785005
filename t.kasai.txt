@@ -1,0 +1,266 @@
+OneDrive takanolab 作業 報告 文書 作業 報告 アップ ロード 
+
+作業 報告 スライド システム 概要 図 現在 実装 状況 対応 形 更新 更新 後 作業 報告 書 掲載 現在 実験 システム 実装 状況 システム 構成 システム 実装 方法 動作 環境 インストール 方法 使用 方法 作業 報告 書 OneDrive アップ ロード 
+
+作業 報告 報告 書 レビュー 鷹野 先生 次 提出 議論 内容 作業 報告 書 卒 研 ソース コード 中 プロファイル 実行 コマンド 書 部分 設定 ファイル 切 出 処理 実装 中 
+
+作業 報告 卒 研 プログラム 内 プロ ファイリング 実行 コマンド 外部 コマンド 読 込 設定 ファイル 実験 対象 リポジトリ 時点 設置 考 先週 話 実行 コマンド 過去 現在 変 README 実行 コマンド 抽出 点 考慮 Ruby プロジェクト 探 
+
+作業 報告 スライド 更新 現状 実装 スライド 図 現在 実装 状況 反映 更新 実験 対象 プロジェクト 調査 中 要件 合致 見 
+
+
+
+作業 報告 nodejs 用 プロファイラ 調査 開始 現状 https github com gwicke nodegrind 発見 最終 更新 日 現状 メンテナンス 不明 プロファイル 時 実行 コマンド 設定 外部 ファイル 切 出 自分 コミット 権 持 プロジェクト 設定 ファイル リポジトリ 含 Web 上 コマンド 指定 WebUI 上 指定 フォーム 実装 中 
+
+作業 報告 WebUI 上 プロファイル コマンド 指定 部分 実装 中 前回 提出 作業 報告 書 対 意見 反映 実験 対象 候補 選定 実際 プロ ファイリング 行 仮 実験 対象 候補 Ruby プロジェクト 見 候補 一部 抜粋 https github com tryshoppe shoppe https github com mkalygin di ary https github com strzibny invoice printer 
+
+体調 回復 
+
+
+
+作業 報告 報告 書 レビュー 鷹野 先生 レビュー 結果 次回 提出 予定 報告 書 反映 中 
+
+作業 報告 スライド 実装 図 意見 反映 更新 
+
+作業 報告 セミナー 参加 意見 リスト エクセルファイル 分割 
+
+作業 報告 先生 打 合 関連 研究 調査 未 発見 
+
+t kasai pinned a message to this channel 
+
+作業 報告 先生 学会 発表 スライド 打 合 追加 関連 研究 確認 論文 図 全 スライド 反映 
+
+自愛 
+
+今回 自分 参加 予定 
+
+今 戻 
+
+今日 風邪 行 手 伝 募集 スライド 作 適当 見 bow 手 伝 人 ダイレクト メッセージ 下 bow 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F FG B kasai pptx 手 伝 募集 用 スライド kasai pptx 
+
+提出 期限 
+
+
+
+栗原 君 プログラム 確認 
+
+アップ webpack ビルド ソース コード 上 嬉 
+
+
+
+論文 追加 キーワード 候補 語彙 力 言語 処理 英語 教育 
+
+Web テスト アンケート スピーチ ディクテーション プレゼンテーション ボトムアップ スキル ラーニングシート リスニング リーディング 国際 交流 外国 語 学習 授業 外 e learning 発音 記号 第 二 言語 習得 継 時 処理 英会話 英語 教育 英語 教育 プログラム 英語 非専攻 学科 言語 処理 語彙 力 速 読 音声 認識 音読 
+
+pray 
+
+
+
+http ci nii ac jp naid 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F A M C hakusaneibeibungaku pdf hakusaneibeibungaku pdf 
+
+t kasai mentioned a file https kait takanolab slack com files takano F J AUUD jsise v docx JSiSE v docx 
+
+CiNii 
+
+JDream 
+
+書誌 情報 大田 悦子 大学生 英語 学習 者 ディクテーション 時 処理 方法 誤 見 白山 英 米 文学 東洋大学 文学部 紀要 英 米 文学 科 篇 No pp 概要 本 研究 ディクテーション 関 先行 研究 結果 踏 大学生 英語 学習 者 名 ディクテーション テスト 筆記 再生 状況 彼 英語 力 関係 考察 次 ディクテーション テスト 現 誤 分類 分析 学習 者 英語 力 反映 考察 
+
+書誌 情報 中島 浩二 Web ベース 英語 ディクテーション テスト 採点 集計 システム 開発 教育 利用 e Learning 教育 研究 Vol pp 概要 本 研究 問題 対 折衷 案 的 解決 策 筆者 独自 開発 オンライン ディクテーション システム ‘ e − cloze ’ 述 システム 利用 教員 自身 使 題材 プログラミング 等 技術 習得 分厚 マニュアル 見 格闘 極 簡単 オンライン 教材 化 可能 示 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F FHHAM web pdf Web ベース 英語 ディクテーション テスト 採点 集計 システム 開発 教育 利用 pdf 
+
+学校 現場 導入 IT lnforrnationTechnology 情報 入手 発信 インフラ 英語 教育 関連 言 出版 社 コンピュータ 関連 企業 作 市販 英語 学習 支援 教材 ソフト 過 音声 動画 用 マルチメディア 的 一見 多様 教材 ソフト 導入 基本 的 販売 側 用意 英語 教材 提示 対 学生 解答 行 形式 取 完成 教材 システム パッケージ 化 対価 販売 訳 形式 得 側面 用意 教材 中 選択 学生 提示 自由 教員 側 残 気付 教員 使 題材 システム 組 込 限 大学 英語 教 教員 英 文学 英語 学 英語 教育 学 多様 専門 領域 渡 場合 訳 使 題材 教材 システム 含 中 仕方 選択 利用 方 多 言 IT 利用 教材 システム 英語 教員 一 作 出 自分 学生 使 簡単 不自由 生 市販 教材 システム 頼 必要 性 生 一部 英語 教員 除 コンピュータ プログラミング 技術 身 自分 使 教材 システム 作 上 作業 簡単 IT 利用 英語 教育 仕 着 教材 利用 続 道 残 
+
+
+
+
+
+岩 居 弘樹 音声 認識 アプリ 活用 ドイツ 語 発音 練習 試 ICT 支援 外国 語 アクティブラーニング 実践 報告 大阪大学 高等 教育 研究 Vo pp 
+
+作業 報告 卒 論 作成 ACIS 論文 一 通 卒 論 フォーマット 
+
+研究 室 DHCP サーバ ルータ Raspberry Pi dnsmasq 移行 セミナー 中 ネット 繋 無 … ！ 
+
+卒論 フォーマット 修正 
+
+kodakku 
+
+作業 報告 卒 論 内 システム 実装 概要 検討 中 部分 具体 的 記述 卒 研 システム プロファイラ プロジェクト 対 実行 部分 実装 
+
+卒 研 プログラム git 関連 操作 部分 動作 確認 テスト 追加 amp リファクタリング 
+
+今週 実装 中心 行 来週 回 良 
+
+face with thermometer … 
+
+今 入 
+
+特 何 心 当 少 調査 
+
+復旧 原因 単 LAN ケーブル ポート 間 違 kodakku 週間 前 上村 君 作業 有線 LAN 用意 際 サーバ LAN ケーブル 外 ハブ 作業 終 元 サーバ 直 サーバ ポート ポート 間 違 
+
+coral 
+
+僕 方 明日 提出 チェック 今日 特 bow 
+
+kodakku 
+
+現在 実験 対象 プロジェクト 対 プロファイル ベンチマーク … 
+
+今 分 関 結果 明日 提出 予定 … 
+
+… 
+
+対象 プロジェクト 実験 システム 得 各 開発 者 貢献 度 各 開発 者 コミット 数 編集 行 数 基 出 貢献 度 比較 思 
+
+C Z CH P seminar 方 移動 general 話題 
+
+願 bow 
+
+時 来 
+
+作業 報告 卒 研 発表 スライド 作成 卒 論 内容 大 反映 明日 具体 的 文章 図 記述 
+
+作業 報告 卒 研 スライド 作成 研究 背景 今後 展望 一 通 作成 提出 微 修正 
+
+作業 報告 スライド 修正 発表 後 意見 一部 反映 スライド 番号 実験 結果 凡例 提案 手法 イメージ図 追加 等 
+
+作業 報告 スライド 修正 提案 方式 スライド マトリクス 時 系列 重 イメージ図 仮 追加 実験 規模 コミット 期間 プロジェクト 数 追記 
+
+
+
+作業 報告 要旨 作成 指摘 部分 修正 実験 結果 考察 追加 OneDrive アップ ロード 済 
+
+
+
+持 行 
+
+少 待 下 fearful 
+
+bow bow bow 
+
+
+
+書類 受 渡 家 動 PC 研究 室 置 作業 開始 
+
+
+
+自分 大丈夫 
+
+To 年生 slack 使 機会 増 思 slack アイコン 設定 人 設定 助 pray 
+
+作業 報告 Ubuntu インストール ベアボーン GPU ドライバ CUDA インストール 行 サンプル プログラム 実行 結果 倍精度 Gflops 性能 インストール 作業 ログ 記録 以下 ポスト 記述 明日 nvidia docker インストール ディープラーニング 系 フレーム ワーク テスト 実行 行 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F UT RCG md Untitled 
+
+作業 報告 昨日 引 続 Docker nvidia docker インストール 作業 行 nvidia docker 起動 失敗 月曜日 調査 行 
+
+t kasai has joined the channel 
+
+作業 報告 nvidia docker インストール 完了 TensorFlow 動作 確認 済 作業 手順 書 完成 以下 ポスト 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F W MMG Y md ディープラーニング 系 ツール 導入 手順 書 
+
+t kasai has joined the channel 
+
+t kasai pinned tsukiji ’ s PowerPoint Presentation https kait takanolab slack com files tsukiji F XAUG Y pptx 卒 研 進 方 pptx to this channel 
+
+t kasai pinned a message to this channel 
+
+t kasai pinned a message to this channel 
+
+t kasai pinned a message to this channel 
+
+t kasai pinned a message to this channel 
+
+t kasai pinned a message to this channel 
+
+t kasai pinned takano ’ s Excel Spreadsheet https kait takanolab slack com files takano F Y ABL G xlsx 前期 時間割 鷹野 xlsx to this channel 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F ZDYFGES xlsx 学会 カレンダー xlsx 
+
+現時点 調 学会 情報 
+
+作業 報告 院 セミナー 参加 参加 可能 性 学会 調査 C W RL BA grad アップ ロード 済 次 院 セミナー 研究 計画 書 書 直 
+
+t kasai pinned tsukiji ’ s PowerPoint Presentation https kait takanolab slack com files tsukiji F Z GN pptx 卒 論 セミナー 進 方 pptx to this channel 
+
+自分 月曜日 大丈夫 
+
+
+
+スタティック 質問 説得 力 背景 理由 付 研究 効果 取 組 必要 性 研究 動向 関連 研究 比較 優 
+
+t kasai pinned a message to this channel 
+
+コンテナ 破棄 限 大丈夫 
+
+http www ece uvic ca ~ pacrim pacrim index php 
+
+
+
+明日 環境 構築 動作 確認 始 
+
+作業 報告 速水 研 授業 演習 環境 システム デプロイ Ubuntu サーバ 構築 ssh ファイア ウォール apache php mysql 設定 ソース コード 動作 確認 index php ログイン 機能 動作 確認 
+
+
+
+イン ポート ` mysql uroot p orderdb lt orderdb sql ` 
+
+ベアボーン www ドメイン IP アドレス 割 当 
+
+使 状態 fearful 
+
+` var www html ` 
+
+先輩 ` SQL ` ディレクトリ ` var www ` 読 替 
+
+ディレクトリ 構造 自体 
+
+ｱ ｱﾚ 
+
+kodakku 
+
+
+
+ダウン グレード 可能 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F FQQDSMD research plan kasai v docx research plan kasai v docx 
+
+木曜日 ドメイン 無 GPU ベアボーン http www mkm ic kanagawa it ac jp www mkm ic kanagawa it ac jp 速水 研 SQL http www mkm ic kanagawa it ac jp www mkm ic kanagawa it ac jp メール サーバ 向 
+
+ping 通 
+
+接続 確認 済 
+
+自分 接続 
+
+一度 接続 確認 
+
+抜 差 一 回 
+
+ping 通 
+
+接触 不良 
+
+web ページ 見 確認 
+
+慎重 作業 気 dizzy face 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F GAEUF B pptx pptx 
+
+作業 見込 上記 スライド ページ 目 記述 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F H FGMJB research plan kasai v docx research plan kasai v docx 
+
+研究 計画 書 前回 先生 意見 反映 上 
+
+作業 報告 現状 提案 システム 実装 見込 スライド 追記 研究 計画 書 前回 先生 意見 反映 
+
+t kasai uploaded a file https kait takanolab slack com files t kasai F H QQ FL git github pptx Git amp GitHub 入門 Lv pptx 
+

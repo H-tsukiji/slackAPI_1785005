@@ -35,7 +35,7 @@ foreach ($word_list as $v) {
 array_multisort($num, SORT_DESC, SORT_NUMERIC, $word_list);
 
 //jsonファイルの作成
-$fp = fopen(''.$filename.'_json',"w");
+$fp = fopen(''.$filename.'.json',"w");
 fwrite($fp, json_encode($word_list,JSON_UNESCAPED_UNICODE|JSON_PRETTY_PRINT));
 fclose($fp);
 

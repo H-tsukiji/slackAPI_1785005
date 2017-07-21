@@ -3,7 +3,8 @@ import csv, sys, MeCab, re
 #対象ファイルの取得および分かち書きの設定
 inputfilename = sys.argv[1]
 file = open(inputfilename, 'r', encoding="utf-8")
-output = open(inputfilename+"_wakati.txt", 'w', encoding="utf-8")
+inputfilename = re.sub("\.[a-z]+","",inputfilename)
+#output = open(inputfilename+"_wakati.txt", 'w', encoding="utf-8")
 tagger = MeCab.Tagger("-Owakati")
 csvdata = csv.reader(file)
 
@@ -20,10 +21,20 @@ def cleanInput(text):
     text = re.sub('[ぁ-ん]', ' ', text)
     return text
 
+index = []
+
 #txtファイルの作成
 for row in csvdata:
-    w_text = cleanInput(row[1])
-    w_text = tagger.parse(w_text)
-    output.write(w_text+"\n")
+    if ((row[0] in index) == False):
+        index.append(row[0])
+        output = open("txt\\" + row[0] + ".txt", 'w', encoding="utf-8")
+        w_text = cleanInput(row[1])
+        w_text = tagger.parse(w_text)
+        output.write(w_text + "\n")
+    else:
+        w_text = cleanInput(row[1])
+        w_text = tagger.parse(w_text)
+        output.write(w_text+"\n")
 
+file.close()
 output.close()
