@@ -1,0 +1,358 @@
+[
+    {
+        "num": 22,
+        "word": "\r\n"
+    },
+    {
+        "num": 6,
+        "word": "作業"
+    },
+    {
+        "num": 5,
+        "word": "報告"
+    },
+    {
+        "num": 5,
+        "word": "学習"
+    },
+    {
+        "num": 4,
+        "word": "OpenCV"
+    },
+    {
+        "num": 3,
+        "word": "予定"
+    },
+    {
+        "num": 3,
+        "word": "確認"
+    },
+    {
+        "num": 2,
+        "word": "Python"
+    },
+    {
+        "num": 2,
+        "word": "TensorFlow"
+    },
+    {
+        "num": 2,
+        "word": "インストール"
+    },
+    {
+        "num": 2,
+        "word": "セミナー"
+    },
+    {
+        "num": 2,
+        "word": "使"
+    },
+    {
+        "num": 2,
+        "word": "画像"
+    },
+    {
+        "num": 2,
+        "word": "調査"
+    },
+    {
+        "num": 2,
+        "word": "論文"
+    },
+    {
+        "num": 2,
+        "word": "転移"
+    },
+    {
+        "num": 1,
+        "word": "book"
+    },
+    {
+        "num": 1,
+        "word": "channel"
+    },
+    {
+        "num": 1,
+        "word": "code"
+    },
+    {
+        "num": 1,
+        "word": "com"
+    },
+    {
+        "num": 1,
+        "word": "github"
+    },
+    {
+        "num": 1,
+        "word": "has"
+    },
+    {
+        "num": 1,
+        "word": "https"
+    },
+    {
+        "num": 1,
+        "word": "joined"
+    },
+    {
+        "num": 1,
+        "word": "learning"
+    },
+    {
+        "num": 1,
+        "word": "machine"
+    },
+    {
+        "num": 1,
+        "word": "master"
+    },
+    {
+        "num": 1,
+        "word": "matsuoka"
+    },
+    {
+        "num": 1,
+        "word": "python"
+    },
+    {
+        "num": 1,
+        "word": "rasbt"
+    },
+    {
+        "num": 1,
+        "word": "the"
+    },
+    {
+        "num": 1,
+        "word": "tree"
+    },
+    {
+        "num": 1,
+        "word": "サイズ"
+    },
+    {
+        "num": 1,
+        "word": "サイト"
+    },
+    {
+        "num": 1,
+        "word": "システム"
+    },
+    {
+        "num": 1,
+        "word": "スライド"
+    },
+    {
+        "num": 1,
+        "word": "タップ"
+    },
+    {
+        "num": 1,
+        "word": "チェック"
+    },
+    {
+        "num": 1,
+        "word": "トリミング"
+    },
+    {
+        "num": 1,
+        "word": "パターン"
+    },
+    {
+        "num": 1,
+        "word": "リスト"
+    },
+    {
+        "num": 1,
+        "word": "一"
+    },
+    {
+        "num": 1,
+        "word": "一定"
+    },
+    {
+        "num": 1,
+        "word": "上手"
+    },
+    {
+        "num": 1,
+        "word": "中"
+    },
+    {
+        "num": 1,
+        "word": "件"
+    },
+    {
+        "num": 1,
+        "word": "作成"
+    },
+    {
+        "num": 1,
+        "word": "分"
+    },
+    {
+        "num": 1,
+        "word": "判定"
+    },
+    {
+        "num": 1,
+        "word": "割"
+    },
+    {
+        "num": 1,
+        "word": "勉強"
+    },
+    {
+        "num": 1,
+        "word": "動"
+    },
+    {
+        "num": 1,
+        "word": "動作"
+    },
+    {
+        "num": 1,
+        "word": "勾配"
+    },
+    {
+        "num": 1,
+        "word": "参加"
+    },
+    {
+        "num": 1,
+        "word": "完成"
+    },
+    {
+        "num": 1,
+        "word": "実際"
+    },
+    {
+        "num": 1,
+        "word": "度"
+    },
+    {
+        "num": 1,
+        "word": "後"
+    },
+    {
+        "num": 1,
+        "word": "手"
+    },
+    {
+        "num": 1,
+        "word": "方法"
+    },
+    {
+        "num": 1,
+        "word": "月曜日"
+    },
+    {
+        "num": 1,
+        "word": "検討"
+    },
+    {
+        "num": 1,
+        "word": "機械"
+    },
+    {
+        "num": 1,
+        "word": "正方形"
+    },
+    {
+        "num": 1,
+        "word": "水質"
+    },
+    {
+        "num": 1,
+        "word": "法"
+    },
+    {
+        "num": 1,
+        "word": "活"
+    },
+    {
+        "num": 1,
+        "word": "特徴"
+    },
+    {
+        "num": 1,
+        "word": "率"
+    },
+    {
+        "num": 1,
+        "word": "用"
+    },
+    {
+        "num": 1,
+        "word": "申"
+    },
+    {
+        "num": 1,
+        "word": "異常"
+    },
+    {
+        "num": 1,
+        "word": "発表"
+    },
+    {
+        "num": 1,
+        "word": "研究"
+    },
+    {
+        "num": 1,
+        "word": "自宅"
+    },
+    {
+        "num": 1,
+        "word": "行動"
+    },
+    {
+        "num": 1,
+        "word": "複数"
+    },
+    {
+        "num": 1,
+        "word": "要点"
+    },
+    {
+        "num": 1,
+        "word": "解説"
+    },
+    {
+        "num": 1,
+        "word": "訳"
+    },
+    {
+        "num": 1,
+        "word": "認識"
+    },
+    {
+        "num": 1,
+        "word": "読"
+    },
+    {
+        "num": 1,
+        "word": "調"
+    },
+    {
+        "num": 1,
+        "word": "辞書"
+    },
+    {
+        "num": 1,
+        "word": "遅刻"
+    },
+    {
+        "num": 1,
+        "word": "違"
+    },
+    {
+        "num": 1,
+        "word": "降下"
+    },
+    {
+        "num": 1,
+        "word": "魚"
+    }
+]

@@ -1,0 +1,934 @@
+[
+    {
+        "num": 70,
+        "word": "\r\n"
+    },
+    {
+        "num": 7,
+        "word": "kurihara"
+    },
+    {
+        "num": 6,
+        "word": "学習"
+    },
+    {
+        "num": 6,
+        "word": "思"
+    },
+    {
+        "num": 5,
+        "word": "channel"
+    },
+    {
+        "num": 5,
+        "word": "ー"
+    },
+    {
+        "num": 5,
+        "word": "会"
+    },
+    {
+        "num": 4,
+        "word": "*"
+    },
+    {
+        "num": 4,
+        "word": "a"
+    },
+    {
+        "num": 4,
+        "word": "システム"
+    },
+    {
+        "num": 4,
+        "word": "懇親"
+    },
+    {
+        "num": 4,
+        "word": "研究"
+    },
+    {
+        "num": 3,
+        "word": "コード"
+    },
+    {
+        "num": 3,
+        "word": "ソース"
+    },
+    {
+        "num": 3,
+        "word": "卵"
+    },
+    {
+        "num": 3,
+        "word": "提案"
+    },
+    {
+        "num": 3,
+        "word": "牛乳"
+    },
+    {
+        "num": 3,
+        "word": "英単語"
+    },
+    {
+        "num": 2,
+        "word": "F"
+    },
+    {
+        "num": 2,
+        "word": "WordMap"
+    },
+    {
+        "num": 2,
+        "word": "com"
+    },
+    {
+        "num": 2,
+        "word": "file"
+    },
+    {
+        "num": 2,
+        "word": "files"
+    },
+    {
+        "num": 2,
+        "word": "house"
+    },
+    {
+        "num": 2,
+        "word": "http"
+    },
+    {
+        "num": 2,
+        "word": "https"
+    },
+    {
+        "num": 2,
+        "word": "kait"
+    },
+    {
+        "num": 2,
+        "word": "l"
+    },
+    {
+        "num": 2,
+        "word": "learning"
+    },
+    {
+        "num": 2,
+        "word": "set"
+    },
+    {
+        "num": 2,
+        "word": "slack"
+    },
+    {
+        "num": 2,
+        "word": "takanolab"
+    },
+    {
+        "num": 2,
+        "word": "the"
+    },
+    {
+        "num": 2,
+        "word": "this"
+    },
+    {
+        "num": 2,
+        "word": "to"
+    },
+    {
+        "num": 2,
+        "word": "uploaded"
+    },
+    {
+        "num": 2,
+        "word": "zip"
+    },
+    {
+        "num": 2,
+        "word": "データ"
+    },
+    {
+        "num": 2,
+        "word": "ユーザ"
+    },
+    {
+        "num": 2,
+        "word": "上"
+    },
+    {
+        "num": 2,
+        "word": "作"
+    },
+    {
+        "num": 2,
+        "word": "分"
+    },
+    {
+        "num": 2,
+        "word": "動"
+    },
+    {
+        "num": 2,
+        "word": "半分"
+    },
+    {
+        "num": 2,
+        "word": "参加"
+    },
+    {
+        "num": 2,
+        "word": "取"
+    },
+    {
+        "num": 2,
+        "word": "年"
+    },
+    {
+        "num": 2,
+        "word": "投"
+    },
+    {
+        "num": 2,
+        "word": "支援"
+    },
+    {
+        "num": 2,
+        "word": "書"
+    },
+    {
+        "num": 2,
+        "word": "用"
+    },
+    {
+        "num": 2,
+        "word": "良"
+    },
+    {
+        "num": 1,
+        "word": "!"
+    },
+    {
+        "num": 1,
+        "word": "AM"
+    },
+    {
+        "num": 1,
+        "word": "April"
+    },
+    {
+        "num": 1,
+        "word": "English"
+    },
+    {
+        "num": 1,
+        "word": "HFNQ"
+    },
+    {
+        "num": 1,
+        "word": "HQ"
+    },
+    {
+        "num": 1,
+        "word": "Japan"
+    },
+    {
+        "num": 1,
+        "word": "Java"
+    },
+    {
+        "num": 1,
+        "word": "Jingbo"
+    },
+    {
+        "num": 1,
+        "word": "K"
+    },
+    {
+        "num": 1,
+        "word": "No"
+    },
+    {
+        "num": 1,
+        "word": "Q"
+    },
+    {
+        "num": 1,
+        "word": "Standard"
+    },
+    {
+        "num": 1,
+        "word": "Thursday"
+    },
+    {
+        "num": 1,
+        "word": "Time"
+    },
+    {
+        "num": 1,
+        "word": "Vol"
+    },
+    {
+        "num": 1,
+        "word": "Web"
+    },
+    {
+        "num": 1,
+        "word": "ZHU"
+    },
+    {
+        "num": 1,
+        "word": "and"
+    },
+    {
+        "num": 1,
+        "word": "at"
+    },
+    {
+        "num": 1,
+        "word": "build"
+    },
+    {
+        "num": 1,
+        "word": "canon"
+    },
+    {
+        "num": 1,
+        "word": "cms"
+    },
+    {
+        "num": 1,
+        "word": "commented"
+    },
+    {
+        "num": 1,
+        "word": "cweb"
+    },
+    {
+        "num": 1,
+        "word": "drv"
+    },
+    {
+        "num": 1,
+        "word": "english"
+    },
+    {
+        "num": 1,
+        "word": "has"
+    },
+    {
+        "num": 1,
+        "word": "html"
+    },
+    {
+        "num": 1,
+        "word": "ieice"
+    },
+    {
+        "num": 1,
+        "word": "in"
+    },
+    {
+        "num": 1,
+        "word": "iscover"
+    },
+    {
+        "num": 1,
+        "word": "joined"
+    },
+    {
+        "num": 1,
+        "word": "jp"
+    },
+    {
+        "num": 1,
+        "word": "message"
+    },
+    {
+        "num": 1,
+        "word": "mf"
+    },
+    {
+        "num": 1,
+        "word": "mfp"
+    },
+    {
+        "num": 1,
+        "word": "org"
+    },
+    {
+        "num": 1,
+        "word": "p"
+    },
+    {
+        "num": 1,
+        "word": "pinned"
+    },
+    {
+        "num": 1,
+        "word": "pinyin"
+    },
+    {
+        "num": 1,
+        "word": "pp"
+    },
+    {
+        "num": 1,
+        "word": "purpose"
+    },
+    {
+        "num": 1,
+        "word": "reminder"
+    },
+    {
+        "num": 1,
+        "word": "s"
+    },
+    {
+        "num": 1,
+        "word": "satera"
+    },
+    {
+        "num": 1,
+        "word": "up"
+    },
+    {
+        "num": 1,
+        "word": "upd"
+    },
+    {
+        "num": 1,
+        "word": "winx"
+    },
+    {
+        "num": 1,
+        "word": "“"
+    },
+    {
+        "num": 1,
+        "word": "”"
+    },
+    {
+        "num": 1,
+        "word": "…"
+    },
+    {
+        "num": 1,
+        "word": "アレ"
+    },
+    {
+        "num": 1,
+        "word": "イン"
+    },
+    {
+        "num": 1,
+        "word": "インタフェース"
+    },
+    {
+        "num": 1,
+        "word": "ウェブベース"
+    },
+    {
+        "num": 1,
+        "word": "オンライン"
+    },
+    {
+        "num": 1,
+        "word": "コンテンツ"
+    },
+    {
+        "num": 1,
+        "word": "コンパイラ"
+    },
+    {
+        "num": 1,
+        "word": "スライド"
+    },
+    {
+        "num": 1,
+        "word": "セミナー"
+    },
+    {
+        "num": 1,
+        "word": "ソースコードリーディング"
+    },
+    {
+        "num": 1,
+        "word": "チャンネル"
+    },
+    {
+        "num": 1,
+        "word": "データベース"
+    },
+    {
+        "num": 1,
+        "word": "パック"
+    },
+    {
+        "num": 1,
+        "word": "ビジュアル"
+    },
+    {
+        "num": 1,
+        "word": "ピン"
+    },
+    {
+        "num": 1,
+        "word": "フォーム"
+    },
+    {
+        "num": 1,
+        "word": "プログラミング"
+    },
+    {
+        "num": 1,
+        "word": "ホットケーキ"
+    },
+    {
+        "num": 1,
+        "word": "ポスター"
+    },
+    {
+        "num": 1,
+        "word": "メモ"
+    },
+    {
+        "num": 1,
+        "word": "一報"
+    },
+    {
+        "num": 1,
+        "word": "万"
+    },
+    {
+        "num": 1,
+        "word": "事前"
+    },
+    {
+        "num": 1,
+        "word": "京"
+    },
+    {
+        "num": 1,
+        "word": "人"
+    },
+    {
+        "num": 1,
+        "word": "今"
+    },
+    {
+        "num": 1,
+        "word": "今日"
+    },
+    {
+        "num": 1,
+        "word": "余"
+    },
+    {
+        "num": 1,
+        "word": "作成"
+    },
+    {
+        "num": 1,
+        "word": "使"
+    },
+    {
+        "num": 1,
+        "word": "価値"
+    },
+    {
+        "num": 1,
+        "word": "個"
+    },
+    {
+        "num": 1,
+        "word": "個々"
+    },
+    {
+        "num": 1,
+        "word": "偏"
+    },
+    {
+        "num": 1,
+        "word": "先程"
+    },
+    {
+        "num": 1,
+        "word": "先頭"
+    },
+    {
+        "num": 1,
+        "word": "克己"
+    },
+    {
+        "num": 1,
+        "word": "具体"
+    },
+    {
+        "num": 1,
+        "word": "円"
+    },
+    {
+        "num": 1,
+        "word": "処理"
+    },
+    {
+        "num": 1,
+        "word": "出"
+    },
+    {
+        "num": 1,
+        "word": "出来"
+    },
+    {
+        "num": 1,
+        "word": "切"
+    },
+    {
+        "num": 1,
+        "word": "利用"
+    },
+    {
+        "num": 1,
+        "word": "到着"
+    },
+    {
+        "num": 1,
+        "word": "効果"
+    },
+    {
+        "num": 1,
+        "word": "化"
+    },
+    {
+        "num": 1,
+        "word": "受"
+    },
+    {
+        "num": 1,
+        "word": "呼"
+    },
+    {
+        "num": 1,
+        "word": "報告"
+    },
+    {
+        "num": 1,
+        "word": "場合"
+    },
+    {
+        "num": 1,
+        "word": "大丈夫"
+    },
+    {
+        "num": 1,
+        "word": "大体"
+    },
+    {
+        "num": 1,
+        "word": "大輔"
+    },
+    {
+        "num": 1,
+        "word": "学会"
+    },
+    {
+        "num": 1,
+        "word": "学割"
+    },
+    {
+        "num": 1,
+        "word": "実質"
+    },
+    {
+        "num": 1,
+        "word": "室"
+    },
+    {
+        "num": 1,
+        "word": "容易"
+    },
+    {
+        "num": 1,
+        "word": "対策"
+    },
+    {
+        "num": 1,
+        "word": "届"
+    },
+    {
+        "num": 1,
+        "word": "崩"
+    },
+    {
+        "num": 1,
+        "word": "年生"
+    },
+    {
+        "num": 1,
+        "word": "後"
+    },
+    {
+        "num": 1,
+        "word": "得策"
+    },
+    {
+        "num": 1,
+        "word": "微妙"
+    },
+    {
+        "num": 1,
+        "word": "情報"
+    },
+    {
+        "num": 1,
+        "word": "技術"
+    },
+    {
+        "num": 1,
+        "word": "把握"
+    },
+    {
+        "num": 1,
+        "word": "持"
+    },
+    {
+        "num": 1,
+        "word": "推薦"
+    },
+    {
+        "num": 1,
+        "word": "提供"
+    },
+    {
+        "num": 1,
+        "word": "文字"
+    },
+    {
+        "num": 1,
+        "word": "新"
+    },
+    {
+        "num": 1,
+        "word": "新田"
+    },
+    {
+        "num": 1,
+        "word": "方式"
+    },
+    {
+        "num": 1,
+        "word": "既存"
+    },
+    {
+        "num": 1,
+        "word": "明日"
+    },
+    {
+        "num": 1,
+        "word": "星野"
+    },
+    {
+        "num": 1,
+        "word": "時"
+    },
+    {
+        "num": 1,
+        "word": "曖昧"
+    },
+    {
+        "num": 1,
+        "word": "最悪"
+    },
+    {
+        "num": 1,
+        "word": "月"
+    },
+    {
+        "num": 1,
+        "word": "本"
+    },
+    {
+        "num": 1,
+        "word": "札"
+    },
+    {
+        "num": 1,
+        "word": "朱"
+    },
+    {
+        "num": 1,
+        "word": "概念"
+    },
+    {
+        "num": 1,
+        "word": "正解"
+    },
+    {
+        "num": 1,
+        "word": "残留"
+    },
+    {
+        "num": 1,
+        "word": "気"
+    },
+    {
+        "num": 1,
+        "word": "波"
+    },
+    {
+        "num": 1,
+        "word": "片上"
+    },
+    {
+        "num": 1,
+        "word": "状況"
+    },
+    {
+        "num": 1,
+        "word": "現在"
+    },
+    {
+        "num": 1,
+        "word": "生"
+    },
+    {
+        "num": 1,
+        "word": "用意"
+    },
+    {
+        "num": 1,
+        "word": "発表"
+    },
+    {
+        "num": 1,
+        "word": "発音"
+    },
+    {
+        "num": 1,
+        "word": "的"
+    },
+    {
+        "num": 1,
+        "word": "知"
+    },
+    {
+        "num": 1,
+        "word": "程度"
+    },
+    {
+        "num": 1,
+        "word": "答"
+    },
+    {
+        "num": 1,
+        "word": "組"
+    },
+    {
+        "num": 1,
+        "word": "者"
+    },
+    {
+        "num": 1,
+        "word": "聞"
+    },
+    {
+        "num": 1,
+        "word": "自分"
+    },
+    {
+        "num": 1,
+        "word": "表示"
+    },
+    {
+        "num": 1,
+        "word": "言"
+    },
+    {
+        "num": 1,
+        "word": "記事"
+    },
+    {
+        "num": 1,
+        "word": "試"
+    },
+    {
+        "num": 1,
+        "word": "語彙"
+    },
+    {
+        "num": 1,
+        "word": "読"
+    },
+    {
+        "num": 1,
+        "word": "誰"
+    },
+    {
+        "num": 1,
+        "word": "調査"
+    },
+    {
+        "num": 1,
+        "word": "論文"
+    },
+    {
+        "num": 1,
+        "word": "講演"
+    },
+    {
+        "num": 1,
+        "word": "買"
+    },
+    {
+        "num": 1,
+        "word": "通信"
+    },
+    {
+        "num": 1,
+        "word": "連絡"
+    },
+    {
+        "num": 1,
+        "word": "遅"
+    },
+    {
+        "num": 1,
+        "word": "遅刻"
+    },
+    {
+        "num": 1,
+        "word": "関連"
+    },
+    {
+        "num": 1,
+        "word": "集合"
+    },
+    {
+        "num": 1,
+        "word": "電子"
+    },
+    {
+        "num": 1,
+        "word": "青木"
+    },
+    {
+        "num": 1,
+        "word": "面白"
+    },
+    {
+        "num": 1,
+        "word": "額"
+    },
+    {
+        "num": 1,
+        "word": "高"
+    },
+    {
+        "num": 1,
+        "word": "鷹野"
+    }
+]
