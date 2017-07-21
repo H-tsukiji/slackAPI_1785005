@@ -19,6 +19,7 @@ foreach($dir as $f){
     }
 }
 
+//単語集計するプログラム引数はファイル返り血は配列
 function count_wordindex($fn){
     $data = @file($fn);
     $word_list_index = array(); //登録された単語を入れる。ここで既に登録されたかを確認する
