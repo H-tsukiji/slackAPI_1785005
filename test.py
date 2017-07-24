@@ -40,22 +40,43 @@ for i in var:
         dic.append({"kasai": {"name": i[0], "message": i[1], "int": i[2]}})
 print(dic)
 '''
+'''
+csvファイルから人ごとに月日(現状では年と月を表示させるプログラム)
+今後の改良として、月ごとに細分化することで時系列を意識した専門単語を抽出できるように行う。
+'''
+from datetime import *
 import csv, sys, MeCab, re
 
-#対象ファイルの取得および分かち書きの設定
 inputfilename = sys.argv[1]
 file = open(inputfilename, 'r', encoding="utf-8")
 inputfilename = re.sub("\.[a-z]+","",inputfilename)
 csvdata = csv.reader(file)
 
 index = []
-sumw = {}
-i = 0
-for row in csvdata:
-    if( (row[0] in index) == False):
-        index.append(row[0])
-        sumw[row[0]] = 1
-    else:
-        sumw[row[0]] += 1
 
-print(sumw)
+for i,row in enumerate(csvdata):
+    if(i == 0):
+        continue
+
+    if ((row[0] in index) == False):
+        index.append(row[0])
+        tmp = datetime.fromtimestamp(float(row[2]))
+        print(row[0])
+        print(tmp.year," ",tmp.month)
+    else:
+        tmp = datetime.fromtimestamp(float(row[2]))
+        print(tmp.year," ",tmp.month)
+
+'''
+def one_strskip (line):
+    if(len(line) == 1):
+        print("ok\n")
+    else:
+        print("no\n")
+
+
+str_t = ["あいあいあいいあ","の","ののｎ"," "]
+
+for i in str_t:
+    one_strskip(i)
+'''

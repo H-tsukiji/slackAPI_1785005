@@ -1,0 +1,68 @@
+作業 報告 ログイン 画面 JavaOnlineCompiler 生徒 用 UI 入 DB 作成 中間 発表 プログラミング 初学 者 本当 使 UI 確認 必要 指摘 生徒 用 UI サンプル 作 思 GitHub 動 部分 プログラム 動作 マニュアル 上 
+
+作業 報告 入力 フォーム 作成 作業 継続 Ajax 使 送受信 家 調整 追記 HTML Ajax 使 PHP データ 送 
+
+作業 報告 xampp 環境 設定 日本語 文字 化 修正 入力 フォーム データ 格納 DB 作成 プログラム 作成 WEB 入力 フォーム 入力 データ Ajax PHP データ 渡 PHP DB 入力 フォーム データ 格納 部分 完成 今後 作業 形態素 解析 発表 用 スライド 更新 
+
+作業 報告 卒 論 提案 システム 実装 項目 ソフトウェア インストール 記述 XAMPP インストール 設定 GoogleAPI 利用 方法 書 目次 体裁 整 今日 中 OneDrive アップ プログラム GoogleCustomSearchAPI HTML 埋 込 無償 版 日 リクエスト ページ 件 ページ 取得 制限 検索 結果 json 形式 出力 現在 問題 文 DB 格納 手順 方法 考 
+
+作業 報告 卒 論 提案 方式 実装 項目 記述 プログラム HTML 上 問題 文 DB 入 形態素 解析 問題 文 引 張 入力 フォーム 送信 質問 文 サーバー 上 形態素 解析 mecab 使用 テキスト 出力 プログラム 作成 他 研究 室 復帰 指摘 Execl 記載 今後 作業 問題 文 質問 文 形態素 解析 検索 問題 文 形態素 解析 質問 文 検索 等 試 卒 論 資料 作成 amp 訂正 
+
+作業 報告 卒 論 修正 ページ 番号 修正 表 書式 改行 箇所 修正 提案 方式 概要 図 提案 方式 訂正 
+
+作業 報告 プログラム 修正 形態素 解析 結果 分 書 出力 修正 セミナー 指摘 事項 検索 対象 決 エラーメッセージ 問題 文 形態素 解析 結果 出 確認 決 思 
+
+作業 報告 調査 問題 文 検索 ElasticSearch Solr 利用 方法 調 Solr for Windows インストール 卒 論 修正 実装 データベース 設計 項目 作成 テーブル 追記 
+
+作業 報告 卒 論 執筆 OneDrive アップ 更新 内容 緑 文字 実装 項目 elasticsearch Apache solr milkode 記述 Elasticsearch プラグインインストール + a kuromoji … 日本語 対応 プラグ イン kibana ログ データ 可視 化 ツール curl windows 上 curl コマンド 使用 導入 Elasticsearch 利用 方法 調査 スキーマ レス 下記 記事 参照 https medium com hello elasticsearch elasticsearch a fd ac e yyl n 使 方 下記 記事 参照 http qiita com s nakamura items f b fd c 上記 URL 使 方 index 作成 curl XPUT http localhost test コマンド ライン 実行 curl http not supported or disabled in libcurl エラー 出 Indices Types Documents Fields 単語 理解 苦 現在 スキーマ レス 方法 記事 理解 プログラム 実装 状況 実装 済 WEB 入力 フォーム 文章 入力 試験 的 作 PHP サーバ サイド Mecab 利用 形態素 解析 出力 結果 DB 格納 未 実装 Milkode 連携 連携 Milkode 付属 WEB ブラウザ 手持 ソース コード 検索 Elasticsearch 連携 使 方 分 帰宅 後 作業 Elasticsearch php 発見 使 動作 試 https www elastic co guide en elasticsearch client php api current index html 
+
+水曜 方向 性 不安 スライド 作成 修正 中心 作業 ElasticSearch 自分 方 Curl エラー 発生 本 書 インストール 方法 試 実験 用 コンテンツ ◎ C ++ kbook 講義 資料 演習 問題 セット 用意 pdf 講義 演習 回分 ◎ C kbook 演習 問題 演習 問題 解説 ソース コード 付 セット pdf 用意 講義 演習 回分 × Java … kbook ネット 上 問題 解説 HTML ファイル 用意 中 追記 西尾 先生 許可 月曜日 JAVA 講義 演習 PDF 予定 
+
+作業 報告 スライド 修正 ‐ 清水 クロス チェック 受 水曜日 提案 図 参考 文献 関係 含 指摘 受 作成 土日 作業 予定 ‐ 卒論 追記 ElasticSearch amp Milkode 実装 プログラム 使 
+
+作業 報告 cURL インストール ファイル 変 前回 出 下記 エラー 出 動作 curl http not supported or disabled in libcurl ElasticSearch ドキュメント 登録 エラー 出 Windows コマンドプロンプト curl XPUT インデックス データ 登録 際 エラー 発生 Curl 問題 残 思 Linux 同 エラー 確認 思 CentOS ISO ダウンロード 時間 時間 超 残 自宅 slack 作業 
+
+kumada uploaded a file https kait takanolab slack com files kumada F DG QVFE result zip result zip and commented Curl ElasticSearch バージョン エラー 内容 出力 
+
+作業 報告 ElasticSearch Windows インデックス 登録 基本 的 動作 覚 段階 PDF ファイル 昨日 西尾 先生 受 取 検索 試 明日 向 スライド 卒論 更新 出 エラー バージョン 関係 思 情報 少 コマンドプロンプト インデックス 登録 データ 追加 Kibana phpmyadmin 管理 ツール コンソール 画面 使 登録 明日 向 スライド 図 作成 スライド 作業 説明 卒 論 書 書 
+
+作業 報告 Elasticsearch 動作 確認 インデックス 登録 PDF 用 プラグ イン インストール 予定 作業 Milkode amp ElasticSearch サーバー サイド 実装 Milkode Ruby Elasticsearch Javascript PHP 実装 考 
+
+作業 報告 卒 論 記述 参考 文献 提案 システム 実装 謝辞 更新 部分 黄色 ハイライト OneDrive アップ ロード ＞ プログラム 作成 Elasticsearch スキーマ レス 調査 JSON 形式 データ マッピング テーブル 定義 インデックス DB 登録 自動 タイプ 型 割 振 検索 クエリ 検索 対象 データタイプ 型 指定 必要 自動 割 振 上手 検索 可能 性 日本語 スキーマ レス 環境 以下 サイト 参考 https medium com hello elasticsearch elasticsearch a fd ac e ibcn co g Elasticsearch 基本 操作 確認 インデックス 登録 削除 更新 ドキュメント JSON 形式 データ 登録 日本語 検索 簡単 マッピング 
+
+作業 報告 プログラム 作成 PHP elasticsearch 起動 インデックス 検索 行 プログラム 作成 検索 エラー 表示 修正 中 PHP curl init 等 使 GET メソッド インデックス 中身 取得 Github 設定 中 
+
+作業 報告 プログラム 修正 エラー 一部 修正 
+
+Javascript URL 送信 結果 入力 フォーム 受 取 
+
+html Ajax GET メソッド 使 直接 インデックス 取得 試 エラー 出 XMLHttpRequest cannot load http localhost No Access Control Allow Origin header is present on the requested resource Origin http localhost is therefore not allowed access ソース コード 下記 html function { elasticsearch click function { ボタン クリック ajax { type GET url http localhost crossDomain true dataType json success function res { alert res } } } } 
+
+作業 報告 プログラム 作成 導入 成功 入力 フォーム 単語 AJAX 送信 ElasticSearch 検索 PHP 側 結果 JSON 形式 入力 フォーム UI 上 alert 表示 PHP 側 ElasticSearch PHP 使 コード 記述 失敗 JavaScript 直接 URL クエリ 埋 込 方法 参考 サイト コード 理解 断念 検索 結果 HTML 形式 変換 参考 予定 http stackoverflow com questions ajax call with elasticsearch search 追記 作成 段階 プログラム GitHub push 説明 書 足 Readme 明日 修正 
+
+http localhost dicoms dicoms search 上記 サイト URL dicoms インデックス 名 続 dicoms タイプ 名 search 以下 ドキュメント 検索 自分 ソース コード 記述 URL Elasticsearch 接続 確認 コマンド アクセス 禁止 回避 方法 PHPcurl 場合 検索 必要 クエリ URL JSON 記述 必要 断念 PHP 側 アクセス 
+
+main html 送 単語 new ela php 受 取 検索 行 Github プログラム description 検索 クエリ 直接 未 更新 Ajax 部分 コメント アウト 修正 elasticsearch PHP 書 https github com KMKumada kumada sotuken blob master new ela php 
+
+アルバイト 返信 時 過 
+
+明 
+
+作業 報告 プログラム 作成 仮 ＵＩ 作成 真 中 入力 フォーム 単語 入力 検索 エンジン ボタン 選択 下 テキスト ボックス 検索 結果 表示 AJax 送受信 出力 結果 サーバー 側 受信 JSON データ 必要 整形 表示 質問 文 送信 仮 検索 エンジン 切 替 自動 ボタン 切 替 未 実装 機能 
+
+kumada uploaded a file https kait takanolab slack com files kumada F QJWK BX main picture png main picture png and commented 左側 テスト 用 作 ＤＢ 中身 表示 
+
+作業 報告 プログラム 作成 WEB 検索 ソース コード 検索 教科書 検索 検索 結果 作成 中 Ｕ Ｉ 出力 再 調整 検索 結果 確認 取 実験 用 データ 登録 JavaOnlineCompiler エラー 文 自動 取得 テスト データ 登録 Java 講義 PDF 資料 文章 JSON データ 登録 中 ページ 番号 文章 検索 作成 中 
+
+作業 報告 卒 論 修正 本日 セミナー 指摘 謝辞 等 ページ 番号 修正 プログラム 修正 実験 データ 登録 Java 講義 資料 JSON 変換 作業 JSON 改行 検索 結果 改行 表示 問題 点 修正 JavaOnlineCompiler エラーメッセージ 取得 動作 必要 DB 作成 中 ダメ コンパイラ 機能 エディタ プログラム 作 予定 実験 際 手 入力 エラーメッセージ 入力 
+
+作業 報告 テン プレ 元 スライド 作成 卒 論 考察 書 直 
+
+作業 報告 発表 用 スライド 修正 スライド ズレ フォント サイズ 修正 卒 論 修正 実験 考察 実験 章 修正 考察 図 参照 考察 書 直 再 実験 卒 論 方 修正 終 アップ 発表 用 スライド 月 日 アップ 
+
+作業 報告 スライド 修正 実験 環境 方法 結果 除 文章 表現 統一 部分 修正 スライド 全体 発表 聞 人 立場 考 作 
+
+作業 報告 スライド 修正 研究 背景 研究 課題 提案 方式 修正 発表 練習 
+
+作業 報告 要旨 作成 
+

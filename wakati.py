@@ -21,8 +21,14 @@ def cleanInput(text):
     text = re.sub('[ぁ-ん]', ' ', text)
     return text
 
-index = []
+def writetext(line):
+    if(len(line) == 1):
+        pass
+    output.write(line + "\n")
 
+
+
+index = []
 #txtファイルの作成
 for row in csvdata:
     if ((row[0] in index) == False):
@@ -30,11 +36,11 @@ for row in csvdata:
         output = open("txt\\" + row[0] + ".txt", 'w', encoding="utf-8")
         w_text = cleanInput(row[1])
         w_text = tagger.parse(w_text)
-        output.write(w_text + "\n")
+        writetext(w_text)
     else:
         w_text = cleanInput(row[1])
         w_text = tagger.parse(w_text)
-        output.write(w_text+"\n")
+        writetext(w_text)
 
 file.close()
 output.close()
