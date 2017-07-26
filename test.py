@@ -18,7 +18,7 @@ for f in files:
         print("ok\n")
     # 起こりそうな例外をキャッチ
     except FileNotFoundError as e:
-        print(e)
+        print(e)    
 '''
 '''
 var = []
