@@ -1,298 +1,134 @@
 [
-    {
-        "num": 594,
-        "word": ""
-    },
-    {
-        "num": 33,
-        "word": "\"id\":"
-    },
-    {
-        "num": 33,
-        "word": "\"name\":"
-    },
-    {
-        "num": 33,
-        "word": "{\r\n"
-    },
-    {
-        "num": 32,
-        "word": "},\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0J8PMAQJ\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JACJLRJ\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAE4Y12\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAEV08K\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAFMP8D\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAGGJSX\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAHLWD7\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAJ1KGS\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAJ3J8P\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAJA88N\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAJP59N\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAJP7CY\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JAKS5RV\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JALGF96\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U0JT2EZDH\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U105P17QT\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U106UP90U\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U106Y1J7N\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U107G430F\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U107MMD8Q\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U107TJHPF\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U10J4NGHH\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U123ZGHM2\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U12475CJC\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U2808K7U2\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U4XUM59NX\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U4Y2B9X28\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U4Y2BNA2Y\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U4Y3V5NKX\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U4YM7U10E\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U4YM85G94\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"U518MDBU1\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"USLACKBOT\",\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"bobobobobobobobo\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"daiju.haga-1521042\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"hisatsugu_1521038\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"ishikawa\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"kaiseiaoki\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"kimura_fuuga\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"ko-hei\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"kumada\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"kurihara\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"leeke\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"matsumoto\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"matsuoka\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"miyashita\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"naito\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"oosawa\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"otaki\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"satotoshiki\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"sebastian\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"shibamoto\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"shigetatomoki\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"shimizu\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"shohei516\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"slackbot\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"t.kasai\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"takahashim\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"takahashiy\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"takano\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"terada\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"toshiya_iiba\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"tsukiji\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"umetani\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"urano_ryoya\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "\"yuta\"\r\n"
-    },
-    {
-        "num": 1,
-        "word": "[\r\n"
-    },
-    {
-        "num": 1,
-        "word": "]"
-    },
-    {
-        "num": 1,
-        "word": "}\r\n"
-    }
+ {
+  "id": "U518MDBU1",
+  "name": "bobobobobobobobo"
+ },
+ {
+  "id": "U4XUM59NX",
+  "name": "daiju.haga-1521042"
+ },
+ {
+  "id": "U4Y3V5NKX",
+  "name": "hisatsugu_1521038"
+ },
+ {
+  "id": "U106UP90U",
+  "name": "ishikawa"
+ },
+ {
+  "id": "U105P17QT",
+  "name": "kaiseiaoki"
+ },
+ {
+  "id": "U0JAFMP8D",
+  "name": "kimura_fuuga"
+ },
+ {
+  "id": "U12475CJC",
+  "name": "ko-hei"
+ },
+ {
+  "id": "U0JAJP59N",
+  "name": "kumada"
+ },
+ {
+  "id": "U106Y1J7N",
+  "name": "kurihara"
+ },
+ {
+  "id": "U0JAE4Y12",
+  "name": "leeke"
+ },
+ {
+  "id": "U0JAJ3J8P",
+  "name": "matsumoto"
+ },
+ {
+  "id": "U107MMD8Q",
+  "name": "matsuoka"
+ },
+ {
+  "id": "U0JAKS5RV",
+  "name": "miyashita"
+ },
+ {
+  "id": "U0JALGF96",
+  "name": "naito"
+ },
+ {
+  "id": "U0JAJ1KGS",
+  "name": "oosawa"
+ },
+ {
+  "id": "U0JAJP7CY",
+  "name": "otaki"
+ },
+ {
+  "id": "U4Y2BNA2Y",
+  "name": "satotoshiki"
+ },
+ {
+  "id": "U4YM7U10E",
+  "name": "sebastian"
+ },
+ {
+  "id": "U2808K7U2",
+  "name": "shibamoto"
+ },
+ {
+  "id": "U4YM85G94",
+  "name": "shigetatomoki"
+ },
+ {
+  "id": "U0JAHLWD7",
+  "name": "shimizu"
+ },
+ {
+  "id": "U10J4NGHH",
+  "name": "shohei516"
+ },
+ {
+  "id": "U0J8PMAQJ",
+  "name": "t.kasai"
+ },
+ {
+  "id": "U0JT2EZDH",
+  "name": "takahashim"
+ },
+ {
+  "id": "U107G430F",
+  "name": "takahashiy"
+ },
+ {
+  "id": "U0JACJLRJ",
+  "name": "takano"
+ },
+ {
+  "id": "U0JAJA88N",
+  "name": "terada"
+ },
+ {
+  "id": "U0JAGGJSX",
+  "name": "toshiya_iiba"
+ },
+ {
+  "id": "U0JAEV08K",
+  "name": "tsukiji"
+ },
+ {
+  "id": "U123ZGHM2",
+  "name": "umetani"
+ },
+ {
+  "id": "U4Y2B9X28",
+  "name": "urano_ryoya"
+ },
+ {
+  "id": "U107TJHPF",
+  "name": "yuta"
+ },
+ {
+  "id": "USLACKBOT",
+  "name": "slackbot"
+ }
 ]

@@ -37,3 +37,4 @@ with open('slacklog.csv', 'a', encoding="utf-8") as csvfile:
     writer.writerow(['User', 'text', 'timestamp', 'time'])
     for i in sumlog:
         writer.writerow([i[0], i[1], i[2], i[3]])
+
