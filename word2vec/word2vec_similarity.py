@@ -4,9 +4,9 @@ from gensim.models import word2vec
 import sys
 
 model   = word2vec.Word2Vec.load('word2vec-gensim-model/word2vec.gensim.model')
-results = model.most_similar(positive=["神様"],negative="男", topn=10)
+results = model.most_similar(positive=["将棋"],negative="", topn=10)
 
 for result in results:
     print(result[0], '\t', result[1])
 
-print(model[sys.argv[1]])
+#print(model[sys.argv[1]])
