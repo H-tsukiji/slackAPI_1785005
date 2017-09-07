@@ -10,7 +10,6 @@ try:
     # 書き込み UTF-8
     with open('word2vec_result.csv', 'w', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile, lineterminator='\n')
-        writer.writerow(['word', 'score'])
         for i in results:
             writer.writerow([i[0],i[1]])
 

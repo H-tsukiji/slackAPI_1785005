@@ -19,7 +19,12 @@
                     word: str
                 }, function(data) {
                     console.log(data);
-                    $('#result').text($.parseJSON(data));
+                    var data_parce = $.parseJSON(data);
+                    console.log(data_parce);
+
+                    for(var i =0; i<data_parce.length ; i++) {
+                        $('#result').append("<p>"+data_parce[i]["word"]+","+data_parce[i]["score"]+"<\/p>");
+                    }
                     $('#tagcloud').html("<script type='text/javascript' src='jqcloud.js'><\/script>");
                 })
             }
