@@ -4,7 +4,7 @@ from gensim.models import word2vec
 import sys,csv
 
 model   = word2vec.Word2Vec.load('word2vec-gensim-model/word2vec.gensim.model')
-results = model.most_similar(positive=sys.argv[1],negative="", topn=10)
+results = model.most_similar(positive=sys.argv[1],negative="", topn=20)
 
 try:
     # 書き込み UTF-8
