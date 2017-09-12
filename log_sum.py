@@ -5,7 +5,7 @@ from datetime import datetime
 
 #フォルダcsv内にあるすべてのcsvファイルを取得する。
 files = []
-files = glob.glob('json\*.json')
+files = glob.glob('json/20170904/*.json')
 
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)
@@ -22,10 +22,22 @@ for f in files:
         for i in f_json["messages"]:
             for j in memberlist:
                 if (i.get("subtype") == "file_comment"):
+                    if (i['comment']['user'] in j["id"]) == True:
+                        username = j["name"]
+                    sumlog.append([username, i["comment"]["comment"], float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])
+                    continue
+                if(i.get("subtype") == "file_share"):
+                    continue
+                if(i.get("subtype") == "bot_message"):
+                    username = i["bot_id"]               
+                    #githubのボットにあるコメントがなんでか知らないけど取れない「’」が悪いことしている気がする
+                    sumlog.append([username, i["text"], float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])                    
+                    continue
+                if(i.get("subtype") == "bot_add"):
                     continue
                 if (i['user'] in j["id"]) == True:
                     username = j["name"]
-            sumlog.append([username, i["text"], float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])
+                    sumlog.append([username, i["text"], float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])
     # 起こりそうな例外をキャッチ
     except FileNotFoundError as e:
         print(e)
