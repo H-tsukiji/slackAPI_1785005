@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#APIを使って対象のチャンネルのログをjson形式で取得するプログラム
 import sys,codecs,json
 from slacker import Slacker
 

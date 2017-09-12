@@ -1,86 +1,134 @@
-今日 セミナー 分 遅刻 
+Cloud Vision API テスト テキスト 抽出 テスト 公式 ページ 無料 フォーム 複数 回 行 無 編集 画像 キャラクター ポスター 認識 画像 編集 必要 画像 フィルタ リング テスト API テスト 踏 トリミング フィルタ リング 用 テスト 繰 返 文字 位置 取 手書 文字 認識 頻度 低 明 反射 別 原因 tesseract ocr 導入 OSS 紹介 文字 認識 tesseract ThinkPad 導入 ホワイト ボード 画像 試 予定 学習 データ 用意 出来 様 詳細 調 
 
-``` lt php exec php nise output php output ret implode output preg match all { } e { } ret matches preg match a z + ret match foreach matches as key gt value { print value \ n } print match gt ``` 
+Facebook 投稿 英文 等 翻訳 
 
-ishikawa uploaded a file https kait takanolab slack com files ishikawa F RZ YHL superagent js js superagent js 
+スライド 修正 
 
-ishikawa shared a file https kait takanolab slack com files ishikawa F EM KYEA form php php form php 
+Twitter Facebook 特徴 再 調査 
 
-ishikawa shared a file https kait takanolab slack com files ishikawa F EMUGXA form js js form js 
 
-ishikawa uploaded a file https kait takanolab slack com files ishikawa F SBED V upload php php upload php 
 
-``` form php 行 目 lt form name form id form action http localhost xampp seminar upload php 各自 環境 合 ``` 
+改善 点 単語 良 意味 単語 収集 今後 更 追加 予定 
 
-innocent 
+Twitter 比 英語 中国語 外国 語 投稿 多 見 翻訳 等 行 
 
-情報 収集 共有 辺 興味 研究 在室 確認 的 奴 導入 考 
+Twitter Facebook 情報 収集 昨日 築地 リンク 張 東京 駅 
 
-kodakku 
+スライド 修正 
 
-電車 バス 遅延 分 遅刻 
 
-ishikawa uploaded a file https kait takanolab slack com files ishikawa F ED GQ R img zip img zip 
 
-解凍 後 XAMPP 実行 出来 フォルダ ファイル 配置 修正 所 次 書 
+収集 行 思 
 
-form php 行 目 action URL 部分 配置 階層 合 変更 form js 行 目 post 部分 upload php URL 部分 配置 階層 合 変更 
+今日 セミナー 良 意味 単語 収集 方 良 言 
 
-修正 部分 思 form php アクセス ファイル アップ ロード ローカル 上 uploads フォルダ 作 ファイル 保存 様 
+Google Map API 学習 
 
-動 教 innocent 
 
-今日 セミナー 渋滞 遅 
 
-月 日 会社 説明 会 月 日 面接 予定 入 欠席 worried 
+マッピング ピン 刺 部分 
 
-ishikawa has joined the channel 
+Google maps API 学習 
 
-takano commented on takano ’ s file https kait takanolab slack com files takano F P RD HL Untitled 
+スライド 修正 
 
-ishikawa pinned a message to this channel 
 
-ishikawa pinned a message to this channel 
 
-ishikawa pinned a message to this channel 
+先週 ゼミ 先生 意見 スライド 修正 地域 異 訛 accent 関 関連 研究 調査 件 見 少 調 思 
 
-http cweb canon jp satera mfp lineup a color mf 
+院ゼミ 意見 基 スライド 修正 距離 近 ユーザ 情報 推薦 スライド 入 スライド 追加 思 関連 研究 人物 関係 研究 論文 見 
 
-ishikawa uploaded a file https kait takanolab slack com files ishikawa F TTQPXC lab seat png 年 座席 表 
 
-! channel 懇親 会 メモ 懇親 会 ゴールデンウィーク 以降 詳 週 日程 鷹野 先生 空 日 聞 詳 決 食 物 現時点 特 要望 今後 決 
 
-作業 報告 来週 水曜日 セミナー 発表 スライド 作成 自宅 
+点 切 箇所 微妙 判定 試 
 
-研究 室 作業 報告 Ruby オブジェクト 指向 プログラミング 勉強 継続 予定 作業 上村 君 疑問 答 土日 スライド 発表 原稿 作 思 
+ログ 一部 confMat 
 
-作業 報告 school スライド 完成 PostgreSQL インストール Ruby 利用 操作 出来 様 勉強 中 
+柄 折 紙 用 加工 折 紙 健康 白 点 書 白 点 病 ハサミ 一部 切 取 尾 腐 病 見立 MADLAB 画像 識別 行 各 枚 写真 撮影 実験 結果 以上 正答 率 見込 明日 白 点 数 切 取 部分 少 千代紙 用 実験 予定 
 
-white check mark 
+単語 同 単語 意味 変 場合 調査 
 
-作業 報告 D js 勉強 データ グラフ 可視 化 JavaScript ライブラリ ドット インストール 利用 勉強 趣味 開発 クローラー 取 データ 可視 化 利用 予定 論文 調 方 調査 過去 論文 調 方 関連 研究 関 フレーズ 鷹野 先生 伺 明日 論文 読 会 予定 
+Google map データ 可視 化 学習 
 
-作業 報告 面接 対策 キャリア アドバイザー 清田 今後 選考 アドバイス 頂 面白 人 関連 研究 リストアップ 今後 調査 取 掛 様 気 論文 Word システム 図 作成 フィードバック 元 システム 図 作成 卒 論 スライド 組 込 
 
-ishikawa shared a file https kait takanolab slack com files ishikawa F KRJKY 質問 意見 
 
-作業 報告 VSCode 周 環境 構築 Atom VSCode 先日 移行 C C ++ Ruby 辺 VSCode 上 実行 出来 様 環境 整 C ++ Ruby 勉強 Paiza スキル チェック 問題 Ruby C ++ 解 
+昨日 行 部分 説明 研究 スライド 反映 自分 動 プログラム 他 人 使 README 作成 
 
-作業 報告 論文 読 進 読 論文 メモ 元 PDF 探 論文 読 Python 開発 環境 構築 Anaconda 利用 Python 環境 構築 VSCode 開発 出来 環境 構築 
+ツイート 新 取得 分析 後 行 
 
-! channel 年生 セミナー 特別 理由 無 限 出 欲 先生 透明 言 
+SNS 特徴 調査 
 
-ishikawa shared a file https kait takanolab slack com files ishikawa F DREF Z セミナー 
+スライド 修正 
 
-月 日 作業 報告 ログ 収集 Slack チャット ログ 利用 日 別 発言 量 収集 データベース 入 所 デスク トップ PC 見積 手 伝 万 以内 コスパ 高 部品 見積 手 伝 
 
-ishikawa shared a file https kait takanolab slack com files ishikawa F B N T T セミナー 
 
-set up a reminder “ 年 生 懇親 会 他 学年 歓迎 ” in this channel at PM tomorrow Japan Standard Time 
+チャット ログ 学習 ログ 取 word vec 用 単語 分類 行 word vec 動 環境 構築 windows 手間取 観光 構築 明日 メモ word vec 試 データ 芥川 龍之介 羅生門 全文 mecab 分 書 後 学習 学習 モデル 単語 似 出 プログラム 作成 入力 下人 結果 下人 似 判断 単語 永久 影 如 手段 放 
 
-! channel slack remind 通知 入 明日 午後 時 年生 懇親 会 年生 以外 参加 歓迎 
+SNS Twitter Facebook Instagram 特徴 調査 
 
-ishikawa shared a file https kait takanolab slack com files ishikawa F DR BE G セミナー 
+昨日 築地 リンク 張 リンク 論文 チェック 
 
-ishikawa shared a file https kait takanolab slack com files ishikawa F H RLMS セミナー 
+スライド 修正 
+
+
+
+該当 単語 少 調 思 
+
+スライド 修正 
+
+取得 ツイート 該当 単語 調 
+
+
+
+スライド 修正 
+
+駅 改善 点 関係 単語 羅列 
+
+分析 リソース 調査 Togetter 
+
+
+
+完成 引 続 調 思 
+
+Twitter API 一 度 多 ソース コード 実行 エラー 発生 
+
+正規 表現 学習 
+
+Twitter API 一 度 多 ツイート 取得 方法 調査 
+
+スライド 修正 
+
+
+
+作業 報告 チャンネル 意見 先週 話 参考 箇条書 方 補強 技術 系 チャット 特徴 近 関係 人物 重要 度 優先 利点 具体 例 考 
+
+正規 表現 学習 
+
+一定 時間 プログラム 実行 方法 調査 
+
+昨日 意見 基 スライド 作成 
+
+
+
+Google Maps API 学習 
+
+スライド 修正 
+
+作業 報告 
+
+作業 報告 クロス チェック 指摘 部分 スライド 修正 ログ データ WEB 表 形式 参照 プログラム 実装 参照 ログ 関 単語 数 思 解答 方法 変 予定 少 Vue 関 知識 勉強 思 
+
+Google Maps APIno 学習 
+
+スライド 修正 
+
+文字 化 直 方法 調査 
+
+ツイート 取得 CSV ファイル 変換 
+
+
+
+実験 システム 問題 収集 検討 不備 修正 
+
+
 

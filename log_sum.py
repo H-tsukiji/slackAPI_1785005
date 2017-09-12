@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#各チャンネルのログを統合し、まとめたログの作成
 import codecs,json,csv,glob
 from datetime import datetime
 

@@ -1,70 +1,44 @@
-微妙 遅刻 後 分 到着 
+npm run crawler qiita コマンド 実行 DB 格納 
 
-発表 
+クロール 関 
 
-年 生 懇親 会 明日 
+使用 方法 URL 指定 
 
-今日 懇親 会 時 集合 
+Qiita 結構 ソース コード 断片 集 
 
-! channel 買 出 組 誰 ー 連絡 取 人 ー 
+Qiita 上 動 クローラ 作 ソース コード lt pre gt 要素 lt code gt 取得 思 辺 解析 後 回 DB HTML 全部 格納 
 
-卵 牛乳 
+公開 方 システム ローカル 実行 時 同 動作 修正 鷹野 先生 パッケージ インストール パー ミッション 変更 解決 今後 ログイン 機能 必要 実装 音声 別 地域 別 正答 率 出 拡張 思 
 
-ホットケーキ 作 個々 試 
+一旦 見 http dolphin mkm ic kanagawa it ac jp 
 
-ー 卵 個 思 半分 パック 
+アクセス 設定 ミス 表示 待 
 
-牛乳 l 思 半分 アレ 良 l 
+開 
 
-最悪 余 研究 室 投 卵 牛乳 一報 メモ 
+別件 待 下 
 
-講演 会 懇親 会 参加 出来 思 懇親 会 学割 聞 程度 額 気 
+ファイヤウォール 開 
 
-参加 
+公開 アクセス 本当 使 … 
 
-自分 書 使 思 動 
+サーバ 側 設定 
 
-大丈夫 今 万 円 札 持 事前 崩 得策 
+PDO 設定 確認 
 
+PDOno 
 
+使 
 
-Web 上 動 
+以前 申請 現在 使 
 
-ー 
+番 ポート 使 
 
-kurihara uploaded a file https kait takanolab slack com files kurihara F HFNQ build zip English learning and commented 先程 言 ー 大体 文字 先頭 表示 場合 実質 答 処理 対策 
+Chrome 最新 版 回避 策 
 
-kurihara uploaded a file https kait takanolab slack com files kurihara F K HQ Q english learning zip ソース コード 
+作業 報告 上記 コミット 内容 通 空欄 個数 デフォルト 変化 正答 率 計算 プログラム 修正 何 個 空欄 作 何 個 正解 全 空欄 個数 正解 数 解答 送信 時 データベース 登録 ＋ 可視 化 プログラム 修正 行 段落 次 グローバル 環境 動作 不具合 先生 笠井 アドバイス 修正 思 
 
-朱 京 波 片上 大輔 新田 克己 ウェブベース 英単語 学習 支援 システム 提案 電子 情報 通信 学会 技術 研究 報告 Vol No pp 本 研究 WordMap 呼 新 概念 用 英単語 学習 支援 システム 提案 提案 システム ビジュアル 化 ユーザ インタフェース WordMap 学習 者 容易 知 語彙 偏 学習 状況 把握 英単語 学習 効果 上 記事 推薦 システム ユーザ 学習 価値 高 コンテンツ 提供 
+製作 途中 システム 公開 ポート 壁 当 リバースプロキシ 作業 
 
-ZHU Jingbo 
-
-分 遅 
-
-http iscover p ieice org cms 
-
-http cweb canon jp drv upd satera mfp mf s winx html 
-
-kurihara has joined the channel 
-
-set up a reminder to “ 残留 届 切 ” in this channel at AM Thursday April Japan Standard Time 
-
-kurihara pinned a message to this channel 
-
-kurihara set the channel purpose 鷹野 セミナー 年 月 現在 年生 用 チャンネル 
-
-house * Java オンライン コンパイラ 論文 ポスター ソース コード 受 取 ソースコードリーディング 読 
-
-星野 既存 データベース 利用 方式 良 
-
-pinyin ピン イン 
-
-青木 発音 正解 データ 用意 曖昧 
-
-house * ソース コード 書 データ 投 フォーム 作 
-
-面白 思 具体 的 プログラミング 思 … 
-
-* スライド 作成 * 関連 研究 調査 
+作業 報告 上記 コミット 内容 ＋ 仮 正答 率 クリック 空欄 個数 全 空欄 個数 計算 データベース 格納 機能 追加 笠井 手 伝 任 形 現状 完成 部分 システム グローバル 環境 公開 仮 正答 率 空欄 個数 デフォルト 変化 計算 バグ 今後 修正 思 
 
