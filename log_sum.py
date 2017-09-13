@@ -20,31 +20,32 @@ for f in files:
     f_json = json.load(fl)
     try:
         for i in f_json["messages"]:
-            for j in memberlist:
-                if (i.get("subtype") == "file_comment"):
+            if(i.get("subtype") == "file_share"):
+                continue
+            elif(i.get("subtype") == "bot_add"):
+                continue
+            elif(i.get("subtype") == "bot_message"):
+                username = i["bot_id"]
+                for at in i["attachments"]:
+                    s_text = at["text"]
+            elif(i.get("subtype") == "file_comment"):
+                for j in memberlist:
                     if (i['comment']['user'] in j["id"]) == True:
                         username = j["name"]
-                    sumlog.append([username, i["comment"]["comment"], float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])
-                    continue
-                if(i.get("subtype") == "file_share"):
-                    continue
-                if(i.get("subtype") == "bot_message"):
-                    username = i["bot_id"]               
-                    #githubのボットにあるコメントがなんでか知らないけど取れない「’」が悪いことしている気がする
-                    sumlog.append([username, i["text"], float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])                    
-                    continue
-                if(i.get("subtype") == "bot_add"):
-                    continue
-                if (i['user'] in j["id"]) == True:
-                    username = j["name"]
-                    sumlog.append([username, i["text"], float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])
+                        s_text = i["comment"]["comment"]
+            else:           
+                for j in memberlist:
+                    if (i['user'] in j["id"]) == True:
+                        username = j["name"]
+                        s_text = i["text"]
+            sumlog.append([username, s_text, float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])
     # 起こりそうな例外をキャッチ
     except FileNotFoundError as e:
         print(e)
 
 sumlog = sorted(sumlog, key=lambda x:(x[0],x[2]))
 
-with open('slacklog.csv', 'a', encoding="utf-8") as csvfile:
+with open('slacklog.csv', 'w', encoding="utf-8") as csvfile:
     writer = csv.writer(csvfile, lineterminator='\n')
     writer.writerow(['User', 'text', 'timestamp', 'time'])
     for i in sumlog:
