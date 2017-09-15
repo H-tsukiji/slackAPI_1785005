@@ -40,10 +40,15 @@ for i in var:
         dic.append({"kasai": {"name": i[0], "message": i[1], "int": i[2]}})
 print(dic)
 '''
+import codecs,json
+fm = codecs.open("memberlist.json","r","utf-8")
+memberlist = json.load(fm)
+
+print(memberlist)
 '''
 csvファイルから人ごとに月日(現状では年と月を表示させるプログラム)
 今後の改良として、月ごとに細分化することで時系列を意識した専門単語を抽出できるように行う。
-'''
+
 from datetime import *
 import csv, sys, MeCab, re
 
@@ -67,7 +72,7 @@ for i,row in enumerate(csvdata):
         tmp = datetime.fromtimestamp(float(row[2]))
         print(tmp.year," ",tmp.month)
 
-'''
+
 def one_strskip (line):
     if(len(line) == 1):
         print("ok\n")
