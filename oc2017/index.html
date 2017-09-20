@@ -22,6 +22,7 @@
                     console.log(data);
                     data_parce = $.parseJSON(data);
                     console.log(data_parce);
+                    $('#result').empty();
                     for(var i =0; i<data_parce.length ; i++) {
                         $('#result').append("<p>"+data_parce[i]["word"]+","+data_parce[i]["score"]+"<\/p>");
                     }
@@ -50,7 +51,7 @@
         </div>
         <!--送信フォーム-->
         <div class="container">
-            <form  role="form" >
+            <form  role="form" onsubmit="return false" >
                 <h3>Please input keyword </h3>
                 <div class="form-group">
                     <div class="col-sm-7">
@@ -60,6 +61,15 @@
                 <div class="col-sm-7 control-label"></div>
                 <button type="button" class="btn btn-primary" onclick="scraping()">Submit</button>
             </form>
+            <script>
+                $('#word').keypress(function(e){
+                    if(e.which == 13){
+                        scraping();
+                        return false;
+                    }
+                });
+            </script>
+
         </div>
         <!-- 結果を返す空間 -->
         <div class="container">
