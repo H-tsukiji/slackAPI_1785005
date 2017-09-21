@@ -33,7 +33,7 @@ index = []
 for row in csvdata:
     if ((row[0] in index) == False):
         index.append(row[0])
-        output = open("txt\\" + row[0] + ".txt", 'w', encoding="utf-8")
+        output = open("txt\\wakati\\" + row[0] + ".txt", 'w', encoding="utf-8")
         w_text = cleanInput(row[1])
         w_text = tagger.parse(w_text)
         writetext(w_text)

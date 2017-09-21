@@ -12,7 +12,7 @@ foreach($dir as $f){
         //$filename = preg_replace('|^[a-z]+\\|', "", $filename);
         $filename = preg_replace('|\.+[a-z]+$|',"",$filename);
         //jsonファイルの作成
-        $fp = fopen('txt/'.$filename.'.json',"w");
+        $fp = fopen('user_countword/'.$filename.'.json',"w");
         fwrite($fp, json_encode($result_word,JSON_UNESCAPED_UNICODE|JSON_PRETTY_PRINT));
         fclose($fp);
         unset($result_word);

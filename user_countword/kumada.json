@@ -1,0 +1,1934 @@
+[
+    {
+        "num": 78,
+        "word": "\r\n"
+    },
+    {
+        "num": 34,
+        "word": "作業"
+    },
+    {
+        "num": 34,
+        "word": "検索"
+    },
+    {
+        "num": 27,
+        "word": "修正"
+    },
+    {
+        "num": 24,
+        "word": "作成"
+    },
+    {
+        "num": 24,
+        "word": "報告"
+    },
+    {
+        "num": 20,
+        "word": "プログラム"
+    },
+    {
+        "num": 20,
+        "word": "入力"
+    },
+    {
+        "num": 19,
+        "word": "文"
+    },
+    {
+        "num": 18,
+        "word": "問題"
+    },
+    {
+        "num": 17,
+        "word": "データ"
+    },
+    {
+        "num": 16,
+        "word": "PHP"
+    },
+    {
+        "num": 16,
+        "word": "使"
+    },
+    {
+        "num": 15,
+        "word": "フォーム"
+    },
+    {
+        "num": 15,
+        "word": "結果"
+    },
+    {
+        "num": 14,
+        "word": "実装"
+    },
+    {
+        "num": 13,
+        "word": "スライド"
+    },
+    {
+        "num": 13,
+        "word": "登録"
+    },
+    {
+        "num": 12,
+        "word": "elasticsearch"
+    },
+    {
+        "num": 12,
+        "word": "卒"
+    },
+    {
+        "num": 12,
+        "word": "論"
+    },
+    {
+        "num": 11,
+        "word": "エラー"
+    },
+    {
+        "num": 10,
+        "word": "Elasticsearch"
+    },
+    {
+        "num": 10,
+        "word": "インデックス"
+    },
+    {
+        "num": 10,
+        "word": "中"
+    },
+    {
+        "num": 10,
+        "word": "書"
+    },
+    {
+        "num": 9,
+        "word": "ElasticSearch"
+    },
+    {
+        "num": 9,
+        "word": "http"
+    },
+    {
+        "num": 9,
+        "word": "形態素"
+    },
+    {
+        "num": 9,
+        "word": "方法"
+    },
+    {
+        "num": 9,
+        "word": "解析"
+    },
+    {
+        "num": 8,
+        "word": "JSON"
+    },
+    {
+        "num": 8,
+        "word": "コード"
+    },
+    {
+        "num": 8,
+        "word": "出"
+    },
+    {
+        "num": 8,
+        "word": "実験"
+    },
+    {
+        "num": 7,
+        "word": "DB"
+    },
+    {
+        "num": 7,
+        "word": "Milkode"
+    },
+    {
+        "num": 7,
+        "word": "curl"
+    },
+    {
+        "num": 7,
+        "word": "出力"
+    },
+    {
+        "num": 7,
+        "word": "提案"
+    },
+    {
+        "num": 7,
+        "word": "確認"
+    },
+    {
+        "num": 7,
+        "word": "表示"
+    },
+    {
+        "num": 7,
+        "word": "記述"
+    },
+    {
+        "num": 7,
+        "word": "講義"
+    },
+    {
+        "num": 7,
+        "word": "質問"
+    },
+    {
+        "num": 6,
+        "word": "URL"
+    },
+    {
+        "num": 6,
+        "word": "インストール"
+    },
+    {
+        "num": 6,
+        "word": "エラーメッセージ"
+    },
+    {
+        "num": 6,
+        "word": "ソース"
+    },
+    {
+        "num": 6,
+        "word": "上"
+    },
+    {
+        "num": 6,
+        "word": "予定"
+    },
+    {
+        "num": 6,
+        "word": "更新"
+    },
+    {
+        "num": 6,
+        "word": "演習"
+    },
+    {
+        "num": 6,
+        "word": "用"
+    },
+    {
+        "num": 6,
+        "word": "試"
+    },
+    {
+        "num": 5,
+        "word": "Ajax"
+    },
+    {
+        "num": 5,
+        "word": "HTML"
+    },
+    {
+        "num": 5,
+        "word": "com"
+    },
+    {
+        "num": 5,
+        "word": "localhost"
+    },
+    {
+        "num": 5,
+        "word": "アップ"
+    },
+    {
+        "num": 5,
+        "word": "エンジン"
+    },
+    {
+        "num": 5,
+        "word": "クエリ"
+    },
+    {
+        "num": 5,
+        "word": "ページ"
+    },
+    {
+        "num": 5,
+        "word": "作"
+    },
+    {
+        "num": 5,
+        "word": "側"
+    },
+    {
+        "num": 5,
+        "word": "動作"
+    },
+    {
+        "num": 5,
+        "word": "単語"
+    },
+    {
+        "num": 5,
+        "word": "参考"
+    },
+    {
+        "num": 5,
+        "word": "取"
+    },
+    {
+        "num": 5,
+        "word": "取得"
+    },
+    {
+        "num": 5,
+        "word": "受"
+    },
+    {
+        "num": 5,
+        "word": "形式"
+    },
+    {
+        "num": 5,
+        "word": "必要"
+    },
+    {
+        "num": 5,
+        "word": "思"
+    },
+    {
+        "num": 5,
+        "word": "文章"
+    },
+    {
+        "num": 5,
+        "word": "方"
+    },
+    {
+        "num": 5,
+        "word": "発表"
+    },
+    {
+        "num": 5,
+        "word": "自動"
+    },
+    {
+        "num": 5,
+        "word": "追記"
+    },
+    {
+        "num": 5,
+        "word": "送信"
+    },
+    {
+        "num": 4,
+        "word": "Curl"
+    },
+    {
+        "num": 4,
+        "word": "Java"
+    },
+    {
+        "num": 4,
+        "word": "PDF"
+    },
+    {
+        "num": 4,
+        "word": "WEB"
+    },
+    {
+        "num": 4,
+        "word": "dicoms"
+    },
+    {
+        "num": 4,
+        "word": "html"
+    },
+    {
+        "num": 4,
+        "word": "https"
+    },
+    {
+        "num": 4,
+        "word": "php"
+    },
+    {
+        "num": 4,
+        "word": "search"
+    },
+    {
+        "num": 4,
+        "word": "{"
+    },
+    {
+        "num": 4,
+        "word": "}"
+    },
+    {
+        "num": 4,
+        "word": "コマンド"
+    },
+    {
+        "num": 4,
+        "word": "サーバー"
+    },
+    {
+        "num": 4,
+        "word": "スキーマ"
+    },
+    {
+        "num": 4,
+        "word": "レス"
+    },
+    {
+        "num": 4,
+        "word": "下記"
+    },
+    {
+        "num": 4,
+        "word": "利用"
+    },
+    {
+        "num": 4,
+        "word": "図"
+    },
+    {
+        "num": 4,
+        "word": "指摘"
+    },
+    {
+        "num": 4,
+        "word": "方式"
+    },
+    {
+        "num": 4,
+        "word": "日本語"
+    },
+    {
+        "num": 4,
+        "word": "未"
+    },
+    {
+        "num": 4,
+        "word": "格納"
+    },
+    {
+        "num": 4,
+        "word": "番号"
+    },
+    {
+        "num": 4,
+        "word": "考"
+    },
+    {
+        "num": 4,
+        "word": "考察"
+    },
+    {
+        "num": 4,
+        "word": "資料"
+    },
+    {
+        "num": 4,
+        "word": "部分"
+    },
+    {
+        "num": 4,
+        "word": "項目"
+    },
+    {
+        "num": 3,
+        "word": "GET"
+    },
+    {
+        "num": 3,
+        "word": "JavaOnlineCompiler"
+    },
+    {
+        "num": 3,
+        "word": "OneDrive"
+    },
+    {
+        "num": 3,
+        "word": "Windows"
+    },
+    {
+        "num": 3,
+        "word": "a"
+    },
+    {
+        "num": 3,
+        "word": "amp"
+    },
+    {
+        "num": 3,
+        "word": "fd"
+    },
+    {
+        "num": 3,
+        "word": "function"
+    },
+    {
+        "num": 3,
+        "word": "kbook"
+    },
+    {
+        "num": 3,
+        "word": "not"
+    },
+    {
+        "num": 3,
+        "word": "アクセス"
+    },
+    {
+        "num": 3,
+        "word": "サイト"
+    },
+    {
+        "num": 3,
+        "word": "ドキュメント"
+    },
+    {
+        "num": 3,
+        "word": "ファイル"
+    },
+    {
+        "num": 3,
+        "word": "ボタン"
+    },
+    {
+        "num": 3,
+        "word": "切"
+    },
+    {
+        "num": 3,
+        "word": "参照"
+    },
+    {
+        "num": 3,
+        "word": "埋"
+    },
+    {
+        "num": 3,
+        "word": "改行"
+    },
+    {
+        "num": 3,
+        "word": "明日"
+    },
+    {
+        "num": 3,
+        "word": "替"
+    },
+    {
+        "num": 3,
+        "word": "機能"
+    },
+    {
+        "num": 3,
+        "word": "決"
+    },
+    {
+        "num": 3,
+        "word": "理解"
+    },
+    {
+        "num": 3,
+        "word": "環境"
+    },
+    {
+        "num": 3,
+        "word": "用意"
+    },
+    {
+        "num": 3,
+        "word": "直"
+    },
+    {
+        "num": 3,
+        "word": "直接"
+    },
+    {
+        "num": 3,
+        "word": "研究"
+    },
+    {
+        "num": 3,
+        "word": "等"
+    },
+    {
+        "num": 3,
+        "word": "行"
+    },
+    {
+        "num": 3,
+        "word": "記事"
+    },
+    {
+        "num": 3,
+        "word": "設定"
+    },
+    {
+        "num": 3,
+        "word": "調査"
+    },
+    {
+        "num": 3,
+        "word": "起動"
+    },
+    {
+        "num": 3,
+        "word": "込"
+    },
+    {
+        "num": 3,
+        "word": "連携"
+    },
+    {
+        "num": 2,
+        "word": "C"
+    },
+    {
+        "num": 2,
+        "word": "Github"
+    },
+    {
+        "num": 2,
+        "word": "GoogleCustomSearch"
+    },
+    {
+        "num": 2,
+        "word": "Javascript"
+    },
+    {
+        "num": 2,
+        "word": "Origin"
+    },
+    {
+        "num": 2,
+        "word": "Solr"
+    },
+    {
+        "num": 2,
+        "word": "XPUT"
+    },
+    {
+        "num": 2,
+        "word": "ac"
+    },
+    {
+        "num": 2,
+        "word": "ajax"
+    },
+    {
+        "num": 2,
+        "word": "alert"
+    },
+    {
+        "num": 2,
+        "word": "co"
+    },
+    {
+        "num": 2,
+        "word": "disabled"
+    },
+    {
+        "num": 2,
+        "word": "e"
+    },
+    {
+        "num": 2,
+        "word": "ela"
+    },
+    {
+        "num": 2,
+        "word": "hello"
+    },
+    {
+        "num": 2,
+        "word": "in"
+    },
+    {
+        "num": 2,
+        "word": "index"
+    },
+    {
+        "num": 2,
+        "word": "is"
+    },
+    {
+        "num": 2,
+        "word": "json"
+    },
+    {
+        "num": 2,
+        "word": "libcurl"
+    },
+    {
+        "num": 2,
+        "word": "medium"
+    },
+    {
+        "num": 2,
+        "word": "new"
+    },
+    {
+        "num": 2,
+        "word": "or"
+    },
+    {
+        "num": 2,
+        "word": "pdf"
+    },
+    {
+        "num": 2,
+        "word": "res"
+    },
+    {
+        "num": 2,
+        "word": "supported"
+    },
+    {
+        "num": 2,
+        "word": "‐"
+    },
+    {
+        "num": 2,
+        "word": "…"
+    },
+    {
+        "num": 2,
+        "word": "◎"
+    },
+    {
+        "num": 2,
+        "word": "イン"
+    },
+    {
+        "num": 2,
+        "word": "コマンドプロンプト"
+    },
+    {
+        "num": 2,
+        "word": "サイド"
+    },
+    {
+        "num": 2,
+        "word": "システム"
+    },
+    {
+        "num": 2,
+        "word": "セット"
+    },
+    {
+        "num": 2,
+        "word": "セミナー"
+    },
+    {
+        "num": 2,
+        "word": "タイプ"
+    },
+    {
+        "num": 2,
+        "word": "ツール"
+    },
+    {
+        "num": 2,
+        "word": "テキスト"
+    },
+    {
+        "num": 2,
+        "word": "テーブル"
+    },
+    {
+        "num": 2,
+        "word": "プラグ"
+    },
+    {
+        "num": 2,
+        "word": "マッピング"
+    },
+    {
+        "num": 2,
+        "word": "メソッド"
+    },
+    {
+        "num": 2,
+        "word": "一部"
+    },
+    {
+        "num": 2,
+        "word": "上記"
+    },
+    {
+        "num": 2,
+        "word": "今後"
+    },
+    {
+        "num": 2,
+        "word": "以下"
+    },
+    {
+        "num": 2,
+        "word": "仮"
+    },
+    {
+        "num": 2,
+        "word": "使用"
+    },
+    {
+        "num": 2,
+        "word": "先生"
+    },
+    {
+        "num": 2,
+        "word": "内容"
+    },
+    {
+        "num": 2,
+        "word": "再"
+    },
+    {
+        "num": 2,
+        "word": "分"
+    },
+    {
+        "num": 2,
+        "word": "割"
+    },
+    {
+        "num": 2,
+        "word": "動"
+    },
+    {
+        "num": 2,
+        "word": "化"
+    },
+    {
+        "num": 2,
+        "word": "卒論"
+    },
+    {
+        "num": 2,
+        "word": "合"
+    },
+    {
+        "num": 2,
+        "word": "名"
+    },
+    {
+        "num": 2,
+        "word": "向"
+    },
+    {
+        "num": 2,
+        "word": "呼"
+    },
+    {
+        "num": 2,
+        "word": "回分"
+    },
+    {
+        "num": 2,
+        "word": "型"
+    },
+    {
+        "num": 2,
+        "word": "基本"
+    },
+    {
+        "num": 2,
+        "word": "変換"
+    },
+    {
+        "num": 2,
+        "word": "完成"
+    },
+    {
+        "num": 2,
+        "word": "対象"
+    },
+    {
+        "num": 2,
+        "word": "導入"
+    },
+    {
+        "num": 2,
+        "word": "性"
+    },
+    {
+        "num": 2,
+        "word": "振"
+    },
+    {
+        "num": 2,
+        "word": "文字"
+    },
+    {
+        "num": 2,
+        "word": "文献"
+    },
+    {
+        "num": 2,
+        "word": "断念"
+    },
+    {
+        "num": 2,
+        "word": "日"
+    },
+    {
+        "num": 2,
+        "word": "時間"
+    },
+    {
+        "num": 2,
+        "word": "残"
+    },
+    {
+        "num": 2,
+        "word": "段階"
+    },
+    {
+        "num": 2,
+        "word": "現在"
+    },
+    {
+        "num": 2,
+        "word": "発生"
+    },
+    {
+        "num": 2,
+        "word": "的"
+    },
+    {
+        "num": 2,
+        "word": "自分"
+    },
+    {
+        "num": 2,
+        "word": "西尾"
+    },
+    {
+        "num": 2,
+        "word": "解説"
+    },
+    {
+        "num": 2,
+        "word": "訂正"
+    },
+    {
+        "num": 2,
+        "word": "説明"
+    },
+    {
+        "num": 2,
+        "word": "調整"
+    },
+    {
+        "num": 2,
+        "word": "謝辞"
+    },
+    {
+        "num": 2,
+        "word": "送"
+    },
+    {
+        "num": 2,
+        "word": "送受信"
+    },
+    {
+        "num": 2,
+        "word": "選択"
+    },
+    {
+        "num": 2,
+        "word": "関係"
+    },
+    {
+        "num": 2,
+        "word": "際"
+    },
+    {
+        "num": 1,
+        "word": "+"
+    },
+    {
+        "num": 1,
+        "word": "++"
+    },
+    {
+        "num": 1,
+        "word": "AJAX"
+    },
+    {
+        "num": 1,
+        "word": "AJax"
+    },
+    {
+        "num": 1,
+        "word": "Access"
+    },
+    {
+        "num": 1,
+        "word": "Allow"
+    },
+    {
+        "num": 1,
+        "word": "Apache"
+    },
+    {
+        "num": 1,
+        "word": "CentOS"
+    },
+    {
+        "num": 1,
+        "word": "Control"
+    },
+    {
+        "num": 1,
+        "word": "Documents"
+    },
+    {
+        "num": 1,
+        "word": "Elastic"
+    },
+    {
+        "num": 1,
+        "word": "Execl"
+    },
+    {
+        "num": 1,
+        "word": "Fields"
+    },
+    {
+        "num": 1,
+        "word": "GitHub"
+    },
+    {
+        "num": 1,
+        "word": "GoogleAPI"
+    },
+    {
+        "num": 1,
+        "word": "GoogleCustomSearchAPI"
+    },
+    {
+        "num": 1,
+        "word": "ISO"
+    },
+    {
+        "num": 1,
+        "word": "Indices"
+    },
+    {
+        "num": 1,
+        "word": "JAVA"
+    },
+    {
+        "num": 1,
+        "word": "JavaScript"
+    },
+    {
+        "num": 1,
+        "word": "KMKumada"
+    },
+    {
+        "num": 1,
+        "word": "Kibana"
+    },
+    {
+        "num": 1,
+        "word": "Linux"
+    },
+    {
+        "num": 1,
+        "word": "Mecab"
+    },
+    {
+        "num": 1,
+        "word": "No"
+    },
+    {
+        "num": 1,
+        "word": "PHPcurl"
+    },
+    {
+        "num": 1,
+        "word": "Readme"
+    },
+    {
+        "num": 1,
+        "word": "Ruby"
+    },
+    {
+        "num": 1,
+        "word": "Types"
+    },
+    {
+        "num": 1,
+        "word": "UI"
+    },
+    {
+        "num": 1,
+        "word": "XAMPP"
+    },
+    {
+        "num": 1,
+        "word": "XMLHttpRequest"
+    },
+    {
+        "num": 1,
+        "word": "access"
+    },
+    {
+        "num": 1,
+        "word": "allowed"
+    },
+    {
+        "num": 1,
+        "word": "api"
+    },
+    {
+        "num": 1,
+        "word": "b"
+    },
+    {
+        "num": 1,
+        "word": "blob"
+    },
+    {
+        "num": 1,
+        "word": "c"
+    },
+    {
+        "num": 1,
+        "word": "cURL"
+    },
+    {
+        "num": 1,
+        "word": "call"
+    },
+    {
+        "num": 1,
+        "word": "cannot"
+    },
+    {
+        "num": 1,
+        "word": "click"
+    },
+    {
+        "num": 1,
+        "word": "client"
+    },
+    {
+        "num": 1,
+        "word": "crossDomain"
+    },
+    {
+        "num": 1,
+        "word": "current"
+    },
+    {
+        "num": 1,
+        "word": "dataType"
+    },
+    {
+        "num": 1,
+        "word": "description"
+    },
+    {
+        "num": 1,
+        "word": "elastic"
+    },
+    {
+        "num": 1,
+        "word": "en"
+    },
+    {
+        "num": 1,
+        "word": "f"
+    },
+    {
+        "num": 1,
+        "word": "for"
+    },
+    {
+        "num": 1,
+        "word": "g"
+    },
+    {
+        "num": 1,
+        "word": "github"
+    },
+    {
+        "num": 1,
+        "word": "guide"
+    },
+    {
+        "num": 1,
+        "word": "header"
+    },
+    {
+        "num": 1,
+        "word": "ibcn"
+    },
+    {
+        "num": 1,
+        "word": "init"
+    },
+    {
+        "num": 1,
+        "word": "items"
+    },
+    {
+        "num": 1,
+        "word": "kibana"
+    },
+    {
+        "num": 1,
+        "word": "kumada"
+    },
+    {
+        "num": 1,
+        "word": "kuromoji"
+    },
+    {
+        "num": 1,
+        "word": "load"
+    },
+    {
+        "num": 1,
+        "word": "main"
+    },
+    {
+        "num": 1,
+        "word": "master"
+    },
+    {
+        "num": 1,
+        "word": "mecab"
+    },
+    {
+        "num": 1,
+        "word": "milkode"
+    },
+    {
+        "num": 1,
+        "word": "n"
+    },
+    {
+        "num": 1,
+        "word": "nakamura"
+    },
+    {
+        "num": 1,
+        "word": "on"
+    },
+    {
+        "num": 1,
+        "word": "phpmyadmin"
+    },
+    {
+        "num": 1,
+        "word": "present"
+    },
+    {
+        "num": 1,
+        "word": "push"
+    },
+    {
+        "num": 1,
+        "word": "qiita"
+    },
+    {
+        "num": 1,
+        "word": "questions"
+    },
+    {
+        "num": 1,
+        "word": "requested"
+    },
+    {
+        "num": 1,
+        "word": "resource"
+    },
+    {
+        "num": 1,
+        "word": "s"
+    },
+    {
+        "num": 1,
+        "word": "slack"
+    },
+    {
+        "num": 1,
+        "word": "solr"
+    },
+    {
+        "num": 1,
+        "word": "sotuken"
+    },
+    {
+        "num": 1,
+        "word": "stackoverflow"
+    },
+    {
+        "num": 1,
+        "word": "success"
+    },
+    {
+        "num": 1,
+        "word": "test"
+    },
+    {
+        "num": 1,
+        "word": "the"
+    },
+    {
+        "num": 1,
+        "word": "therefore"
+    },
+    {
+        "num": 1,
+        "word": "true"
+    },
+    {
+        "num": 1,
+        "word": "type"
+    },
+    {
+        "num": 1,
+        "word": "url"
+    },
+    {
+        "num": 1,
+        "word": "windows"
+    },
+    {
+        "num": 1,
+        "word": "with"
+    },
+    {
+        "num": 1,
+        "word": "www"
+    },
+    {
+        "num": 1,
+        "word": "xampp"
+    },
+    {
+        "num": 1,
+        "word": "yyl"
+    },
+    {
+        "num": 1,
+        "word": "×"
+    },
+    {
+        "num": 1,
+        "word": "アウト"
+    },
+    {
+        "num": 1,
+        "word": "アルバイト"
+    },
+    {
+        "num": 1,
+        "word": "エディタ"
+    },
+    {
+        "num": 1,
+        "word": "クリック"
+    },
+    {
+        "num": 1,
+        "word": "クロス"
+    },
+    {
+        "num": 1,
+        "word": "コメント"
+    },
+    {
+        "num": 1,
+        "word": "コンソール"
+    },
+    {
+        "num": 1,
+        "word": "コンテンツ"
+    },
+    {
+        "num": 1,
+        "word": "コンパイラ"
+    },
+    {
+        "num": 1,
+        "word": "サイズ"
+    },
+    {
+        "num": 1,
+        "word": "サーバ"
+    },
+    {
+        "num": 1,
+        "word": "ズレ"
+    },
+    {
+        "num": 1,
+        "word": "ソフトウェア"
+    },
+    {
+        "num": 1,
+        "word": "ダウンロード"
+    },
+    {
+        "num": 1,
+        "word": "ダメ"
+    },
+    {
+        "num": 1,
+        "word": "チェック"
+    },
+    {
+        "num": 1,
+        "word": "テスト"
+    },
+    {
+        "num": 1,
+        "word": "テン"
+    },
+    {
+        "num": 1,
+        "word": "データタイプ"
+    },
+    {
+        "num": 1,
+        "word": "データベース"
+    },
+    {
+        "num": 1,
+        "word": "ネット"
+    },
+    {
+        "num": 1,
+        "word": "ハイライト"
+    },
+    {
+        "num": 1,
+        "word": "バージョン"
+    },
+    {
+        "num": 1,
+        "word": "フォント"
+    },
+    {
+        "num": 1,
+        "word": "ブラウザ"
+    },
+    {
+        "num": 1,
+        "word": "プラグインインストール"
+    },
+    {
+        "num": 1,
+        "word": "プレ"
+    },
+    {
+        "num": 1,
+        "word": "ボックス"
+    },
+    {
+        "num": 1,
+        "word": "ライン"
+    },
+    {
+        "num": 1,
+        "word": "リクエスト"
+    },
+    {
+        "num": 1,
+        "word": "ログ"
+    },
+    {
+        "num": 1,
+        "word": "ロード"
+    },
+    {
+        "num": 1,
+        "word": "上手"
+    },
+    {
+        "num": 1,
+        "word": "下"
+    },
+    {
+        "num": 1,
+        "word": "不安"
+    },
+    {
+        "num": 1,
+        "word": "中心"
+    },
+    {
+        "num": 1,
+        "word": "中身"
+    },
+    {
+        "num": 1,
+        "word": "事項"
+    },
+    {
+        "num": 1,
+        "word": "人"
+    },
+    {
+        "num": 1,
+        "word": "今"
+    },
+    {
+        "num": 1,
+        "word": "今日"
+    },
+    {
+        "num": 1,
+        "word": "他"
+    },
+    {
+        "num": 1,
+        "word": "付"
+    },
+    {
+        "num": 1,
+        "word": "付属"
+    },
+    {
+        "num": 1,
+        "word": "件"
+    },
+    {
+        "num": 1,
+        "word": "体裁"
+    },
+    {
+        "num": 1,
+        "word": "元"
+    },
+    {
+        "num": 1,
+        "word": "入"
+    },
+    {
+        "num": 1,
+        "word": "全体"
+    },
+    {
+        "num": 1,
+        "word": "制限"
+    },
+    {
+        "num": 1,
+        "word": "削除"
+    },
+    {
+        "num": 1,
+        "word": "前回"
+    },
+    {
+        "num": 1,
+        "word": "収集"
+    },
+    {
+        "num": 1,
+        "word": "受信"
+    },
+    {
+        "num": 1,
+        "word": "可能"
+    },
+    {
+        "num": 1,
+        "word": "可視"
+    },
+    {
+        "num": 1,
+        "word": "同"
+    },
+    {
+        "num": 1,
+        "word": "含"
+    },
+    {
+        "num": 1,
+        "word": "回避"
+    },
+    {
+        "num": 1,
+        "word": "土日"
+    },
+    {
+        "num": 1,
+        "word": "執筆"
+    },
+    {
+        "num": 1,
+        "word": "場合"
+    },
+    {
+        "num": 1,
+        "word": "変"
+    },
+    {
+        "num": 1,
+        "word": "失敗"
+    },
+    {
+        "num": 1,
+        "word": "定義"
+    },
+    {
+        "num": 1,
+        "word": "実行"
+    },
+    {
+        "num": 1,
+        "word": "室"
+    },
+    {
+        "num": 1,
+        "word": "家"
+    },
+    {
+        "num": 1,
+        "word": "対応"
+    },
+    {
+        "num": 1,
+        "word": "少"
+    },
+    {
+        "num": 1,
+        "word": "帰宅"
+    },
+    {
+        "num": 1,
+        "word": "引"
+    },
+    {
+        "num": 1,
+        "word": "張"
+    },
+    {
+        "num": 1,
+        "word": "後"
+    },
+    {
+        "num": 1,
+        "word": "復帰"
+    },
+    {
+        "num": 1,
+        "word": "情報"
+    },
+    {
+        "num": 1,
+        "word": "成功"
+    },
+    {
+        "num": 1,
+        "word": "手"
+    },
+    {
+        "num": 1,
+        "word": "手持"
+    },
+    {
+        "num": 1,
+        "word": "手順"
+    },
+    {
+        "num": 1,
+        "word": "指定"
+    },
+    {
+        "num": 1,
+        "word": "掛"
+    },
+    {
+        "num": 1,
+        "word": "接続"
+    },
+    {
+        "num": 1,
+        "word": "操作"
+    },
+    {
+        "num": 1,
+        "word": "教科書"
+    },
+    {
+        "num": 1,
+        "word": "整"
+    },
+    {
+        "num": 1,
+        "word": "整形"
+    },
+    {
+        "num": 1,
+        "word": "方向"
+    },
+    {
+        "num": 1,
+        "word": "明"
+    },
+    {
+        "num": 1,
+        "word": "昨日"
+    },
+    {
+        "num": 1,
+        "word": "時"
+    },
+    {
+        "num": 1,
+        "word": "書式"
+    },
+    {
+        "num": 1,
+        "word": "月"
+    },
+    {
+        "num": 1,
+        "word": "月曜日"
+    },
+    {
+        "num": 1,
+        "word": "本"
+    },
+    {
+        "num": 1,
+        "word": "本日"
+    },
+    {
+        "num": 1,
+        "word": "概要"
+    },
+    {
+        "num": 1,
+        "word": "欄"
+    },
+    {
+        "num": 1,
+        "word": "水曜"
+    },
+    {
+        "num": 1,
+        "word": "水曜日"
+    },
+    {
+        "num": 1,
+        "word": "清水"
+    },
+    {
+        "num": 1,
+        "word": "済"
+    },
+    {
+        "num": 1,
+        "word": "渡"
+    },
+    {
+        "num": 1,
+        "word": "点"
+    },
+    {
+        "num": 1,
+        "word": "無償"
+    },
+    {
+        "num": 1,
+        "word": "版"
+    },
+    {
+        "num": 1,
+        "word": "状況"
+    },
+    {
+        "num": 1,
+        "word": "画面"
+    },
+    {
+        "num": 1,
+        "word": "発見"
+    },
+    {
+        "num": 1,
+        "word": "目次"
+    },
+    {
+        "num": 1,
+        "word": "真"
+    },
+    {
+        "num": 1,
+        "word": "禁止"
+    },
+    {
+        "num": 1,
+        "word": "立場"
+    },
+    {
+        "num": 1,
+        "word": "章"
+    },
+    {
+        "num": 1,
+        "word": "箇所"
+    },
+    {
+        "num": 1,
+        "word": "管理"
+    },
+    {
+        "num": 1,
+        "word": "簡単"
+    },
+    {
+        "num": 1,
+        "word": "終"
+    },
+    {
+        "num": 1,
+        "word": "組"
+    },
+    {
+        "num": 1,
+        "word": "統一"
+    },
+    {
+        "num": 1,
+        "word": "継続"
+    },
+    {
+        "num": 1,
+        "word": "続"
+    },
+    {
+        "num": 1,
+        "word": "緑"
+    },
+    {
+        "num": 1,
+        "word": "練習"
+    },
+    {
+        "num": 1,
+        "word": "聞"
+    },
+    {
+        "num": 1,
+        "word": "背景"
+    },
+    {
+        "num": 1,
+        "word": "自宅"
+    },
+    {
+        "num": 1,
+        "word": "苦"
+    },
+    {
+        "num": 1,
+        "word": "表"
+    },
+    {
+        "num": 1,
+        "word": "表現"
+    },
+    {
+        "num": 1,
+        "word": "要旨"
+    },
+    {
+        "num": 1,
+        "word": "覚"
+    },
+    {
+        "num": 1,
+        "word": "解答"
+    },
+    {
+        "num": 1,
+        "word": "記載"
+    },
+    {
+        "num": 1,
+        "word": "設"
+    },
+    {
+        "num": 1,
+        "word": "設計"
+    },
+    {
+        "num": 1,
+        "word": "許可"
+    },
+    {
+        "num": 1,
+        "word": "試験"
+    },
+    {
+        "num": 1,
+        "word": "課題"
+    },
+    {
+        "num": 1,
+        "word": "調"
+    },
+    {
+        "num": 1,
+        "word": "超"
+    },
+    {
+        "num": 1,
+        "word": "足"
+    },
+    {
+        "num": 1,
+        "word": "返"
+    },
+    {
+        "num": 1,
+        "word": "返信"
+    },
+    {
+        "num": 1,
+        "word": "追加"
+    },
+    {
+        "num": 1,
+        "word": "過"
+    },
+    {
+        "num": 1,
+        "word": "除"
+    },
+    {
+        "num": 1,
+        "word": "黄色"
+    },
+    {
+        "num": 1,
+        "word": "＞"
+    },
+    {
+        "num": 1,
+        "word": "Ｉ"
+    },
+    {
+        "num": 1,
+        "word": "Ｕ"
+    },
+    {
+        "num": 1,
+        "word": "ＵＩ"
+    }
+]

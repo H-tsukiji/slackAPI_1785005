@@ -1,0 +1,6954 @@
+[
+    {
+        "num": 704,
+        "word": "\r\n"
+    },
+    {
+        "num": 139,
+        "word": "研究"
+    },
+    {
+        "num": 127,
+        "word": "スライド"
+    },
+    {
+        "num": 83,
+        "word": "作業"
+    },
+    {
+        "num": 83,
+        "word": "報告"
+    },
+    {
+        "num": 78,
+        "word": "書"
+    },
+    {
+        "num": 63,
+        "word": "行"
+    },
+    {
+        "num": 61,
+        "word": "内容"
+    },
+    {
+        "num": 60,
+        "word": "作成"
+    },
+    {
+        "num": 58,
+        "word": "amp"
+    },
+    {
+        "num": 57,
+        "word": "実験"
+    },
+    {
+        "num": 55,
+        "word": "情報"
+    },
+    {
+        "num": 52,
+        "word": "修正"
+    },
+    {
+        "num": 50,
+        "word": "ユーザ"
+    },
+    {
+        "num": 50,
+        "word": "卒"
+    },
+    {
+        "num": 49,
+        "word": "図"
+    },
+    {
+        "num": 43,
+        "word": "単語"
+    },
+    {
+        "num": 43,
+        "word": "思"
+    },
+    {
+        "num": 43,
+        "word": "部分"
+    },
+    {
+        "num": 38,
+        "word": "実装"
+    },
+    {
+        "num": 38,
+        "word": "追加"
+    },
+    {
+        "num": 37,
+        "word": "見"
+    },
+    {
+        "num": 36,
+        "word": "http"
+    },
+    {
+        "num": 36,
+        "word": "結果"
+    },
+    {
+        "num": 36,
+        "word": "論文"
+    },
+    {
+        "num": 35,
+        "word": "提案"
+    },
+    {
+        "num": 35,
+        "word": "関連"
+    },
+    {
+        "num": 34,
+        "word": "自分"
+    },
+    {
+        "num": 32,
+        "word": "プログラム"
+    },
+    {
+        "num": 31,
+        "word": "出"
+    },
+    {
+        "num": 31,
+        "word": "抽出"
+    },
+    {
+        "num": 30,
+        "word": "データ"
+    },
+    {
+        "num": 30,
+        "word": "分"
+    },
+    {
+        "num": 30,
+        "word": "反映"
+    },
+    {
+        "num": 30,
+        "word": "専門"
+    },
+    {
+        "num": 30,
+        "word": "明日"
+    },
+    {
+        "num": 30,
+        "word": "章"
+    },
+    {
+        "num": 29,
+        "word": "システム"
+    },
+    {
+        "num": 29,
+        "word": "人物"
+    },
+    {
+        "num": 29,
+        "word": "先生"
+    },
+    {
+        "num": 29,
+        "word": "論"
+    },
+    {
+        "num": 28,
+        "word": "一"
+    },
+    {
+        "num": 28,
+        "word": "検索"
+    },
+    {
+        "num": 26,
+        "word": "例"
+    },
+    {
+        "num": 26,
+        "word": "合"
+    },
+    {
+        "num": 26,
+        "word": "君"
+    },
+    {
+        "num": 26,
+        "word": "手法"
+    },
+    {
+        "num": 25,
+        "word": "com"
+    },
+    {
+        "num": 25,
+        "word": "研"
+    },
+    {
+        "num": 25,
+        "word": "考"
+    },
+    {
+        "num": 24,
+        "word": "推薦"
+    },
+    {
+        "num": 24,
+        "word": "用"
+    },
+    {
+        "num": 24,
+        "word": "説明"
+    },
+    {
+        "num": 23,
+        "word": "channel"
+    },
+    {
+        "num": 23,
+        "word": "セミナー"
+    },
+    {
+        "num": 23,
+        "word": "何"
+    },
+    {
+        "num": 22,
+        "word": "アップ"
+    },
+    {
+        "num": 22,
+        "word": "度"
+    },
+    {
+        "num": 22,
+        "word": "昨日"
+    },
+    {
+        "num": 22,
+        "word": "特徴"
+    },
+    {
+        "num": 21,
+        "word": "学習"
+    },
+    {
+        "num": 20,
+        "word": "人"
+    },
+    {
+        "num": 20,
+        "word": "性"
+    },
+    {
+        "num": 19,
+        "word": "https"
+    },
+    {
+        "num": 19,
+        "word": "onedrive"
+    },
+    {
+        "num": 19,
+        "word": "入"
+    },
+    {
+        "num": 19,
+        "word": "取"
+    },
+    {
+        "num": 19,
+        "word": "得"
+    },
+    {
+        "num": 19,
+        "word": "必要"
+    },
+    {
+        "num": 19,
+        "word": "課題"
+    },
+    {
+        "num": 18,
+        "word": "IDF"
+    },
+    {
+        "num": 18,
+        "word": "僕"
+    },
+    {
+        "num": 18,
+        "word": "分野"
+    },
+    {
+        "num": 18,
+        "word": "表"
+    },
+    {
+        "num": 18,
+        "word": "調整"
+    },
+    {
+        "num": 18,
+        "word": "関"
+    },
+    {
+        "num": 17,
+        "word": "事"
+    },
+    {
+        "num": 17,
+        "word": "方法"
+    },
+    {
+        "num": 17,
+        "word": "時"
+    },
+    {
+        "num": 17,
+        "word": "背景"
+    },
+    {
+        "num": 17,
+        "word": "評価"
+    },
+    {
+        "num": 17,
+        "word": "調"
+    },
+    {
+        "num": 16,
+        "word": "tsukiji"
+    },
+    {
+        "num": 16,
+        "word": "ログ"
+    },
+    {
+        "num": 16,
+        "word": "上"
+    },
+    {
+        "num": 16,
+        "word": "日"
+    },
+    {
+        "num": 16,
+        "word": "話"
+    },
+    {
+        "num": 16,
+        "word": "調査"
+    },
+    {
+        "num": 16,
+        "word": "重要"
+    },
+    {
+        "num": 15,
+        "word": "a"
+    },
+    {
+        "num": 15,
+        "word": "付"
+    },
+    {
+        "num": 15,
+        "word": "会"
+    },
+    {
+        "num": 15,
+        "word": "分類"
+    },
+    {
+        "num": 15,
+        "word": "切"
+    },
+    {
+        "num": 15,
+        "word": "参考"
+    },
+    {
+        "num": 15,
+        "word": "室"
+    },
+    {
+        "num": 15,
+        "word": "打"
+    },
+    {
+        "num": 15,
+        "word": "良"
+    },
+    {
+        "num": 15,
+        "word": "英語"
+    },
+    {
+        "num": 15,
+        "word": "計画"
+    },
+    {
+        "num": 14,
+        "word": "学会"
+    },
+    {
+        "num": 14,
+        "word": "少"
+    },
+    {
+        "num": 14,
+        "word": "枚"
+    },
+    {
+        "num": 14,
+        "word": "点"
+    },
+    {
+        "num": 14,
+        "word": "発表"
+    },
+    {
+        "num": 14,
+        "word": "考察"
+    },
+    {
+        "num": 14,
+        "word": "関係"
+    },
+    {
+        "num": 13,
+        "word": "他"
+    },
+    {
+        "num": 13,
+        "word": "作"
+    },
+    {
+        "num": 13,
+        "word": "意見"
+    },
+    {
+        "num": 13,
+        "word": "手"
+    },
+    {
+        "num": 13,
+        "word": "文章"
+    },
+    {
+        "num": 13,
+        "word": "時間"
+    },
+    {
+        "num": 12,
+        "word": "今日"
+    },
+    {
+        "num": 12,
+        "word": "本"
+    },
+    {
+        "num": 12,
+        "word": "概要"
+    },
+    {
+        "num": 12,
+        "word": "的"
+    },
+    {
+        "num": 12,
+        "word": "目"
+    },
+    {
+        "num": 11,
+        "word": "TFIDF"
+    },
+    {
+        "num": 11,
+        "word": "jp"
+    },
+    {
+        "num": 11,
+        "word": "slack"
+    },
+    {
+        "num": 11,
+        "word": "中"
+    },
+    {
+        "num": 11,
+        "word": "予定"
+    },
+    {
+        "num": 11,
+        "word": "使"
+    },
+    {
+        "num": 11,
+        "word": "具体"
+    },
+    {
+        "num": 11,
+        "word": "化"
+    },
+    {
+        "num": 11,
+        "word": "持"
+    },
+    {
+        "num": 11,
+        "word": "目的"
+    },
+    {
+        "num": 11,
+        "word": "高"
+    },
+    {
+        "num": 10,
+        "word": "A"
+    },
+    {
+        "num": 10,
+        "word": "TF"
+    },
+    {
+        "num": 10,
+        "word": "amzn"
+    },
+    {
+        "num": 10,
+        "word": "asia"
+    },
+    {
+        "num": 10,
+        "word": "this"
+    },
+    {
+        "num": 10,
+        "word": "to"
+    },
+    {
+        "num": 10,
+        "word": "○"
+    },
+    {
+        "num": 10,
+        "word": "コメント"
+    },
+    {
+        "num": 10,
+        "word": "ファイル"
+    },
+    {
+        "num": 10,
+        "word": "モデル"
+    },
+    {
+        "num": 10,
+        "word": "出現"
+    },
+    {
+        "num": 10,
+        "word": "方式"
+    },
+    {
+        "num": 10,
+        "word": "既存"
+    },
+    {
+        "num": 10,
+        "word": "比較"
+    },
+    {
+        "num": 10,
+        "word": "環境"
+    },
+    {
+        "num": 10,
+        "word": "直"
+    },
+    {
+        "num": 10,
+        "word": "範囲"
+    },
+    {
+        "num": 10,
+        "word": "重"
+    },
+    {
+        "num": 9,
+        "word": "F"
+    },
+    {
+        "num": 9,
+        "word": "takanolab"
+    },
+    {
+        "num": 9,
+        "word": "www"
+    },
+    {
+        "num": 9,
+        "word": "ロード"
+    },
+    {
+        "num": 9,
+        "word": "ー"
+    },
+    {
+        "num": 9,
+        "word": "伝"
+    },
+    {
+        "num": 9,
+        "word": "加"
+    },
+    {
+        "num": 9,
+        "word": "効果"
+    },
+    {
+        "num": 9,
+        "word": "取得"
+    },
+    {
+        "num": 9,
+        "word": "届"
+    },
+    {
+        "num": 9,
+        "word": "悪"
+    },
+    {
+        "num": 9,
+        "word": "方"
+    },
+    {
+        "num": 9,
+        "word": "特性"
+    },
+    {
+        "num": 9,
+        "word": "確認"
+    },
+    {
+        "num": 9,
+        "word": "考慮"
+    },
+    {
+        "num": 9,
+        "word": "読"
+    },
+    {
+        "num": 9,
+        "word": "資料"
+    },
+    {
+        "num": 9,
+        "word": "通"
+    },
+    {
+        "num": 8,
+        "word": "!"
+    },
+    {
+        "num": 8,
+        "word": "B"
+    },
+    {
+        "num": 8,
+        "word": "kait"
+    },
+    {
+        "num": 8,
+        "word": "page"
+    },
+    {
+        "num": 8,
+        "word": "set"
+    },
+    {
+        "num": 8,
+        "word": "チェック"
+    },
+    {
+        "num": 8,
+        "word": "チャンネル"
+    },
+    {
+        "num": 8,
+        "word": "一部"
+    },
+    {
+        "num": 8,
+        "word": "先"
+    },
+    {
+        "num": 8,
+        "word": "対"
+    },
+    {
+        "num": 8,
+        "word": "差"
+    },
+    {
+        "num": 8,
+        "word": "年生"
+    },
+    {
+        "num": 8,
+        "word": "後"
+    },
+    {
+        "num": 8,
+        "word": "文献"
+    },
+    {
+        "num": 8,
+        "word": "気"
+    },
+    {
+        "num": 8,
+        "word": "物"
+    },
+    {
+        "num": 8,
+        "word": "知識"
+    },
+    {
+        "num": 8,
+        "word": "置"
+    },
+    {
+        "num": 8,
+        "word": "者"
+    },
+    {
+        "num": 8,
+        "word": "進"
+    },
+    {
+        "num": 8,
+        "word": "願"
+    },
+    {
+        "num": 8,
+        "word": "類似"
+    },
+    {
+        "num": 7,
+        "word": "E"
+    },
+    {
+        "num": 7,
+        "word": "Step"
+    },
+    {
+        "num": 7,
+        "word": "files"
+    },
+    {
+        "num": 7,
+        "word": "full"
+    },
+    {
+        "num": 7,
+        "word": "idf"
+    },
+    {
+        "num": 7,
+        "word": "in"
+    },
+    {
+        "num": 7,
+        "word": "the"
+    },
+    {
+        "num": 7,
+        "word": "キーパーソン"
+    },
+    {
+        "num": 7,
+        "word": "デスク"
+    },
+    {
+        "num": 7,
+        "word": "ユーザー"
+    },
+    {
+        "num": 7,
+        "word": "今"
+    },
+    {
+        "num": 7,
+        "word": "内"
+    },
+    {
+        "num": 7,
+        "word": "卒論"
+    },
+    {
+        "num": 7,
+        "word": "参加"
+    },
+    {
+        "num": 7,
+        "word": "基"
+    },
+    {
+        "num": 7,
+        "word": "場合"
+    },
+    {
+        "num": 7,
+        "word": "延長"
+    },
+    {
+        "num": 7,
+        "word": "手順"
+    },
+    {
+        "num": 7,
+        "word": "月"
+    },
+    {
+        "num": 7,
+        "word": "根拠"
+    },
+    {
+        "num": 7,
+        "word": "知"
+    },
+    {
+        "num": 7,
+        "word": "示"
+    },
+    {
+        "num": 7,
+        "word": "箇条書"
+    },
+    {
+        "num": 7,
+        "word": "系列"
+    },
+    {
+        "num": 7,
+        "word": "終"
+    },
+    {
+        "num": 7,
+        "word": "計算"
+    },
+    {
+        "num": 7,
+        "word": "込"
+    },
+    {
+        "num": 7,
+        "word": "頻度"
+    },
+    {
+        "num": 7,
+        "word": "駅"
+    },
+    {
+        "num": 6,
+        "word": "GB"
+    },
+    {
+        "num": 6,
+        "word": "SID"
+    },
+    {
+        "num": 6,
+        "word": "WOS"
+    },
+    {
+        "num": 6,
+        "word": "apps"
+    },
+    {
+        "num": 6,
+        "word": "do"
+    },
+    {
+        "num": 6,
+        "word": "doc"
+    },
+    {
+        "num": 6,
+        "word": "file"
+    },
+    {
+        "num": 6,
+        "word": "login"
+    },
+    {
+        "num": 6,
+        "word": "mentioned"
+    },
+    {
+        "num": 6,
+        "word": "mode"
+    },
+    {
+        "num": 6,
+        "word": "order"
+    },
+    {
+        "num": 6,
+        "word": "otaki"
+    },
+    {
+        "num": 6,
+        "word": "product"
+    },
+    {
+        "num": 6,
+        "word": "qid"
+    },
+    {
+        "num": 6,
+        "word": "record"
+    },
+    {
+        "num": 6,
+        "word": "search"
+    },
+    {
+        "num": 6,
+        "word": "sql"
+    },
+    {
+        "num": 6,
+        "word": "webofknowledge"
+    },
+    {
+        "num": 6,
+        "word": "コンテンツ"
+    },
+    {
+        "num": 6,
+        "word": "サーバ"
+    },
+    {
+        "num": 6,
+        "word": "データベース"
+    },
+    {
+        "num": 6,
+        "word": "トップ"
+    },
+    {
+        "num": 6,
+        "word": "使用"
+    },
+    {
+        "num": 6,
+        "word": "値"
+    },
+    {
+        "num": 6,
+        "word": "列挙"
+    },
+    {
+        "num": 6,
+        "word": "同"
+    },
+    {
+        "num": 6,
+        "word": "同名"
+    },
+    {
+        "num": 6,
+        "word": "同姓"
+    },
+    {
+        "num": 6,
+        "word": "問題"
+    },
+    {
+        "num": 6,
+        "word": "大"
+    },
+    {
+        "num": 6,
+        "word": "完成"
+    },
+    {
+        "num": 6,
+        "word": "対象"
+    },
+    {
+        "num": 6,
+        "word": "式"
+    },
+    {
+        "num": 6,
+        "word": "従来"
+    },
+    {
+        "num": 6,
+        "word": "探"
+    },
+    {
+        "num": 6,
+        "word": "構築"
+    },
+    {
+        "num": 6,
+        "word": "現状"
+    },
+    {
+        "num": 6,
+        "word": "種類"
+    },
+    {
+        "num": 6,
+        "word": "笠井"
+    },
+    {
+        "num": 6,
+        "word": "算出"
+    },
+    {
+        "num": 6,
+        "word": "続"
+    },
+    {
+        "num": 6,
+        "word": "翻訳"
+    },
+    {
+        "num": 6,
+        "word": "表示"
+    },
+    {
+        "num": 6,
+        "word": "設定"
+    },
+    {
+        "num": 6,
+        "word": "講義"
+    },
+    {
+        "num": 6,
+        "word": "送"
+    },
+    {
+        "num": 6,
+        "word": "違"
+    },
+    {
+        "num": 6,
+        "word": "金曜"
+    },
+    {
+        "num": 5,
+        "word": "Japan"
+    },
+    {
+        "num": 5,
+        "word": "KBS"
+    },
+    {
+        "num": 5,
+        "word": "SNS"
+    },
+    {
+        "num": 5,
+        "word": "Standard"
+    },
+    {
+        "num": 5,
+        "word": "Time"
+    },
+    {
+        "num": 5,
+        "word": "Twitter"
+    },
+    {
+        "num": 5,
+        "word": "at"
+    },
+    {
+        "num": 5,
+        "word": "message"
+    },
+    {
+        "num": 5,
+        "word": "net"
+    },
+    {
+        "num": 5,
+        "word": "pinned"
+    },
+    {
+        "num": 5,
+        "word": "pptx"
+    },
+    {
+        "num": 5,
+        "word": "reminder"
+    },
+    {
+        "num": 5,
+        "word": "up"
+    },
+    {
+        "num": 5,
+        "word": "“"
+    },
+    {
+        "num": 5,
+        "word": "”"
+    },
+    {
+        "num": 5,
+        "word": "アプローチ"
+    },
+    {
+        "num": 5,
+        "word": "カロリー"
+    },
+    {
+        "num": 5,
+        "word": "スマホ"
+    },
+    {
+        "num": 5,
+        "word": "タブレット"
+    },
+    {
+        "num": 5,
+        "word": "メモ"
+    },
+    {
+        "num": 5,
+        "word": "リンク"
+    },
+    {
+        "num": 5,
+        "word": "下"
+    },
+    {
+        "num": 5,
+        "word": "今後"
+    },
+    {
+        "num": 5,
+        "word": "以降"
+    },
+    {
+        "num": 5,
+        "word": "件"
+    },
+    {
+        "num": 5,
+        "word": "似"
+    },
+    {
+        "num": 5,
+        "word": "個"
+    },
+    {
+        "num": 5,
+        "word": "処理"
+    },
+    {
+        "num": 5,
+        "word": "出力"
+    },
+    {
+        "num": 5,
+        "word": "分析"
+    },
+    {
+        "num": 5,
+        "word": "含"
+    },
+    {
+        "num": 5,
+        "word": "多"
+    },
+    {
+        "num": 5,
+        "word": "始"
+    },
+    {
+        "num": 5,
+        "word": "履歴"
+    },
+    {
+        "num": 5,
+        "word": "形"
+    },
+    {
+        "num": 5,
+        "word": "意味"
+    },
+    {
+        "num": 5,
+        "word": "感"
+    },
+    {
+        "num": 5,
+        "word": "技術"
+    },
+    {
+        "num": 5,
+        "word": "把握"
+    },
+    {
+        "num": 5,
+        "word": "指摘"
+    },
+    {
+        "num": 5,
+        "word": "教育"
+    },
+    {
+        "num": 5,
+        "word": "数"
+    },
+    {
+        "num": 5,
+        "word": "月曜"
+    },
+    {
+        "num": 5,
+        "word": "有用"
+    },
+    {
+        "num": 5,
+        "word": "木曜日"
+    },
+    {
+        "num": 5,
+        "word": "机"
+    },
+    {
+        "num": 5,
+        "word": "来"
+    },
+    {
+        "num": 5,
+        "word": "機能"
+    },
+    {
+        "num": 5,
+        "word": "正解"
+    },
+    {
+        "num": 5,
+        "word": "版"
+    },
+    {
+        "num": 5,
+        "word": "申"
+    },
+    {
+        "num": 5,
+        "word": "番号"
+    },
+    {
+        "num": 5,
+        "word": "発見"
+    },
+    {
+        "num": 5,
+        "word": "統一"
+    },
+    {
+        "num": 5,
+        "word": "興味"
+    },
+    {
+        "num": 5,
+        "word": "要素"
+    },
+    {
+        "num": 5,
+        "word": "解決"
+    },
+    {
+        "num": 5,
+        "word": "記事"
+    },
+    {
+        "num": 5,
+        "word": "適"
+    },
+    {
+        "num": 5,
+        "word": "間"
+    },
+    {
+        "num": 5,
+        "word": "限"
+    },
+    {
+        "num": 5,
+        "word": "頂"
+    },
+    {
+        "num": 4,
+        "word": "CPU"
+    },
+    {
+        "num": 4,
+        "word": "Friday"
+    },
+    {
+        "num": 4,
+        "word": "LAl"
+    },
+    {
+        "num": 4,
+        "word": "M"
+    },
+    {
+        "num": 4,
+        "word": "N"
+    },
+    {
+        "num": 4,
+        "word": "Onedrive"
+    },
+    {
+        "num": 4,
+        "word": "RbmUDqprLQdez"
+    },
+    {
+        "num": 4,
+        "word": "TOPIC"
+    },
+    {
+        "num": 4,
+        "word": "Y"
+    },
+    {
+        "num": 4,
+        "word": "and"
+    },
+    {
+        "num": 4,
+        "word": "archives"
+    },
+    {
+        "num": 4,
+        "word": "beads"
+    },
+    {
+        "num": 4,
+        "word": "blog"
+    },
+    {
+        "num": 4,
+        "word": "co"
+    },
+    {
+        "num": 4,
+        "word": "facebook"
+    },
+    {
+        "num": 4,
+        "word": "html"
+    },
+    {
+        "num": 4,
+        "word": "kodakku"
+    },
+    {
+        "num": 4,
+        "word": "on"
+    },
+    {
+        "num": 4,
+        "word": "php"
+    },
+    {
+        "num": 4,
+        "word": "python"
+    },
+    {
+        "num": 4,
+        "word": "tokyo"
+    },
+    {
+        "num": 4,
+        "word": "twitter"
+    },
+    {
+        "num": 4,
+        "word": "user"
+    },
+    {
+        "num": 4,
+        "word": "web"
+    },
+    {
+        "num": 4,
+        "word": "word"
+    },
+    {
+        "num": 4,
+        "word": "xlsx"
+    },
+    {
+        "num": 4,
+        "word": "…"
+    },
+    {
+        "num": 4,
+        "word": "アイディア"
+    },
+    {
+        "num": 4,
+        "word": "イベント"
+    },
+    {
+        "num": 4,
+        "word": "キーワード"
+    },
+    {
+        "num": 4,
+        "word": "サイト"
+    },
+    {
+        "num": 4,
+        "word": "ゼミ"
+    },
+    {
+        "num": 4,
+        "word": "タイトル"
+    },
+    {
+        "num": 4,
+        "word": "トピック"
+    },
+    {
+        "num": 4,
+        "word": "ニュース"
+    },
+    {
+        "num": 4,
+        "word": "フォルダ"
+    },
+    {
+        "num": 4,
+        "word": "ポイント"
+    },
+    {
+        "num": 4,
+        "word": "一応"
+    },
+    {
+        "num": 4,
+        "word": "不具合"
+    },
+    {
+        "num": 4,
+        "word": "主"
+    },
+    {
+        "num": 4,
+        "word": "二"
+    },
+    {
+        "num": 4,
+        "word": "今年"
+    },
+    {
+        "num": 4,
+        "word": "以下"
+    },
+    {
+        "num": 4,
+        "word": "個人"
+    },
+    {
+        "num": 4,
+        "word": "備忘録"
+    },
+    {
+        "num": 4,
+        "word": "先輩"
+    },
+    {
+        "num": 4,
+        "word": "全"
+    },
+    {
+        "num": 4,
+        "word": "全体"
+    },
+    {
+        "num": 4,
+        "word": "利点"
+    },
+    {
+        "num": 4,
+        "word": "利用"
+    },
+    {
+        "num": 4,
+        "word": "削除"
+    },
+    {
+        "num": 4,
+        "word": "動作"
+    },
+    {
+        "num": 4,
+        "word": "去年"
+    },
+    {
+        "num": 4,
+        "word": "同様"
+    },
+    {
+        "num": 4,
+        "word": "図表"
+    },
+    {
+        "num": 4,
+        "word": "土"
+    },
+    {
+        "num": 4,
+        "word": "場所"
+    },
+    {
+        "num": 4,
+        "word": "実行"
+    },
+    {
+        "num": 4,
+        "word": "実際"
+    },
+    {
+        "num": 4,
+        "word": "工学"
+    },
+    {
+        "num": 4,
+        "word": "年"
+    },
+    {
+        "num": 4,
+        "word": "引"
+    },
+    {
+        "num": 4,
+        "word": "支援"
+    },
+    {
+        "num": 4,
+        "word": "替"
+    },
+    {
+        "num": 4,
+        "word": "木曜"
+    },
+    {
+        "num": 4,
+        "word": "検討"
+    },
+    {
+        "num": 4,
+        "word": "機"
+    },
+    {
+        "num": 4,
+        "word": "欲"
+    },
+    {
+        "num": 4,
+        "word": "歩"
+    },
+    {
+        "num": 4,
+        "word": "比"
+    },
+    {
+        "num": 4,
+        "word": "沿"
+    },
+    {
+        "num": 4,
+        "word": "流"
+    },
+    {
+        "num": 4,
+        "word": "準備"
+    },
+    {
+        "num": 4,
+        "word": "状態"
+    },
+    {
+        "num": 4,
+        "word": "理由"
+    },
+    {
+        "num": 4,
+        "word": "用意"
+    },
+    {
+        "num": 4,
+        "word": "着目"
+    },
+    {
+        "num": 4,
+        "word": "石川"
+    },
+    {
+        "num": 4,
+        "word": "空間"
+    },
+    {
+        "num": 4,
+        "word": "精度"
+    },
+    {
+        "num": 4,
+        "word": "組"
+    },
+    {
+        "num": 4,
+        "word": "締"
+    },
+    {
+        "num": 4,
+        "word": "練習"
+    },
+    {
+        "num": 4,
+        "word": "聞"
+    },
+    {
+        "num": 4,
+        "word": "職業"
+    },
+    {
+        "num": 4,
+        "word": "自身"
+    },
+    {
+        "num": 4,
+        "word": "行動"
+    },
+    {
+        "num": 4,
+        "word": "表記"
+    },
+    {
+        "num": 4,
+        "word": "要項"
+    },
+    {
+        "num": 4,
+        "word": "言"
+    },
+    {
+        "num": 4,
+        "word": "試"
+    },
+    {
+        "num": 4,
+        "word": "講習"
+    },
+    {
+        "num": 4,
+        "word": "質"
+    },
+    {
+        "num": 4,
+        "word": "距離"
+    },
+    {
+        "num": 4,
+        "word": "追記"
+    },
+    {
+        "num": 4,
+        "word": "通信"
+    },
+    {
+        "num": 4,
+        "word": "運動"
+    },
+    {
+        "num": 4,
+        "word": "量"
+    },
+    {
+        "num": 4,
+        "word": "鍵"
+    },
+    {
+        "num": 4,
+        "word": "開発"
+    },
+    {
+        "num": 4,
+        "word": "院"
+    },
+    {
+        "num": 4,
+        "word": "院ゼミ"
+    },
+    {
+        "num": 4,
+        "word": "際"
+    },
+    {
+        "num": 4,
+        "word": "集合"
+    },
+    {
+        "num": 4,
+        "word": "電子"
+    },
+    {
+        "num": 3,
+        "word": "API"
+    },
+    {
+        "num": 3,
+        "word": "C"
+    },
+    {
+        "num": 3,
+        "word": "D"
+    },
+    {
+        "num": 3,
+        "word": "English"
+    },
+    {
+        "num": 3,
+        "word": "GeneralSearch"
+    },
+    {
+        "num": 3,
+        "word": "GitHub"
+    },
+    {
+        "num": 3,
+        "word": "NDC"
+    },
+    {
+        "num": 3,
+        "word": "OneClickSearch"
+    },
+    {
+        "num": 3,
+        "word": "RAM"
+    },
+    {
+        "num": 3,
+        "word": "TA"
+    },
+    {
+        "num": 3,
+        "word": "Web"
+    },
+    {
+        "num": 3,
+        "word": "am"
+    },
+    {
+        "num": 3,
+        "word": "amazon"
+    },
+    {
+        "num": 3,
+        "word": "entry"
+    },
+    {
+        "num": 3,
+        "word": "exec"
+    },
+    {
+        "num": 3,
+        "word": "extraction"
+    },
+    {
+        "num": 3,
+        "word": "general"
+    },
+    {
+        "num": 3,
+        "word": "kasai"
+    },
+    {
+        "num": 3,
+        "word": "mecab"
+    },
+    {
+        "num": 3,
+        "word": "of"
+    },
+    {
+        "num": 3,
+        "word": "pc"
+    },
+    {
+        "num": 3,
+        "word": "pp"
+    },
+    {
+        "num": 3,
+        "word": "seminar"
+    },
+    {
+        "num": 3,
+        "word": "slackAPI"
+    },
+    {
+        "num": 3,
+        "word": "takahashim"
+    },
+    {
+        "num": 3,
+        "word": "tfidf"
+    },
+    {
+        "num": 3,
+        "word": "topic"
+    },
+    {
+        "num": 3,
+        "word": "vec"
+    },
+    {
+        "num": 3,
+        "word": "vol"
+    },
+    {
+        "num": 3,
+        "word": "アカウント"
+    },
+    {
+        "num": 3,
+        "word": "インストール"
+    },
+    {
+        "num": 3,
+        "word": "キャンパス"
+    },
+    {
+        "num": 3,
+        "word": "クロス"
+    },
+    {
+        "num": 3,
+        "word": "コミュニティ"
+    },
+    {
+        "num": 3,
+        "word": "ゴミ"
+    },
+    {
+        "num": 3,
+        "word": "サービス"
+    },
+    {
+        "num": 3,
+        "word": "スコア"
+    },
+    {
+        "num": 3,
+        "word": "ソフトウェア"
+    },
+    {
+        "num": 3,
+        "word": "ソース"
+    },
+    {
+        "num": 3,
+        "word": "ダウンロード"
+    },
+    {
+        "num": 3,
+        "word": "チャット"
+    },
+    {
+        "num": 3,
+        "word": "テスト"
+    },
+    {
+        "num": 3,
+        "word": "ディレクトリ"
+    },
+    {
+        "num": 3,
+        "word": "ネットワーク"
+    },
+    {
+        "num": 3,
+        "word": "パソコン"
+    },
+    {
+        "num": 3,
+        "word": "フィルタ"
+    },
+    {
+        "num": 3,
+        "word": "フォーマット"
+    },
+    {
+        "num": 3,
+        "word": "ブログ"
+    },
+    {
+        "num": 3,
+        "word": "ベース"
+    },
+    {
+        "num": 3,
+        "word": "ページ"
+    },
+    {
+        "num": 3,
+        "word": "ボード"
+    },
+    {
+        "num": 3,
+        "word": "ラウンジ"
+    },
+    {
+        "num": 3,
+        "word": "ランキング"
+    },
+    {
+        "num": 3,
+        "word": "リアクション"
+    },
+    {
+        "num": 3,
+        "word": "リスト"
+    },
+    {
+        "num": 3,
+        "word": "リング"
+    },
+    {
+        "num": 3,
+        "word": "レビュー"
+    },
+    {
+        "num": 3,
+        "word": "予測"
+    },
+    {
+        "num": 3,
+        "word": "付与"
+    },
+    {
+        "num": 3,
+        "word": "修論"
+    },
+    {
+        "num": 3,
+        "word": "俺"
+    },
+    {
+        "num": 3,
+        "word": "傾向"
+    },
+    {
+        "num": 3,
+        "word": "先週"
+    },
+    {
+        "num": 3,
+        "word": "全般"
+    },
+    {
+        "num": 3,
+        "word": "分離"
+    },
+    {
+        "num": 3,
+        "word": "初"
+    },
+    {
+        "num": 3,
+        "word": "別"
+    },
+    {
+        "num": 3,
+        "word": "前"
+    },
+    {
+        "num": 3,
+        "word": "前回"
+    },
+    {
+        "num": 3,
+        "word": "動"
+    },
+    {
+        "num": 3,
+        "word": "募集"
+    },
+    {
+        "num": 3,
+        "word": "卒業"
+    },
+    {
+        "num": 3,
+        "word": "協調"
+    },
+    {
+        "num": 3,
+        "word": "博"
+    },
+    {
+        "num": 3,
+        "word": "印刷"
+    },
+    {
+        "num": 3,
+        "word": "収集"
+    },
+    {
+        "num": 3,
+        "word": "各"
+    },
+    {
+        "num": 3,
+        "word": "執筆"
+    },
+    {
+        "num": 3,
+        "word": "増"
+    },
+    {
+        "num": 3,
+        "word": "大丈夫"
+    },
+    {
+        "num": 3,
+        "word": "大会"
+    },
+    {
+        "num": 3,
+        "word": "存在"
+    },
+    {
+        "num": 3,
+        "word": "学"
+    },
+    {
+        "num": 3,
+        "word": "学生"
+    },
+    {
+        "num": 3,
+        "word": "定義"
+    },
+    {
+        "num": 3,
+        "word": "容易"
+    },
+    {
+        "num": 3,
+        "word": "小澤"
+    },
+    {
+        "num": 3,
+        "word": "展望"
+    },
+    {
+        "num": 3,
+        "word": "属性"
+    },
+    {
+        "num": 3,
+        "word": "工房"
+    },
+    {
+        "num": 3,
+        "word": "帳"
+    },
+    {
+        "num": 3,
+        "word": "幸"
+    },
+    {
+        "num": 3,
+        "word": "影響"
+    },
+    {
+        "num": 3,
+        "word": "必"
+    },
+    {
+        "num": 3,
+        "word": "成果"
+    },
+    {
+        "num": 3,
+        "word": "投稿"
+    },
+    {
+        "num": 3,
+        "word": "指定"
+    },
+    {
+        "num": 3,
+        "word": "挿入"
+    },
+    {
+        "num": 3,
+        "word": "掛"
+    },
+    {
+        "num": 3,
+        "word": "提出"
+    },
+    {
+        "num": 3,
+        "word": "教"
+    },
+    {
+        "num": 3,
+        "word": "整形"
+    },
+    {
+        "num": 3,
+        "word": "斎藤"
+    },
+    {
+        "num": 3,
+        "word": "早"
+    },
+    {
+        "num": 3,
+        "word": "更新"
+    },
+    {
+        "num": 3,
+        "word": "来週"
+    },
+    {
+        "num": 3,
+        "word": "枚数"
+    },
+    {
+        "num": 3,
+        "word": "検証"
+    },
+    {
+        "num": 3,
+        "word": "機械"
+    },
+    {
+        "num": 3,
+        "word": "次"
+    },
+    {
+        "num": 3,
+        "word": "水"
+    },
+    {
+        "num": 3,
+        "word": "水曜"
+    },
+    {
+        "num": 3,
+        "word": "消費"
+    },
+    {
+        "num": 3,
+        "word": "無"
+    },
+    {
+        "num": 3,
+        "word": "発音"
+    },
+    {
+        "num": 3,
+        "word": "皆"
+    },
+    {
+        "num": 3,
+        "word": "立"
+    },
+    {
+        "num": 3,
+        "word": "簡単"
+    },
+    {
+        "num": 3,
+        "word": "総数"
+    },
+    {
+        "num": 3,
+        "word": "英訳"
+    },
+    {
+        "num": 3,
+        "word": "表現"
+    },
+    {
+        "num": 3,
+        "word": "補強"
+    },
+    {
+        "num": 3,
+        "word": "複数"
+    },
+    {
+        "num": 3,
+        "word": "要旨"
+    },
+    {
+        "num": 3,
+        "word": "見込"
+    },
+    {
+        "num": 3,
+        "word": "詳"
+    },
+    {
+        "num": 3,
+        "word": "議論"
+    },
+    {
+        "num": 3,
+        "word": "貼"
+    },
+    {
+        "num": 3,
+        "word": "質問"
+    },
+    {
+        "num": 3,
+        "word": "足"
+    },
+    {
+        "num": 3,
+        "word": "近"
+    },
+    {
+        "num": 3,
+        "word": "遠藤"
+    },
+    {
+        "num": 3,
+        "word": "随時"
+    },
+    {
+        "num": 3,
+        "word": "集"
+    },
+    {
+        "num": 3,
+        "word": "難"
+    },
+    {
+        "num": 3,
+        "word": "電気"
+    },
+    {
+        "num": 3,
+        "word": "青木"
+    },
+    {
+        "num": 3,
+        "word": "音節"
+    },
+    {
+        "num": 3,
+        "word": "項目"
+    },
+    {
+        "num": 3,
+        "word": "順序"
+    },
+    {
+        "num": 3,
+        "word": "食"
+    },
+    {
+        "num": 3,
+        "word": "高橋"
+    },
+    {
+        "num": 3,
+        "word": "＋"
+    },
+    {
+        "num": 3,
+        "word": "／"
+    },
+    {
+        "num": 2,
+        "word": "AM"
+    },
+    {
+        "num": 2,
+        "word": "ASIN"
+    },
+    {
+        "num": 2,
+        "word": "Analysis"
+    },
+    {
+        "num": 2,
+        "word": "BASED"
+    },
+    {
+        "num": 2,
+        "word": "COMMUNITY"
+    },
+    {
+        "num": 2,
+        "word": "CeLVKq"
+    },
+    {
+        "num": 2,
+        "word": "DETECTION"
+    },
+    {
+        "num": 2,
+        "word": "FEB"
+    },
+    {
+        "num": 2,
+        "word": "FINDING"
+    },
+    {
+        "num": 2,
+        "word": "GPU"
+    },
+    {
+        "num": 2,
+        "word": "H"
+    },
+    {
+        "num": 2,
+        "word": "HASHTAG"
+    },
+    {
+        "num": 2,
+        "word": "HDD"
+    },
+    {
+        "num": 2,
+        "word": "INFLUENTIAL"
+    },
+    {
+        "num": 2,
+        "word": "IPSJ"
+    },
+    {
+        "num": 2,
+        "word": "Intel"
+    },
+    {
+        "num": 2,
+        "word": "K"
+    },
+    {
+        "num": 2,
+        "word": "KAIT"
+    },
+    {
+        "num": 2,
+        "word": "L"
+    },
+    {
+        "num": 2,
+        "word": "May"
+    },
+    {
+        "num": 2,
+        "word": "NEWS"
+    },
+    {
+        "num": 2,
+        "word": "ON"
+    },
+    {
+        "num": 2,
+        "word": "ORIENTED"
+    },
+    {
+        "num": 2,
+        "word": "PC"
+    },
+    {
+        "num": 2,
+        "word": "PacificRim"
+    },
+    {
+        "num": 2,
+        "word": "Predicting"
+    },
+    {
+        "num": 2,
+        "word": "Q"
+    },
+    {
+        "num": 2,
+        "word": "R"
+    },
+    {
+        "num": 2,
+        "word": "RELATED"
+    },
+    {
+        "num": 2,
+        "word": "S"
+    },
+    {
+        "num": 2,
+        "word": "SSD"
+    },
+    {
+        "num": 2,
+        "word": "TWITTER"
+    },
+    {
+        "num": 2,
+        "word": "U"
+    },
+    {
+        "num": 2,
+        "word": "USERS"
+    },
+    {
+        "num": 2,
+        "word": "```"
+    },
+    {
+        "num": 2,
+        "word": "ac"
+    },
+    {
+        "num": 2,
+        "word": "analysis"
+    },
+    {
+        "num": 2,
+        "word": "behavior"
+    },
+    {
+        "num": 2,
+        "word": "ci"
+    },
+    {
+        "num": 2,
+        "word": "cj"
+    },
+    {
+        "num": 2,
+        "word": "consumer"
+    },
+    {
+        "num": 2,
+        "word": "docx"
+    },
+    {
+        "num": 2,
+        "word": "dsc"
+    },
+    {
+        "num": 2,
+        "word": "e"
+    },
+    {
+        "num": 2,
+        "word": "excel"
+    },
+    {
+        "num": 2,
+        "word": "face"
+    },
+    {
+        "num": 2,
+        "word": "fc"
+    },
+    {
+        "num": 2,
+        "word": "for"
+    },
+    {
+        "num": 2,
+        "word": "ganmohouse"
+    },
+    {
+        "num": 2,
+        "word": "google"
+    },
+    {
+        "num": 2,
+        "word": "has"
+    },
+    {
+        "num": 2,
+        "word": "i"
+    },
+    {
+        "num": 2,
+        "word": "iee"
+    },
+    {
+        "num": 2,
+        "word": "inch"
+    },
+    {
+        "num": 2,
+        "word": "influential"
+    },
+    {
+        "num": 2,
+        "word": "jWcjILf"
+    },
+    {
+        "num": 2,
+        "word": "joined"
+    },
+    {
+        "num": 2,
+        "word": "jpg"
+    },
+    {
+        "num": 2,
+        "word": "lqdpC"
+    },
+    {
+        "num": 2,
+        "word": "muji"
+    },
+    {
+        "num": 2,
+        "word": "mysql"
+    },
+    {
+        "num": 2,
+        "word": "naid"
+    },
+    {
+        "num": 2,
+        "word": "nii"
+    },
+    {
+        "num": 2,
+        "word": "nosim"
+    },
+    {
+        "num": 2,
+        "word": "o"
+    },
+    {
+        "num": 2,
+        "word": "obidos"
+    },
+    {
+        "num": 2,
+        "word": "org"
+    },
+    {
+        "num": 2,
+        "word": "p"
+    },
+    {
+        "num": 2,
+        "word": "personality"
+    },
+    {
+        "num": 2,
+        "word": "ref"
+    },
+    {
+        "num": 2,
+        "word": "related"
+    },
+    {
+        "num": 2,
+        "word": "s"
+    },
+    {
+        "num": 2,
+        "word": "sigir"
+    },
+    {
+        "num": 2,
+        "word": "sm"
+    },
+    {
+        "num": 2,
+        "word": "store"
+    },
+    {
+        "num": 2,
+        "word": "th"
+    },
+    {
+        "num": 2,
+        "word": "traits"
+    },
+    {
+        "num": 2,
+        "word": "users"
+    },
+    {
+        "num": 2,
+        "word": "using"
+    },
+    {
+        "num": 2,
+        "word": "v"
+    },
+    {
+        "num": 2,
+        "word": "voodoovoodoo"
+    },
+    {
+        "num": 2,
+        "word": "windows"
+    },
+    {
+        "num": 2,
+        "word": "with"
+    },
+    {
+        "num": 2,
+        "word": "△"
+    },
+    {
+        "num": 2,
+        "word": "イメージ"
+    },
+    {
+        "num": 2,
+        "word": "イン"
+    },
+    {
+        "num": 2,
+        "word": "オンライン"
+    },
+    {
+        "num": 2,
+        "word": "カード"
+    },
+    {
+        "num": 2,
+        "word": "グラフ"
+    },
+    {
+        "num": 2,
+        "word": "コピペ"
+    },
+    {
+        "num": 2,
+        "word": "サジェスト"
+    },
+    {
+        "num": 2,
+        "word": "スクショ"
+    },
+    {
+        "num": 2,
+        "word": "スペック"
+    },
+    {
+        "num": 2,
+        "word": "タコ"
+    },
+    {
+        "num": 2,
+        "word": "チュラ"
+    },
+    {
+        "num": 2,
+        "word": "テンプレート"
+    },
+    {
+        "num": 2,
+        "word": "ディスカッション"
+    },
+    {
+        "num": 2,
+        "word": "トッピクモデル"
+    },
+    {
+        "num": 2,
+        "word": "トナー"
+    },
+    {
+        "num": 2,
+        "word": "ニューラルネットワーク"
+    },
+    {
+        "num": 2,
+        "word": "ネイティブ"
+    },
+    {
+        "num": 2,
+        "word": "バディ"
+    },
+    {
+        "num": 2,
+        "word": "パスワード"
+    },
+    {
+        "num": 2,
+        "word": "パンケーキ"
+    },
+    {
+        "num": 2,
+        "word": "ヒント"
+    },
+    {
+        "num": 2,
+        "word": "ビール"
+    },
+    {
+        "num": 2,
+        "word": "フルーツ"
+    },
+    {
+        "num": 2,
+        "word": "プログラミング"
+    },
+    {
+        "num": 2,
+        "word": "プロファイル"
+    },
+    {
+        "num": 2,
+        "word": "ベランダ"
+    },
+    {
+        "num": 2,
+        "word": "ホワイト"
+    },
+    {
+        "num": 2,
+        "word": "ポート"
+    },
+    {
+        "num": 2,
+        "word": "マザボ"
+    },
+    {
+        "num": 2,
+        "word": "メール"
+    },
+    {
+        "num": 2,
+        "word": "モジュール"
+    },
+    {
+        "num": 2,
+        "word": "モニター"
+    },
+    {
+        "num": 2,
+        "word": "ライセンス"
+    },
+    {
+        "num": 2,
+        "word": "レシート"
+    },
+    {
+        "num": 2,
+        "word": "レビュワー"
+    },
+    {
+        "num": 2,
+        "word": "レベル"
+    },
+    {
+        "num": 2,
+        "word": "ワード"
+    },
+    {
+        "num": 2,
+        "word": "一緒"
+    },
+    {
+        "num": 2,
+        "word": "一覧"
+    },
+    {
+        "num": 2,
+        "word": "一連"
+    },
+    {
+        "num": 2,
+        "word": "上村"
+    },
+    {
+        "num": 2,
+        "word": "上達"
+    },
+    {
+        "num": 2,
+        "word": "下人"
+    },
+    {
+        "num": 2,
+        "word": "中間"
+    },
+    {
+        "num": 2,
+        "word": "主張"
+    },
+    {
+        "num": 2,
+        "word": "了解"
+    },
+    {
+        "num": 2,
+        "word": "予備"
+    },
+    {
+        "num": 2,
+        "word": "交"
+    },
+    {
+        "num": 2,
+        "word": "交流"
+    },
+    {
+        "num": 2,
+        "word": "人名"
+    },
+    {
+        "num": 2,
+        "word": "人数"
+    },
+    {
+        "num": 2,
+        "word": "人気"
+    },
+    {
+        "num": 2,
+        "word": "今回"
+    },
+    {
+        "num": 2,
+        "word": "今度"
+    },
+    {
+        "num": 2,
+        "word": "今週"
+    },
+    {
+        "num": 2,
+        "word": "他者"
+    },
+    {
+        "num": 2,
+        "word": "以前"
+    },
+    {
+        "num": 2,
+        "word": "企業"
+    },
+    {
+        "num": 2,
+        "word": "休"
+    },
+    {
+        "num": 2,
+        "word": "会社"
+    },
+    {
+        "num": 2,
+        "word": "位置"
+    },
+    {
+        "num": 2,
+        "word": "何故"
+    },
+    {
+        "num": 2,
+        "word": "併用"
+    },
+    {
+        "num": 2,
+        "word": "価格"
+    },
+    {
+        "num": 2,
+        "word": "個別"
+    },
+    {
+        "num": 2,
+        "word": "停止"
+    },
+    {
+        "num": 2,
+        "word": "催"
+    },
+    {
+        "num": 2,
+        "word": "全国"
+    },
+    {
+        "num": 2,
+        "word": "円"
+    },
+    {
+        "num": 2,
+        "word": "冒頭"
+    },
+    {
+        "num": 2,
+        "word": "列"
+    },
+    {
+        "num": 2,
+        "word": "初版"
+    },
+    {
+        "num": 2,
+        "word": "判別"
+    },
+    {
+        "num": 2,
+        "word": "勉強"
+    },
+    {
+        "num": 2,
+        "word": "動機"
+    },
+    {
+        "num": 2,
+        "word": "十"
+    },
+    {
+        "num": 2,
+        "word": "午前"
+    },
+    {
+        "num": 2,
+        "word": "単位"
+    },
+    {
+        "num": 2,
+        "word": "句点"
+    },
+    {
+        "num": 2,
+        "word": "句読点"
+    },
+    {
+        "num": 2,
+        "word": "可能"
+    },
+    {
+        "num": 2,
+        "word": "可視"
+    },
+    {
+        "num": 2,
+        "word": "名"
+    },
+    {
+        "num": 2,
+        "word": "名前"
+    },
+    {
+        "num": 2,
+        "word": "名古屋"
+    },
+    {
+        "num": 2,
+        "word": "回数"
+    },
+    {
+        "num": 2,
+        "word": "国際"
+    },
+    {
+        "num": 2,
+        "word": "土日"
+    },
+    {
+        "num": 2,
+        "word": "圧縮"
+    },
+    {
+        "num": 2,
+        "word": "地域"
+    },
+    {
+        "num": 2,
+        "word": "基本"
+    },
+    {
+        "num": 2,
+        "word": "場面"
+    },
+    {
+        "num": 2,
+        "word": "変化"
+    },
+    {
+        "num": 2,
+        "word": "変数"
+    },
+    {
+        "num": 2,
+        "word": "変更"
+    },
+    {
+        "num": 2,
+        "word": "大切"
+    },
+    {
+        "num": 2,
+        "word": "奥行"
+    },
+    {
+        "num": 2,
+        "word": "学園"
+    },
+    {
+        "num": 2,
+        "word": "安全"
+    },
+    {
+        "num": 2,
+        "word": "実現"
+    },
+    {
+        "num": 2,
+        "word": "室外"
+    },
+    {
+        "num": 2,
+        "word": "対話"
+    },
+    {
+        "num": 2,
+        "word": "居"
+    },
+    {
+        "num": 2,
+        "word": "工夫"
+    },
+    {
+        "num": 2,
+        "word": "工程"
+    },
+    {
+        "num": 2,
+        "word": "希望"
+    },
+    {
+        "num": 2,
+        "word": "帰"
+    },
+    {
+        "num": 2,
+        "word": "平気"
+    },
+    {
+        "num": 2,
+        "word": "引継"
+    },
+    {
+        "num": 2,
+        "word": "張"
+    },
+    {
+        "num": 2,
+        "word": "当"
+    },
+    {
+        "num": 2,
+        "word": "形式"
+    },
+    {
+        "num": 2,
+        "word": "心"
+    },
+    {
+        "num": 2,
+        "word": "忘"
+    },
+    {
+        "num": 2,
+        "word": "応募"
+    },
+    {
+        "num": 2,
+        "word": "性格"
+    },
+    {
+        "num": 2,
+        "word": "恐"
+    },
+    {
+        "num": 2,
+        "word": "情報処理"
+    },
+    {
+        "num": 2,
+        "word": "感情"
+    },
+    {
+        "num": 2,
+        "word": "手動"
+    },
+    {
+        "num": 2,
+        "word": "扱"
+    },
+    {
+        "num": 2,
+        "word": "抜"
+    },
+    {
+        "num": 2,
+        "word": "指"
+    },
+    {
+        "num": 2,
+        "word": "挙"
+    },
+    {
+        "num": 2,
+        "word": "推定"
+    },
+    {
+        "num": 2,
+        "word": "整理"
+    },
+    {
+        "num": 2,
+        "word": "文字"
+    },
+    {
+        "num": 2,
+        "word": "文面"
+    },
+    {
+        "num": 2,
+        "word": "料理"
+    },
+    {
+        "num": 2,
+        "word": "新"
+    },
+    {
+        "num": 2,
+        "word": "日付"
+    },
+    {
+        "num": 2,
+        "word": "日時"
+    },
+    {
+        "num": 2,
+        "word": "日本"
+    },
+    {
+        "num": 2,
+        "word": "日程"
+    },
+    {
+        "num": 2,
+        "word": "暇"
+    },
+    {
+        "num": 2,
+        "word": "最後"
+    },
+    {
+        "num": 2,
+        "word": "期限"
+    },
+    {
+        "num": 2,
+        "word": "木"
+    },
+    {
+        "num": 2,
+        "word": "本稿"
+    },
+    {
+        "num": 2,
+        "word": "松岡"
+    },
+    {
+        "num": 2,
+        "word": "梅谷"
+    },
+    {
+        "num": 2,
+        "word": "検出"
+    },
+    {
+        "num": 2,
+        "word": "構想"
+    },
+    {
+        "num": 2,
+        "word": "正答"
+    },
+    {
+        "num": 2,
+        "word": "残"
+    },
+    {
+        "num": 2,
+        "word": "残留"
+    },
+    {
+        "num": 2,
+        "word": "毎"
+    },
+    {
+        "num": 2,
+        "word": "決"
+    },
+    {
+        "num": 2,
+        "word": "法"
+    },
+    {
+        "num": 2,
+        "word": "活動"
+    },
+    {
+        "num": 2,
+        "word": "浮"
+    },
+    {
+        "num": 2,
+        "word": "混"
+    },
+    {
+        "num": 2,
+        "word": "減"
+    },
+    {
+        "num": 2,
+        "word": "為"
+    },
+    {
+        "num": 2,
+        "word": "特"
+    },
+    {
+        "num": 2,
+        "word": "状"
+    },
+    {
+        "num": 2,
+        "word": "率"
+    },
+    {
+        "num": 2,
+        "word": "現在地"
+    },
+    {
+        "num": 2,
+        "word": "理論"
+    },
+    {
+        "num": 2,
+        "word": "生"
+    },
+    {
+        "num": 2,
+        "word": "生成"
+    },
+    {
+        "num": 2,
+        "word": "目標"
+    },
+    {
+        "num": 2,
+        "word": "目途"
+    },
+    {
+        "num": 2,
+        "word": "相性"
+    },
+    {
+        "num": 2,
+        "word": "着手"
+    },
+    {
+        "num": 2,
+        "word": "知能"
+    },
+    {
+        "num": 2,
+        "word": "祭"
+    },
+    {
+        "num": 2,
+        "word": "移動"
+    },
+    {
+        "num": 2,
+        "word": "程度"
+    },
+    {
+        "num": 2,
+        "word": "第"
+    },
+    {
+        "num": 2,
+        "word": "簡潔"
+    },
+    {
+        "num": 2,
+        "word": "約"
+    },
+    {
+        "num": 2,
+        "word": "繋"
+    },
+    {
+        "num": 2,
+        "word": "習熟"
+    },
+    {
+        "num": 2,
+        "word": "考案"
+    },
+    {
+        "num": 2,
+        "word": "自体"
+    },
+    {
+        "num": 2,
+        "word": "苦戦"
+    },
+    {
+        "num": 2,
+        "word": "英会話"
+    },
+    {
+        "num": 2,
+        "word": "製"
+    },
+    {
+        "num": 2,
+        "word": "観光"
+    },
+    {
+        "num": 2,
+        "word": "観点"
+    },
+    {
+        "num": 2,
+        "word": "記号"
+    },
+    {
+        "num": 2,
+        "word": "記述"
+    },
+    {
+        "num": 2,
+        "word": "訳"
+    },
+    {
+        "num": 2,
+        "word": "試行錯誤"
+    },
+    {
+        "num": 2,
+        "word": "詰"
+    },
+    {
+        "num": 2,
+        "word": "詳細"
+    },
+    {
+        "num": 2,
+        "word": "語"
+    },
+    {
+        "num": 2,
+        "word": "読書"
+    },
+    {
+        "num": 2,
+        "word": "誰"
+    },
+    {
+        "num": 2,
+        "word": "課"
+    },
+    {
+        "num": 2,
+        "word": "買"
+    },
+    {
+        "num": 2,
+        "word": "費用"
+    },
+    {
+        "num": 2,
+        "word": "赤"
+    },
+    {
+        "num": 2,
+        "word": "赤字"
+    },
+    {
+        "num": 2,
+        "word": "軽"
+    },
+    {
+        "num": 2,
+        "word": "送信"
+    },
+    {
+        "num": 2,
+        "word": "途中"
+    },
+    {
+        "num": 2,
+        "word": "速"
+    },
+    {
+        "num": 2,
+        "word": "速水"
+    },
+    {
+        "num": 2,
+        "word": "連想"
+    },
+    {
+        "num": 2,
+        "word": "連絡"
+    },
+    {
+        "num": 2,
+        "word": "遅"
+    },
+    {
+        "num": 2,
+        "word": "過程"
+    },
+    {
+        "num": 2,
+        "word": "選択"
+    },
+    {
+        "num": 2,
+        "word": "閉"
+    },
+    {
+        "num": 2,
+        "word": "開"
+    },
+    {
+        "num": 2,
+        "word": "閲覧"
+    },
+    {
+        "num": 2,
+        "word": "院生"
+    },
+    {
+        "num": 2,
+        "word": "集計"
+    },
+    {
+        "num": 2,
+        "word": "電源"
+    },
+    {
+        "num": 2,
+        "word": "項"
+    },
+    {
+        "num": 2,
+        "word": "頑張"
+    },
+    {
+        "num": 2,
+        "word": "頻繁"
+    },
+    {
+        "num": 2,
+        "word": "！"
+    },
+    {
+        "num": 1,
+        "word": "AC"
+    },
+    {
+        "num": 1,
+        "word": "AE"
+    },
+    {
+        "num": 1,
+        "word": "AINA"
+    },
+    {
+        "num": 1,
+        "word": "AMD"
+    },
+    {
+        "num": 1,
+        "word": "ASUSTeK"
+    },
+    {
+        "num": 1,
+        "word": "Allocation"
+    },
+    {
+        "num": 1,
+        "word": "Approaches"
+    },
+    {
+        "num": 1,
+        "word": "Benatallah"
+    },
+    {
+        "num": 1,
+        "word": "Bus"
+    },
+    {
+        "num": 1,
+        "word": "CEHTL"
+    },
+    {
+        "num": 1,
+        "word": "CFD"
+    },
+    {
+        "num": 1,
+        "word": "CSS"
+    },
+    {
+        "num": 1,
+        "word": "CSSD"
+    },
+    {
+        "num": 1,
+        "word": "CY"
+    },
+    {
+        "num": 1,
+        "word": "Characteristic"
+    },
+    {
+        "num": 1,
+        "word": "Conversational"
+    },
+    {
+        "num": 1,
+        "word": "Core"
+    },
+    {
+        "num": 1,
+        "word": "Crucial"
+    },
+    {
+        "num": 1,
+        "word": "DB"
+    },
+    {
+        "num": 1,
+        "word": "DDR"
+    },
+    {
+        "num": 1,
+        "word": "DEIM"
+    },
+    {
+        "num": 1,
+        "word": "DELL"
+    },
+    {
+        "num": 1,
+        "word": "DSC"
+    },
+    {
+        "num": 1,
+        "word": "Data"
+    },
+    {
+        "num": 1,
+        "word": "December"
+    },
+    {
+        "num": 1,
+        "word": "Della"
+    },
+    {
+        "num": 1,
+        "word": "Dirichlet"
+    },
+    {
+        "num": 1,
+        "word": "ET"
+    },
+    {
+        "num": 1,
+        "word": "EXTRACTION"
+    },
+    {
+        "num": 1,
+        "word": "Error"
+    },
+    {
+        "num": 1,
+        "word": "Experts"
+    },
+    {
+        "num": 1,
+        "word": "FEATURE"
+    },
+    {
+        "num": 1,
+        "word": "FG"
+    },
+    {
+        "num": 1,
+        "word": "Facebook"
+    },
+    {
+        "num": 1,
+        "word": "Feature"
+    },
+    {
+        "num": 1,
+        "word": "February"
+    },
+    {
+        "num": 1,
+        "word": "Forest"
+    },
+    {
+        "num": 1,
+        "word": "GHz"
+    },
+    {
+        "num": 1,
+        "word": "GT"
+    },
+    {
+        "num": 1,
+        "word": "GUI"
+    },
+    {
+        "num": 1,
+        "word": "Gbps"
+    },
+    {
+        "num": 1,
+        "word": "Github"
+    },
+    {
+        "num": 1,
+        "word": "Graphs"
+    },
+    {
+        "num": 1,
+        "word": "HCII"
+    },
+    {
+        "num": 1,
+        "word": "HDMI"
+    },
+    {
+        "num": 1,
+        "word": "HDML"
+    },
+    {
+        "num": 1,
+        "word": "HP"
+    },
+    {
+        "num": 1,
+        "word": "I"
+    },
+    {
+        "num": 1,
+        "word": "IEICE"
+    },
+    {
+        "num": 1,
+        "word": "IT"
+    },
+    {
+        "num": 1,
+        "word": "Image"
+    },
+    {
+        "num": 1,
+        "word": "Information"
+    },
+    {
+        "num": 1,
+        "word": "J"
+    },
+    {
+        "num": 1,
+        "word": "JACJLRJ"
+    },
+    {
+        "num": 1,
+        "word": "JPG"
+    },
+    {
+        "num": 1,
+        "word": "JSON"
+    },
+    {
+        "num": 1,
+        "word": "JUL"
+    },
+    {
+        "num": 1,
+        "word": "JavaScript"
+    },
+    {
+        "num": 1,
+        "word": "KBSE"
+    },
+    {
+        "num": 1,
+        "word": "KF"
+    },
+    {
+        "num": 1,
+        "word": "KM"
+    },
+    {
+        "num": 1,
+        "word": "Knowledge"
+    },
+    {
+        "num": 1,
+        "word": "LDA"
+    },
+    {
+        "num": 1,
+        "word": "LGA"
+    },
+    {
+        "num": 1,
+        "word": "LOD"
+    },
+    {
+        "num": 1,
+        "word": "LSA"
+    },
+    {
+        "num": 1,
+        "word": "Latent"
+    },
+    {
+        "num": 1,
+        "word": "Learning"
+    },
+    {
+        "num": 1,
+        "word": "Linkdin"
+    },
+    {
+        "num": 1,
+        "word": "Linked"
+    },
+    {
+        "num": 1,
+        "word": "Loia"
+    },
+    {
+        "num": 1,
+        "word": "METHOD"
+    },
+    {
+        "num": 1,
+        "word": "Ma"
+    },
+    {
+        "num": 1,
+        "word": "MentionRank"
+    },
+    {
+        "num": 1,
+        "word": "Microblog"
+    },
+    {
+        "num": 1,
+        "word": "Micron"
+    },
+    {
+        "num": 1,
+        "word": "Modeling"
+    },
+    {
+        "num": 1,
+        "word": "MySQL"
+    },
+    {
+        "num": 1,
+        "word": "NMG"
+    },
+    {
+        "num": 1,
+        "word": "NXU"
+    },
+    {
+        "num": 1,
+        "word": "Networks"
+    },
+    {
+        "num": 1,
+        "word": "No"
+    },
+    {
+        "num": 1,
+        "word": "November"
+    },
+    {
+        "num": 1,
+        "word": "OB"
+    },
+    {
+        "num": 1,
+        "word": "OneDrive"
+    },
+    {
+        "num": 1,
+        "word": "Open"
+    },
+    {
+        "num": 1,
+        "word": "P"
+    },
+    {
+        "num": 1,
+        "word": "PCIe"
+    },
+    {
+        "num": 1,
+        "word": "PHP"
+    },
+    {
+        "num": 1,
+        "word": "POI"
+    },
+    {
+        "num": 1,
+        "word": "Personalized"
+    },
+    {
+        "num": 1,
+        "word": "PlanDetail"
+    },
+    {
+        "num": 1,
+        "word": "Professional"
+    },
+    {
+        "num": 1,
+        "word": "Pscificrim"
+    },
+    {
+        "num": 1,
+        "word": "QMR"
+    },
+    {
+        "num": 1,
+        "word": "QUO"
+    },
+    {
+        "num": 1,
+        "word": "Qiita"
+    },
+    {
+        "num": 1,
+        "word": "README"
+    },
+    {
+        "num": 1,
+        "word": "RQ"
+    },
+    {
+        "num": 1,
+        "word": "Random"
+    },
+    {
+        "num": 1,
+        "word": "RandomForest"
+    },
+    {
+        "num": 1,
+        "word": "Rank"
+    },
+    {
+        "num": 1,
+        "word": "ReadMe"
+    },
+    {
+        "num": 1,
+        "word": "ReserchGate"
+    },
+    {
+        "num": 1,
+        "word": "Results"
+    },
+    {
+        "num": 1,
+        "word": "Retrieval"
+    },
+    {
+        "num": 1,
+        "word": "Retrival"
+    },
+    {
+        "num": 1,
+        "word": "RetweetRank"
+    },
+    {
+        "num": 1,
+        "word": "Rocca"
+    },
+    {
+        "num": 1,
+        "word": "Ryu"
+    },
+    {
+        "num": 1,
+        "word": "SATA"
+    },
+    {
+        "num": 1,
+        "word": "SE"
+    },
+    {
+        "num": 1,
+        "word": "SH"
+    },
+    {
+        "num": 1,
+        "word": "SS"
+    },
+    {
+        "num": 1,
+        "word": "Search"
+    },
+    {
+        "num": 1,
+        "word": "Semantics"
+    },
+    {
+        "num": 1,
+        "word": "Senatore"
+    },
+    {
+        "num": 1,
+        "word": "Sina"
+    },
+    {
+        "num": 1,
+        "word": "SlackAPI"
+    },
+    {
+        "num": 1,
+        "word": "SlideShare"
+    },
+    {
+        "num": 1,
+        "word": "T"
+    },
+    {
+        "num": 1,
+        "word": "TOSHIBA"
+    },
+    {
+        "num": 1,
+        "word": "TensorFlow"
+    },
+    {
+        "num": 1,
+        "word": "Text"
+    },
+    {
+        "num": 1,
+        "word": "TheTokyoStation"
+    },
+    {
+        "num": 1,
+        "word": "User"
+    },
+    {
+        "num": 1,
+        "word": "V"
+    },
+    {
+        "num": 1,
+        "word": "W"
+    },
+    {
+        "num": 1,
+        "word": "WRUUU"
+    },
+    {
+        "num": 1,
+        "word": "Wednesday"
+    },
+    {
+        "num": 1,
+        "word": "XZ"
+    },
+    {
+        "num": 1,
+        "word": "YQGNBO"
+    },
+    {
+        "num": 1,
+        "word": "Yoshikawa"
+    },
+    {
+        "num": 1,
+        "word": "Z"
+    },
+    {
+        "num": 1,
+        "word": "ZOTAC"
+    },
+    {
+        "num": 1,
+        "word": "Zhuang"
+    },
+    {
+        "num": 1,
+        "word": "`"
+    },
+    {
+        "num": 1,
+        "word": "advice"
+    },
+    {
+        "num": 1,
+        "word": "aer"
+    },
+    {
+        "num": 1,
+        "word": "aff"
+    },
+    {
+        "num": 1,
+        "word": "airplane"
+    },
+    {
+        "num": 1,
+        "word": "application"
+    },
+    {
+        "num": 1,
+        "word": "aspx"
+    },
+    {
+        "num": 1,
+        "word": "asuken"
+    },
+    {
+        "num": 1,
+        "word": "atr"
+    },
+    {
+        "num": 1,
+        "word": "attend"
+    },
+    {
+        "num": 1,
+        "word": "bIWDwxV"
+    },
+    {
+        "num": 1,
+        "word": "bN"
+    },
+    {
+        "num": 1,
+        "word": "bandage"
+    },
+    {
+        "num": 1,
+        "word": "based"
+    },
+    {
+        "num": 1,
+        "word": "basis"
+    },
+    {
+        "num": 1,
+        "word": "beekeepers"
+    },
+    {
+        "num": 1,
+        "word": "beescanning"
+    },
+    {
+        "num": 1,
+        "word": "best"
+    },
+    {
+        "num": 1,
+        "word": "bow"
+    },
+    {
+        "num": 1,
+        "word": "caffe"
+    },
+    {
+        "num": 1,
+        "word": "casio"
+    },
+    {
+        "num": 1,
+        "word": "cf"
+    },
+    {
+        "num": 1,
+        "word": "change"
+    },
+    {
+        "num": 1,
+        "word": "classification"
+    },
+    {
+        "num": 1,
+        "word": "cmdty"
+    },
+    {
+        "num": 1,
+        "word": "community"
+    },
+    {
+        "num": 1,
+        "word": "crash"
+    },
+    {
+        "num": 1,
+        "word": "create"
+    },
+    {
+        "num": 1,
+        "word": "css"
+    },
+    {
+        "num": 1,
+        "word": "csv"
+    },
+    {
+        "num": 1,
+        "word": "ctl"
+    },
+    {
+        "num": 1,
+        "word": "database"
+    },
+    {
+        "num": 1,
+        "word": "databese"
+    },
+    {
+        "num": 1,
+        "word": "day"
+    },
+    {
+        "num": 1,
+        "word": "detail"
+    },
+    {
+        "num": 1,
+        "word": "detailset"
+    },
+    {
+        "num": 1,
+        "word": "diet"
+    },
+    {
+        "num": 1,
+        "word": "discovery"
+    },
+    {
+        "num": 1,
+        "word": "dnvStationCode"
+    },
+    {
+        "num": 1,
+        "word": "dnvStationName"
+    },
+    {
+        "num": 1,
+        "word": "dolphin"
+    },
+    {
+        "num": 1,
+        "word": "dp"
+    },
+    {
+        "num": 1,
+        "word": "drop"
+    },
+    {
+        "num": 1,
+        "word": "dynamics"
+    },
+    {
+        "num": 1,
+        "word": "eZqQgK"
+    },
+    {
+        "num": 1,
+        "word": "eng"
+    },
+    {
+        "num": 1,
+        "word": "entity"
+    },
+    {
+        "num": 1,
+        "word": "etadata"
+    },
+    {
+        "num": 1,
+        "word": "explode"
+    },
+    {
+        "num": 1,
+        "word": "ferry"
+    },
+    {
+        "num": 1,
+        "word": "fix"
+    },
+    {
+        "num": 1,
+        "word": "function"
+    },
+    {
+        "num": 1,
+        "word": "functions"
+    },
+    {
+        "num": 1,
+        "word": "good"
+    },
+    {
+        "num": 1,
+        "word": "grad"
+    },
+    {
+        "num": 1,
+        "word": "grained"
+    },
+    {
+        "num": 1,
+        "word": "graph"
+    },
+    {
+        "num": 1,
+        "word": "gyH"
+    },
+    {
+        "num": 1,
+        "word": "hakone"
+    },
+    {
+        "num": 1,
+        "word": "hand"
+    },
+    {
+        "num": 1,
+        "word": "hatenablog"
+    },
+    {
+        "num": 1,
+        "word": "head"
+    },
+    {
+        "num": 1,
+        "word": "heterogeneity"
+    },
+    {
+        "num": 1,
+        "word": "hour"
+    },
+    {
+        "num": 1,
+        "word": "human"
+    },
+    {
+        "num": 1,
+        "word": "iAoZHWJ"
+    },
+    {
+        "num": 1,
+        "word": "ihFtQG"
+    },
+    {
+        "num": 1,
+        "word": "index"
+    },
+    {
+        "num": 1,
+        "word": "init"
+    },
+    {
+        "num": 1,
+        "word": "instruct"
+    },
+    {
+        "num": 1,
+        "word": "intercitybus"
+    },
+    {
+        "num": 1,
+        "word": "its"
+    },
+    {
+        "num": 1,
+        "word": "ja"
+    },
+    {
+        "num": 1,
+        "word": "json"
+    },
+    {
+        "num": 1,
+        "word": "keisan"
+    },
+    {
+        "num": 1,
+        "word": "keras"
+    },
+    {
+        "num": 1,
+        "word": "kernel"
+    },
+    {
+        "num": 1,
+        "word": "kittinnpe"
+    },
+    {
+        "num": 1,
+        "word": "knowledge"
+    },
+    {
+        "num": 1,
+        "word": "kumada"
+    },
+    {
+        "num": 1,
+        "word": "latent"
+    },
+    {
+        "num": 1,
+        "word": "learning"
+    },
+    {
+        "num": 1,
+        "word": "linux"
+    },
+    {
+        "num": 1,
+        "word": "list"
+    },
+    {
+        "num": 1,
+        "word": "longstay"
+    },
+    {
+        "num": 1,
+        "word": "lt"
+    },
+    {
+        "num": 1,
+        "word": "manual"
+    },
+    {
+        "num": 1,
+        "word": "matome"
+    },
+    {
+        "num": 1,
+        "word": "matsumoto"
+    },
+    {
+        "num": 1,
+        "word": "measurements"
+    },
+    {
+        "num": 1,
+        "word": "memory"
+    },
+    {
+        "num": 1,
+        "word": "microATX"
+    },
+    {
+        "num": 1,
+        "word": "minute"
+    },
+    {
+        "num": 1,
+        "word": "modeling"
+    },
+    {
+        "num": 1,
+        "word": "month"
+    },
+    {
+        "num": 1,
+        "word": "moon"
+    },
+    {
+        "num": 1,
+        "word": "mtrplbus"
+    },
+    {
+        "num": 1,
+        "word": "n"
+    },
+    {
+        "num": 1,
+        "word": "naver"
+    },
+    {
+        "num": 1,
+        "word": "navitime"
+    },
+    {
+        "num": 1,
+        "word": "no"
+    },
+    {
+        "num": 1,
+        "word": "nutrition"
+    },
+    {
+        "num": 1,
+        "word": "nzeid"
+    },
+    {
+        "num": 1,
+        "word": "obscure"
+    },
+    {
+        "num": 1,
+        "word": "odai"
+    },
+    {
+        "num": 1,
+        "word": "openspc"
+    },
+    {
+        "num": 1,
+        "word": "or"
+    },
+    {
+        "num": 1,
+        "word": "orderdb"
+    },
+    {
+        "num": 1,
+        "word": "ordinary"
+    },
+    {
+        "num": 1,
+        "word": "orvStationCode"
+    },
+    {
+        "num": 1,
+        "word": "orvStationName"
+    },
+    {
+        "num": 1,
+        "word": "othexprs"
+    },
+    {
+        "num": 1,
+        "word": "pa"
+    },
+    {
+        "num": 1,
+        "word": "pacificrim"
+    },
+    {
+        "num": 1,
+        "word": "papers"
+    },
+    {
+        "num": 1,
+        "word": "pattern"
+    },
+    {
+        "num": 1,
+        "word": "perspective"
+    },
+    {
+        "num": 1,
+        "word": "pg"
+    },
+    {
+        "num": 1,
+        "word": "pokemon"
+    },
+    {
+        "num": 1,
+        "word": "powell"
+    },
+    {
+        "num": 1,
+        "word": "ppt"
+    },
+    {
+        "num": 1,
+        "word": "properties"
+    },
+    {
+        "num": 1,
+        "word": "pubs"
+    },
+    {
+        "num": 1,
+        "word": "rc"
+    },
+    {
+        "num": 1,
+        "word": "rd"
+    },
+    {
+        "num": 1,
+        "word": "recommendation"
+    },
+    {
+        "num": 1,
+        "word": "registration"
+    },
+    {
+        "num": 1,
+        "word": "reibun"
+    },
+    {
+        "num": 1,
+        "word": "remind"
+    },
+    {
+        "num": 1,
+        "word": "research"
+    },
+    {
+        "num": 1,
+        "word": "reserchGate"
+    },
+    {
+        "num": 1,
+        "word": "resolve"
+    },
+    {
+        "num": 1,
+        "word": "reviews"
+    },
+    {
+        "num": 1,
+        "word": "rn"
+    },
+    {
+        "num": 1,
+        "word": "root"
+    },
+    {
+        "num": 1,
+        "word": "rsv"
+    },
+    {
+        "num": 1,
+        "word": "rurubu"
+    },
+    {
+        "num": 1,
+        "word": "rv"
+    },
+    {
+        "num": 1,
+        "word": "sagyouhoukoku"
+    },
+    {
+        "num": 1,
+        "word": "sample"
+    },
+    {
+        "num": 1,
+        "word": "schedule"
+    },
+    {
+        "num": 1,
+        "word": "scv"
+    },
+    {
+        "num": 1,
+        "word": "searchlist"
+    },
+    {
+        "num": 1,
+        "word": "semantic"
+    },
+    {
+        "num": 1,
+        "word": "setup"
+    },
+    {
+        "num": 1,
+        "word": "similarity"
+    },
+    {
+        "num": 1,
+        "word": "sizesearch"
+    },
+    {
+        "num": 1,
+        "word": "sk"
+    },
+    {
+        "num": 1,
+        "word": "slackapi"
+    },
+    {
+        "num": 1,
+        "word": "slacklog"
+    },
+    {
+        "num": 1,
+        "word": "sort"
+    },
+    {
+        "num": 1,
+        "word": "sprexprs"
+    },
+    {
+        "num": 1,
+        "word": "ssh"
+    },
+    {
+        "num": 1,
+        "word": "st"
+    },
+    {
+        "num": 1,
+        "word": "star"
+    },
+    {
+        "num": 1,
+        "word": "system"
+    },
+    {
+        "num": 1,
+        "word": "t"
+    },
+    {
+        "num": 1,
+        "word": "techcrunch"
+    },
+    {
+        "num": 1,
+        "word": "technique"
+    },
+    {
+        "num": 1,
+        "word": "tensorflow"
+    },
+    {
+        "num": 1,
+        "word": "test"
+    },
+    {
+        "num": 1,
+        "word": "text"
+    },
+    {
+        "num": 1,
+        "word": "tf"
+    },
+    {
+        "num": 1,
+        "word": "toxbe"
+    },
+    {
+        "num": 1,
+        "word": "toxweblog"
+    },
+    {
+        "num": 1,
+        "word": "transfer"
+    },
+    {
+        "num": 1,
+        "word": "travel"
+    },
+    {
+        "num": 1,
+        "word": "ts"
+    },
+    {
+        "num": 1,
+        "word": "type"
+    },
+    {
+        "num": 1,
+        "word": "u"
+    },
+    {
+        "num": 1,
+        "word": "ubuntu"
+    },
+    {
+        "num": 1,
+        "word": "utrexprs"
+    },
+    {
+        "num": 1,
+        "word": "wspeed"
+    },
+    {
+        "num": 1,
+        "word": "xBlJI"
+    },
+    {
+        "num": 1,
+        "word": "yoshichiha"
+    },
+    {
+        "num": 1,
+        "word": "youtube"
+    },
+    {
+        "num": 1,
+        "word": "zemigasyuku"
+    },
+    {
+        "num": 1,
+        "word": "{"
+    },
+    {
+        "num": 1,
+        "word": "}"
+    },
+    {
+        "num": 1,
+        "word": "´"
+    },
+    {
+        "num": 1,
+        "word": "ω"
+    },
+    {
+        "num": 1,
+        "word": "’"
+    },
+    {
+        "num": 1,
+        "word": "〜"
+    },
+    {
+        "num": 1,
+        "word": "アウトプット"
+    },
+    {
+        "num": 1,
+        "word": "アクセス"
+    },
+    {
+        "num": 1,
+        "word": "アクティビティ"
+    },
+    {
+        "num": 1,
+        "word": "アドバイザー"
+    },
+    {
+        "num": 1,
+        "word": "アピール"
+    },
+    {
+        "num": 1,
+        "word": "アプリ"
+    },
+    {
+        "num": 1,
+        "word": "アプリケーション"
+    },
+    {
+        "num": 1,
+        "word": "アレ"
+    },
+    {
+        "num": 1,
+        "word": "アーム"
+    },
+    {
+        "num": 1,
+        "word": "インスタンス"
+    },
+    {
+        "num": 1,
+        "word": "インタフェース"
+    },
+    {
+        "num": 1,
+        "word": "インターネット"
+    },
+    {
+        "num": 1,
+        "word": "インド"
+    },
+    {
+        "num": 1,
+        "word": "インドネシア"
+    },
+    {
+        "num": 1,
+        "word": "ウインナー"
+    },
+    {
+        "num": 1,
+        "word": "ウォーキング"
+    },
+    {
+        "num": 1,
+        "word": "エイスース"
+    },
+    {
+        "num": 1,
+        "word": "オッケー"
+    },
+    {
+        "num": 1,
+        "word": "オブジェクト"
+    },
+    {
+        "num": 1,
+        "word": "カウント"
+    },
+    {
+        "num": 1,
+        "word": "キャッシュ"
+    },
+    {
+        "num": 1,
+        "word": "キャベツ"
+    },
+    {
+        "num": 1,
+        "word": "キーパーン"
+    },
+    {
+        "num": 1,
+        "word": "キーボード"
+    },
+    {
+        "num": 1,
+        "word": "クォリティ"
+    },
+    {
+        "num": 1,
+        "word": "クリア"
+    },
+    {
+        "num": 1,
+        "word": "クリック"
+    },
+    {
+        "num": 1,
+        "word": "グレード"
+    },
+    {
+        "num": 1,
+        "word": "ケース"
+    },
+    {
+        "num": 1,
+        "word": "ケーブル"
+    },
+    {
+        "num": 1,
+        "word": "コア"
+    },
+    {
+        "num": 1,
+        "word": "コップ"
+    },
+    {
+        "num": 1,
+        "word": "コピー"
+    },
+    {
+        "num": 1,
+        "word": "コマンド"
+    },
+    {
+        "num": 1,
+        "word": "コミュニケーション"
+    },
+    {
+        "num": 1,
+        "word": "コード"
+    },
+    {
+        "num": 1,
+        "word": "ゴミ箱"
+    },
+    {
+        "num": 1,
+        "word": "ゴール"
+    },
+    {
+        "num": 1,
+        "word": "サイエンス"
+    },
+    {
+        "num": 1,
+        "word": "サイド"
+    },
+    {
+        "num": 1,
+        "word": "サラダ油"
+    },
+    {
+        "num": 1,
+        "word": "シャット"
+    },
+    {
+        "num": 1,
+        "word": "ショット"
+    },
+    {
+        "num": 1,
+        "word": "ショートケーキ"
+    },
+    {
+        "num": 1,
+        "word": "シール"
+    },
+    {
+        "num": 1,
+        "word": "ジャンル"
+    },
+    {
+        "num": 1,
+        "word": "スキップ"
+    },
+    {
+        "num": 1,
+        "word": "スクリーン"
+    },
+    {
+        "num": 1,
+        "word": "ステップ"
+    },
+    {
+        "num": 1,
+        "word": "ステーション"
+    },
+    {
+        "num": 1,
+        "word": "スリム"
+    },
+    {
+        "num": 1,
+        "word": "スレッド"
+    },
+    {
+        "num": 1,
+        "word": "スワロウ"
+    },
+    {
+        "num": 1,
+        "word": "セッション"
+    },
+    {
+        "num": 1,
+        "word": "セット"
+    },
+    {
+        "num": 1,
+        "word": "ソーシャル"
+    },
+    {
+        "num": 1,
+        "word": "ソーシャルメディア"
+    },
+    {
+        "num": 1,
+        "word": "タイプ"
+    },
+    {
+        "num": 1,
+        "word": "タイミング"
+    },
+    {
+        "num": 1,
+        "word": "タグ"
+    },
+    {
+        "num": 1,
+        "word": "ダウン"
+    },
+    {
+        "num": 1,
+        "word": "ダメ"
+    },
+    {
+        "num": 1,
+        "word": "チーズ"
+    },
+    {
+        "num": 1,
+        "word": "ツイート"
+    },
+    {
+        "num": 1,
+        "word": "ツリー"
+    },
+    {
+        "num": 1,
+        "word": "テキスト"
+    },
+    {
+        "num": 1,
+        "word": "テクノロジー"
+    },
+    {
+        "num": 1,
+        "word": "テーマ"
+    },
+    {
+        "num": 1,
+        "word": "ディープランニング"
+    },
+    {
+        "num": 1,
+        "word": "ディープラーニング"
+    },
+    {
+        "num": 1,
+        "word": "トレードオフ"
+    },
+    {
+        "num": 1,
+        "word": "ドコモ"
+    },
+    {
+        "num": 1,
+        "word": "ドルフィン"
+    },
+    {
+        "num": 1,
+        "word": "ネット"
+    },
+    {
+        "num": 1,
+        "word": "ノータッチ"
+    },
+    {
+        "num": 1,
+        "word": "ノート"
+    },
+    {
+        "num": 1,
+        "word": "ハッシュ"
+    },
+    {
+        "num": 1,
+        "word": "ハンコ"
+    },
+    {
+        "num": 1,
+        "word": "バグ"
+    },
+    {
+        "num": 1,
+        "word": "バラ"
+    },
+    {
+        "num": 1,
+        "word": "パターン"
+    },
+    {
+        "num": 1,
+        "word": "パッケージ"
+    },
+    {
+        "num": 1,
+        "word": "パワポ"
+    },
+    {
+        "num": 1,
+        "word": "パーツ"
+    },
+    {
+        "num": 1,
+        "word": "ヒェー"
+    },
+    {
+        "num": 1,
+        "word": "ファイヤーウォール"
+    },
+    {
+        "num": 1,
+        "word": "フロー"
+    },
+    {
+        "num": 1,
+        "word": "ブラウザベース"
+    },
+    {
+        "num": 1,
+        "word": "プラザ"
+    },
+    {
+        "num": 1,
+        "word": "プラットフォーム"
+    },
+    {
+        "num": 1,
+        "word": "プラブラム"
+    },
+    {
+        "num": 1,
+        "word": "ホーム"
+    },
+    {
+        "num": 1,
+        "word": "ボタン"
+    },
+    {
+        "num": 1,
+        "word": "ボリューム"
+    },
+    {
+        "num": 1,
+        "word": "ポスター"
+    },
+    {
+        "num": 1,
+        "word": "マイクロブログ"
+    },
+    {
+        "num": 1,
+        "word": "マウス"
+    },
+    {
+        "num": 1,
+        "word": "マウンタ"
+    },
+    {
+        "num": 1,
+        "word": "マザー"
+    },
+    {
+        "num": 1,
+        "word": "マシ"
+    },
+    {
+        "num": 1,
+        "word": "マッチング"
+    },
+    {
+        "num": 1,
+        "word": "マヨネーズ"
+    },
+    {
+        "num": 1,
+        "word": "マレーシア"
+    },
+    {
+        "num": 1,
+        "word": "メソッド"
+    },
+    {
+        "num": 1,
+        "word": "メモリー"
+    },
+    {
+        "num": 1,
+        "word": "モチベーション"
+    },
+    {
+        "num": 1,
+        "word": "ラック"
+    },
+    {
+        "num": 1,
+        "word": "ラベル"
+    },
+    {
+        "num": 1,
+        "word": "ラーニング"
+    },
+    {
+        "num": 1,
+        "word": "リスニング"
+    },
+    {
+        "num": 1,
+        "word": "リソース"
+    },
+    {
+        "num": 1,
+        "word": "リツイート"
+    },
+    {
+        "num": 1,
+        "word": "リマ"
+    },
+    {
+        "num": 1,
+        "word": "リマインダー"
+    },
+    {
+        "num": 1,
+        "word": "リモート"
+    },
+    {
+        "num": 1,
+        "word": "ループ"
+    },
+    {
+        "num": 1,
+        "word": "レポート"
+    },
+    {
+        "num": 1,
+        "word": "ログイン"
+    },
+    {
+        "num": 1,
+        "word": "ワーキング"
+    },
+    {
+        "num": 1,
+        "word": "ヴィクトリア"
+    },
+    {
+        "num": 1,
+        "word": "一度"
+    },
+    {
+        "num": 1,
+        "word": "一般"
+    },
+    {
+        "num": 1,
+        "word": "一辺倒"
+    },
+    {
+        "num": 1,
+        "word": "上位"
+    },
+    {
+        "num": 1,
+        "word": "下高井戸"
+    },
+    {
+        "num": 1,
+        "word": "不備"
+    },
+    {
+        "num": 1,
+        "word": "不明"
+    },
+    {
+        "num": 1,
+        "word": "与"
+    },
+    {
+        "num": 1,
+        "word": "両"
+    },
+    {
+        "num": 1,
+        "word": "両方"
+    },
+    {
+        "num": 1,
+        "word": "両親"
+    },
+    {
+        "num": 1,
+        "word": "並行"
+    },
+    {
+        "num": 1,
+        "word": "中心"
+    },
+    {
+        "num": 1,
+        "word": "主観"
+    },
+    {
+        "num": 1,
+        "word": "九州大学"
+    },
+    {
+        "num": 1,
+        "word": "予"
+    },
+    {
+        "num": 1,
+        "word": "予想"
+    },
+    {
+        "num": 1,
+        "word": "事故"
+    },
+    {
+        "num": 1,
+        "word": "交換"
+    },
+    {
+        "num": 1,
+        "word": "人格"
+    },
+    {
+        "num": 1,
+        "word": "人身"
+    },
+    {
+        "num": 1,
+        "word": "付随"
+    },
+    {
+        "num": 1,
+        "word": "以内"
+    },
+    {
+        "num": 1,
+        "word": "以外"
+    },
+    {
+        "num": 1,
+        "word": "任"
+    },
+    {
+        "num": 1,
+        "word": "任意"
+    },
+    {
+        "num": 1,
+        "word": "伊都"
+    },
+    {
+        "num": 1,
+        "word": "会話"
+    },
+    {
+        "num": 1,
+        "word": "体裁"
+    },
+    {
+        "num": 1,
+        "word": "体重"
+    },
+    {
+        "num": 1,
+        "word": "体験"
+    },
+    {
+        "num": 1,
+        "word": "何処"
+    },
+    {
+        "num": 1,
+        "word": "余裕"
+    },
+    {
+        "num": 1,
+        "word": "余談"
+    },
+    {
+        "num": 1,
+        "word": "保存"
+    },
+    {
+        "num": 1,
+        "word": "修復"
+    },
+    {
+        "num": 1,
+        "word": "個所"
+    },
+    {
+        "num": 1,
+        "word": "停電"
+    },
+    {
+        "num": 1,
+        "word": "健康"
+    },
+    {
+        "num": 1,
+        "word": "側面"
+    },
+    {
+        "num": 1,
+        "word": "備"
+    },
+    {
+        "num": 1,
+        "word": "備品"
+    },
+    {
+        "num": 1,
+        "word": "優"
+    },
+    {
+        "num": 1,
+        "word": "優先"
+    },
+    {
+        "num": 1,
+        "word": "先日"
+    },
+    {
+        "num": 1,
+        "word": "入力"
+    },
+    {
+        "num": 1,
+        "word": "入口"
+    },
+    {
+        "num": 1,
+        "word": "全員"
+    },
+    {
+        "num": 1,
+        "word": "全文"
+    },
+    {
+        "num": 1,
+        "word": "全部"
+    },
+    {
+        "num": 1,
+        "word": "共催"
+    },
+    {
+        "num": 1,
+        "word": "共同"
+    },
+    {
+        "num": 1,
+        "word": "共有"
+    },
+    {
+        "num": 1,
+        "word": "共起"
+    },
+    {
+        "num": 1,
+        "word": "具合"
+    },
+    {
+        "num": 1,
+        "word": "内蔵"
+    },
+    {
+        "num": 1,
+        "word": "再"
+    },
+    {
+        "num": 1,
+        "word": "再度"
+    },
+    {
+        "num": 1,
+        "word": "再掲"
+    },
+    {
+        "num": 1,
+        "word": "再現"
+    },
+    {
+        "num": 1,
+        "word": "冗長"
+    },
+    {
+        "num": 1,
+        "word": "写真"
+    },
+    {
+        "num": 1,
+        "word": "処"
+    },
+    {
+        "num": 1,
+        "word": "処置"
+    },
+    {
+        "num": 1,
+        "word": "出来"
+    },
+    {
+        "num": 1,
+        "word": "出発"
+    },
+    {
+        "num": 1,
+        "word": "函館"
+    },
+    {
+        "num": 1,
+        "word": "分割"
+    },
+    {
+        "num": 1,
+        "word": "分解"
+    },
+    {
+        "num": 1,
+        "word": "判断"
+    },
+    {
+        "num": 1,
+        "word": "利尻"
+    },
+    {
+        "num": 1,
+        "word": "制作"
+    },
+    {
+        "num": 1,
+        "word": "券"
+    },
+    {
+        "num": 1,
+        "word": "前提"
+    },
+    {
+        "num": 1,
+        "word": "前書"
+    },
+    {
+        "num": 1,
+        "word": "割合"
+    },
+    {
+        "num": 1,
+        "word": "力"
+    },
+    {
+        "num": 1,
+        "word": "加味"
+    },
+    {
+        "num": 1,
+        "word": "助"
+    },
+    {
+        "num": 1,
+        "word": "動画"
+    },
+    {
+        "num": 1,
+        "word": "区"
+    },
+    {
+        "num": 1,
+        "word": "半"
+    },
+    {
+        "num": 1,
+        "word": "半分"
+    },
+    {
+        "num": 1,
+        "word": "占有"
+    },
+    {
+        "num": 1,
+        "word": "危険"
+    },
+    {
+        "num": 1,
+        "word": "卵"
+    },
+    {
+        "num": 1,
+        "word": "原"
+    },
+    {
+        "num": 1,
+        "word": "参照"
+    },
+    {
+        "num": 1,
+        "word": "反応"
+    },
+    {
+        "num": 1,
+        "word": "反省"
+    },
+    {
+        "num": 1,
+        "word": "収"
+    },
+    {
+        "num": 1,
+        "word": "受"
+    },
+    {
+        "num": 1,
+        "word": "受入"
+    },
+    {
+        "num": 1,
+        "word": "号"
+    },
+    {
+        "num": 1,
+        "word": "各自"
+    },
+    {
+        "num": 1,
+        "word": "合同"
+    },
+    {
+        "num": 1,
+        "word": "合計"
+    },
+    {
+        "num": 1,
+        "word": "同士"
+    },
+    {
+        "num": 1,
+        "word": "名古屋大学"
+    },
+    {
+        "num": 1,
+        "word": "名城大学"
+    },
+    {
+        "num": 1,
+        "word": "向"
+    },
+    {
+        "num": 1,
+        "word": "向上"
+    },
+    {
+        "num": 1,
+        "word": "告知"
+    },
+    {
+        "num": 1,
+        "word": "周知"
+    },
+    {
+        "num": 1,
+        "word": "味"
+    },
+    {
+        "num": 1,
+        "word": "嗜好"
+    },
+    {
+        "num": 1,
+        "word": "回"
+    },
+    {
+        "num": 1,
+        "word": "図上"
+    },
+    {
+        "num": 1,
+        "word": "図書館"
+    },
+    {
+        "num": 1,
+        "word": "土産"
+    },
+    {
+        "num": 1,
+        "word": "地"
+    },
+    {
+        "num": 1,
+        "word": "地価"
+    },
+    {
+        "num": 1,
+        "word": "地味"
+    },
+    {
+        "num": 1,
+        "word": "地図"
+    },
+    {
+        "num": 1,
+        "word": "地方"
+    },
+    {
+        "num": 1,
+        "word": "型"
+    },
+    {
+        "num": 1,
+        "word": "埋"
+    },
+    {
+        "num": 1,
+        "word": "基盤"
+    },
+    {
+        "num": 1,
+        "word": "基礎"
+    },
+    {
+        "num": 1,
+        "word": "場"
+    },
+    {
+        "num": 1,
+        "word": "塩"
+    },
+    {
+        "num": 1,
+        "word": "壱"
+    },
+    {
+        "num": 1,
+        "word": "売"
+    },
+    {
+        "num": 1,
+        "word": "変"
+    },
+    {
+        "num": 1,
+        "word": "変動"
+    },
+    {
+        "num": 1,
+        "word": "変換"
+    },
+    {
+        "num": 1,
+        "word": "多少"
+    },
+    {
+        "num": 1,
+        "word": "多数"
+    },
+    {
+        "num": 1,
+        "word": "大半"
+    },
+    {
+        "num": 1,
+        "word": "大学院"
+    },
+    {
+        "num": 1,
+        "word": "大滝"
+    },
+    {
+        "num": 1,
+        "word": "大量"
+    },
+    {
+        "num": 1,
+        "word": "大雑把"
+    },
+    {
+        "num": 1,
+        "word": "奥田"
+    },
+    {
+        "num": 1,
+        "word": "奴"
+    },
+    {
+        "num": 1,
+        "word": "好"
+    },
+    {
+        "num": 1,
+        "word": "如"
+    },
+    {
+        "num": 1,
+        "word": "子"
+    },
+    {
+        "num": 1,
+        "word": "学部"
+    },
+    {
+        "num": 1,
+        "word": "宇部"
+    },
+    {
+        "num": 1,
+        "word": "完全"
+    },
+    {
+        "num": 1,
+        "word": "宜"
+    },
+    {
+        "num": 1,
+        "word": "実"
+    },
+    {
+        "num": 1,
+        "word": "実用"
+    },
+    {
+        "num": 1,
+        "word": "実践"
+    },
+    {
+        "num": 1,
+        "word": "宮崎"
+    },
+    {
+        "num": 1,
+        "word": "家"
+    },
+    {
+        "num": 1,
+        "word": "寄"
+    },
+    {
+        "num": 1,
+        "word": "対応"
+    },
+    {
+        "num": 1,
+        "word": "導出"
+    },
+    {
+        "num": 1,
+        "word": "尺度"
+    },
+    {
+        "num": 1,
+        "word": "幅"
+    },
+    {
+        "num": 1,
+        "word": "平成"
+    },
+    {
+        "num": 1,
+        "word": "年次"
+    },
+    {
+        "num": 1,
+        "word": "広"
+    },
+    {
+        "num": 1,
+        "word": "度合"
+    },
+    {
+        "num": 1,
+        "word": "強"
+    },
+    {
+        "num": 1,
+        "word": "影"
+    },
+    {
+        "num": 1,
+        "word": "得意"
+    },
+    {
+        "num": 1,
+        "word": "復旧"
+    },
+    {
+        "num": 1,
+        "word": "微"
+    },
+    {
+        "num": 1,
+        "word": "微妙"
+    },
+    {
+        "num": 1,
+        "word": "心細"
+    },
+    {
+        "num": 1,
+        "word": "応"
+    },
+    {
+        "num": 1,
+        "word": "応援"
+    },
+    {
+        "num": 1,
+        "word": "応決"
+    },
+    {
+        "num": 1,
+        "word": "応用"
+    },
+    {
+        "num": 1,
+        "word": "念頭"
+    },
+    {
+        "num": 1,
+        "word": "怒"
+    },
+    {
+        "num": 1,
+        "word": "悟"
+    },
+    {
+        "num": 1,
+        "word": "情"
+    },
+    {
+        "num": 1,
+        "word": "惹"
+    },
+    {
+        "num": 1,
+        "word": "意図"
+    },
+    {
+        "num": 1,
+        "word": "意欲"
+    },
+    {
+        "num": 1,
+        "word": "意識"
+    },
+    {
+        "num": 1,
+        "word": "慣"
+    },
+    {
+        "num": 1,
+        "word": "懇親"
+    },
+    {
+        "num": 1,
+        "word": "成"
+    },
+    {
+        "num": 1,
+        "word": "所"
+    },
+    {
+        "num": 1,
+        "word": "手安"
+    },
+    {
+        "num": 1,
+        "word": "手段"
+    },
+    {
+        "num": 1,
+        "word": "手軽"
+    },
+    {
+        "num": 1,
+        "word": "手間取"
+    },
+    {
+        "num": 1,
+        "word": "抜粋"
+    },
+    {
+        "num": 1,
+        "word": "押"
+    },
+    {
+        "num": 1,
+        "word": "招待"
+    },
+    {
+        "num": 1,
+        "word": "持続"
+    },
+    {
+        "num": 1,
+        "word": "指標"
+    },
+    {
+        "num": 1,
+        "word": "指示"
+    },
+    {
+        "num": 1,
+        "word": "挑戦"
+    },
+    {
+        "num": 1,
+        "word": "捗"
+    },
+    {
+        "num": 1,
+        "word": "捨"
+    },
+    {
+        "num": 1,
+        "word": "排除"
+    },
+    {
+        "num": 1,
+        "word": "掘"
+    },
+    {
+        "num": 1,
+        "word": "描"
+    },
+    {
+        "num": 1,
+        "word": "提示"
+    },
+    {
+        "num": 1,
+        "word": "換"
+    },
+    {
+        "num": 1,
+        "word": "搭載"
+    },
+    {
+        "num": 1,
+        "word": "操作"
+    },
+    {
+        "num": 1,
+        "word": "改"
+    },
+    {
+        "num": 1,
+        "word": "改造"
+    },
+    {
+        "num": 1,
+        "word": "放"
+    },
+    {
+        "num": 1,
+        "word": "放課後"
+    },
+    {
+        "num": 1,
+        "word": "政治"
+    },
+    {
+        "num": 1,
+        "word": "数式"
+    },
+    {
+        "num": 1,
+        "word": "文"
+    },
+    {
+        "num": 1,
+        "word": "文字種"
+    },
+    {
+        "num": 1,
+        "word": "文書"
+    },
+    {
+        "num": 1,
+        "word": "文言"
+    },
+    {
+        "num": 1,
+        "word": "既"
+    },
+    {
+        "num": 1,
+        "word": "日照"
+    },
+    {
+        "num": 1,
+        "word": "昼"
+    },
+    {
+        "num": 1,
+        "word": "時点"
+    },
+    {
+        "num": 1,
+        "word": "普及"
+    },
+    {
+        "num": 1,
+        "word": "普段"
+    },
+    {
+        "num": 1,
+        "word": "更"
+    },
+    {
+        "num": 1,
+        "word": "書道"
+    },
+    {
+        "num": 1,
+        "word": "最初"
+    },
+    {
+        "num": 1,
+        "word": "最新"
+    },
+    {
+        "num": 1,
+        "word": "最適"
+    },
+    {
+        "num": 1,
+        "word": "有効"
+    },
+    {
+        "num": 1,
+        "word": "有名"
+    },
+    {
+        "num": 1,
+        "word": "有無"
+    },
+    {
+        "num": 1,
+        "word": "有益"
+    },
+    {
+        "num": 1,
+        "word": "期間"
+    },
+    {
+        "num": 1,
+        "word": "未"
+    },
+    {
+        "num": 1,
+        "word": "未完"
+    },
+    {
+        "num": 1,
+        "word": "本人"
+    },
+    {
+        "num": 1,
+        "word": "来月"
+    },
+    {
+        "num": 1,
+        "word": "東山"
+    },
+    {
+        "num": 1,
+        "word": "松本"
+    },
+    {
+        "num": 1,
+        "word": "栄養素"
+    },
+    {
+        "num": 1,
+        "word": "栗原"
+    },
+    {
+        "num": 1,
+        "word": "校内"
+    },
+    {
+        "num": 1,
+        "word": "格納"
+    },
+    {
+        "num": 1,
+        "word": "格調"
+    },
+    {
+        "num": 1,
+        "word": "案"
+    },
+    {
+        "num": 1,
+        "word": "棚"
+    },
+    {
+        "num": 1,
+        "word": "楽"
+    },
+    {
+        "num": 1,
+        "word": "構造"
+    },
+    {
+        "num": 1,
+        "word": "様"
+    },
+    {
+        "num": 1,
+        "word": "様子"
+    },
+    {
+        "num": 1,
+        "word": "次第"
+    },
+    {
+        "num": 1,
+        "word": "止"
+    },
+    {
+        "num": 1,
+        "word": "正常"
+    },
+    {
+        "num": 1,
+        "word": "段階"
+    },
+    {
+        "num": 1,
+        "word": "気分"
+    },
+    {
+        "num": 1,
+        "word": "気楽"
+    },
+    {
+        "num": 1,
+        "word": "気温"
+    },
+    {
+        "num": 1,
+        "word": "永久"
+    },
+    {
+        "num": 1,
+        "word": "決議"
+    },
+    {
+        "num": 1,
+        "word": "沼"
+    },
+    {
+        "num": 1,
+        "word": "泥沼"
+    },
+    {
+        "num": 1,
+        "word": "注意"
+    },
+    {
+        "num": 1,
+        "word": "注目"
+    },
+    {
+        "num": 1,
+        "word": "流行"
+    },
+    {
+        "num": 1,
+        "word": "混乱"
+    },
+    {
+        "num": 1,
+        "word": "混在"
+    },
+    {
+        "num": 1,
+        "word": "清原"
+    },
+    {
+        "num": 1,
+        "word": "清水"
+    },
+    {
+        "num": 1,
+        "word": "済"
+    },
+    {
+        "num": 1,
+        "word": "渡"
+    },
+    {
+        "num": 1,
+        "word": "温泉"
+    },
+    {
+        "num": 1,
+        "word": "滅茶苦茶"
+    },
+    {
+        "num": 1,
+        "word": "演出"
+    },
+    {
+        "num": 1,
+        "word": "潜在"
+    },
+    {
+        "num": 1,
+        "word": "火"
+    },
+    {
+        "num": 1,
+        "word": "無印"
+    },
+    {
+        "num": 1,
+        "word": "無理"
+    },
+    {
+        "num": 1,
+        "word": "無線"
+    },
+    {
+        "num": 1,
+        "word": "焼"
+    },
+    {
+        "num": 1,
+        "word": "燃"
+    },
+    {
+        "num": 1,
+        "word": "特殊"
+    },
+    {
+        "num": 1,
+        "word": "状況"
+    },
+    {
+        "num": 1,
+        "word": "現"
+    },
+    {
+        "num": 1,
+        "word": "現在"
+    },
+    {
+        "num": 1,
+        "word": "現実"
+    },
+    {
+        "num": 1,
+        "word": "現時点"
+    },
+    {
+        "num": 1,
+        "word": "理想"
+    },
+    {
+        "num": 1,
+        "word": "理解"
+    },
+    {
+        "num": 1,
+        "word": "用語"
+    },
+    {
+        "num": 1,
+        "word": "田中"
+    },
+    {
+        "num": 1,
+        "word": "申請"
+    },
+    {
+        "num": 1,
+        "word": "画面"
+    },
+    {
+        "num": 1,
+        "word": "留学"
+    },
+    {
+        "num": 1,
+        "word": "番"
+    },
+    {
+        "num": 1,
+        "word": "疲"
+    },
+    {
+        "num": 1,
+        "word": "発信"
+    },
+    {
+        "num": 1,
+        "word": "発言"
+    },
+    {
+        "num": 1,
+        "word": "登録"
+    },
+    {
+        "num": 1,
+        "word": "皮"
+    },
+    {
+        "num": 1,
+        "word": "目指"
+    },
+    {
+        "num": 1,
+        "word": "直前"
+    },
+    {
+        "num": 1,
+        "word": "相互"
+    },
+    {
+        "num": 1,
+        "word": "相関"
+    },
+    {
+        "num": 1,
+        "word": "真"
+    },
+    {
+        "num": 1,
+        "word": "着眼"
+    },
+    {
+        "num": 1,
+        "word": "矢印"
+    },
+    {
+        "num": 1,
+        "word": "知的"
+    },
+    {
+        "num": 1,
+        "word": "短縮"
+    },
+    {
+        "num": 1,
+        "word": "確"
+    },
+    {
+        "num": 1,
+        "word": "科目"
+    },
+    {
+        "num": 1,
+        "word": "空"
+    },
+    {
+        "num": 1,
+        "word": "端子"
+    },
+    {
+        "num": 1,
+        "word": "笠"
+    },
+    {
+        "num": 1,
+        "word": "等"
+    },
+    {
+        "num": 1,
+        "word": "答"
+    },
+    {
+        "num": 1,
+        "word": "箇所"
+    },
+    {
+        "num": 1,
+        "word": "管理"
+    },
+    {
+        "num": 1,
+        "word": "系"
+    },
+    {
+        "num": 1,
+        "word": "紅茶"
+    },
+    {
+        "num": 1,
+        "word": "紛失"
+    },
+    {
+        "num": 1,
+        "word": "素"
+    },
+    {
+        "num": 1,
+        "word": "素早"
+    },
+    {
+        "num": 1,
+        "word": "素案"
+    },
+    {
+        "num": 1,
+        "word": "細"
+    },
+    {
+        "num": 1,
+        "word": "経験"
+    },
+    {
+        "num": 1,
+        "word": "結"
+    },
+    {
+        "num": 1,
+        "word": "結合"
+    },
+    {
+        "num": 1,
+        "word": "結構"
+    },
+    {
+        "num": 1,
+        "word": "絞"
+    },
+    {
+        "num": 1,
+        "word": "絡"
+    },
+    {
+        "num": 1,
+        "word": "絵"
+    },
+    {
+        "num": 1,
+        "word": "絶対"
+    },
+    {
+        "num": 1,
+        "word": "継"
+    },
+    {
+        "num": 1,
+        "word": "総合"
+    },
+    {
+        "num": 1,
+        "word": "総計"
+    },
+    {
+        "num": 1,
+        "word": "編集"
+    },
+    {
+        "num": 1,
+        "word": "繕"
+    },
+    {
+        "num": 1,
+        "word": "羅生門"
+    },
+    {
+        "num": 1,
+        "word": "群"
+    },
+    {
+        "num": 1,
+        "word": "聴講"
+    },
+    {
+        "num": 1,
+        "word": "肉"
+    },
+    {
+        "num": 1,
+        "word": "肩"
+    },
+    {
+        "num": 1,
+        "word": "自動"
+    },
+    {
+        "num": 1,
+        "word": "自動的"
+    },
+    {
+        "num": 1,
+        "word": "良品"
+    },
+    {
+        "num": 1,
+        "word": "芥川"
+    },
+    {
+        "num": 1,
+        "word": "花"
+    },
+    {
+        "num": 1,
+        "word": "苦手"
+    },
+    {
+        "num": 1,
+        "word": "著者"
+    },
+    {
+        "num": 1,
+        "word": "薄"
+    },
+    {
+        "num": 1,
+        "word": "被"
+    },
+    {
+        "num": 1,
+        "word": "被害"
+    },
+    {
+        "num": 1,
+        "word": "補"
+    },
+    {
+        "num": 1,
+        "word": "要因"
+    },
+    {
+        "num": 1,
+        "word": "要望"
+    },
+    {
+        "num": 1,
+        "word": "見学"
+    },
+    {
+        "num": 1,
+        "word": "見当"
+    },
+    {
+        "num": 1,
+        "word": "見栄"
+    },
+    {
+        "num": 1,
+        "word": "見立"
+    },
+    {
+        "num": 1,
+        "word": "解析"
+    },
+    {
+        "num": 1,
+        "word": "解消"
+    },
+    {
+        "num": 1,
+        "word": "触"
+    },
+    {
+        "num": 1,
+        "word": "言及"
+    },
+    {
+        "num": 1,
+        "word": "記入"
+    },
+    {
+        "num": 1,
+        "word": "記録"
+    },
+    {
+        "num": 1,
+        "word": "訪問"
+    },
+    {
+        "num": 1,
+        "word": "許可"
+    },
+    {
+        "num": 1,
+        "word": "該当"
+    },
+    {
+        "num": 1,
+        "word": "誤字"
+    },
+    {
+        "num": 1,
+        "word": "読者"
+    },
+    {
+        "num": 1,
+        "word": "調子"
+    },
+    {
+        "num": 1,
+        "word": "諦"
+    },
+    {
+        "num": 1,
+        "word": "謎"
+    },
+    {
+        "num": 1,
+        "word": "講演"
+    },
+    {
+        "num": 1,
+        "word": "識別"
+    },
+    {
+        "num": 1,
+        "word": "豚"
+    },
+    {
+        "num": 1,
+        "word": "販売"
+    },
+    {
+        "num": 1,
+        "word": "貰"
+    },
+    {
+        "num": 1,
+        "word": "貴賓"
+    },
+    {
+        "num": 1,
+        "word": "購入"
+    },
+    {
+        "num": 1,
+        "word": "起"
+    },
+    {
+        "num": 1,
+        "word": "起動"
+    },
+    {
+        "num": 1,
+        "word": "辺"
+    },
+    {
+        "num": 1,
+        "word": "辻"
+    },
+    {
+        "num": 1,
+        "word": "返信"
+    },
+    {
+        "num": 1,
+        "word": "逆"
+    },
+    {
+        "num": 1,
+        "word": "通知"
+    },
+    {
+        "num": 1,
+        "word": "通訳"
+    },
+    {
+        "num": 1,
+        "word": "連"
+    },
+    {
+        "num": 1,
+        "word": "連携"
+    },
+    {
+        "num": 1,
+        "word": "進行"
+    },
+    {
+        "num": 1,
+        "word": "運"
+    },
+    {
+        "num": 1,
+        "word": "道後"
+    },
+    {
+        "num": 1,
+        "word": "適応"
+    },
+    {
+        "num": 1,
+        "word": "選"
+    },
+    {
+        "num": 1,
+        "word": "避難"
+    },
+    {
+        "num": 1,
+        "word": "都合"
+    },
+    {
+        "num": 1,
+        "word": "配列"
+    },
+    {
+        "num": 1,
+        "word": "野菜"
+    },
+    {
+        "num": 1,
+        "word": "金"
+    },
+    {
+        "num": 1,
+        "word": "金曜日"
+    },
+    {
+        "num": 1,
+        "word": "金沢工業大学"
+    },
+    {
+        "num": 1,
+        "word": "金額"
+    },
+    {
+        "num": 1,
+        "word": "釣"
+    },
+    {
+        "num": 1,
+        "word": "長"
+    },
+    {
+        "num": 1,
+        "word": "長文"
+    },
+    {
+        "num": 1,
+        "word": "長旅"
+    },
+    {
+        "num": 1,
+        "word": "開催"
+    },
+    {
+        "num": 1,
+        "word": "開設"
+    },
+    {
+        "num": 1,
+        "word": "関心"
+    },
+    {
+        "num": 1,
+        "word": "関数"
+    },
+    {
+        "num": 1,
+        "word": "防"
+    },
+    {
+        "num": 1,
+        "word": "防災"
+    },
+    {
+        "num": 1,
+        "word": "階"
+    },
+    {
+        "num": 1,
+        "word": "雇"
+    },
+    {
+        "num": 1,
+        "word": "雇用"
+    },
+    {
+        "num": 1,
+        "word": "難易"
+    },
+    {
+        "num": 1,
+        "word": "雰囲気"
+    },
+    {
+        "num": 1,
+        "word": "面"
+    },
+    {
+        "num": 1,
+        "word": "順次"
+    },
+    {
+        "num": 1,
+        "word": "預"
+    },
+    {
+        "num": 1,
+        "word": "類"
+    },
+    {
+        "num": 1,
+        "word": "飴"
+    },
+    {
+        "num": 1,
+        "word": "飼"
+    },
+    {
+        "num": 1,
+        "word": "餃子"
+    },
+    {
+        "num": 1,
+        "word": "餡"
+    },
+    {
+        "num": 1,
+        "word": "駅名"
+    },
+    {
+        "num": 1,
+        "word": "駆使"
+    },
+    {
+        "num": 1,
+        "word": "鷹野"
+    },
+    {
+        "num": 1,
+        "word": "黒"
+    },
+    {
+        "num": 1,
+        "word": "龍之介"
+    },
+    {
+        "num": 1,
+        "word": "ｓ"
+    },
+    {
+        "num": 1,
+        "word": "ｙ"
+    }
+]
