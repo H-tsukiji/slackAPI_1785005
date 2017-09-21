@@ -31,7 +31,7 @@ for line in fline:
 re_index = sorted(re_index.items(), key=lambda x:x[1],reverse=True)
 
 #JSON形式に変換しファイルに出力
-f = codecs.open("txt/rep_"+username+".json","w","utf-8")
+f = codecs.open("txt/rep/rep_"+username+".json","w","utf-8")
 f.write(json.dumps(re_index,indent=1));
 f.close()
 

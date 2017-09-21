@@ -1,4 +1,13 @@
+# -*- coding: utf-8 -*-
 import csv, sys, MeCab, re
+
+'''
+log_sum.pyより生成したslacklog.csvファイルを読み込み
+分かち書きを行うプログラム
+この際、csvファイルにあるユーザ名よりそれぞれに対応したファイルに書き込まれる
+出力はユーザ名.txtでありcsvファイルを基に作られる。
+引数はslacklog.csvである
+'''
 
 #対象ファイルの取得および分かち書きの設定
 inputfilename = sys.argv[1]
