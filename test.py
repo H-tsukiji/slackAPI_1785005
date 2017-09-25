@@ -39,49 +39,33 @@ for i in var:
     else:
         dic.append({"kasai": {"name": i[0], "message": i[1], "int": i[2]}})
 print(dic)
-'''
+
 import codecs,json
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)
 
 print(memberlist)
 '''
-csvファイルから人ごとに月日(現状では年と月を表示させるプログラム)
-今後の改良として、月ごとに細分化することで時系列を意識した専門単語を抽出できるように行う。
 
-from datetime import *
-import csv, sys, MeCab, re
+#csvファイルから人ごとに月日(現状では年と月を表示させるプログラム)
+#今後の改良として、月ごとに細分化することで時系列を意識した専門単語を抽出できるように行う。
+
+import datetime
+import csv, sys, codecs, re
 
 inputfilename = sys.argv[1]
-file = open(inputfilename, 'r', encoding="utf-8")
+file = codecs.open(inputfilename, 'r', encoding="utf-8")
 inputfilename = re.sub("\.[a-z]+","",inputfilename)
-csvdata = csv.reader(file)
 
-index = []
+read_txt = file.readlines()
 
-for i,row in enumerate(csvdata):
-    if(i == 0):
-        continue
-
-    if ((row[0] in index) == False):
-        index.append(row[0])
-        tmp = datetime.fromtimestamp(float(row[2]))
-        print(row[0])
-        print(tmp.year," ",tmp.month)
-    else:
-        tmp = datetime.fromtimestamp(float(row[2]))
-        print(tmp.year," ",tmp.month)
+for i in read_txt:
+    #,区切りで分割してリスト化
+    res = i.split(",")
+    thisdate = re.sub("\\r\\n","",res[2])
+    thisdate = datetime.datetime.strptime(thisdate,'%Y-%m-%d %H:%M:%S.%f')
+    print(thisdate.month)
 
 
-def one_strskip (line):
-    if(len(line) == 1):
-        print("ok\n")
-    else:
-        print("no\n")
-
-
-str_t = ["あいあいあいいあ","の","ののｎ"," "]
-
-for i in str_t:
-    one_strskip(i)
-'''
+d = datetime.datetime.today()
+print(d.month)
