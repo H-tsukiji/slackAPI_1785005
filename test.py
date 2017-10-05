@@ -72,25 +72,14 @@ d = datetime.datetime.today()
 print(d.month)
 
 '''
-'''
-import codecs,json
 
-path = "user_countword\\tsukiji.json"
+dataset={}
+hoge1 = [{"word":"A","num":10},{"word":"B","num":20},{"word":"C","num":30}]
+hoge2 = [{"word":"D","num":40},{"word":"E","num":50},{"word":"F","num":60}]
+hoge3 = [{"word":"G","num":70},{"word":"H","num":80},{"word":"I","num":90}]
 
-test = {"word":"hogehoge","num":10}
-dec = {"word":"test","num":100}
+dataset["tsukiji"] = hoge1
+dataset["tsukiji2"] = hoge2
+dataset["tsukiji3"] = hoge3
 
-
-dec["hayato"] = test
-
-print(dec)
-'''
-
-
-import numpy as np
-
-hoge = np.asarray({"word":"A","num":"10"})
-
-hoge.asarray({"word":"B","num":"0"})
-
-print(hoge)
+print(dataset)
