@@ -35,21 +35,17 @@ function count_wordindex($fn){
         foreach($word_set as $value){
             $key = array_search($value,$word_list_index);
             if($key === false){  //新出単語のとき
-                $word_list[] = array('num' => 1 ,'word' => $value );   //登録
+                $word_list = $word_list + array($value => 1);   //登録
                 $word_list_index[] = $value;   //インデックスに登録
             }
             else {   //既に単語がある
-                $word_list[$key]['num'] += 1;    
+                $word_list[$value] = $word_list[$value] + 1;    
             }
         }
     }
     unset($word_list_index);    //インデックスの破棄
     //出現回数順にソート
-    $num = array();
-    foreach ($word_list as $v) {
-        $num[] = $v['num'];
-    }
-    array_multisort($num, SORT_DESC, SORT_NUMERIC, $word_list);
+    arsort($word_list);
     return $word_list;
 }
 
