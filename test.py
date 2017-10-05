@@ -50,6 +50,7 @@ print(memberlist)
 #csvファイルから人ごとに月日(現状では年と月を表示させるプログラム)
 #今後の改良として、月ごとに細分化することで時系列を意識した専門単語を抽出できるように行う。
 
+'''
 import datetime
 import csv, sys, codecs, re
 
@@ -69,3 +70,27 @@ for i in read_txt:
 
 d = datetime.datetime.today()
 print(d.month)
+
+'''
+'''
+import codecs,json
+
+path = "user_countword\\tsukiji.json"
+
+test = {"word":"hogehoge","num":10}
+dec = {"word":"test","num":100}
+
+
+dec["hayato"] = test
+
+print(dec)
+'''
+
+
+import numpy as np
+
+hoge = np.asarray({"word":"A","num":"10"})
+
+hoge.asarray({"word":"B","num":"0"})
+
+print(hoge)
