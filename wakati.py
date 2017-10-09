@@ -26,6 +26,7 @@ def cleanInput(text):
     text = re.sub(r'[０-９]', ' ', text)
     text = re.sub('-', ' ', text)
     text = re.sub('/', ' ', text)
+    text = re.sub('\r\n', ' ', text)
     text = re.sub('　', ' ', text)
     text = re.sub('[ぁ-ん]', ' ', text)
     return text

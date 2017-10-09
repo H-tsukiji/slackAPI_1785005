@@ -43,6 +43,13 @@ function count_wordindex($fn){
             }
         }
     }
+
+    //改行の削除とインデックスを埋める
+    if(array_keys($word_list,"\r\n") !== FALSE){
+        unset($word_list["\r\n"]);
+        array_values($word_list);
+    }
+
     unset($word_list_index);    //インデックスの破棄
     //出現回数順にソート
     arsort($word_list);

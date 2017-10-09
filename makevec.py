@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import os,sys,glob,json,codecs,gc
+import os,sys,glob,json,codecs,gc,csv
 
 dirname = sys.argv[1]
 
@@ -23,6 +23,7 @@ for path in filepathlist:
             wordindex.append(word)
         else:
             continue
+    tmpkey = []
 f.close()
 
 #データセットの作成
@@ -43,7 +44,31 @@ for path in filepathlist:
     tmpkey = []
 f.close()
 
+
+print(len(wordindex))
+print("\n")
+print(len(data_set["t.kasai"]))
+
+
+
+userfile = open("dataset.csv","w",encoding="utf-8")
+'''
+userfile.write("name,")
+for words in data_set["tsukiji"]:
+    userfile.write(words["word"])
+    userfile.write(",")
+userfile.writerow(word)
+'''
+
+for user in data_set:
+    userfile.write(user+",")
+    for userwaord in data_set[user]:
+        userfile.write(str(userwaord["count"])+",")
+    userfile.write("\n")
+
+'''
 #テストファイルの出力
 fp = codecs.open("dataset.json","w","utf-8")
 fp.write(json.dumps(data_set,indent=1));
 fp.close()
+'''
