@@ -7,10 +7,9 @@ from slacker import Slacker
 token = codecs.open("../../slackapi_token_thesis.txt", "r","utf-8")
 
 # 対象のチャンネル名
-# general:C7TP92V60
-c_name = 'C7TP92V60'
+# general:C7TP92V60, experiment1:C7WMQ5E2C
+c_name = 'C7WMQ5E2C'
 
- 
 # logの取得を送る　token,指定チャンネルid,タイムスタンプの有無などを条件付けする
 # 返しはインスタンス変数になってる(？)
 slacker = Slacker(token)
@@ -26,6 +25,6 @@ for message in result['messages']:
 
 
 #JSON形式に変換しファイルに出力
-f = codecs.open("testdata.json","w","utf-8")
+f = codecs.open("experiment1.json","w","utf-8")
 f.write(json.dumps(log,indent=3,ensure_ascii=False));
 f.close()
