@@ -9,6 +9,9 @@ import sys,re,codecs,json,os,copy
 #                C：あ1回、い8回、う4回、こ8回、な3回　　　　　スコア13
 #サポート性、リーダ性のある人物はすべての回数に1.5倍する事
 
+def distance():
+    pass
+
 def notdisrank(t_data,b_data):
     ndisscore = {}
     score = 0
@@ -23,12 +26,23 @@ def notdisrank(t_data,b_data):
 def disrank(t_data,b_data):
     disscore = {}
     score = 0
+
+    #人物ごとにループnameでbot名
     for name,datavalue in b_data.items():
         for key , value in datavalue.items():
             if key in t_data:
+                #リーダ性、サポート性の重み付け
+                '''
+                サポート性の重み付けの値を入れておく辞書を作成する。
+                {bot1:{bot2:1.8,}}
+
+                '''
                 if name == "bot1" or name == "bot2" or name == "bot3":
                     value = value * 1.5
                     score += value
+                #ここにリーダ性の重み付けする
+                if name == "bot1" or name == "bot2" or name == "bot3":
+                    pass
                 else:
                     score += value
         disscore[name] = score
