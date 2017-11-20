@@ -9,8 +9,13 @@ import sys,re,codecs,json,os,copy
 #                C：あ1回、い8回、う4回、こ8回、な3回　　　　　スコア13
 #サポート性、リーダ性のある人物はすべての回数に1.5倍する事
 
-def distance():
-    pass
+def distance(user1,user2):
+    diswight = 0
+    if user2 == "bot1" or user2 == "bot2" or user2 == "bot3":
+        diswight += 1.5
+    else:
+        diswight += 1
+    return diswight
 
 def notdisrank(t_data,b_data):
     ndisscore = {}
@@ -26,28 +31,34 @@ def notdisrank(t_data,b_data):
 def disrank(t_data,b_data):
     disscore = {}
     score = 0
-
+    wordscore = {}
     #人物ごとにループnameでbot名
     for name,datavalue in b_data.items():
         for key , value in datavalue.items():
             if key in t_data:
                 #リーダ性、サポート性の重み付け
                 '''
-                サポート性の重み付けの値を入れておく辞書を作成する。
-                {bot1:{bot2:1.8,}}
-
+                サポート性の重み付けの値を入れておく辞書を作成する。)(拡張案)
+                {bot1:{bot2:1.8,bot3:3.2,....}}
                 '''
-                if name == "bot1" or name == "bot2" or name == "bot3":
-                    value = value * 1.5
-                    score += value
-                #ここにリーダ性の重み付けする
-                if name == "bot1" or name == "bot2" or name == "bot3":
-                    pass
-                else:
-                    score += value
+                value = value * distance(target_name,name)
+                score += value
+                if name not in wordscore:
+                    wordscore[name] = []
+                wordscore[name].append({key:value})
+            else:
+                value = value * distance(target_name,name)
+                if name not in wordscore:
+                    wordscore[name] = []
+                wordscore[name].append({key:value})
         disscore[name] = score
         score = 0
+    for word in wordscore:
+        print(word)
+        for w in wordscore[word]:
+            print(w)
     print(disscore)
+    
 
 if __name__ == '__main__':
     
@@ -69,5 +80,5 @@ if __name__ == '__main__':
     del botdata[target_name]
     
     disrank(target_data,botdata)
-
     notdisrank(target_data,botdata)
+
