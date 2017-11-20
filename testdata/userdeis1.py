@@ -9,8 +9,14 @@ import sys,re,codecs,json,os,copy
 #                C：あ1回、い8回、う4回、こ8回、な3回　　　　　スコア13
 #サポート性、リーダ性のある人物はすべての回数に1.5倍する事
 
-def distance(user1,user2):
+#提案方式である知識における重み付け
+#ユーザが現在行っている活動に関する情報の重み付けは未実装(現状Excelで計算)
+def distance(user1,user2,index):
     diswight = 0
+    #ユーザに対して新たな知識の重み付け
+    if index == 1:
+        diswight += 1.5
+    #サポート性、リーダ性のある人物の重み付け
     if user2 == "bot1" or user2 == "bot2" or user2 == "bot3":
         diswight += 1.5
     else:
@@ -35,19 +41,17 @@ def disrank(t_data,b_data):
     #人物ごとにループnameでbot名
     for name,datavalue in b_data.items():
         for key , value in datavalue.items():
+            #対象ユーザと同じ知識がある場合
             if key in t_data:
-                #リーダ性、サポート性の重み付け
-                '''
-                サポート性の重み付けの値を入れておく辞書を作成する。)(拡張案)
-                {bot1:{bot2:1.8,bot3:3.2,....}}
-                '''
-                value = value * distance(target_name,name)
+                #関数distanceによる重み付け
+                value = value * distance(target_name,name,0)
                 score += value
                 if name not in wordscore:
                     wordscore[name] = []
                 wordscore[name].append({key:value})
+            #異なる知識情報
             else:
-                value = value * distance(target_name,name)
+                value = value * distance(target_name,name,1)
                 if name not in wordscore:
                     wordscore[name] = []
                 wordscore[name].append({key:value})
