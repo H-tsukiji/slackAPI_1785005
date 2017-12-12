@@ -45,6 +45,28 @@ def Serach_sendfiles(data_list):
         users_contents[user] = count
     return users_contents
 
+def Hub(data_list):
+    hub = {}
+    for user in data_list:
+        hub[user] = {"resive":{},"send":{}}
+
+    for user in data_list:
+        resive = {"bot1":0,"bot2":0,"bot3":0,"bot4":0,"bot5":0,"bot6":0,"bot7":0}
+        #print(user,data_list[user])
+        #resiveのカウント
+        for o_user in data_list:
+            for key in data_list[o_user]:
+                #print(data_list[o_user][data])
+                if user == key :
+                    resive[o_user] += data_list[o_user][key]
+        del resive[user]
+        hub[user]["resive"] = resive 
+        hub[user]["send"] = data_list[user]
+    return hub
+
+
+
+
 #関数の機能と必要な引数＋返り値に何が来るのか書くこと
 def Leader_score(data_list,data):
     L_score = {}
@@ -58,7 +80,9 @@ def Leader_score(data_list,data):
         ave_value = sum_value/len(data_list)
         if ave_value > L_parameter:
             L_score[user] += 1
-    #print(L_score)
+
+    hub_data = Hub(data_list)
+
     #会話のスタートに立つ人物
     tgget = "#start"
     start_count = {}
@@ -69,8 +93,7 @@ def Leader_score(data_list,data):
             for match in matchtext:
                 count += 1
         start_count[user] = count
-        L_score[user] += count
-    #print(start_count)  
+        L_score[user] += count  
     #指示を促す指示の内容
     odget = "#order"
     order_count = {}
@@ -82,7 +105,6 @@ def Leader_score(data_list,data):
                 count += 1
         order_count[user] = count
         L_score[user] += count
-    #print(order_count)
     return L_score
 
 def Support_score(data_list,file_list):
@@ -125,6 +147,7 @@ if __name__ == '__main__':
     L_result = Leader_score(user_rp,data)
     S_result = Support_score(user_rp,user_file)
 
+    '''
     #結果の表示
     sorted(L_result.items(), key=lambda x: -x[1])
     print("リーダ性")
@@ -139,6 +162,7 @@ if __name__ == '__main__':
             if j[1] == 0:
                 continue
             print(j[0],j[1])
+    '''
 
 '''
 リーダ性を持つ人物
