@@ -45,6 +45,7 @@ def Serach_sendfiles(data_list):
         users_contents[user] = count
     return users_contents
 
+#関数の機能と必要な引数＋返り値に何が来るのか書くこと
 def Leader_score(data_list,data):
     L_score = {}
     for i in data_list:
@@ -55,33 +56,34 @@ def Leader_score(data_list,data):
         for value in data_list[user]:
             sum_value += data_list[user][value]
         ave_value = sum_value/len(data_list)
-        print(ave_value)
         if ave_value > L_parameter:
             L_score[user] += 1
+    #print(L_score)
     #会話のスタートに立つ人物
     tgget = "#start"
     start_count = {}
     for user in data:
         count = 0
         for session in data[user]:
-            matchtext = re.finditer(fget,session["text"])
+            matchtext = re.finditer(tgget,session["text"])
             for match in matchtext:
                 count += 1
         start_count[user] = count
-    print(start_count)
-    '''
+        L_score[user] += count
+    #print(start_count)  
     #指示を促す指示の内容
     odget = "#order"
     order_count = {}
     for user in data:
         count = 0
         for session in data[user]:
-            matchtext = re.finditer(fget,session["text"])
+            matchtext = re.finditer(odget,session["text"])
             for match in matchtext:
                 count += 1
         order_count[user] = count
-    print(order_count)
-    '''
+        L_score[user] += count
+    #print(order_count)
+    return L_score
 
 def Support_score(data_list,file_list):
     S_score = {}
@@ -120,8 +122,23 @@ if __name__ == '__main__':
     user_file = Serach_sendfiles(data)
 
     # ユーザ評価
-    Leader_score(user_rp,data)
-    Support_score(user_rp,user_file)
+    L_result = Leader_score(user_rp,data)
+    S_result = Support_score(user_rp,user_file)
+
+    #結果の表示
+    sorted(L_result.items(), key=lambda x: -x[1])
+    print("リーダ性")
+    for i in L_result:
+        print(i,L_result[i])
+
+    print("サポート性")
+    for i in S_result:
+        print(i,"が持つ各ユーザに対してのサポート性")
+        i_re = sorted(S_result[i].items(),key=lambda x: -x[1])
+        for j in i_re:
+            if j[1] == 0:
+                continue
+            print(j[0],j[1])
 
 '''
 リーダ性を持つ人物
