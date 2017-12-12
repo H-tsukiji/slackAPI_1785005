@@ -5,6 +5,8 @@ import codecs,csv,re
 L_parameter = 4
 S_parameter = 4
 
+#csvデータを読み込む関数
+#返り値はbot1{{time:ti,text:""},...,}の配列になる
 def Reading_csvfile():
     f = codecs.open("sessiondata.csv","r",encoding="utf-8")
     reader = csv.reader(f)
@@ -17,6 +19,9 @@ def Reading_csvfile():
     f.close()
     return csv_data
 
+#各ユーザが送ったリプライをカウントする関数
+#引数はRaeding_csvfileで作成した発言の情報
+#返り値はbot1{bot2:3,bot3:...,},...,の送った回数の配列
 def Count_reply(data_list):
     repget = " @\S+"
     users_reply = {}
@@ -33,6 +38,9 @@ def Count_reply(data_list):
         users_reply[user] = user_count
     return users_reply
 
+#ファイルをアップロードしたユーザのカウントを行う関数
+#引数はRaeding_csvfileで作成した発言の情報
+#返り値は
 def Serach_sendfiles(data_list):
     fget = "<file upload>"
     users_contents = {}
@@ -138,6 +146,7 @@ def Support_score(data_list,file_list):
 if __name__ == '__main__':
     #データ読み込み
     data = Reading_csvfile()
+    
     #＠マークのユーザ毎のカウント(例：bot1が誰に何回送ったのか)
     user_rp = Count_reply(data)
     #ユーザが送信したファイルコンテンツ数のカウント
@@ -147,6 +156,7 @@ if __name__ == '__main__':
     L_result = Leader_score(user_rp,data)
     S_result = Support_score(user_rp,user_file)
 
+    print(user_file)
     '''
     #結果の表示
     sorted(L_result.items(), key=lambda x: -x[1])
