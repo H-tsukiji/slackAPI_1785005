@@ -40,7 +40,7 @@ def Count_reply(data_list):
 
 #ファイルをアップロードしたユーザのカウントを行う関数
 #引数はRaeding_csvfileで作成した発言の情報
-#返り値は
+#返り値は{bot1:2,bot2:5,...,}の配列
 def Serach_sendfiles(data_list):
     fget = "<file upload>"
     users_contents = {}
@@ -53,6 +53,8 @@ def Serach_sendfiles(data_list):
         users_contents[user] = count
     return users_contents
 
+#どのユーザが誰に何回@マークをつけられたか，また誰に@マークを付けるかを配列で返す関数
+#引数はCount_replyで作成したカウントの配列
 def Hub(data_list):
     hub = {}
     for user in data_list:
@@ -72,15 +74,19 @@ def Hub(data_list):
         hub[user]["send"] = data_list[user]
     return hub
 
-
-
-
-#関数の機能と必要な引数＋返り値に何が来るのか書くこと
+#リーダスコアを算出する関数
+#引数は引数はCount_replyで作成したカウントの配列と引数はRaeding_csvfileで作成した発言の情報
+#細かい内容は関数内のコメント参照
+#返り値は各ユーザの水コア
 def Leader_score(data_list,data):
     L_score = {}
     for i in data_list:
         L_score[i]=0
     #各ユーザとの会話数の平均が高い人物を出す
+    '''
+    ユーザの人数分で割ることでユーザ会話の平均を出すことで，
+    前ユーザと会話した平均が高いユーザを出す
+    '''
     for user in data_list:
         sum_value = 0
         for value in data_list[user]:
