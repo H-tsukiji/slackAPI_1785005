@@ -45,13 +45,7 @@ for path in filepathlist:
 f.close()
 
 
-print(len(wordindex))
-print("\n")
-print(len(data_set["t.kasai"]))
-
-
-
-userfile = open("dataset.csv","w",encoding="utf-8")
+userfile = open("dataset2.csv","w",encoding="utf-8")
 '''
 userfile.write("name,")
 for words in data_set["tsukiji"]:

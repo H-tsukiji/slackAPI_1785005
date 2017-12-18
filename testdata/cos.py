@@ -1,3 +1,4 @@
+import csv,codecs
 import numpy as np
 
 def cos_sim_matrix(matrix):
@@ -11,9 +12,28 @@ def cos_sim_matrix(matrix):
     # それぞれの item の大きさの平方根で割っている
     return d / norm / norm.T
 
-a = np.array([[1,2,3],[4,5,6],[7,8,9],[987,675,777],[0,2789,9]])
-result = cos_sim_matrix(a)
-print(result)
+
+#csvデータを読み込む関数
+#返り値はbot1{{time:ti,text:""},...,}の配列になる
+def Reading_csvfile():
+    f = codecs.open("dataset2.csv","r",encoding="utf-8")
+    reader = csv.reader(f)
+    csv_data = []
+    for i,row in enumerate(reader):
+        botname = row[0]
+        del row[0]
+        csv_data.append(row)
+    f.close()
+    return csv_data
+
+csv_list = Reading_csvfile()
+data_list = np.array(csv_list)
+data_list = data_list.astype(np.int)
+
+result = cos_sim_matrix(data_list)
+
+np.savetxt('botdata_cosresult.csv', result, delimiter=',')
+
 '''
 実行例
 [[1,2,3],[4,5,6],[7,8,9]]の場合

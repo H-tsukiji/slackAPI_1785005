@@ -96,6 +96,7 @@ def Leader_score(data_list,data):
             L_score[user] += 1
 
     hub_data = Hub(data_list)
+    print(hub_data)
 
     #会話のスタートに立つ人物
     tgget = "#start"
