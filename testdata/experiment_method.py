@@ -163,7 +163,9 @@ if __name__ == '__main__':
     L_result = Leader_score(user_rp,data)
     S_result = Support_score(user_rp,user_file)
 
-    print(user_file)
+    print(L_result)
+    print(S_result)
+    
     '''
     #結果の表示
     sorted(L_result.items(), key=lambda x: -x[1])
