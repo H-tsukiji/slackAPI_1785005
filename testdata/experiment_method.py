@@ -84,14 +84,14 @@ def Leader_score(data_list,data):
         L_score[i]=0
     #各ユーザとの会話数の平均が高い人物を出す
     '''
-    ユーザの人数分で割ることでユーザ会話の平均を出すことで，
-    前ユーザと会話した平均が高いユーザを出す
+    会話総数/ユーザ数(自身を除く)を出すことで全ユーザでの会話平均数を出す
+    ここで平均値が高いユーザ(閾値とかで判定)をリーダ性ありとしてスコアに加算する
     '''
     for user in data_list:
         sum_value = 0
         for value in data_list[user]:
             sum_value += data_list[user][value]
-        ave_value = sum_value/len(data_list)
+        ave_value = sum_value/(len(data_list)-1)
         if ave_value > L_parameter:
             L_score[user] += 1
 
