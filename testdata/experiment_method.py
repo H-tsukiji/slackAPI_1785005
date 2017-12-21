@@ -19,6 +19,36 @@ def Reading_csvfile():
     f.close()
     return csv_data
 
+'''
+既存の手法として使用する手法であるコサイン類似度を求める関数たち
+'''
+#会話内容に基づいたコサイン類似度を出すために使用するデータセット読み込み
+#返り値は行が各ユーザ，列が使用した単語の種類と回数
+def Reading_dataset():
+    f = codecs.open("dataset2.csv","r",encoding="utf-8")
+    reader = csv.reader(f)
+    csv_data = []
+    for i,row in enumerate(reader):
+        botname = row[0]
+        del row[0]
+        csv_data.append(row)
+    f.close()
+    return csv_data
+
+def cos_sim_matrix(matrix):
+    """
+    item-feature 行列が与えられた際に
+    item 間コサイン類似度行列を求める関数
+    """
+    d = matrix @ matrix.T  # item-vector 同士の内積を要素とする行列
+    # コサイン類似度の分母に入れるための、各 item-vector の大きさの平方根
+    norm = (matrix * matrix).sum(axis=1, keepdims=True) ** .5
+    # それぞれの item の大きさの平方根で割っている
+    return d / norm / norm.T
+
+'''
+これより下は提案手法で使用する関数
+'''
 #各ユーザが送ったリプライをカウントする関数
 #引数はRaeding_csvfileで作成した発言の情報
 #返り値はbot1{bot2:3,bot3:...,},...,の送った回数の配列
@@ -153,6 +183,12 @@ def Support_score(data_list,file_list):
 if __name__ == '__main__':
     #データ読み込み
     data = Reading_csvfile()
+    
+    #コサイン類似度出すまでの一連の処理
+    cos_dataset = Reading_dataset()
+    cos_data = np.array(cos_dataset)
+    cos_data = cos_data.astype(np.int)
+    cos_result = cos_sim_matrix(cos_data)
     
     #＠マークのユーザ毎のカウント(例：bot1が誰に何回送ったのか)
     user_rp = Count_reply(data)
