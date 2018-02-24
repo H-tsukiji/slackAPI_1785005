@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 import codecs,csv,re
+import numpy as np
 
 #parameter
-L_parameter = 4
-S_parameter = 4
+weight_value = 0.5
+L_parameter = 3
+S_parameter = 3
 
 #csvデータを読み込む関数
 #返り値はbot1{{time:ti,text:""},...,}の配列になる
@@ -122,11 +124,12 @@ def Leader_score(data_list,data):
         for value in data_list[user]:
             sum_value += data_list[user][value]
         ave_value = sum_value/(len(data_list)-1)
+        #閾値で判定
         if ave_value > L_parameter:
             L_score[user] += 1
 
     hub_data = Hub(data_list)
-    print(hub_data)
+    #print(hub_data)
 
     #会話のスタートに立つ人物
     tgget = "#start"
@@ -158,10 +161,13 @@ def Support_score(data_list,file_list):
     for user in data_list:
         user_count = {"bot1":0,"bot2":0,"bot3":0,"bot4":0,"bot5":0,"bot6":0,"bot7":0}
         for count in data_list[user]:
+            #閾値で判定
             if data_list[user][count] > S_parameter:
                 user_count[count] += 1
         del user_count[user]
         S_score[user] = user_count
+    
+    
     #他者が必要とする情報や資料を提供する
     '''今回は手動(ファイルを渡した相手(＠した人)に対してスコアを加点するように作成する)
     for user in file_list:
@@ -180,6 +186,24 @@ def Support_score(data_list,file_list):
     S_score["bot2"]["bot7"] += 1
     return S_score
 
+'''
+ランキングスコアのメモ
+対象のユーザに対して
+α(リーダスコア＋サポートスコア)＋(1-α)会話内容によるコサイン類似度
+'''
+def ranking(L_result, S_result, cos_result, weight_value):
+    usernum = len(L_result)
+    a = weight_value
+    #ループごとにユーザのスコア算出
+    for (i,user) in enumerate(L_result):
+        print(user)
+        for (j,targetuser) in enumerate(L_result):
+            #同じ時はスキップ
+            if i == j:
+                continue
+            score = (a*(L_result[targetuser]+S_result[targetuser][user]))+((1-a)*(cos_result[i][j]))
+            print(score)
+
 if __name__ == '__main__':
     #データ読み込み
     data = Reading_csvfile()
@@ -189,7 +213,9 @@ if __name__ == '__main__':
     cos_data = np.array(cos_dataset)
     cos_data = cos_data.astype(np.int)
     cos_result = cos_sim_matrix(cos_data)
-    
+    #print(cos_result[0][0])
+
+
     #＠マークのユーザ毎のカウント(例：bot1が誰に何回送ったのか)
     user_rp = Count_reply(data)
     #ユーザが送信したファイルコンテンツ数のカウント
@@ -199,9 +225,12 @@ if __name__ == '__main__':
     L_result = Leader_score(user_rp,data)
     S_result = Support_score(user_rp,user_file)
 
-    print(L_result)
-    print(S_result)
+    #print(L_result)
+    #print(S_result)
+
+    ranking(L_result,S_result,cos_result,weight_value)
     
+
     '''
     #結果の表示
     sorted(L_result.items(), key=lambda x: -x[1])
@@ -235,4 +264,9 @@ if __name__ == '__main__':
 それぞれのスコア表を作る
 リーダ性　bot1:100,bot2:89,...とか
 サポート性 bot1:{bot2:30,bot3:89,...},bot2:{bot1:54,....},....かな
+
+ランキングスコアのメモ
+対象のユーザに対して
+α(リーダスコア＋サポートスコア)＋(1-α)会話内容によるコサイン類似度
+
 '''
