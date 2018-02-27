@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
-import codecs,csv,re
+import codecs,csv,re,math
 import numpy as np
 
 #parameter
-weight_value = 0.5
-L_parameter = 3
-S_parameter = 3
+weight_value = 0.0
+L_parameter = 4
+S_parameter = 4
 
 #csvデータを読み込む関数
 #返り値はbot1{{time:ti,text:""},...,}の配列になる
@@ -202,7 +202,25 @@ def ranking(L_result, S_result, cos_result, weight_value):
             if i == j:
                 continue
             score = (a*(L_result[targetuser]+S_result[targetuser][user]))+((1-a)*(cos_result[i][j]))
-            print(score)
+            print(targetuser,score)
+
+def ranking_log(L_result, S_result, cos_result, weight_value):
+    usernum = len(L_result)
+    a = weight_value
+    print("logあり")
+    #ループごとにユーザのスコア算出
+    for (i,user) in enumerate(L_result):
+        print(user)
+        for (j,targetuser) in enumerate(L_result):
+            #同じ時はスキップ
+            if i == j:
+                continue
+            sum_score = L_result[targetuser]+S_result[targetuser][user]
+            if sum_score == 0:
+                score = (a*0)+((1-a)*(cos_result[i][j]))
+            else:
+                score = (a* math.log(sum_score) )+((1-a)*(cos_result[i][j]))
+            print(targetuser,score)
 
 if __name__ == '__main__':
     #データ読み込み
@@ -225,11 +243,11 @@ if __name__ == '__main__':
     L_result = Leader_score(user_rp,data)
     S_result = Support_score(user_rp,user_file)
 
-    #print(L_result)
-    #print(S_result)
+    print(L_result)
+    print(S_result)
 
     ranking(L_result,S_result,cos_result,weight_value)
-    
+    ranking_log(L_result,S_result,cos_result,weight_value)
 
     '''
     #結果の表示
