@@ -18,17 +18,30 @@ def Reading_csvfile():
     f.close()
     return csv_data
 
+def Send_message(user_data):
+    #他のユーザに送ったメッセージを記録する
+    send = {}
+    for user in user_index:
+        for i in user_data:
+            if i not in send:
+                send[i] = []
+            for j in user_data[i]:
+                if (user in j['text']) == True:
+                    send[i].append(j['text'])
+    return send
+
+def Receive_message(self, parameter_list):
+    pass
 
 
 if __name__ == '__main__':
     user_data = Reading_csvfile()
-    print(user_data['bot1'][0]['text'])
+
+    message_receive = {}
+    message_send = {}
 
     #他のユーザに言われた会話内容を記録する
-    for user in user_index:     
-        for i in user_data:
-            for j in user_data[i]:
-                if (user in j['text']) == True:
-                    print('ok')
-                else:
-                    continue
+
+    #他のユーザに送ったメッセージを記録する
+    message_send = Send_message(user_data)
+    #print(message_send)
