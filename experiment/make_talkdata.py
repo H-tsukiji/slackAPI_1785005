@@ -50,6 +50,18 @@ def Mecab_wakati(word_list):
             t.append(wakati)
     print(t)
 
+def Expand_Receive(list_ofject):
+    ofject = {}
+    for moti in list_ofject:
+        for i in list_ofject:
+            if i not in ofject:
+                ofject[i] = []
+            for j in list_ofject[i]:
+                if (user in j['text']) == True:
+                    receive[user].append({'bot':list_ofject['bot'],'text':j['text']})  
+    return
+
+
 def CleanInput(text):
     text = re.sub('\n', ' ', text)
     text = re.sub(r'[.,･%$&#:;＆。※↑↓→←、．，：；＾？～￥「」（）()【】『』<>・_=|?［］\[\]\"\']', ' ', text)
@@ -65,6 +77,7 @@ def CleanInput(text):
 
 if __name__ == '__main__':
     user_data = Reading_csvfile()
+    print(user_data)
 
     message_receive = {}
     message_send = {}
@@ -74,11 +87,12 @@ if __name__ == '__main__':
     #他のユーザから来たメッセージを記録する
     message_receive = Receive_message(user_data)
     #print(message_receive["bot6"])
+    
     #他のユーザに送ったメッセージを記録する
     message_send = Send_message(user_data)
     #print(message_send)
 
     test = {'botx':["あめんぼあかいなあいうえお","飛んで火にいる夏の虫"]}
 
-    Mecab_wakati(message_receive)
-
+    #Expand_Receive(user_data)
+    #Mecab_wakati(message_receive)python
