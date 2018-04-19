@@ -4,10 +4,14 @@ import sys,codecs,json
 from slacker import Slacker
 
 # API token tokenが入ったファイルの読み込みをして取得(セキュリティ回避)
-token = codecs.open("../slackapi_token.txt", "r","utf-8")
+token = codecs.open("../../slackapi_token.txt", "r","utf-8")
 
 # 対象のチャンネル名
-# general:C0J8KM6KF  seminar1421:C18JT8ZNY  report:C0XMH9F0Q  grad2017:C4W2RL2BA  chat:C0J8Q0DK9
+# general:C0J8KM6KF  
+# 2017-sotsuken:C18JT8ZNY  
+# report:C0XMH9F0Q  
+# master-chat:C4W2RL2BA
+# chat:C0J8Q0DK9
 c_name = 'C0XMH9F0Q'
 
  
@@ -26,6 +30,6 @@ slackerパッケージの関数の最後に.bodyとくっつけることで，�
 
 """
 #JSON形式に変換しファイルに出力
-f = codecs.open("slack_"+c_name+".json","w","utf-8")
+f = codecs.open("..\slack_"+c_name+".json","w","utf-8")
 f.write(json.dumps(result,indent=3,ensure_ascii=False));
 f.close()
