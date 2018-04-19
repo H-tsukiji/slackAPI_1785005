@@ -1,0 +1,3372 @@
+{
+   "ok": true,
+   "messages": [
+      {
+         "user": "UA83LUHK2",
+         "text": "<@UA83LUHK2>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524042728.000019"
+      },
+      {
+         "user": "UA85J25L1",
+         "text": "<@UA85J25L1>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524030875.000100"
+      },
+      {
+         "user": "UA8J83XGB",
+         "text": "<@UA8J83XGB>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524027990.000096"
+      },
+      {
+         "user": "UA8R59T45",
+         "text": "<@UA8R59T45>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524027474.000141"
+      },
+      {
+         "user": "UA94V2GF9",
+         "text": "<@UA94V2GF9>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523960395.000180"
+      },
+      {
+         "user": "UA6L5R7M1",
+         "text": "<@UA6L5R7M1>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523666327.000067"
+      },
+      {
+         "text": "  4月27日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U12475CJC",
+         "ts": "1523599765.000068"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "リマインダー : 延長届を出してください",
+         "bot_id": "B01",
+         "ts": "1523577610.000447"
+      },
+      {
+         "user": "UA5GZKRKM",
+         "text": "<@UA5GZKRKM>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523538879.000002"
+      },
+      {
+         "user": "UA5HJU666",
+         "text": "<@UA5HJU666>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523529540.000180"
+      },
+      {
+         "user": "UA6E6PYSK",
+         "text": "<@UA6E6PYSK>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523504754.000098"
+      },
+      {
+         "user": "UA68UE2VC",
+         "text": "<@UA68UE2VC>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523500330.000186"
+      },
+      {
+         "user": "UA4SAEVQS",
+         "text": "<@UA4SAEVQS>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523447332.000418"
+      },
+      {
+         "user": "UA5NHRKCP",
+         "text": "<@UA5NHRKCP>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523421993.000263"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "MATLAB学校アカウントで使えるらしいです",
+         "ts": "1522897454.000231",
+         "reactions": [
+            {
+               "name": "tada",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U2808K7U2"
+               ],
+               "count": 3
+            },
+            {
+               "name": "muscle",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U2808K7U2",
+                  "U4YM85G94"
+               ],
+               "count": 4
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0JAEV08K>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U0JAEV08K/FA2H857FH/tah-student.pdf|TAH-Student.pdf>",
+         "file": {
+            "id": "FA2H857FH",
+            "created": 1522897426,
+            "timestamp": 1522897426,
+            "name": "TAH-Student.pdf",
+            "title": "TAH-Student.pdf",
+            "mimetype": "application/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U0JAEV08K",
+            "editable": false,
+            "size": 169302,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-FA2H857FH/tah-student.pdf",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-FA2H857FH/download/tah-student.pdf",
+            "thumb_pdf": "https://files.slack.com/files-tmb/T0J8LKSTV-FA2H857FH-b6a031f15f/tah-student_thumb_pdf.png",
+            "thumb_pdf_w": 910,
+            "thumb_pdf_h": 1286,
+            "permalink": "https://kait-takanolab.slack.com/files/U0JAEV08K/FA2H857FH/tah-student.pdf",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-FA2H857FH-c28f1df869",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+         },
+         "user": "U0JAEV08K",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "tsukiji",
+         "bot_id": null,
+         "ts": "1522897427.000230"
+      },
+      {
+         "user": "UA0BWS0F8",
+         "text": "<@UA0BWS0F8>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1522651942.000003"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "昨年度卒業生のアカウントをdiactivateしました",
+         "ts": "1522635072.000094"
+      },
+      {
+         "text": "  4月13日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U12475CJC",
+         "ts": "1522380670.000147"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "リマインダー : 延長届を出してください",
+         "bot_id": "B01",
+         "ts": "1520553624.000491"
+      },
+      {
+         "text": "  3月9日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U12475CJC",
+         "ts": "1519363773.000155"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "<!everyone> \n明日（2/20）最後の懇親会というか飲み会やります。\n参加自由なので3・4年生関係なく参加できる人だけ参加してほしい感じです。（遠方の人は無理しなくて大丈夫です）\nピザとかビールとかワインとかの予定です。\n18時開始の予定です。よろしくお願いします。",
+         "ts": "1519027641.000200",
+         "reactions": [
+            {
+               "name": "+1",
+               "users": [
+                  "U105P17QT",
+                  "U107MMD8Q",
+                  "U107TJHPF",
+                  "U107G430F",
+                  "U12475CJC"
+               ],
+               "count": 5
+            },
+            {
+               "name": "hand",
+               "users": [
+                  "U0JAEV08K",
+                  "U12475CJC"
+               ],
+               "count": 2
+            },
+            {
+               "name": "sob",
+               "users": [
+                  "U2808K7U2",
+                  "U12475CJC",
+                  "U4XUM59NX"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U12475CJC",
+         "text": "はーい、海外研修頑張って:+1:",
+         "thread_ts": "1518858669.000083",
+         "parent_user_id": "U106UP90U",
+         "ts": "1519000129.000102"
+      },
+      {
+         "type": "message",
+         "user": "U2808K7U2",
+         "text": "わかりました。宜しくお願いします",
+         "thread_ts": "1518858669.000083",
+         "parent_user_id": "U106UP90U",
+         "ts": "1518965100.000033"
+      },
+      {
+         "type": "message",
+         "user": "U12475CJC",
+         "text": "柴本さんと重田くんの分は別の日に補填するから大丈夫，いつやるかはまた今度決めましょう",
+         "thread_ts": "1518858669.000083",
+         "parent_user_id": "U106UP90U",
+         "ts": "1518919526.000028"
+      },
+      {
+         "type": "message",
+         "user": "U2808K7U2",
+         "text": "海外研修組(私と重田君)が、参加できないのですが、必要な情報は後日、我々にも共有されるという認識で大丈夫でしょうか…。",
+         "thread_ts": "1518858669.000083",
+         "parent_user_id": "U106UP90U",
+         "ts": "1518915131.000084"
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "<!everyone> \n3年生の皆さんへ\nお疲れ様です、石川です。少し前に4年生から研究紹介があったと思いますが、来年度に向けて、4年生がおこなってきた卒業研究の引き継ぎ会を2月26日（月）に実施します。\nこの引き継ぎ会では、4年生が取り組んできた研究内容を3年生が引き継げるように、そして4年生に上がる皆さんが1年間研究室で卒業研究に取り組んでいく中で、\n必要な情報を共有する回になります。出来る限り参加してください。",
+         "edited": {
+            "user": "U106UP90U",
+            "ts": "1518858700.000000"
+         },
+         "thread_ts": "1518858669.000083",
+         "reply_count": 4,
+         "replies": [
+            {
+               "user": "U2808K7U2",
+               "ts": "1518915131.000084"
+            },
+            {
+               "user": "U12475CJC",
+               "ts": "1518919526.000028"
+            },
+            {
+               "user": "U2808K7U2",
+               "ts": "1518965100.000033"
+            },
+            {
+               "user": "U12475CJC",
+               "ts": "1519000129.000102"
+            }
+         ],
+         "subscribed": false,
+         "unread_count": 4,
+         "ts": "1518858669.000083",
+         "reactions": [
+            {
+               "name": "tada",
+               "users": [
+                  "U12475CJC"
+               ],
+               "count": 1
+            },
+            {
+               "name": "pray",
+               "users": [
+                  "U105P17QT",
+                  "U107TJHPF",
+                  "U10J4NGHH",
+                  "U107MMD8Q",
+                  "U107G430F",
+                  "U4Y3V5NKX"
+               ],
+               "count": 6
+            },
+            {
+               "name": "+1",
+               "users": [
+                  "U4Y2B9X28",
+                  "U4XUM59NX"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "昔の引継ぎに関する資料を送ります",
+         "ts": "1518671895.000142",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U105P17QT",
+                  "U107MMD8Q",
+                  "U4XUM59NX",
+                  "U2808K7U2",
+                  "U4YM85G94"
+               ],
+               "count": 5
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0JAEV08K>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U0JAEV08K/F9AFVK1FH/_________________________________.pptx|卒論とセミナーの進め方.pptx>",
+         "file": {
+            "id": "F9AFVK1FH",
+            "created": 1518671876,
+            "timestamp": 1518671876,
+            "name": "卒論とセミナーの進め方.pptx",
+            "title": "卒論とセミナーの進め方.pptx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "filetype": "pptx",
+            "pretty_type": "PowerPoint プレゼンテーション",
+            "user": "U0JAEV08K",
+            "editable": false,
+            "size": 409341,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F9AFVK1FH/_________________________________.pptx",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F9AFVK1FH/download/_________________________________.pptx",
+            "permalink": "https://kait-takanolab.slack.com/files/U0JAEV08K/F9AFVK1FH/_________________________________.pptx",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F9AFVK1FH-3299b24fb2",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+         },
+         "user": "U0JAEV08K",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "tsukiji",
+         "bot_id": null,
+         "ts": "1518671877.000028"
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0JAEV08K>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U0JAEV08K/F99E8AWGJ/___________________________.pdf|卒研ゼミへの心構え.pdf>",
+         "file": {
+            "id": "F99E8AWGJ",
+            "created": 1518671822,
+            "timestamp": 1518671822,
+            "name": "卒研ゼミへの心構え.pdf",
+            "title": "卒研ゼミへの心構え.pdf",
+            "mimetype": "application/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U0JAEV08K",
+            "editable": false,
+            "size": 571393,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F99E8AWGJ/___________________________.pdf",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F99E8AWGJ/download/___________________________.pdf",
+            "thumb_pdf": "https://files.slack.com/files-tmb/T0J8LKSTV-F99E8AWGJ-d0155531cc/____________________________thumb_pdf.png",
+            "thumb_pdf_w": 909,
+            "thumb_pdf_h": 1286,
+            "permalink": "https://kait-takanolab.slack.com/files/U0JAEV08K/F99E8AWGJ/___________________________.pdf",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F99E8AWGJ-2ce5e3a756",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+         },
+         "user": "U0JAEV08K",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "tsukiji",
+         "bot_id": null,
+         "ts": "1518671824.000044"
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0JAEV08K>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U0JAEV08K/F99DNUP1A/____________________________ver2.pptx|研究室引継ぎ講習会_ver2.pptx>",
+         "file": {
+            "id": "F99DNUP1A",
+            "created": 1518671821,
+            "timestamp": 1518671821,
+            "name": "研究室引継ぎ講習会_ver2.pptx",
+            "title": "研究室引継ぎ講習会_ver2.pptx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "filetype": "pptx",
+            "pretty_type": "PowerPoint プレゼンテーション",
+            "user": "U0JAEV08K",
+            "editable": false,
+            "size": 945071,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F99DNUP1A/____________________________ver2.pptx",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F99DNUP1A/download/____________________________ver2.pptx",
+            "permalink": "https://kait-takanolab.slack.com/files/U0JAEV08K/F99DNUP1A/____________________________ver2.pptx",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F99DNUP1A-528ffbd846",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+         },
+         "user": "U0JAEV08K",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "tsukiji",
+         "bot_id": null,
+         "ts": "1518671821.000152"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "<@U0JACJLRJ> わかりました",
+         "ts": "1518598710.000126"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "修士中間ポスターは18時以降に速やかにはがしてください、とのことです",
+         "ts": "1518598495.000248",
+         "reactions": [
+            {
+               "name": "heavy_check_mark",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U107MMD8Q",
+         "text": "<@U0JACJLRJ> ありがとうございます！先生のご指導のおかげです。",
+         "ts": "1518429705.000253"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U107MMD8Q> 松岡さんの卒研発表ですが、山本先生、須藤先生からとても高い評価をしてもらい、山本先生からはお褒めの言葉を頂きました。良かったですね！",
+         "ts": "1518422521.000139",
+         "reactions": [
+            {
+               "name": "clap",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U10J4NGHH",
+                  "U105P17QT",
+                  "U107TJHPF"
+               ],
+               "count": 5
+            },
+            {
+               "name": "+1",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U10J4NGHH",
+                  "U105P17QT",
+                  "U106UP90U"
+               ],
+               "count": 5
+            },
+            {
+               "name": "tada",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U10J4NGHH",
+                  "U0JAEV08K",
+                  "U105P17QT",
+                  "U2808K7U2",
+                  "U4YM85G94"
+               ],
+               "count": 7
+            },
+            {
+               "name": "muscle",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U10J4NGHH",
+                  "U105P17QT"
+               ],
+               "count": 4
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "subtype": "pinned_item",
+         "user": "U10J4NGHH",
+         "item_type": "C",
+         "attachments": [
+            {
+               "fallback": "[February 2nd, 2018 11:07 AM] shohei516: 残留届を提出しました。\nなお，今年度一杯は休講日ということなので\n今後提出する際は  ○月○日 08時 ~ ○月○日 08時 と書いてください.",
+               "ts": "1517537267.000007",
+               "author_id": "U10J4NGHH",
+               "author_subname": "Saito Shohei",
+               "channel_id": "C0J8KM6KF",
+               "channel_name": "general",
+               "is_msg_unfurl": true,
+               "text": "残留届を提出しました。\nなお，今年度一杯は休講日ということなので\n今後提出する際は  ○月○日 08時 ~ ○月○日 08時 と書いてください.",
+               "author_name": "Saito Shohei",
+               "author_link": "https://kait-takanolab.slack.com/team/U10J4NGHH",
+               "author_icon": "https://avatars.slack-edge.com/2017-04-08/166628530245_1e312855de1008b55eeb_48.jpg",
+               "mrkdwn_in": [
+                  "text"
+               ]
+            }
+         ],
+         "text": "<@U10J4NGHH>さんがメッセージをこのチャンネルにピン留めしました。",
+         "ts": "1517537287.000103"
+      },
+      {
+         "type": "message",
+         "user": "U10J4NGHH",
+         "text": "残留届を提出しました。\nなお，今年度一杯は休講日ということなので\n今後提出する際は  ○月○日 08時 ~ ○月○日 08時 と書いてください.",
+         "ts": "1517537267.000007",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U12475CJC",
+                  "U0JAEV08K",
+                  "U0J8PMAQJ",
+                  "U105P17QT",
+                  "U107TJHPF"
+               ],
+               "count": 5
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "リマインダー : 延長届を提出してください",
+         "bot_id": "B01",
+         "ts": "1517529616.000407"
+      },
+      {
+         "type": "message",
+         "user": "U12475CJC",
+         "text": "いきます",
+         "ts": "1516765508.000050"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U12475CJC> <@U0JAEV08K> 国際課来れる",
+         "ts": "1516765439.000076"
+      },
+      {
+         "type": "message",
+         "user": "U107MMD8Q",
+         "text": "<@U0JACJLRJ> わかりました",
+         "ts": "1516759480.000311"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "<@U0JACJLRJ> 分かりました",
+         "ts": "1516758850.000101"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U107MMD8Q> <@U105P17QT> 印鑑持ってきてもらえますか",
+         "ts": "1516758001.000232"
+      },
+      {
+         "text": "  2月2日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を提出してください” ",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U106UP90U",
+         "ts": "1516587309.000264"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "リマインダー : 延長届出してください",
+         "bot_id": "B01",
+         "ts": "1516320014.000436"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "よろしくお願いします",
+         "ts": "1516090802.000300"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "年末から稼働していなかった学内回線の無線LANアクセスポイントを再稼働させました\n再稼働させる際に設定変更を行ったのでSSIDとパスワードが以前と異なります\nSSID：\n　takanolab-campus-24（2.4GHz）\n　takanolab-campus-5（5GHz）\nパスワード（両方共通）：\n　takanolab",
+         "edited": {
+            "user": "U0J8PMAQJ",
+            "ts": "1516090780.000000"
+         },
+         "ts": "1516090711.000178",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U0JAEV08K",
+                  "U106UP90U"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0JACJLRJ>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U0JACJLRJ/F8STNPZK4/.png|no.7>",
+         "file": {
+            "id": "F8STNPZK4",
+            "created": 1516017910,
+            "timestamp": 1516017910,
+            "name": ".png",
+            "title": "no.7",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U0JACJLRJ",
+            "editable": false,
+            "size": 4308813,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F8STNPZK4/.png",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F8STNPZK4/download/.png",
+            "thumb_64": "https://files.slack.com/files-tmb/T0J8LKSTV-F8STNPZK4-6c4fb07d6e/_64.png",
+            "thumb_80": "https://files.slack.com/files-tmb/T0J8LKSTV-F8STNPZK4-6c4fb07d6e/_80.png",
+            "thumb_360": "https://files.slack.com/files-tmb/T0J8LKSTV-F8STNPZK4-6c4fb07d6e/_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 292,
+            "thumb_480": "https://files.slack.com/files-tmb/T0J8LKSTV-F8STNPZK4-6c4fb07d6e/_480.png",
+            "thumb_480_w": 480,
+            "thumb_480_h": 389,
+            "thumb_160": "https://files.slack.com/files-tmb/T0J8LKSTV-F8STNPZK4-6c4fb07d6e/_160.png",
+            "thumb_720": "https://files.slack.com/files-tmb/T0J8LKSTV-F8STNPZK4-6c4fb07d6e/_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 584,
+            "thumb_800": "https://files.slack.com/files-tmb/T0J8LKSTV-F8STNPZK4-6c4fb07d6e/_800.png",
+            "thumb_800_w": 800,
+            "thumb_800_h": 649,
+            "thumb_960": "https://files.slack.com/files-tmb/T0J8LKSTV-F8STNPZK4-6c4fb07d6e/_960.png",
+            "thumb_960_w": 960,
+            "thumb_960_h": 779,
+            "thumb_1024": "https://files.slack.com/files-tmb/T0J8LKSTV-F8STNPZK4-6c4fb07d6e/_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 831,
+            "image_exif_rotation": 1,
+            "original_w": 2045,
+            "original_h": 1659,
+            "permalink": "https://kait-takanolab.slack.com/files/U0JACJLRJ/F8STNPZK4/.png",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F8STNPZK4-8c13409fe5",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+         },
+         "user": "U0JACJLRJ",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "takano",
+         "bot_id": null,
+         "ts": "1516017916.000116"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "土日に、センター試験があるので、研究室で作業することはできません。",
+         "ts": "1515741947.000091",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106UP90U",
+                  "U0J8PMAQJ",
+                  "U107G430F",
+                  "U10J4NGHH"
+               ],
+               "count": 4
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "12F 第4食堂です！",
+         "ts": "1515725145.000059"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "1/17(水)18:00〜 MindとWawaとの交流会 兼送別会をします。",
+         "ts": "1515725135.000004",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U105P17QT",
+                  "U0JAEV08K",
+                  "U106UP90U",
+                  "U0J8PMAQJ",
+                  "U4XUM59NX",
+                  "U2808K7U2"
+               ],
+               "count": 6
+            }
+         ]
+      },
+      {
+         "text": "  1月19日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届出してください” ",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U0JAEV08K",
+         "ts": "1515587909.000226"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "スライド5のタイトル：読み書き頻度の高い単語の抽出例",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1515135911.000000"
+         },
+         "ts": "1515135726.000109",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U105P17QT"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "スライド28：タイトルは、実験考察だけでよい。",
+         "ts": "1515135530.000159"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "スライド11：ドキュメント形式ごとの重みの説明がない（文章はあるけど）",
+         "ts": "1515135109.000067"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "スライド8：1から3の文章に、対応する機能を見出しとして書いておくと良い",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1515135011.000000"
+         },
+         "ts": "1515134982.000047"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "スライド5：もう少し上手に説明しましょう",
+         "ts": "1515134866.000101"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": " スライドが切り替わった時の、つなぎの台詞がない。",
+         "ts": "1515134770.000165"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": " 赤くマークされている単語が一つもなのに、英文スコアが高いのがあるのはなぜだっけ。",
+         "ts": "1515132605.000088"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "プロトタイプシステムの図は、もっと大き目がいいです。",
+         "ts": "1515132183.000184"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "英語例文出題機能は、例がないとわかりにくいですね。例をつけられませんか。",
+         "ts": "1515132162.000107"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "英単語頻出機能など、詳細を説明する前に、簡単に概要を説明できると良い。",
+         "ts": "1515131962.000036"
+      },
+      {
+         "type": "message",
+         "user": "U12475CJC",
+         "text": "<@U0JACJLRJ>17時からバイトになっていました。\n\n昼過ぎまでご一緒します",
+         "ts": "1515124843.000093"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "リマインダー:延長届を提出してください",
+         "bot_id": "B01",
+         "ts": "1515110402.000263"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "1/7(日)に、チュラ学生と神宮にスケートに行きます。お昼頃の予定です。ぜひみなさんもご参加ください。",
+         "ts": "1515101744.000013"
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "申し訳ないです。",
+         "thread_ts": "1515056900.000170",
+         "parent_user_id": "U0JACJLRJ",
+         "ts": "1515065670.000364"
+      },
+      {
+         "type": "message",
+         "user": "U107MMD8Q",
+         "text": "<@U0JACJLRJ> 行けないです、申し訳ございません。",
+         "ts": "1515060382.000152"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U12475CJC> わかりました。",
+         "ts": "1515059847.000076"
+      },
+      {
+         "type": "message",
+         "user": "U12475CJC",
+         "text": "<@U0JACJLRJ> 明日実家から戻ってくるので、ちょっと厳しいです、、、",
+         "ts": "1515058993.000011"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "簡単な打ち合わせもしたいと思います。",
+         "ts": "1515057104.000107"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U106UP90U> 石川くんはむりでしたね。",
+         "thread_ts": "1515056900.000170",
+         "reply_count": 1,
+         "replies": [
+            {
+               "user": "U106UP90U",
+               "ts": "1515065670.000364"
+            }
+         ],
+         "subscribed": false,
+         "unread_count": 1,
+         "ts": "1515056900.000170",
+         "reactions": [
+            {
+               "name": "bow",
+               "users": [
+                  "U106UP90U"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U107MMD8Q> 岡安さんにも連絡とってもらえますか。",
+         "ts": "1515056888.000421"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U105P17QT> <@U107MMD8Q> <@U12475CJC> <@U106UP90U> 明日ですが、学会の会場準備で横浜に行きます。14:00から予定しているのだけど、みんなこれるのだっけ？",
+         "ts": "1515056869.000309",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U105P17QT"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "できる限りのことは試しますが　用事があるため１８時には帰宅させていただきます　申し訳ありません",
+         "ts": "1514622657.000049"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "電源はついてるみたいですが　ディスプレイに接続などがダメですね。。。　知識がないのでこちらでは詳しくはわからないのですが。。",
+         "ts": "1514620706.000045"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "だめですね。なんでだろう。。",
+         "ts": "1514620593.000036"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "度々確認して申し訳ないですが　まだメールサーバーに接続できませんか？",
+         "ts": "1514618961.000013"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "ありがとう。ディスプレイはrgbでつながってたよ。",
+         "ts": "1514617769.000062"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "電源はついてますが,映像出力とかはできないですね..　lanもしっかり刺さってると思いますが..",
+         "ts": "1514616769.000047"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "わかりました　あとはディスプレイを繋げて確認してみます",
+         "edited": {
+            "user": "U105P17QT",
+            "ts": "1514615713.000000"
+         },
+         "ts": "1514615637.000016"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "だとすると、青木くんにお願いできるのは、LANケーブルを念のため、カチッとさし直してもらうことですかね。",
+         "ts": "1514615038.000009"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "電源は入ってるんだ。。",
+         "ts": "1514614931.000033"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "電源は入れたので笠井さんなどに確認して動作を確認してみます　お手数おかけしました",
+         "ts": "1514614815.000033"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "確かにPs2マウスが繋がっています",
+         "ts": "1514614704.000082"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "PS2のマウスときーぼーどがつながっているの1台しかないと思います。",
+         "ts": "1514614650.000041"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "位置関係とか、ごついキーボードが繋がっているとか、記憶していません。",
+         "ts": "1514614619.000010"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "外観だけだとわかりません。。",
+         "ts": "1514614588.000006"
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U105P17QT>さんががファイル (<https://kait-takanolab.slack.com/files/U105P17QT/F8LDF9HS7/img_20171230_151532.jpg|IMG_20171230_151532.jpg>) をアップロードしてコメントしました : これでしょうか?",
+         "file": {
+            "id": "F8LDF9HS7",
+            "created": 1514614507,
+            "timestamp": 1514614507,
+            "name": "IMG_20171230_151532.jpg",
+            "title": "IMG_20171230_151532.jpg",
+            "mimetype": "image/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U105P17QT",
+            "editable": false,
+            "size": 546680,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F8LDF9HS7/img_20171230_151532.jpg",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F8LDF9HS7/download/img_20171230_151532.jpg",
+            "thumb_64": "https://files.slack.com/files-tmb/T0J8LKSTV-F8LDF9HS7-73423aaf2f/img_20171230_151532_64.jpg",
+            "thumb_80": "https://files.slack.com/files-tmb/T0J8LKSTV-F8LDF9HS7-73423aaf2f/img_20171230_151532_80.jpg",
+            "thumb_360": "https://files.slack.com/files-tmb/T0J8LKSTV-F8LDF9HS7-73423aaf2f/img_20171230_151532_360.jpg",
+            "thumb_360_w": 203,
+            "thumb_360_h": 360,
+            "thumb_480": "https://files.slack.com/files-tmb/T0J8LKSTV-F8LDF9HS7-73423aaf2f/img_20171230_151532_480.jpg",
+            "thumb_480_w": 270,
+            "thumb_480_h": 480,
+            "thumb_160": "https://files.slack.com/files-tmb/T0J8LKSTV-F8LDF9HS7-73423aaf2f/img_20171230_151532_160.jpg",
+            "thumb_720": "https://files.slack.com/files-tmb/T0J8LKSTV-F8LDF9HS7-73423aaf2f/img_20171230_151532_720.jpg",
+            "thumb_720_w": 405,
+            "thumb_720_h": 720,
+            "thumb_800": "https://files.slack.com/files-tmb/T0J8LKSTV-F8LDF9HS7-73423aaf2f/img_20171230_151532_800.jpg",
+            "thumb_800_w": 800,
+            "thumb_800_h": 1422,
+            "thumb_960": "https://files.slack.com/files-tmb/T0J8LKSTV-F8LDF9HS7-73423aaf2f/img_20171230_151532_960.jpg",
+            "thumb_960_w": 540,
+            "thumb_960_h": 960,
+            "thumb_1024": "https://files.slack.com/files-tmb/T0J8LKSTV-F8LDF9HS7-73423aaf2f/img_20171230_151532_1024.jpg",
+            "thumb_1024_w": 576,
+            "thumb_1024_h": 1024,
+            "image_exif_rotation": 1,
+            "original_w": 1920,
+            "original_h": 1080,
+            "permalink": "https://kait-takanolab.slack.com/files/U105P17QT/F8LDF9HS7/img_20171230_151532.jpg",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F8LDF9HS7-2e2dc55cf8",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+               "id": "Fc8LGNNWE8",
+               "created": 1514614507,
+               "timestamp": 1514614507,
+               "user": "U105P17QT",
+               "is_intro": true,
+               "comment": "これでしょうか?"
+            }
+         },
+         "user": "U105P17QT",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "kaiseiaoki",
+         "bot_id": null,
+         "ts": "1514614510.000039"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "そのあたりだと思います。",
+         "ts": "1514614411.000040"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "間違えました　dolphinの左隣です",
+         "edited": {
+            "user": "U105P17QT",
+            "ts": "1514614406.000000"
+         },
+         "ts": "1514614399.000017"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "Swallowはテーブルの上じゃなかったっけ？",
+         "ts": "1514614378.000004"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "swallow の左隣のサーバーしょうか？",
+         "ts": "1514614347.000001"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": " 確かPs2のマウスとキーボードがつながっているPCです。",
+         "ts": "1514614285.000030"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "まだ、sshつながりませんね。",
+         "ts": "1514614209.000050"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "Dolphin swallow  と名前が分からなかったのですがメールサーバを起動しました",
+         "ts": "1514614146.000029"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "3台起動した？",
+         "ts": "1514614033.000013"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "<@U0JACJLRJ> Dolphinと同時に起動したのですが、動いてませんか？",
+         "ts": "1514613990.000037"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "あおきくん、メールサーバの起動もお願いできますか。dolphinはログインできたけど、メールサーバはできません。",
+         "ts": "1514613564.000052"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "連絡が遅れましたが、dolphin,swallowなどのサーバを起動させました　他に何かあれば連絡お願いします。",
+         "edited": {
+            "user": "U105P17QT",
+            "ts": "1514611236.000000"
+         },
+         "ts": "1514609417.000027",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U0J8PMAQJ"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "明日の午前中くらいにサーバーなどを再起動させます　他にしてほしい作業のある方は連絡お願いいたします",
+         "ts": "1514518270.000144",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U123ZGHM2",
+                  "U0JACJLRJ"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U12475CJC",
+         "text": "<!channel> 本日、鷹野研究室の忘年会を開催します！時間は18時ごろを予定しています！\n参加したい人は18時ごろに研究室に集まってください！",
+         "ts": "1514354951.000081",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106UP90U"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "yokohama",
+         "ts": "1514339570.000158"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "すみません　駅で迷ったので30分に間に合わないかも知れないです",
+         "ts": "1514337910.000111"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "電車を一本乗り遅れたので、10:50頃到着予定です。",
+         "ts": "1514336098.000083",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U105P17QT",
+                  "U106UP90U",
+                  "U107MMD8Q"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "<@U0JACJLRJ> 分かりました。",
+         "ts": "1514290546.000184"
+      },
+      {
+         "type": "message",
+         "user": "U107MMD8Q",
+         "text": "<@U0JACJLRJ> わかりました。",
+         "ts": "1514289556.000018"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "分かりました　",
+         "thread_ts": "1514287871.000158",
+         "parent_user_id": "U0JACJLRJ",
+         "ts": "1514289154.000005"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U107MMD8Q> <@U106UP90U> <@U105P17QT> 明日は10:30に横浜中央郵便局集合で良いですか。",
+         "thread_ts": "1514287871.000158",
+         "reply_count": 1,
+         "replies": [
+            {
+               "user": "U105P17QT",
+               "ts": "1514289154.000005"
+            }
+         ],
+         "subscribed": false,
+         "unread_count": 1,
+         "ts": "1514287871.000158"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "↑すみません　英文の抜き出しが甘かったので修正します",
+         "ts": "1514193422.000090"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "<@U0JACJLRJ> ドキュメントファイルをアップして練習だけできるものをつくりました",
+         "ts": "1514193039.000102"
+      },
+      {
+         "type": "message",
+         "user": "U105P17QT",
+         "text": "<https://dolphin.mkm.ic.kanagawa-it.ac.jp/~aoki/simple/answer.html>",
+         "edited": {
+            "user": "U105P17QT",
+            "ts": "1514281251.000000"
+         },
+         "ts": "1514192566.000109"
+      },
+      {
+         "text": "  2018年1月5日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を提出してください” ",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U106UP90U",
+         "ts": "1514090869.000023"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "リマインダー:延長届を提出してください",
+         "bot_id": "B01",
+         "ts": "1513900807.000308"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "共同研究や一般的なお世話などよろしくお願いします",
+         "ts": "1513665199.000003"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "明日から、チュラの学生２名が１か月間、鷹野研配属になります。",
+         "ts": "1513665026.000096",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U105P17QT",
+                  "U106UP90U",
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U2808K7U2",
+                  "U123ZGHM2",
+                  "U4XUM59NX",
+                  "U0JAEV08K"
+               ],
+               "count": 8
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U12475CJC",
+         "text": "dolphinサーバーのアップデートが来ていたので，反映させました.",
+         "ts": "1513310341.000063"
+      },
+      {
+         "text": "  12月22日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を提出してください” ",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U106UP90U",
+         "ts": "1512720238.000165"
+      },
+      {
+         "type": "message",
+         "user": "U12475CJC",
+         "text": "<@U106Y1J7N> eも忘れてたわ、ありがとう。\n了解です。",
+         "edited": {
+            "user": "U12475CJC",
+            "ts": "1512737243.000000"
+         },
+         "ts": "1512693152.000285"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "<@U106Y1J7N> 返信遅れました\n了解です",
+         "ts": "1512634194.000263"
+      },
+      {
+         "type": "message",
+         "user": "U106Y1J7N",
+         "text": "後、扉の開け閉めは静かにおねがいします。",
+         "ts": "1512626693.000100"
+      },
+      {
+         "type": "message",
+         "user": "U106Y1J7N",
+         "text": "（告知が遅くて申し訳ないのですが）諸事情により残留届けを出しそこねているので今日までは22時までに帰宅するようone以外します。明日から残留届けの提出を再開します。",
+         "ts": "1512626684.000060",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U105P17QT",
+                  "U10J4NGHH",
+                  "U123ZGHM2",
+                  "U106UP90U",
+                  "U12475CJC"
+               ],
+               "count": 6
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U2808K7U2> <@U4YM85G94> <@U79FX6VFF> <@U7D4HNSKX> バタム海外研修の旅程が決まりました。\n【往路】\n‪２月２１日（水）・・・搭乗手続きは２月２０日の夜‬\nANA843　羽田　‪００：３０‬－シンガポール　‪０６：５５‬\n\n【復路】\n‪３月１９日（月）‬\nANA844　シンガポール　‪２２：２５‬－羽田　‪０６：００‬(‪3/20‬)",
+         "ts": "1511484822.000114",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U2808K7U2"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "あと、パスポートを取得していなくても申し込みはできます。",
+         "ts": "1511164200.000101"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "バタム海外研修を検討しているみなさんへ：\n11/24(金)が申し込み締切となっています。検討の上、国際センターへ申し込んでください。質問があれば個別でもいいですし、築地くんや上村くんにも聞いてみてください。",
+         "ts": "1511164181.000185",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U12475CJC",
+                  "U2808K7U2"
+               ],
+               "count": 2
+            },
+            {
+               "name": "ok_woman",
+               "users": [
+                  "U0JAEV08K"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "text": "  Friday, December 1st 9:00 , Japan Standard Time にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U105P17QT",
+         "ts": "1511095855.000014"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "Reminder: 延長届を出してください",
+         "bot_id": "B01",
+         "ts": "1510876827.000364"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "７，８名分くらいになると思うので、3，4名必要かもしれません。",
+         "ts": "1510059014.000116",
+         "reactions": [
+            {
+               "name": "+1",
+               "users": [
+                  "U12475CJC",
+                  "U0JAEV08K"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "その時は誰かにお手伝いをお願いしても良いですか。",
+         "ts": "1510058981.000011"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "明日いらっしゃるPENS&amp;Chulaの先生方のお昼に、クーシーのテイクアウトを利用するかもしれません。",
+         "ts": "1510058964.000360"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "<!channel> 学園祭で買い出しに行った人でまだ領収書を持っている人は僕に渡してください。\nまた、だれがどの領収書なのかわからないので立て替えている人は僕に申告してください。(研究室に来た時で構いません)",
+         "ts": "1510026481.000136"
+      },
+      {
+         "text": " set up a reminder “延長届を出してください” in this channel at 9AM Friday, November 17th, Japan Standard Time.",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U105P17QT",
+         "ts": "1509986895.000630"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "Reminder: 延長届を出してください",
+         "bot_id": "B01",
+         "ts": "1509667226.000319"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "バタム国際大学への海外研修の説明会を、11/7(火)5限と10(金)5限にやります。両日とも同じ内容です。是非さんかしてください。",
+         "ts": "1509507412.000047"
+      },
+      {
+         "type": "message",
+         "subtype": "pinned_item",
+         "user": "U12475CJC",
+         "item_type": "C",
+         "attachments": [
+            {
+               "fallback": "[November 1st, 2017 10:58 AM] shohei516: 【重要】\n来週、11/8(水)の14:20~15:00にて、卒業アルバム作成のための研究室の写真撮影が行われます。\n原則、4年生は全員参加ということなので、お願いします。",
+               "ts": "1509501536.000120",
+               "author_id": "U10J4NGHH",
+               "author_subname": "Saito Shohei",
+               "channel_id": "C0J8KM6KF",
+               "channel_name": "general",
+               "is_msg_unfurl": true,
+               "text": "【重要】\n来週、11/8(水)の14:20~15:00にて、卒業アルバム作成のための研究室の写真撮影が行われます。\n原則、4年生は全員参加ということなので、お願いします。",
+               "author_name": "Saito Shohei",
+               "author_link": "https://kait-takanolab.slack.com/team/U10J4NGHH",
+               "author_icon": "https://avatars.slack-edge.com/2017-04-08/166628530245_1e312855de1008b55eeb_48.jpg",
+               "mrkdwn_in": [
+                  "text"
+               ]
+            }
+         ],
+         "text": "<@U12475CJC>さんがメッセージをこのチャンネルにピン留めしました。",
+         "ts": "1509501586.000040"
+      },
+      {
+         "type": "message",
+         "user": "U10J4NGHH",
+         "text": "【重要】\n来週、11/8(水)の14:20~15:00にて、卒業アルバム作成のための研究室の写真撮影が行われます。\n原則、4年生は全員参加ということなので、お願いします。",
+         "edited": {
+            "user": "U10J4NGHH",
+            "ts": "1509583701.000000"
+         },
+         "ts": "1509501536.000120",
+         "pinned_to": [
+            "C0J8KM6KF"
+         ],
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U12475CJC",
+                  "U10J4NGHH"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "分かりました、検討します。エスプレッソ用粉がリンク切れとなっているので、もう一度貼っていただきたいです。よろしくお願いします。",
+         "thread_ts": "1508885898.000016",
+         "parent_user_id": "U0JACJLRJ",
+         "ts": "1508912498.000047"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "が欲しいのですが、予算が余るようでしたらご検討ください。",
+         "thread_ts": "1508885898.000016",
+         "reply_count": 1,
+         "replies": [
+            {
+               "user": "U106UP90U",
+               "ts": "1508912498.000047"
+            }
+         ],
+         "subscribed": false,
+         "unread_count": 1,
+         "ts": "1508885898.000016"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "と、エスプレッソマシン用に\nエスプレッソポッド\n<http://amzn.asia/cxG5Ty9>",
+         "attachments": [
+            {
+               "title": "UCC エスプレッソポッド ダークタイプ 6.8g×60個入り",
+               "title_link": "http://amzn.asia/cxG5Ty9",
+               "text": "UCC エスプレッソポッド ダークタイプ 6.8g×60個入り",
+               "fallback": "UCC エスプレッソポッド ダークタイプ 6.8g×60個入り",
+               "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51ecy3Lzl7L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingTHREEANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(28%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+               "from_url": "http://amzn.asia/cxG5Ty9",
+               "image_width": 476,
+               "image_height": 250,
+               "image_bytes": 24060,
+               "service_icon": "https://www.amazon.co.jp/favicon.ico",
+               "service_name": "amazon.co.jp",
+               "id": 1
+            }
+         ],
+         "ts": "1508885884.000340"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "エスプレッソ用粉\n<http://amzn.asia/7FmXH2>",
+         "ts": "1508885597.000276"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "ところで、コーヒーエアロプレスがせっかくあるので、",
+         "ts": "1508885558.000001"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "これらは、別の実験費用で買えるかもしれないので保留です。（エアダスターは多分買えます。）",
+         "ts": "1508885443.000144"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "エアダスター、クイックルワイパー、カビキラー以外は発注しました。",
+         "ts": "1508885405.000355",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106UP90U"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "はい。よろしくお願いします。",
+         "thread_ts": "1508759802.000011",
+         "parent_user_id": "U0JACJLRJ",
+         "ts": "1508816110.000136"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "学園祭用の物品はAmazonで購入して良いのだっけ。",
+         "thread_ts": "1508759802.000011",
+         "reply_count": 1,
+         "replies": [
+            {
+               "user": "U106UP90U",
+               "ts": "1508816110.000136"
+            }
+         ],
+         "subscribed": false,
+         "unread_count": 1,
+         "ts": "1508759802.000011",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106UP90U"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "3年生、4年生も積極的に参加して下さい。",
+         "ts": "1508716719.000008"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "笠井くん、築地くん、上村くんにも英語ショート発表してもらいます。",
+         "ts": "1508716683.000102"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "PENS研修生の研修報告会を10/26(木) 15:00～に予定しています。\n---\n日時：10月26日（木）4限\n場所：K1 306教室\n---",
+         "ts": "1508716628.000121"
+      },
+      {
+         "text": " set up a reminder “延長届を出してください” in this channel at 9AM Friday, November 3rd, Japan Standard Time.",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U12475CJC",
+         "ts": "1508481769.000209"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "Reminder: 残留届けが切れました。更新してください。",
+         "bot_id": "B01",
+         "ts": "1508457628.000291"
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "<!channel> 学園祭でのシフト表についても上記のスプレッドシートを利用する事にしました。3つ目のシートを開き、11月4日と5日で参加できる方に◯を付けてください。",
+         "ts": "1508318025.000441"
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "学園祭予算で買ったほうが良いじゃない？と思う物がある方は、シート2の「欲しいもの」に商品名と商品リンク（Amazonなど）を追加しておいてください。",
+         "attachments": [
+            {
+               "fallback": "[October 4th, 2017 4:36 PM] ishikawa: 学園祭での予算(30000円)内で欲しいものリストをスプレッドシートで作ったので、欲しい物がある人は共有してください。\n<https://docs.google.com/spreadsheets/d/1q4PjSqYtcl0WAWbPS7X-1JskhOPg1SzQIdh0ArPmHwY/edit#gid=0>",
+               "ts": "1507102581.000464",
+               "author_id": "U106UP90U",
+               "author_subname": "Toshiaki Ishikawa",
+               "channel_id": "C0J8KM6KF",
+               "channel_name": "general",
+               "is_msg_unfurl": true,
+               "text": "学園祭での予算(30000円)内で欲しいものリストをスプレッドシートで作ったので、欲しい物がある人は共有してください。\n<https://docs.google.com/spreadsheets/d/1q4PjSqYtcl0WAWbPS7X-1JskhOPg1SzQIdh0ArPmHwY/edit#gid=0>",
+               "author_name": "Toshiaki Ishikawa",
+               "author_link": "https://kait-takanolab.slack.com/team/U106UP90U",
+               "author_icon": "https://avatars.slack-edge.com/2016-07-01/56070964311_fa7463f53875bda1458a_48.jpg",
+               "mrkdwn_in": [
+                  "text"
+               ],
+               "color": "D0D0D0",
+               "from_url": "https://kait-takanolab.slack.com/archives/C0J8KM6KF/p1507102581000464",
+               "is_share": true,
+               "footer": "#general に投稿"
+            }
+         ],
+         "ts": "1508301742.000183",
+         "reactions": [
+            {
+               "name": "+1",
+               "users": [
+                  "U106Y1J7N"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "subtype": "pinned_item",
+         "user": "U106UP90U",
+         "item_type": "C",
+         "attachments": [
+            {
+               "fallback": "[October 4th, 2017 4:36 PM] ishikawa: 学園祭での予算(30000円)内で欲しいものリストをスプレッドシートで作ったので、欲しい物がある人は共有してください。\n<https://docs.google.com/spreadsheets/d/1q4PjSqYtcl0WAWbPS7X-1JskhOPg1SzQIdh0ArPmHwY/edit#gid=0>",
+               "ts": "1507102581.000464",
+               "author_id": "U106UP90U",
+               "author_subname": "Toshiaki Ishikawa",
+               "channel_id": "C0J8KM6KF",
+               "channel_name": "general",
+               "is_msg_unfurl": true,
+               "text": "学園祭での予算(30000円)内で欲しいものリストをスプレッドシートで作ったので、欲しい物がある人は共有してください。\n<https://docs.google.com/spreadsheets/d/1q4PjSqYtcl0WAWbPS7X-1JskhOPg1SzQIdh0ArPmHwY/edit#gid=0>",
+               "author_name": "Toshiaki Ishikawa",
+               "author_link": "https://kait-takanolab.slack.com/team/U106UP90U",
+               "author_icon": "https://avatars.slack-edge.com/2016-07-01/56070964311_fa7463f53875bda1458a_48.jpg",
+               "mrkdwn_in": [
+                  "text"
+               ]
+            }
+         ],
+         "text": "<@U106UP90U>さんがメッセージをこのチャンネルにピン留めしました。",
+         "ts": "1508301669.000089"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U0J8PMAQJ>  「サーバへのログイン成功履歴 」は、内部の人のログインも含むよね？",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1508034711.000000"
+         },
+         "ts": "1508034692.000007"
+      },
+      {
+         "type": "message",
+         "user": "U12475CJC",
+         "text": "自分は特に大事なデータが入っているわけではないので、クリーンインストールして頂いても大丈夫です。 よろしくお願いします。",
+         "attachments": [
+            {
+               "fallback": "[October 13th, 2017 8:14 PM] takano: dolphinに大事なデータがある人は教えてください。",
+               "ts": "1507893266.000186",
+               "author_id": "U0JACJLRJ",
+               "author_subname": "takano",
+               "channel_id": "C0J8KM6KF",
+               "channel_name": "general",
+               "is_msg_unfurl": true,
+               "text": "dolphinに大事なデータがある人は教えてください。",
+               "author_name": "takano",
+               "author_link": "https://kait-takanolab.slack.com/team/U0JACJLRJ",
+               "author_icon": "https://secure.gravatar.com/avatar/1780fa0a8f6ee53c6cade53efe1163ac.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0015-48.png",
+               "mrkdwn_in": [
+                  "text"
+               ],
+               "color": "D0D0D0",
+               "from_url": "https://kait-takanolab.slack.com/archives/C0J8KM6KF/p1507893266000186",
+               "is_share": true,
+               "footer": "#general に投稿"
+            }
+         ],
+         "ts": "1507974219.000020"
+      },
+      {
+         "type": "message",
+         "subtype": "pinned_item",
+         "user": "U0JACJLRJ",
+         "item_type": "C",
+         "attachments": [
+            {
+               "fallback": "[October 13th, 2017 12:30 PM] takano: 学園祭は、4年生が中心となって動きましょう。",
+               "ts": "1507865415.000183",
+               "author_id": "U0JACJLRJ",
+               "author_subname": "takano",
+               "channel_id": "C0J8KM6KF",
+               "channel_name": "general",
+               "is_msg_unfurl": true,
+               "text": "学園祭は、4年生が中心となって動きましょう。",
+               "author_name": "takano",
+               "author_link": "https://kait-takanolab.slack.com/team/U0JACJLRJ",
+               "author_icon": "https://secure.gravatar.com/avatar/1780fa0a8f6ee53c6cade53efe1163ac.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0015-48.png",
+               "mrkdwn_in": [
+                  "text"
+               ]
+            }
+         ],
+         "text": "<@U0JACJLRJ>さんがメッセージをこのチャンネルにピン留めしました。",
+         "ts": "1507973371.000020"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "特になければデータのバックアップをとらずにクリーンインストールしようと思います。",
+         "ts": "1507893287.000228"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "dolphinに大事なデータがある人は教えてください。",
+         "ts": "1507893266.000186"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "後日クリーンインストールすることを推奨します",
+         "ts": "1507888226.000216"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "なお現在 dolphin は LAN ケーブルを外して物理的にネットワークから隔離されています",
+         "ts": "1507885092.000186"
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "dolphinサーバーが外部からの侵入を受けた疑いがあり、現在 <@U0J8PMAQJ> さんが調査中です\n現在までに分かっている事\n・ <@U0J8PMAQJ> のパスワード変更日　9月16日\n・外部からダウンロードされたソフトウェアのインストール日 9月25日\n・ソフトウェアの起動 9月26日\n・サーバーへのログイン成功履歴がアーカイブされた日 10月1日\n・セキュリティログが削除された日 10月13日\n・大学からネットワークを遮断された日 10月13日\n・外部からログイン試行が始まった日 調査中\n\n* dolphinでアカウントを作った事がある人で、普段のパスワードとして使いまわしている人は変更するようにしてください。*",
+         "edited": {
+            "user": "U106UP90U",
+            "ts": "1507886167.000000"
+         },
+         "ts": "1507885045.000018"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "学園祭は、4年生が中心となって動きましょう。",
+         "ts": "1507865415.000183",
+         "pinned_to": [
+            "C0J8KM6KF"
+         ],
+         "reactions": [
+            {
+               "name": "ok_woman",
+               "users": [
+                  "U107MMD8Q",
+                  "U12475CJC"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "主に僕らが飲みたいもの\nコーヒー豆\n・スターバックス コーヒー豆 ハウスブレンド907g 緑 レギュラーコーヒー\n <http://amzn.asia/4mMhCQx>\n・コ-ヒ-ばかの店 タンザニア（キリマンジャロ） 300g\n<http://amzn.asia/bQ2z510>\n\n主に来た人にふるまうもの\nドリップコーヒー\nドトールコーヒー ドリップコーヒー オリジナルブレンド 50P\n<http://amzn.asia/4v7UTjz>\nUCC 職人の珈琲ドリップ 深いコクのスペシャルブレンド 50P 350g\n <http://amzn.asia/9jUif51>\n紅茶\nリプトン イエローラベルティーバッグ25袋 50g\n<http://amzn.asia/4HLZhAm>\nこんな感じで調べてね",
+         "attachments": [
+            {
+               "title": "スターバックス コーヒー豆 ハウスブレンド907g 緑 レギュラーコーヒー",
+               "title_link": "http://amzn.asia/4mMhCQx",
+               "text": "カークランド スターバックス ローストハウスブレンドコーヒー豆パック 907g 品名：レギュラーコーヒー（豆） 原材料名：コーヒー豆（生豆生産国名：グアテマラ） 内容量：907G 賞味期限：ラベルに記載 保存方法：直射日光や高温多湿を避け、涼しい場所で保管してください。 使用上の注意：開封後は密閉容器に移し替え、できるだけ早く使用してください。 原産国名：アメリカ 大さじ2杯に約180ｃｃの水が目安です。 ※パッケージデザインが変更になることがあります サイズ：約135×220×100mm",
+               "fallback": "スターバックス コーヒー豆 ハウスブレンド907g 緑 レギュラーコーヒー",
+               "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51vTpsKYeTL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(400%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+               "from_url": "http://amzn.asia/4mMhCQx",
+               "image_width": 476,
+               "image_height": 250,
+               "image_bytes": 22096,
+               "service_icon": "https://www.amazon.co.jp/favicon.ico",
+               "service_name": "amazon.co.jp",
+               "id": 1
+            },
+            {
+               "title": "コ-ヒ-ばかの店 タンザニア（キリマンジャロ） 300g 30杯～45杯 [豆のまま（オススメ）] コーヒー豆/上品な酸味と黒糖のような甘い香り！■タンザニアAA（キリマンジャロ）■浅煎り（シナモンロースト） メール便 珈琲豆",
+               "title_link": "http://amzn.asia/bQ2z510",
+               "text": "メール便でお届けします。ポスト投函なので、受け取りの手間なし！",
+               "fallback": "コ-ヒ-ばかの店 タンザニア（キリマンジャロ） 300g 30杯～45杯 [豆のまま（オススメ）] コーヒー豆/上品な酸味と黒糖のような甘い香り！■タンザニアAA（キリマンジャロ）■浅煎り（シナモンロースト） メール便 珈琲豆",
+               "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41gkJ4EZ6sL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg",
+               "from_url": "http://amzn.asia/bQ2z510",
+               "image_width": 476,
+               "image_height": 250,
+               "image_bytes": 11787,
+               "service_icon": "https://www.amazon.co.jp/favicon.ico",
+               "service_name": "amazon.co.jp",
+               "id": 2
+            },
+            {
+               "title": "ドトールコーヒー ドリップコーヒー オリジナルブレンド 50P",
+               "title_link": "http://amzn.asia/4v7UTjz",
+               "text": "ブラジルとコロンビア産の豆をメインにブレンドしたドリップコーヒーです。中深焙りならではの香ばしさと自然な甘味、酸味、苦味のハーモニーをお楽しみください。",
+               "fallback": "ドトールコーヒー ドリップコーヒー オリジナルブレンド 50P",
+               "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51wpFRvk23L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(26%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+               "from_url": "http://amzn.asia/4v7UTjz",
+               "image_width": 476,
+               "image_height": 250,
+               "image_bytes": 33379,
+               "service_icon": "https://www.amazon.co.jp/favicon.ico",
+               "service_name": "amazon.co.jp",
+               "id": 3
+            },
+            {
+               "title": "UCC 職人の珈琲ドリップ 深いコクのスペシャルブレンド 50P 350g",
+               "title_link": "http://amzn.asia/9jUif51",
+               "text": "●【商品説明】●「UCC 職人の珈琲 ドリップコーヒー 深いコクのスペシャルブレンド 7g×50杯分」は、豊かなコクのリッチな味わいでミルクともよく合うブレンドコーヒーです。●【お問い合わせ先】●製造者：ユーシーシー上島珈琲株式会社神戸市中央区多聞通5-1-6お客様担当：神戸市中央区港島中町7-7-70120-050-183●【原産国】●生豆生産国名：インドネシア、コロンビア他●【原材料名・栄養成分等】●品名：レギュラーコーヒー(粉)原材料名：コーヒー豆(生豆生産国名：インドネシア、コロンビア他)栄養成分表示：(100mlあたり)/熱量：4kcal、たんぱく質：0.3g、脂質：0g、炭水...",
+               "fallback": "UCC 職人の珈琲ドリップ 深いコクのスペシャルブレンド 50P 350g",
+               "image_url": "https://images-fe.ssl-images-amazon.com/images/I/51VyllyalhL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFIVE%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg",
+               "from_url": "http://amzn.asia/9jUif51",
+               "image_width": 476,
+               "image_height": 250,
+               "image_bytes": 26802,
+               "service_icon": "https://www.amazon.co.jp/favicon.ico",
+               "service_name": "amazon.co.jp",
+               "id": 4
+            },
+            {
+               "title": "リプトン イエローラベルティーバッグ25袋 50g",
+               "title_link": "http://amzn.asia/4HLZhAm",
+               "text": "リプトン イエローラベルティーバッグ25袋 50g",
+               "fallback": "リプトン イエローラベルティーバッグ25袋 50g",
+               "image_url": "https://images-fe.ssl-images-amazon.com/images/I/41LVrjJVKOL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFIVE%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(5%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+               "from_url": "http://amzn.asia/4HLZhAm",
+               "image_width": 476,
+               "image_height": 250,
+               "image_bytes": 17923,
+               "service_icon": "https://www.amazon.co.jp/favicon.ico",
+               "service_name": "amazon.co.jp",
+               "id": 5
+            }
+         ],
+         "ts": "1507810847.000098"
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0JAEV08K>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U0JAEV08K/F7H5SHB3M/__________________________________________.docx|アイロンビーズで準備するもの.docx>",
+         "file": {
+            "id": "F7H5SHB3M",
+            "created": 1507808615,
+            "timestamp": 1507808615,
+            "name": "アイロンビーズで準備するもの.docx",
+            "title": "アイロンビーズで準備するもの.docx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word 文書",
+            "user": "U0JAEV08K",
+            "editable": false,
+            "size": 13553,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F7H5SHB3M/__________________________________________.docx",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F7H5SHB3M/download/__________________________________________.docx",
+            "permalink": "https://kait-takanolab.slack.com/files/U0JAEV08K/F7H5SHB3M/__________________________________________.docx",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F7H5SHB3M-b8fc602474",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+         },
+         "user": "U0JAEV08K",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "tsukiji",
+         "bot_id": null,
+         "ts": "1507808615.000280"
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0JAEV08K>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U0JAEV08K/F7GN6HC5P/________________________________________2016.xlsx|文化祭で準備するもの リスト2016.xlsx>",
+         "file": {
+            "id": "F7GN6HC5P",
+            "created": 1507808572,
+            "timestamp": 1507808572,
+            "name": "文化祭で準備するもの リスト2016.xlsx",
+            "title": "文化祭で準備するもの リスト2016.xlsx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "filetype": "xlsx",
+            "pretty_type": "Excel スプレッドシート",
+            "user": "U0JAEV08K",
+            "editable": false,
+            "size": 13023,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F7GN6HC5P/________________________________________2016.xlsx",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F7GN6HC5P/download/________________________________________2016.xlsx",
+            "permalink": "https://kait-takanolab.slack.com/files/U0JAEV08K/F7GN6HC5P/________________________________________2016.xlsx",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F7GN6HC5P-04980717cd",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+         },
+         "user": "U0JAEV08K",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "tsukiji",
+         "bot_id": null,
+         "ts": "1507808573.000141"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "ろそろ学際で買うものをみんなで決めましょう(来週までに何を買うのか決めないと準備でバタバタするよ)\n去年に先生にお願いする為に作成した買うものリストをここにあげておくので，今年は何を買うのかの参考に4年生の子たちは必ず見ておいてください",
+         "ts": "1507808555.000148",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U105P17QT",
+                  "U106Y1J7N",
+                  "U106UP90U"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "参加できる人は、リアクションをお願いします。",
+         "ts": "1507773389.000223",
+         "reactions": [
+            {
+               "name": "grinning",
+               "users": [
+                  "U0JAEV08K"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "10/21(土)にPENSの学生と鎌倉に行くことを企画しています。時間のある人は是非参加しましょう。",
+         "ts": "1507773326.000042"
+      },
+      {
+         "text": " set up a reminder “残留届けが切れました。更新してください。” in this channel at 9AM Friday, October 20th, Japan Standard Time.",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U106Y1J7N",
+         "ts": "1507298832.000146",
+         "reactions": [
+            {
+               "name": "+1",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U107MMD8Q"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "飲食パーティになるので、気軽に参加をして、PENS生と交流をしてみてください。",
+         "ts": "1507258898.000143"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "---\n場所: 2食\n時間: 17:00-19:00\n---",
+         "ts": "1507258876.000008"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "本日(10/6)、PENS研修生との交流会があります。",
+         "ts": "1507258852.000195"
+      },
+      {
+         "type": "message",
+         "user": "U106Y1J7N",
+         "text": "1日通知間違えました（おそらく）",
+         "thread_ts": "1507158024.000238",
+         "parent_user_id": "USLACKBOT",
+         "ts": "1507184362.000107"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "Reminder: 残留届けを更新してください",
+         "bot_id": "B01",
+         "thread_ts": "1507158024.000238",
+         "reply_count": 1,
+         "replies": [
+            {
+               "user": "U106Y1J7N",
+               "ts": "1507184362.000107"
+            }
+         ],
+         "subscribed": false,
+         "unread_count": 1,
+         "ts": "1507158024.000238"
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "学園祭での予算(30000円)内で欲しいものリストをスプレッドシートで作ったので、欲しい物がある人は共有してください。\n<https://docs.google.com/spreadsheets/d/1q4PjSqYtcl0WAWbPS7X-1JskhOPg1SzQIdh0ArPmHwY/edit#gid=0>",
+         "ts": "1507102581.000464",
+         "pinned_to": [
+            "C0J8KM6KF"
+         ]
+      },
+      {
+         "user": "U7D4HNSKX",
+         "text": "<@U7D4HNSKX>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1507083537.000114"
+      },
+      {
+         "user": "U7DSHBV9U",
+         "text": "<@U7DSHBV9U>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1507083478.000165"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "10/10午後にPENS生が鷹野研の見学に来るので、協力をお願いします。",
+         "ts": "1507030729.000301",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106UP90U",
+                  "U105P17QT",
+                  "U12475CJC"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "ハンドアウト資料の内容、説明の仕方、デモプログラムの内容など、高校生と付添の方へ説明できるクオリティに達していたかなどを、再度確認してみてください。",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1506895753.000000"
+         },
+         "ts": "1506895722.000066",
+         "reactions": [
+            {
+               "name": "+1",
+               "users": [
+                  "U12475CJC",
+                  "U106Y1J7N",
+                  "U106UP90U",
+                  "U105P17QT",
+                  "U10J4NGHH"
+               ],
+               "count": 5
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "デモ説明について、良くできていた部分もあったと思いますが、水曜日の卒研ゼミでは少し振り返りを行いたいと思います。",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1506895786.000000"
+         },
+         "ts": "1506895484.000059",
+         "reactions": [
+            {
+               "name": "+1",
+               "users": [
+                  "U12475CJC",
+                  "U106Y1J7N",
+                  "U106UP90U",
+                  "U105P17QT",
+                  "U10J4NGHH"
+               ],
+               "count": 5
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "オープンキャンパスご苦労様でした。",
+         "ts": "1506895399.000061"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "前半(10:00~13:00):梅谷・斎藤・上村・栗原・笠井\n後半(13:00~16:00):青木・石川・星野・松岡・築地\n研究室公開の時間に合わせてシフトの時間を30分送らせました\n栗原君は前半に入れました",
+         "edited": {
+            "user": "U0JAEV08K",
+            "ts": "1506678248.000000"
+         },
+         "ts": "1506678055.000376",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106Y1J7N",
+                  "U12475CJC"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "あと、デモ説明を担当していないときは、受付や呼び込みのお手伝いや、原則、研究室待機でお願いします。",
+         "ts": "1506673477.000130",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "デモ説明担当は、前半後半でわかれるで良いのですが、9:30には全員集合でお願いします。",
+         "ts": "1506673340.000135",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U105P17QT",
+                  "U0J8PMAQJ",
+                  "U106UP90U",
+                  "U12475CJC",
+                  "U106Y1J7N"
+               ],
+               "count": 5
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "研究室公開は、10:00-16:00となっています。",
+         "ts": "1506673266.000470"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "なんか今人いないので明日（土曜だけど）研究室に来る人がいたらその人達でやろうかなって思っています :stuck_out_tongue:",
+         "ts": "1506672602.000440",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U105P17QT"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "<https://kait-takanolab.slack.com/archives/C0J8KM6KF/p1506585706000213>",
+         "attachments": [
+            {
+               "from_url": "https://kait-takanolab.slack.com/archives/C0J8KM6KF/p1506585706000213",
+               "fallback": "[September 28th, 2017 1:01 AM] t.kasai: 明日 OC の資料とか説明のレビューを築地さんと笠井さんがちょっとやる予定なので、最低限のことはできるように準備しておきましょう :muscle:",
+               "ts": "1506585706.000213",
+               "author_id": "U0J8PMAQJ",
+               "author_subname": "Takayuki Kasai",
+               "channel_id": "C0J8KM6KF",
+               "channel_name": "general",
+               "is_msg_unfurl": true,
+               "text": "明日 OC の資料とか説明のレビューを築地さんと笠井さんがちょっとやる予定なので、最低限のことはできるように準備しておきましょう :muscle:",
+               "author_name": "Takayuki Kasai",
+               "author_link": "https://kait-takanolab.slack.com/team/U0J8PMAQJ",
+               "author_icon": "https://avatars.slack-edge.com/2016-01-13/18360388497_bd9588feb38afb55a950_48.jpg",
+               "mrkdwn_in": [
+                  "text"
+               ],
+               "id": 1,
+               "footer": "#general に投稿"
+            }
+         ],
+         "ts": "1506672532.000268"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "あ、栗原君がなかった",
+         "ts": "1506666323.000104"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "前半(9:30~12:30):梅谷・斎藤・上村・笠井\n後半(12:30~15:30):青木・石川・星野・松岡・築地\n当日のシフトはこれで行きます",
+         "edited": {
+            "user": "U0JAEV08K",
+            "ts": "1506666287.000000"
+         },
+         "ts": "1506666214.000089",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106UP90U",
+                  "U10J4NGHH",
+                  "U0J8PMAQJ",
+                  "U107MMD8Q",
+                  "U105P17QT"
+               ],
+               "count": 5
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "院生の皆さんが戻ってきたら、机の配置について話し合います",
+         "ts": "1506660390.000037"
+      },
+      {
+         "type": "message",
+         "user": "U106UP90U",
+         "text": "塩辛のおつまみ（？）が入った紫の袋は炊飯器の棚の下に入れておきました",
+         "ts": "1506660084.000045"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "明日 OC の資料とか説明のレビューを築地さんと笠井さんがちょっとやる予定なので、最低限のことはできるように準備しておきましょう :muscle:",
+         "edited": {
+            "user": "U0J8PMAQJ",
+            "ts": "1506585829.000000"
+         },
+         "ts": "1506585706.000213",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106UP90U"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "※遅れる急用急病の場合は無理に来ないでなるべく早く連絡する事",
+         "edited": {
+            "user": "U0JAEV08K",
+            "ts": "1506583740.000000"
+         },
+         "ts": "1506583724.000186"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "また準備ですが、金曜日にあらかた終わらせること\n準備する事\n・共同机の上にあるものの片づけ\n・共同机の移動(L字で奥のスペースを分けるように配置)\n・移動後の机にモニター設置\n・資料の印刷\n・個人机が汚いやつは片づける\n\n当日の集合時間は受付開始が9:30なのでこの時間までに研究室に来ること\n金曜日の準備ができていない場合はさらに前に準備すること",
+         "ts": "1506583646.000262",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106UP90U"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "text": "<@U0JAEV08K> used `/poll`!",
+         "username": "polly",
+         "icons": {
+            "image_48": "https://s3-us-west-2.amazonaws.com/slack-files2/bot_icons/2017-09-21/245438746358_48.png"
+         },
+         "bot_id": "B76LA1JFP",
+         "attachments": [
+            {
+               "callback_id": "RoEZvkhzAevNivSJr",
+               "fallback": "OCのシフト(デモをする時間)どちらがいいかを決めてください",
+               "title": "OCのシフト(デモをする時間)どちらがいいかを決めてください",
+               "id": 1,
+               "color": "35A8E0",
+               "actions": [
+                  {
+                     "id": "1",
+                     "name": "one",
+                     "text": "前半(9:30~12:30)",
+                     "type": "button",
+                     "value": "0",
+                     "style": ""
+                  },
+                  {
+                     "id": "2",
+                     "name": "two",
+                     "text": "後半(12:30~15:30)",
+                     "type": "button",
+                     "value": "1",
+                     "style": ""
+                  }
+               ]
+            },
+            {
+               "callback_id": "RoEZvkhzAevNivSJr",
+               "fallback": "OCのシフト(デモをする時間)どちらがいいかを決めてください",
+               "id": 2,
+               "fields": [
+                  {
+                     "title": "前半(9:30~12:30)",
+                     "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 57% (4)\n<@U123ZGHM2>, <@U10J4NGHH>, <@U0J8PMAQJ>, <@U12475CJC>",
+                     "short": false
+                  },
+                  {
+                     "title": "後半(12:30~15:30)",
+                     "value": "`▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇` 43% (3)\n<@U107MMD8Q>, <@U105P17QT>, <@U0JAEV08K>",
+                     "short": false
+                  },
+                  {
+                     "title": "Total votes",
+                     "value": "7",
+                     "short": true
+                  }
+               ],
+               "mrkdwn_in": [
+                  "fields"
+               ]
+            }
+         ],
+         "type": "message",
+         "subtype": "bot_message",
+         "ts": "1506583401.000143"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "OCのシフト\n10:00~15:30(ただし受付開始は9:30から)\nなので、9:30~12:30と12:30~15:30で二つに分かれます\nどちらがいいか決めておくこと\nまた、お昼の休憩ですが\n・前半のシフトの人は後半の時間帯に受付とお昼を交代\n・後半のシフトの人は受付とお昼を前半の時間に済ませる",
+         "edited": {
+            "user": "U0JAEV08K",
+            "ts": "1506583317.000000"
+         },
+         "ts": "1506583079.000229"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "3. 事前練習\n説明のレベルを上げるために、お互いに事前練習をしておいてください。\n\n4. 役割分担\n受付や、お昼の交代方法など決めておきましょう。\n\n5. 机やPCの配置\n金曜日中（来る人がいるならば土曜日中でも可）にお願いします。",
+         "ts": "1506574233.000108"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "2. デモプログラムの準備\nハンドアウト資料に沿って、見せることのできるように、きちんと動作するデモプログラムを作成してください。",
+         "ts": "1506574120.000012"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "1. ハンドアウト資料の準備\n外部の人にお見せできるクオリティになっているでしょうか。文章表現、フォントサイズ、色使い、レイアウトなど、レベルを上げましょう。",
+         "ts": "1506574046.000110"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "オープンキャンパスの準備を今日明日できちんとお願いします。",
+         "ts": "1506573921.000110"
+      },
+      {
+         "user": "U79FX6VFF",
+         "text": "<@U79FX6VFF>さんがチャンネルに参加しました",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1506481612.000037"
+      },
+      {
+         "type": "message",
+         "user": "U107TJHPF",
+         "text": "横浜みなとみらいで最後の選考があるので休みます。すみません。",
+         "ts": "1506474245.000065"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "ご参考までに",
+         "ts": "1506411804.000044"
+      },
+      {
+         "type": "message",
+         "user": "U0J8PMAQJ",
+         "text": "僕がオープンキャンパスで配布する資料です",
+         "ts": "1506411801.000066"
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0J8PMAQJ>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U0J8PMAQJ/F79LAV71C/oc_2017_kasai_base.pptx|oc_2017_kasai_base.pptx>",
+         "file": {
+            "id": "F79LAV71C",
+            "created": 1506411725,
+            "timestamp": 1506411725,
+            "name": "oc_2017_kasai_base.pptx",
+            "title": "oc_2017_kasai_base.pptx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "filetype": "pptx",
+            "pretty_type": "PowerPoint プレゼンテーション",
+            "user": "U0J8PMAQJ",
+            "editable": false,
+            "size": 92630,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F79LAV71C/oc_2017_kasai_base.pptx",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F79LAV71C/download/oc_2017_kasai_base.pptx",
+            "permalink": "https://kait-takanolab.slack.com/files/U0J8PMAQJ/F79LAV71C/oc_2017_kasai_base.pptx",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F79LAV71C-bdf80d11ff",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+         },
+         "user": "U0J8PMAQJ",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "t.kasai",
+         "bot_id": null,
+         "ts": "1506411725.000347"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "去年作ったOC資料発掘したので参考までにここに置いておきます",
+         "ts": "1506304006.000067"
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0JAEV08K>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U0JAEV08K/F77CJEQKA/_____________________2016_tsukiji.docx|オーキャン資料2016_tsukiji.docx>",
+         "file": {
+            "id": "F77CJEQKA",
+            "created": 1506303986,
+            "timestamp": 1506303986,
+            "name": "オーキャン資料2016_tsukiji.docx",
+            "title": "オーキャン資料2016_tsukiji.docx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "filetype": "docx",
+            "pretty_type": "Word 文書",
+            "user": "U0JAEV08K",
+            "editable": false,
+            "size": 719805,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F77CJEQKA/_____________________2016_tsukiji.docx",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F77CJEQKA/download/_____________________2016_tsukiji.docx",
+            "permalink": "https://kait-takanolab.slack.com/files/U0JAEV08K/F77CJEQKA/_____________________2016_tsukiji.docx",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F77CJEQKA-912c2d1437",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 0
+         },
+         "user": "U0JAEV08K",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "tsukiji",
+         "bot_id": null,
+         "ts": "1506303987.000085"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "・文章は箇条書きで良いと思います。\n・研究概要は、研究課題や提案方式の特徴を含めてください。",
+         "ts": "1506295716.000042"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "1. 研究概要、2. デモ概要\n図を1、2枚含める",
+         "ts": "1506295656.000022"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "説明用に、A4 1枚程度で、ハンドアウト資料を作っておくとよいでしょう。",
+         "ts": "1506295449.000093"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "オープンキャンパスもあと１週間なので、しっかりと準備をお願いします。４年生以上同士で、お互いに説明しあうというのも練習になるので、やっておいてください。",
+         "ts": "1506291732.000062"
+      },
+      {
+         "text": " set up a reminder to “残留届けを更新してください” in this channel at 8AM Thursday, October 5th, Japan Standard Time.",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U106Y1J7N",
+         "ts": "1506068169.000402"
+      },
+      {
+         "type": "message",
+         "user": "U106Y1J7N",
+         "text": "残留届けを更新しました。次の更新は10月5日です。",
+         "ts": "1506068143.000046",
+         "reactions": [
+            {
+               "name": "ok_woman",
+               "users": [
+                  "U107MMD8Q",
+                  "U0JAEV08K",
+                  "U0J8PMAQJ"
+               ],
+               "count": 3
+            },
+            {
+               "name": "+1",
+               "users": [
+                  "U0J8PMAQJ"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "text": "情報工学科の英語研修の件、稲葉先生からメールが来ると思うので少々お待ちください。",
+         "thread_ts": "1504950602.000070",
+         "type": "message",
+         "subtype": "thread_broadcast",
+         "user": "U0JACJLRJ",
+         "root": {
+            "type": "message",
+            "user": "U0JACJLRJ",
+            "text": "水曜5限が空いており、受講に興味のある人は、連絡をください。",
+            "thread_ts": "1504950602.000070",
+            "reply_count": 1,
+            "replies": [
+               {
+                  "user": "U0JACJLRJ",
+                  "ts": "1505998376.000379"
+               }
+            ],
+            "subscribed": false,
+            "unread_count": 1,
+            "ts": "1504950602.000070"
+         },
+         "ts": "1505998376.000379"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "ゼミ合宿に参加せずに、10/1オープンキャンパスのデモ内容を報告していない人は、資料を作成の上、報告して下さい。また、オープンキャンパスでのデモ配置、高校生やご両親への説明の仕方、受付などの分担などを、みなさんで再確認をしておいて下さい。",
+         "ts": "1505996219.000461",
+         "reactions": [
+            {
+               "name": "hand",
+               "users": [
+                  "U0JAEV08K"
+               ],
+               "count": 1
+            },
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106UP90U"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "おかげさまでSAは決まりました。",
+         "ts": "1505900008.000120",
+         "reactions": [
+            {
+               "name": "grinning",
+               "users": [
+                  "U0JAEV08K"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "【急募】基礎ユニット２（金）１，２限のSAをあと1名募集中です。\n---\n[確定者] 築地、笠井、古川、上村 \n---",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1505816142.000000"
+         },
+         "ts": "1505816116.000105"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "水曜5限が空いており、受講に興味のある人は、連絡をください。",
+         "thread_ts": "1504950602.000070",
+         "reply_count": 1,
+         "replies": [
+            {
+               "user": "U0JACJLRJ",
+               "ts": "1505998376.000379"
+            }
+         ],
+         "subscribed": false,
+         "unread_count": 1,
+         "ts": "1504950602.000070"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "後期に情報工学科で英語研修を企画しています。\n2月、3月の海外研修の事前学習にもなりますので、ぜひ受講\nを検討しましょう。\n\n日時：　水曜　5限（16:40～18:10）\n回数：　15回\n# ただし単位にはなりません。",
+         "ts": "1504950579.000057",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U2808K7U2",
+                  "U0JAEV08K",
+                  "U4XUM59NX"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "後期の英語講座の連絡したっけ。",
+         "ts": "1504950523.000026"
+      },
+      {
+         "type": "message",
+         "subtype": "file_share",
+         "text": "<@U0JACJLRJ>さんががファイル (<https://kait-takanolab.slack.com/files/U0JACJLRJ/F6XMU4GJW/you_ukagai2_sep08.xls|you_ukagai2_Sep08.xls>) をアップロードしてコメントしました : 9/8の出張伺いの提出をお願いします。\n交通費が出ると思います。\n必要事項に記載の上、印刷したものに押印して提出してください。",
+         "file": {
+            "id": "F6XMU4GJW",
+            "created": 1504498897,
+            "timestamp": 1504498897,
+            "name": "you_ukagai2_Sep08.xls",
+            "title": "you_ukagai2_Sep08.xls",
+            "mimetype": "application/vnd.ms-excel",
+            "filetype": "xls",
+            "pretty_type": "Excel スプレッドシート",
+            "user": "U0JACJLRJ",
+            "editable": false,
+            "size": 74752,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0J8LKSTV-F6XMU4GJW/you_ukagai2_sep08.xls",
+            "url_private_download": "https://files.slack.com/files-pri/T0J8LKSTV-F6XMU4GJW/download/you_ukagai2_sep08.xls",
+            "permalink": "https://kait-takanolab.slack.com/files/U0JACJLRJ/F6XMU4GJW/you_ukagai2_sep08.xls",
+            "permalink_public": "https://slack-files.com/T0J8LKSTV-F6XMU4GJW-ee1c85e022",
+            "channels": [
+               "C0J8KM6KF"
+            ],
+            "groups": [],
+            "ims": [],
+            "comments_count": 1,
+            "initial_comment": {
+               "id": "Fc6X68NL6M",
+               "created": 1504498897,
+               "timestamp": 1504498897,
+               "user": "U0JACJLRJ",
+               "is_intro": true,
+               "comment": "9/8の出張伺いの提出をお願いします。\n交通費が出ると思います。\n必要事項に記載の上、印刷したものに押印して提出してください。"
+            },
+            "reactions": [
+               {
+                  "name": "white_check_mark",
+                  "users": [
+                     "U106Y1J7N",
+                     "U12475CJC",
+                     "U10J4NGHH"
+                  ],
+                  "count": 3
+               }
+            ]
+         },
+         "user": "U0JACJLRJ",
+         "upload": true,
+         "display_as_bot": false,
+         "username": "takano",
+         "bot_id": null,
+         "ts": "1504498897.000174"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": ":tired_face: ",
+         "ts": "1503771269.000017"
+      },
+      {
+         "type": "message",
+         "user": "U106Y1J7N",
+         "text": "自分が17:30頃研究室来た時電気はつけっぱなしで誰もおらず、一時的な退席だと思って気にしてなかったのですが、一向に誰も戻る気配がないので、研究室が誰もいなくなるのなら戸締まりきっちりするようにした方が良いかと思われます",
+         "ts": "1503655092.000139"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "なんかdolphinの調子が悪いので調べてみます",
+         "ts": "1502767462.000147"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "<!channel> サーバの電源を入れました\n今から確認しますが、他の人も一応確認して見てください",
+         "ts": "1502766169.000075",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U105P17QT",
+                  "U0J8PMAQJ",
+                  "U12475CJC"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "4年生以上: 週に1度くらいはgithubにプログラムをコミットしましょう。",
+         "ts": "1502497709.296746",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U106Y1J7N"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "分かりました",
+         "ts": "1502345981.169751"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "あと、研究室にあるmacbook airのアダプタもお願いできますか。",
+         "ts": "1502345620.095071"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "zotacのアダプタの電源を一応抜いておいてもらえますか。",
+         "ts": "1502345591.089144"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "松岡さんが使ってたZOTACはきってあるようなので問題ないかと・・・",
+         "ts": "1502345074.984262"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "ドルフィンとスワロウ(mysql)は自分のアカウントから入れるので大丈夫です",
+         "ts": "1502345002.970496"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "メールサーバーはシャットダウンしました。",
+         "ts": "1502344980.966107"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "他のサーバは大丈夫ですか？",
+         "ts": "1502344853.940790"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "わかりました。",
+         "ts": "1502344822.933947"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "<@U0JACJLRJ> 先生、メールサーバを停止する際にログインするアカウントとパスワードを知らないのでリモートでシャットダウンしてもらってもいいですか？",
+         "ts": "1502344772.923096"
+      },
+      {
+         "type": "message",
+         "subtype": "pinned_item",
+         "user": "U0JAEV08K",
+         "item_type": "C",
+         "attachments": [
+            {
+               "fallback": "[August 3rd, 2017 8:22 AM] takano: 尾崎研との合同ゼミですが、下記のようなスケジュールで調整中です。\n---\n13:30 - 13:50 簡単な導入\n13:50 - 15:30 Session1 (15分 x 6名 + 10分のバッファ）\n15:30 - 15:45 休憩 15分\n15:45 - 17:25 Session2 (15分 x 6名 + 10分のバッファ）\n（後片付け＆移動）\n18:00 - 懇親会 \n---",
+               "ts": "1501716179.951382",
+               "author_id": "U0JACJLRJ",
+               "author_subname": "takano",
+               "channel_id": "C0J8KM6KF",
+               "channel_name": "general",
+               "is_msg_unfurl": true,
+               "text": "尾崎研との合同ゼミですが、下記のようなスケジュールで調整中です。\n---\n13:30 - 13:50 簡単な導入\n13:50 - 15:30 Session1 (15分 x 6名 + 10分のバッファ）\n15:30 - 15:45 休憩 15分\n15:45 - 17:25 Session2 (15分 x 6名 + 10分のバッファ）\n（後片付け＆移動）\n18:00 - 懇親会 \n---",
+               "author_name": "takano",
+               "author_link": "https://kait-takanolab.slack.com/team/U0JACJLRJ",
+               "author_icon": "https://secure.gravatar.com/avatar/1780fa0a8f6ee53c6cade53efe1163ac.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F66f9%2Fimg%2Favatars%2Fava_0015-48.png",
+               "mrkdwn_in": [
+                  "text"
+               ]
+            }
+         ],
+         "text": "<@U0JAEV08K>さんがメッセージをこのチャンネルにピン留めしました。",
+         "ts": "1501725690.208317"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "みなさんにとっても良い刺激になると思います。",
+         "ts": "1501716258.971369",
+         "reactions": [
+            {
+               "name": "writing_hand",
+               "users": [
+                  "U0JAEV08K"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "中間発表 + αで準備しましょう。",
+         "ts": "1501716244.967828"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "懇親会も、尾崎研の学生と一緒にする予定です。",
+         "ts": "1501716208.959249"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "尾崎研との合同ゼミですが、下記のようなスケジュールで調整中です。\n---\n13:30 - 13:50 簡単な導入\n13:50 - 15:30 Session1 (15分 x 6名 + 10分のバッファ）\n15:30 - 15:45 休憩 15分\n15:45 - 17:25 Session2 (15分 x 6名 + 10分のバッファ）\n（後片付け＆移動）\n18:00 - 懇親会 \n---",
+         "ts": "1501716179.951382",
+         "pinned_to": [
+            "C0J8KM6KF"
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "今後みなさんで協力しあえるような体制づくりをお願いします。",
+         "ts": "1501578946.932160"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "停電前後のサーバーなどの停止、起動を築地大先輩にお願いしました。",
+         "ts": "1501578929.925711"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "停電：8/14",
+         "ts": "1501578892.912035",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "ピザ会を8/3の16時頃にやります。",
+         "ts": "1501574840.385605",
+         "reactions": [
+            {
+               "name": "pizza",
+               "users": [
+                  "U0JAEV08K",
+                  "U12475CJC"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "「食生活のアンケート」を研究室に置いています。４年生のみなさんは、アンケート回答に協力をお願いします。",
+         "ts": "1501215239.138247"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "Reminder: 延長届を出してください",
+         "bot_id": "B01",
+         "ts": "1501200014.319580"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "日時：7/26(水) 5限 (16:40開始、30分程度) \n場所：K1-604",
+         "ts": "1500551571.876139"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "ICT海外研修説明会",
+         "ts": "1500551559.872442"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "タイトル「知的活動を支援するデータベースシステム」",
+         "ts": "1500520961.677036"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "デモの準備などお願いします。",
+         "ts": "1500520927.670703"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "オープンキャンパスは10/1です。",
+         "ts": "1500520922.669778"
+      },
+      {
+         "text": " set up a reminder “延長届を出してください” in this channel at 9AM Friday, July 28, Japan Standard Time.",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U105P17QT",
+         "ts": "1500468164.240365"
+      },
+      {
+         "type": "message",
+         "user": "USLACKBOT",
+         "text": "Reminder: 延長届を出してください",
+         "bot_id": "B01",
+         "ts": "1499990400.182960"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "この後に、２食でＢＢＱパーティがあります。",
+         "ts": "1499737376.894721"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "パンさんと、パオパオさんの最終報告会のお知らせです：\n７月２７日（木）１５時\nＫ１－３０５",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1499737389.000000"
+         },
+         "ts": "1499737352.890324",
+         "reactions": [
+            {
+               "name": "hand",
+               "users": [
+                  "U12475CJC"
+               ],
+               "count": 1
+            },
+            {
+               "name": "smiley",
+               "users": [
+                  "U0JAEV08K"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U123ZGHM2",
+         "text": "<@U0JACJLRJ> わかりました。ありがとうございます。",
+         "ts": "1499673697.892704"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "<@U123ZGHM2> 7/24までに完成させておけば大丈夫だと思うけど。",
+         "ts": "1499673652.877289"
+      },
+      {
+         "type": "message",
+         "user": "U123ZGHM2",
+         "text": "<@U0JACJLRJ> 卒研中間発表の前日に最終面接が入ってしまったのですが変更してもらった方がいいでしょうか？",
+         "ts": "1499673530.834189"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "<http://www.openspc2.org/reibun/JavaScript_technique/sample/07_css/009/>\nボタンクリックでCSSファイルを切り替える",
+         "edited": {
+            "user": "U0JAEV08K",
+            "ts": "1499223716.000000"
+         },
+         "ts": "1499223630.412297"
+      },
+      {
+         "text": " set up a reminder “延長届を出してください” in this channel at 9AM Friday, July 14, Japan Standard Time.",
+         "type": "message",
+         "subtype": "reminder_add",
+         "user": "U105P17QT",
+         "ts": "1498723115.064186"
+      },
+      {
+         "type": "message",
+         "subtype": "pinned_item",
+         "user": "U0JAEV08K",
+         "item_type": "C",
+         "attachments": [
+            {
+               "fallback": "[June 28th, 2017 5:03 PM] tsukiji: リマインドの例：1999年1月1日に\"延長届を出してください\"をgeneralに通知する\n```/remind #general 延長届を出してください on 1999-1-1```\nこれを参考に延長届を出したときにリマインダーで設定してください",
+               "ts": "1498636993.294313",
+               "author_id": "U0JAEV08K",
+               "author_subname": "hayato tsukiji",
+               "channel_id": "C0J8KM6KF",
+               "channel_name": "general",
+               "is_msg_unfurl": true,
+               "text": "リマインドの例：1999年1月1日に\"延長届を出してください\"をgeneralに通知する\n```/remind #general 延長届を出してください on 1999-1-1```\nこれを参考に延長届を出したときにリマインダーで設定してください",
+               "author_name": "hayato tsukiji",
+               "author_link": "https://kait-takanolab.slack.com/team/U0JAEV08K",
+               "author_icon": "https://avatars.slack-edge.com/2016-01-13/18365128034_48c4d38d9499a54ee3cd_48.png",
+               "mrkdwn_in": [
+                  "text"
+               ]
+            }
+         ],
+         "text": "<@U0JAEV08K>さんがメッセージをこのチャンネルにピン留めしました。",
+         "ts": "1498722686.967233"
+      },
+      {
+         "type": "message",
+         "user": "U0JAEV08K",
+         "text": "リマインドの例：1999年1月1日に\"延長届を出してください\"をgeneralに通知する\n```/remind #general 延長届を出してください on 1999-1-1```\nこれを参考に延長届を出したときにリマインダーで設定してください",
+         "edited": {
+            "user": "U0JAEV08K",
+            "ts": "1498637030.000000"
+         },
+         "ts": "1498636993.294313",
+         "pinned_to": [
+            "C0J8KM6KF"
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "セミナー1の開始時間(11:10)から30分程度\n---",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1498012184.000000"
+         },
+         "ts": "1498012175.155143",
+         "reactions": [
+            {
+               "name": "white_check_mark",
+               "users": [
+                  "U4Y2B9X28",
+                  "U2808K7U2",
+                  "U4Y2BNA2Y"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "---\nK3 3506教室",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1498012204.000000"
+         },
+         "ts": "1498012145.151191"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "7月5日(水)セミナー2募集の説明会です。",
+         "ts": "1498012088.143774"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "積極的に聴講しましょう。",
+         "ts": "1497915694.605900"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "---\n日時：6月20日（火）5限（16:40-18:40）\n場所：K1 305教室\n# 終了後、歓迎パーティを開催 (18:50-20:00)\n---",
+         "ts": "1497915683.604235"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "本日(6/20)5限に、チュラ学生の研究テーマの企画発表会があります。",
+         "ts": "1497915658.600230"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "都合のつく人は参加すると面白いと思うので、希望者は私に連絡をください。",
+         "ts": "1497537617.561686"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "7/7（金）にチュラ学生の外部見学ツアーがあります。\n鉄道総研とNTT研究所を見学予定です。",
+         "ts": "1497537557.538307"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "是非聴講しましょう。",
+         "ts": "1497260398.377436",
+         "reactions": [
+            {
+               "name": "+1",
+               "users": [
+                  "U0JAEV08K",
+                  "U105P17QT",
+                  "U106UP90U",
+                  "U12475CJC"
+               ],
+               "count": 4
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "---\n日時：6月20日（火）5限\n場所：K1 305教室\n---",
+         "ts": "1497260384.374157"
+      },
+      {
+         "type": "message",
+         "user": "U0JACJLRJ",
+         "text": "PanさんとPaopaoさんの研究テーマ企画発表会を開催します。",
+         "ts": "1497260375.372116"
+      }
+   ],
+   "has_more": false,
+   "is_limited": true
+}

@@ -11,8 +11,8 @@ token = codecs.open("../../slackapi_token.txt", "r","utf-8")
 # 2017-sotsuken:C18JT8ZNY  
 # report:C0XMH9F0Q  
 # master-chat:C4W2RL2BA
-# chat:C0J8Q0DK9
-c_name = 'C0XMH9F0Q'
+# chat:C0J8Q0DK9 
+c_name = 'C0J8KM6KF'
 
  
 # logの取得を送る　token,指定チャンネルid,タイムスタンプの有無などを条件付けする
