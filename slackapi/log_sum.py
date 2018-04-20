@@ -43,30 +43,6 @@ def loggets(logfile, logs):
     except FileNotFoundError as e:
         print(e)
 
-#まだ一応残しておく
-    '''
-    if(i.get("subtype") == "file_share"):
-        continue
-    elif(i.get("subtype") == "bot_add"):
-        continue
-    elif(i.get("subtype") == "bot_message"):
-        username = i["bot_id"]
-        for at in i["attachments"]:
-            s_text = at["text"]
-    elif(i.get("subtype") == "file_comment"):
-        for j in memberlist:
-            if (i['comment']['user'] in j["id"]) == True:
-                username = j["name"]
-                s_text = i["comment"]["comment"]
-    else:           
-        for j in memberlist:
-            if (i['user'] in j["id"]) == True:
-                username = j["name"]
-                s_text = i["text"]
-    sumlog.append([username, s_text, float(i["ts"]), datetime.fromtimestamp(float(i["ts"]))])
-    '''
-    
-
 if __name__ == '__main__':
     #csvファイルに発言、時間、人のデータを書き込む
     #member.jsonでユーザ名に変換
