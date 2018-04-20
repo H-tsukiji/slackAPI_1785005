@@ -14,12 +14,18 @@ memberlist = json.load(fm)
 def append_index(index, username, text, ts, date_ts):
     index.append([username, text, ts, date_ts])
 
+def search_nameindex(username):
+    for i in memberlist:
+        if (username in i["id"]) == True:
+            name = i["name"]
+    return name
 
-def loggets():
+def loggets(logfile, logs):
     try:
-        for i in f_json["messages"]:
+        for i in logfile:
             if ('user' in i ) and ( 'text' in i ):
-                append_index(logs, i['user'], i['text'], float(i['ts']), datetime.fromtimestamp(float(i["ts"])))
+                name = search_nameindex(i['user'])
+                append_index(logs, name, i['text'], float(i['ts']), datetime.fromtimestamp(float(i["ts"])))
                 continue
 
             elif ('user' not in i ) or ('text' not in i):
@@ -28,8 +34,9 @@ def loggets():
                     continue
 
                 if 'comment' in i:
+                    name = search_nameindex(i['comment']['user'])
                     #print(i['comment']['user'], i['comment']['comment'], i['comment']['timestamp'])
-                    append_index(logs, i['comment']['user'], i['comment']['comment'], float(i['comment']['timestamp']), datetime.fromtimestamp(float(i['comment']['timestamp'])))
+                    append_index(logs, name, i['comment']['comment'], float(i['comment']['timestamp']), datetime.fromtimestamp(float(i['comment']['timestamp'])))
                     continue
 
     # 起こりそうな例外をキャッチ
@@ -68,6 +75,9 @@ if __name__ == '__main__':
         # ログのJSONファイルの読み込み
         fl = codecs.open(f, "r", "utf-8")
         f_json = json.load(fl)
+        loggets(f_json['messages'],logs)
+
+    print(logs)
 
 
     '''
