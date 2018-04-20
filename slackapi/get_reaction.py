@@ -1,8 +1,13 @@
 # -*- coding: utf-8 -*-
-#ログのjsonファイルを読み込みcsvファイルを作成するファイル
+#ログjsonファイルからslackのリアクションを取る
+#取る物
+# リアクションをもらった文面
+# 貰った相手の情報
+# 誰からもらったのか
 
 import codecs,json,csv
 from datetime import datetime
+
 #ログのJSONファイルの読み込み
 # 対象のチャンネル名
 # general:C0J8KM6KF  seminar1421:C18JT8ZNY  report:C0XMH9F0Q  grad2017:C4W2RL2BA  chat:C0J8Q0DK9
@@ -10,9 +15,6 @@ f = codecs.open("../json/20180419/slack_C4W2RL2BA.json","r","utf-8")
 f_json = json.load(f)
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)
-
-#csvファイルに発言、時間、人のデータを書き込む
-#member.jsonでユーザ名に変換
 
 def append_index(index, username, text, ts, date_ts):
     index.append([username, text, ts, date_ts])
@@ -46,20 +48,7 @@ def loggets(logfile, logs):
         print(e)
 
 
-# 書き込み UTF-8
-logs = []
-loggets(f_json['messages'],logs)
+if __name__ == '__main__':
+    
 
-try:
-    with open('log_master-chat_channel.csv', 'w', encoding="utf-8") as csvfile:
-        writer = csv.writer(csvfile, lineterminator='\n')
-        writer.writerow(['User', 'text', 'timestamp', 'time'])
-        for i in logs:
-            writer.writerow([i[0], i[1], i[2], i[3]])
-
-# 起こりそうな例外をキャッチ
-except FileNotFoundError as e:
-    print(e)
-except csv.Error as e:
-    print(e)
-
+    pass
