@@ -5,14 +5,13 @@
 # 貰った相手の情報
 # 誰からもらったのか
 
-import codecs,json,csv
+import codecs,json,csv,glob
 from datetime import datetime
 
-#ログのJSONファイルの読み込み
-# 対象のチャンネル名
-# general:C0J8KM6KF  seminar1421:C18JT8ZNY  report:C0XMH9F0Q  grad2017:C4W2RL2BA  chat:C0J8Q0DK9
-f = codecs.open("../json/20180419/slack_C4W2RL2BA.json","r","utf-8")
-f_json = json.load(f)
+#フォルダcsv内にあるすべてのcsvファイルを取得する。
+files = []
+files = glob.glob('../json/20180419/*.json')
+
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)
 
@@ -26,29 +25,26 @@ def search_nameindex(username):
     return name
 
 def loggets(logfile, logs):
-    try:
-        for i in logfile:
-            if ('user' in i ) and ( 'text' in i ):
-                name = search_nameindex(i['user'])
-                append_index(logs, name, i['text'], float(i['ts']), datetime.fromtimestamp(float(i["ts"])))
-                continue
-
-            elif ('user' not in i ) or ('text' not in i):
-                if 'bot_id' in i: 
-                    append_index(logs, i['bot_id'], i['text'], float(i['ts']), datetime.fromtimestamp(float(i["ts"])))         
-                    continue
-
-                if 'comment' in i:
-                    name = search_nameindex(i['comment']['user'])
-                    #print(i['comment']['user'], i['comment']['comment'], i['comment']['timestamp'])
-                    append_index(logs, name, i['comment']['comment'], float(i['comment']['timestamp']), datetime.fromtimestamp(float(i['comment']['timestamp'])))
-                    continue
-    # 起こりそうな例外をキャッチ
-    except FileNotFoundError as e:
-        print(e)
-
+    for i in logfile:
+        if 'reactions' in i:
+            #print(i['reactions'][0])
+            count = i['reactions'][0]['count']
+            name = search_nameindex(i['user'])
+            for j in logs:
+                if name == j['name']:
+                    j['count'] += count
 
 if __name__ == '__main__':
     
+    user_reactions = []
 
-    pass
+    for name in memberlist:
+        user_reactions.append({'name':name['name'],'count':0})
+    
+    for f in files:
+        # ログのJSONファイルの読み込み
+        fl = codecs.open(f, "r", "utf-8")
+        f_json = json.load(fl)
+        loggets(f_json['messages'],user_reactions)
+
+    print(user_reactions)
