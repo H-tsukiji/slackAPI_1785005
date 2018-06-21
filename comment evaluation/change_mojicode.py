@@ -19,8 +19,9 @@ for file in txt_filelist:
     shiftjis_csv_path = file
 
     # UTF-8 ファイルのパス
+    utf8_csv_path = filepath+"test.txt"
 
-    utf8_csv_path = file
+    print(file)
 
     # 文字コードを utf-8 に変換して保存
     fin = codecs.open(shiftjis_csv_path, "r", "shift_jis")
@@ -29,3 +30,4 @@ for file in txt_filelist:
         fout_utf.write(row)
     fin.close()
     fout_utf.close()
+    
