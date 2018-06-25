@@ -54,36 +54,48 @@ for line in f:
 
 #差分文章の形態素解析
 diff_tagger = MeCab.Tagger('-Ochasen')
+diff_tagger.parse('')
 pase_result = diff_tagger.parseToNode(diff_text)
 diff_list = []
 while pase_result:
     #print ('%-10s \t %-s' % (pase_result.surface, pase_result.feature))
     tmp = pase_result.feature.split(",")
     #pase_result.surface = cleanInput(pase_result.surface)
+    if tmp[0] == '記号':
+        pase_result = pase_result.next
+        continue
+    if tmp[0] == '助詞':
+        pase_result = pase_result.next
+        continue
     diff_list.append({
         "word":pase_result.surface,
         "feature": tmp[0]
     })
     pase_result = pase_result.next
-
+print(diff_list)
 
 #イシューの形態素解析
 comments_lists = []
 for issue in issue_comments.values():
     comment_tagger = MeCab.Tagger('-Ochasen')
+    comment_tagger.parse('')
     pase_result = comment_tagger.parseToNode(issue)
     tmp_list = []
     while pase_result:
         #print ('%-10s \t %-s' % (pase_result.surface, pase_result.feature))
         tmp = pase_result.feature.split(",")
         #pase_result.surface = cleanInput(pase_result.surface)
+        if tmp[0] == '記号':
+            pase_result = pase_result.next
+            continue
+        if tmp[0] == '助詞':
+            pase_result = pase_result.next
+            continue
         tmp_list.append({
             "word":pase_result.surface,
             "feature": tmp[0]
         })
         pase_result = pase_result.next
-
+    comments_lists.extend(tmp_list)
 
 #print(comments_lists)
-'''
-
