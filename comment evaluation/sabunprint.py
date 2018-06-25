@@ -15,35 +15,32 @@ issue_comments = {
 
 def cleanInput(text):
     text = re.sub('\n', ' ', text)
-    text = re.sub(r'[･%$&#:;＆。※↑↓→←：；＾？～￥「」（）()【】『』<>・_=|?［］]', ' ', text)
+    text = re.sub(r'[･%$&#:;＆。※↑↓→←：；＾？～￥「」/-（）()【】『』<>・_=|?［］\[\]\"\']', ' ', text)
     text = re.sub(r'[@＠]\w+', ' ', text)
     text = re.sub(r'[0-9]', ' ', text)
     text = re.sub(r'[０-９]', ' ', text)
-    text = re.sub('-', ' ', text)
-    text = re.sub('/', ' ', text)
-    text = re.sub('\n', ' ', text)
     text = re.sub('\r\n', ' ', text)
-    text = re.sub('　', ' ', text)
     #text = re.sub('[ぁ-ん]', ' ', text)
     return text
 
+'''
+#封印
 def Mecab_parce(text):
     #形態素解析
     tagger = MeCab.Tagger('-Ochasen')
     pase_result = tagger.parseToNode(text)
     parselist = []
     while pase_result:
-        #print ('%-10s \t %-s' % (pase_result.surface, pase_result.feature))
-        tmp = pase_result.feature.split(",")    
+        print ('%-10s \t %-s' % (pase_result.surface, pase_result.feature))
+        tmp = pase_result.feature.split(",")
+        #pase_result.surface = cleanInput(pase_result.surface)         
         parselist.append({
             "word":pase_result.surface,
             "feature": tmp[0]
         })
         pase_result = pase_result.next
     return parselist
-
-
-
+'''
 
 #txtから文章を格納
 diff_text = ""
@@ -56,14 +53,37 @@ for line in f:
 #print(diff_text)
 
 #差分文章の形態素解析
-diff_list = Mecab_parce(diff_text)
+diff_tagger = MeCab.Tagger('-Ochasen')
+pase_result = diff_tagger.parseToNode(diff_text)
+diff_list = []
+while pase_result:
+    #print ('%-10s \t %-s' % (pase_result.surface, pase_result.feature))
+    tmp = pase_result.feature.split(",")
+    #pase_result.surface = cleanInput(pase_result.surface)
+    diff_list.append({
+        "word":pase_result.surface,
+        "feature": tmp[0]
+    })
+    pase_result = pase_result.next
+
 
 #イシューの形態素解析
 comments_lists = []
 for issue in issue_comments.values():
-    tmplist = Mecab_parce(issue)
-    comments_lists.extend(tmplist)
+    comment_tagger = MeCab.Tagger('-Ochasen')
+    pase_result = comment_tagger.parseToNode(issue)
+    tmp_list = []
+    while pase_result:
+        #print ('%-10s \t %-s' % (pase_result.surface, pase_result.feature))
+        tmp = pase_result.feature.split(",")
+        #pase_result.surface = cleanInput(pase_result.surface)
+        tmp_list.append({
+            "word":pase_result.surface,
+            "feature": tmp[0]
+        })
+        pase_result = pase_result.next
 
-print(comments_lists)
 
+#print(comments_lists)
+'''
 

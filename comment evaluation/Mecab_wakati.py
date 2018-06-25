@@ -1,3 +1,4 @@
+# -*- coding: utf_8 -*- 
 import MeCab,re
 
 text = '日本語の自然言語処理は本当にしんどい。'
