@@ -67,6 +67,9 @@ while pase_result:
     if tmp[0] == '助詞':
         pase_result = pase_result.next
         continue
+    if tmp[0] == 'BOS/EOS':
+        pase_result = pase_result.next
+        continue
     diff_list.append({
         "word":pase_result.surface,
         "feature": tmp[0]
@@ -74,6 +77,7 @@ while pase_result:
     pase_result = pase_result.next
 print(diff_list)
 
+"""
 #イシューの形態素解析
 comments_lists = []
 for issue in issue_comments.values():
@@ -91,6 +95,9 @@ for issue in issue_comments.values():
         if tmp[0] == '助詞':
             pase_result = pase_result.next
             continue
+        if tmp[0] == 'BOS/EOS':
+            pase_result = pase_result.next
+            continue
         tmp_list.append({
             "word":pase_result.surface,
             "feature": tmp[0]
@@ -99,3 +106,5 @@ for issue in issue_comments.values():
     comments_lists.extend(tmp_list)
 
 #print(comments_lists)
+
+"""
