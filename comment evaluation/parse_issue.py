@@ -19,10 +19,10 @@ for issue in fjson["issues"]["edges"]:
     title = cleantitle(title)
     for comments in issue["node"]["comments"]["edges"]:
         #コメント内容
-        coment = comments["node"]["bodyText"]
+        comment = comments["node"]["bodyText"]
         #誰かいたか
         name = comments["node"]["author"]["login"]
-        issuedic.append({name:coment})
+        issuedic.append({"name":name,"comment":comment})
     fw = codecs.open(title+".json","w","utf-8")
     fw.write(json.dumps(issuedic,indent=3,ensure_ascii=False));
     fw.close()

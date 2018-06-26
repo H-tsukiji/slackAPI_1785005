@@ -1,17 +1,5 @@
 # -*- coding: utf-8 -*-
-
-import codecs,sys,re,MeCab
-
-filename = sys.argv[1]
-f = codecs.open(filename, "r", "utf-8")
-
-issue_comments = {
-    "ktakano":"声が小さい\n行間が狭いところがある\n背景がわかりやすくなった\n「高い関心が持つ」とはちょっと違うと思う\n「今後の生活」はちょっと広い。今後、「英語を話すような局面」など。\nアイディアを説明した？\n上村システムとのDBの共有化\n発音記号があると有用。発音記号のDBはどこかで公開しているか調査して欲しい",
-    "H-tsukiji":"実験するときはなのような形態でやるか決めましたか？",
-    "unblee":"学習者にマッチした表現ってなんだ\nそろそろ実験の方法について言及しても良いかも\nセミナー中の口頭での議論のメモは一番上のコメントに反映させましょう！",
-    "toC1421":"テンプレートに沿った箇条書きとかの方に直して綺麗にした方が絶対良いと思いました\n（行間バラバラになっていたり）\n「関連研究のこれとこれ」という言い方よりは「現在までの関連研究では～」という書き方にして、発表時には「[1]や[2]では～」という言い方にすれば良いと思いました\n・最後のスライドの写真が小さく・声も小さかったので何を説明しているか分かりませんでした",
-    "misamatsuoka":"・今後の生活で使いそうな単語＝関心度が高い？\n・１文だったらどの単語が発言できなかったかがわかる？→技術的に辛そう"
-}
+import codecs,sys,re,MeCab,json
 
 def cleanInput(text):
     text = re.sub('\n', ' ', text)
@@ -49,6 +37,15 @@ def Mecab_parce(text):
     return parselist
 
 
+diff_filename = sys.argv[1]
+f = codecs.open(diff_filename, "r", "utf-8")
+
+issue_filename = sys.argv[2]
+fj = codecs.open(issue_filename,"r","utf-8")
+issue_comments = json.load(fj)
+
+#print(issue_comments)
+
 #txtから文章を格納
 diff_text = ""
 for line in f:
@@ -61,12 +58,12 @@ for line in f:
 
 #差分文章の形態素解析
 diff_list = Mecab_parce(diff_text)
-print(diff_list)
+#print(diff_list)
 
 #イシューの形態素解析
 comments_lists = []
-for issue in issue_comments.values():
-    tmp_list = Mecab_parce(issue)
-    comments_lists.extend(tmp_list)
+for issue in issue_comments:
+    tmp_list = Mecab_parce(issue["comment"])
+    comments_lists.append({"name":issue["name"],"parse":tmp_list})
 
 print(comments_lists)
