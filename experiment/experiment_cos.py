@@ -27,12 +27,13 @@ def Reading_csvfile():
     return csv_data
 
 csv_list = Reading_csvfile()
+print(csv_list)
 data_list = np.array(csv_list)
 data_list = data_list.astype(np.int)
 
 result = cos_sim_matrix(data_list)
 
-np.savetxt('botdata_cosresult.csv', result, delimiter=',')
+#np.savetxt('botdata_cosresult.csv', result, delimiter=',')
 
 '''
 実行例
