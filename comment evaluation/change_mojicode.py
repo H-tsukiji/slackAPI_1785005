@@ -22,7 +22,7 @@ for file in txt_filelist:
     utf8_csv_path = file
 
     # 文字コードを utf-8 に変換して保存
-    fin = codecs.open(shiftjis_csv_path, "r", "shift_jis")
+    fin = codecs.open(shiftjis_csv_path, "r", "Shift_JISx0213")
     tmp = []
     for row in fin:
         tmp.append(row)

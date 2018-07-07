@@ -90,7 +90,7 @@ diff_text = cleanInput(diff_text)
 
 #差分文章の形態素解析
 diff_list = Mecab_parce(diff_text)
-print(diff_list)
+#print(diff_list)
 
 #イシューの形態素解析
 comments_lists = []
@@ -158,5 +158,5 @@ for comment in comments_vec:
 data_list = np.array(cos_list)
 data_list = data_list.astype(np.int)
 result = cos_sim_matrix(data_list)
-#print(result)
+print(result)
 #np.savetxt('result_cos.csv', result, delimiter=',')
