@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import codecs,sys,re,MeCab,json
+import codecs,sys,re,MeCab,json,csv
 import numpy as np
 
 def cleanInput(text):
@@ -115,58 +115,73 @@ for comment in comments_lists:
             continue
 #print(comment_index)
 
-#1行づつ結果見てく
-for i, d_line in enumerate(diff_list):
-    term_index = []
-    term_index.extend(comment_index)
-    #差分の語句を登録
-    for word in d_line:
-        term = word["word"]
-        if term not in term_index:
-            term_index.append(term)
-        else:
-            continue
-    #print(term_index)
 
-    #差分の頻度
-    diff_freq = count_word(d_line,term_index)
-    #ベクトル化
-    diff_vec = []
-    for num in diff_freq.values():
-        diff_vec.append(num)
 
-    #こめんとの頻度
-    comments_freq = []
-    for comment in comments_lists:
-        #print(comment['name'])
-        tmp_freq = count_word(comment['parse'],term_index)
-        comments_freq.append({"name":comment['name'],"freq":tmp_freq}) 
-    #ベクトル化
-    comments_vec = []
-    for comment in comments_freq:
-        tmp_vec = []
-        for num in comment["freq"].values():
-            tmp_vec.append(num)
-        comments_vec.append({"name":comment['name'],"vec":tmp_vec})
-    #print(comments_vec)
+with open('some.csv', 'w') as f:
+    writer = csv.writer(f)
 
-    #対応文書
-    print(diff_text[i])
-    
-    #相関係数
-    for comment in comments_vec:
-        print(comment['name'])
-        print(np.corrcoef(diff_vec, comment['vec'])[0, 1])
+    #1行づつ結果見てく
+    for i, d_line in enumerate(diff_list):
+        term_index = []
+        term_index.extend(comment_index)
+        #差分の語句を登録
+        for word in d_line:
+            term = word["word"]
+            if term not in term_index:
+                term_index.append(term)
+            else:
+                continue
+        #print(term_index)
 
-    #コサイン類似度
-    cos_list = []
-    cos_list.append(diff_vec)
-    for comment in comments_vec:
-        cos_list.append(comment['vec'])
-    data_list = np.array(cos_list)
-    data_list = data_list.astype(np.int)
-    result = cos_sim_matrix(data_list)
-    #print(result[0])
-    for cos in result[0]:
-        print(cos)
-    #np.savetxt('result_cos.csv', result, delimiter=',')
+        #差分の頻度
+        diff_freq = count_word(d_line,term_index)
+        #ベクトル化
+        diff_vec = []
+        for num in diff_freq.values():
+            diff_vec.append(num)
+
+        #こめんとの頻度
+        comments_freq = []
+        for comment in comments_lists:
+            #print(comment['name'])
+            tmp_freq = count_word(comment['parse'],term_index)
+            comments_freq.append({"name":comment['name'],"freq":tmp_freq}) 
+        #ベクトル化
+        comments_vec = []
+        for comment in comments_freq:
+            tmp_vec = []
+            for num in comment["freq"].values():
+                tmp_vec.append(num)
+            comments_vec.append({"name":comment['name'],"vec":tmp_vec})
+        #print(comments_vec)
+
+        #対応文書
+        #print(diff_text[i])
+        tmp = []
+        tmp.append(i)
+        tmp.append(diff_text[i])
+        writer.writerow(tmp)
+
+        #相関係数
+        for comment in comments_vec:
+            #print(comment['name'])
+            #print(np.corrcoef(diff_vec, comment['vec'])[0, 1])
+            value_p =str(np.corrcoef(diff_vec, comment['vec'])[0, 1])
+            #writer.writerow(comment['name'])
+            #writer.writerow(value_p)
+
+        #コサイン類似度
+        cos_list = []
+        cos_list.append(diff_vec)
+        for comment in comments_vec:
+            cos_list.append(comment['vec'])
+        data_list = np.array(cos_list)
+        data_list = data_list.astype(np.int)
+        result = cos_sim_matrix(data_list)
+        cosresult = result[0]
+        #print(result[0])
+        writer.writerow(cosresult)
+        #np.savetxt('result_cos.csv', result, delimiter=',')
+
+f.close()
+
