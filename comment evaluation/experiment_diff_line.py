@@ -75,30 +75,26 @@ issue_comments = json.load(fj)
 
 #print(issue_comments)
 
-
-
 #txtから文章を格納
-diff_text = ""
+diff_text = []
 for line in f:
     if re.search("^\+",line):
         line = re.sub("\+","",line)
-        diff_text += line
+        #diff_text += line
     else:
         continue
-#diff_text = cleanInput(diff_text)
+    line = cleanInput(line)
+    diff_text.append(line)
+l_odd = [i for i in diff_text if (not i == "\r\n") and (not i == "")]
+diff_text.clear()
+diff_text = l_odd
 print(diff_text)
 
-
-
-
-
 #差分文章の形態素解析
-diff_list = Mecab_parce(diff_text)
+diff_list = []
+for d_line in diff_text:
+    diff_list.append(Mecab_parce(d_line))
 #print(diff_list)
-
-
-
-
 
 #イシューの形態素解析
 comments_lists = []
@@ -108,66 +104,69 @@ for issue in issue_comments:
 #print(comments_lists)
 
 
-
-term_index = []
-#差分の語句を登録
-for word in diff_list:
-    term = word["word"]
-    if term not in term_index:
-        term_index.append(term)
-    else:
-        continue
 #コメントの語句を登録
+comment_index= []
 for comment in comments_lists:
     for word in comment['parse']:
+        term = word["word"]
+        if term not in comment_index:
+            comment_index.append(term)
+        else:
+            continue
+#print(comment_index)
+
+#1行づつ結果見てく
+for i, d_line in enumerate(diff_list):
+    term_index = []
+    term_index.extend(comment_index)
+    #差分の語句を登録
+    for word in d_line:
         term = word["word"]
         if term not in term_index:
             term_index.append(term)
         else:
             continue
-#print(term_index)
+    #print(term_index)
 
+    #差分の頻度
+    diff_freq = count_word(d_line,term_index)
+    #ベクトル化
+    diff_vec = []
+    for num in diff_freq.values():
+        diff_vec.append(num)
 
+    #こめんとの頻度
+    comments_freq = []
+    for comment in comments_lists:
+        #print(comment['name'])
+        tmp_freq = count_word(comment['parse'],term_index)
+        comments_freq.append({"name":comment['name'],"freq":tmp_freq}) 
+    #ベクトル化
+    comments_vec = []
+    for comment in comments_freq:
+        tmp_vec = []
+        for num in comment["freq"].values():
+            tmp_vec.append(num)
+        comments_vec.append({"name":comment['name'],"vec":tmp_vec})
+    #print(comments_vec)
 
+    #対応文書
+    print(diff_text[i])
+    
+    #相関係数
+    for comment in comments_vec:
+        print(comment['name'])
+        print(np.corrcoef(diff_vec, comment['vec'])[0, 1])
 
-#差分の頻度
-diff_freq = count_word(diff_list,term_index)
-#ベクトル化
-diff_vec = []
-for num in diff_freq.values():
-    diff_vec.append(num)
-
-#こめんとの頻度
-comments_freq = []
-for comment in comments_lists:
-    #print(comment['name'])
-    tmp_freq = count_word(comment['parse'],term_index)
-    comments_freq.append({"name":comment['name'],"freq":tmp_freq}) 
-#ベクトル化
-comments_vec = []
-for comment in comments_freq:
-    tmp_vec = []
-    for num in comment["freq"].values():
-        tmp_vec.append(num)
-    comments_vec.append({"name":comment['name'],"vec":tmp_vec})
-#print(comments_vec)
-
-
-
-#相関係数
-for comment in comments_vec:
-    print(comment['name'])
-    print(np.corrcoef(diff_vec, comment['vec'])[0, 1])
-
-
-#コサイン類似度
-cos_list = []
-cos_list.append(diff_vec)
-for comment in comments_vec:
-    cos_list.append(comment['vec'])
-data_list = np.array(cos_list)
-data_list = data_list.astype(np.int)
-result = cos_sim_matrix(data_list)
-print(result)
-#np.savetxt('result_cos.csv', result, delimiter=',')
-
+    #コサイン類似度
+    cos_list = []
+    cos_list.append(diff_vec)
+    for comment in comments_vec:
+        cos_list.append(comment['vec'])
+    data_list = np.array(cos_list)
+    data_list = data_list.astype(np.int)
+    result = cos_sim_matrix(data_list)
+    #print(result[0])
+    for cos in result[0]:
+        print(cos)
+    #np.savetxt('result_cos.csv', result, delimiter=',')
