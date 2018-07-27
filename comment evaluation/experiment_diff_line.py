@@ -8,7 +8,7 @@ def cleanInput(text):
     #text = re.sub('[･%$&#:;＆。※↑↓→←：；＾？～￥「」/-（）()【】『』<>・_=|?［］\"\']','', text)
     text = re.sub(r'[0-9]', '', text)
     #text = re.sub(r'[０-９]', '', text)
-    #text = re.sub(r'\r\n', '', text)
+    text = re.sub(r'\r\n', '', text)
     return text
 
 def Mecab_parce(text):
@@ -88,7 +88,7 @@ for line in f:
 l_odd = [i for i in diff_text if (not i == "\r\n") and (not i == "")]
 diff_text.clear()
 diff_text = l_odd
-print(diff_text)
+#print(diff_text)
 
 #差分文章の形態素解析
 diff_list = []
@@ -117,7 +117,7 @@ for comment in comments_lists:
 
 
 
-with open('some.csv', 'w') as f:
+with open('umetani10.csv', 'w') as f:
     writer = csv.writer(f)
 
     #1行づつ結果見てく
