@@ -117,7 +117,7 @@ for comment in comments_lists:
 
 
 
-with open('umetani10.csv', 'w') as f:
+with open('saito10.csv', 'w') as f:
     writer = csv.writer(f)
 
     #1行づつ結果見てく
