@@ -115,8 +115,6 @@ for comment in comments_lists:
             continue
 #print(comment_index)
 
-
-
 with open('some.csv', 'w') as f:
     writer = csv.writer(f)
 
@@ -167,8 +165,6 @@ with open('some.csv', 'w') as f:
             #print(comment['name'])
             #print(np.corrcoef(diff_vec, comment['vec'])[0, 1])
             value_p =str(np.corrcoef(diff_vec, comment['vec'])[0, 1])
-            #writer.writerow(comment['name'])
-            #writer.writerow(value_p)
 
         #コサイン類似度
         cos_list = []
@@ -181,6 +177,7 @@ with open('some.csv', 'w') as f:
         cosresult = result[0]
         #print(result[0])
         tmp.extend(cosresult)
+        writer.writerow(comments_vec)
         writer.writerow(tmp)        
         #writer.writerow(cosresult)
         #np.savetxt('result_cos.csv', result, delimiter=',')
