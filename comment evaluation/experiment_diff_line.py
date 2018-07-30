@@ -117,7 +117,7 @@ for comment in comments_lists:
 
 
 
-with open('saito10.csv', 'w') as f:
+with open('some.csv', 'w') as f:
     writer = csv.writer(f)
 
     #1行づつ結果見てく
@@ -160,7 +160,7 @@ with open('saito10.csv', 'w') as f:
         tmp = []
         tmp.append(i)
         tmp.append(diff_text[i])
-        writer.writerow(tmp)
+        #writer.writerow(tmp)
 
         #相関係数
         for comment in comments_vec:
@@ -180,7 +180,9 @@ with open('saito10.csv', 'w') as f:
         result = cos_sim_matrix(data_list)
         cosresult = result[0]
         #print(result[0])
-        writer.writerow(cosresult)
+        tmp.extend(cosresult)
+        writer.writerow(tmp)        
+        #writer.writerow(cosresult)
         #np.savetxt('result_cos.csv', result, delimiter=',')
 
 f.close()
