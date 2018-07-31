@@ -115,7 +115,7 @@ for comment in comments_lists:
             continue
 #print(comment_index)
 
-with open('some.csv', 'w') as f:
+with open('kamimura11.csv', 'w') as f:
     writer = csv.writer(f)
 
     #1行づつ結果見てく
@@ -177,7 +177,6 @@ with open('some.csv', 'w') as f:
         cosresult = result[0]
         #print(result[0])
         tmp.extend(cosresult)
-        writer.writerow(comments_vec)
         writer.writerow(tmp)        
         #writer.writerow(cosresult)
         #np.savetxt('result_cos.csv', result, delimiter=',')
