@@ -115,7 +115,7 @@ for comment in comments_lists:
             continue
 #print(comment_index)
 
-with open('kamimura11.csv', 'w') as f:
+with open('ishikawa10.csv', 'w') as f:
     writer = csv.writer(f)
 
     #1行づつ結果見てく
