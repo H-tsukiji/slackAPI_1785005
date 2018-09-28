@@ -6,7 +6,7 @@ from datetime import datetime
 #ログのJSONファイルの読み込み
 # 対象のチャンネル名
 # general:C0J8KM6KF  seminar1421:C18JT8ZNY  report:C0XMH9F0Q  grad2017:C4W2RL2BA  chat:C0J8Q0DK9
-f = codecs.open("../json/20180419/slack_C4W2RL2BA.json","r","utf-8")
+f = codecs.open("../json/20180925/slack_C4W2RL2BA.json","r","utf-8")
 f_json = json.load(f)
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)
@@ -18,6 +18,7 @@ def append_index(index, username, text, ts, date_ts):
     index.append([username, text, ts, date_ts])
 
 def search_nameindex(username):
+    name =''
     for i in memberlist:
         if (username in i["id"]) == True:
             name = i["name"]

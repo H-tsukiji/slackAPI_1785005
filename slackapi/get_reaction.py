@@ -8,9 +8,9 @@
 import codecs,json,csv,glob
 from datetime import datetime
 
-#フォルダcsv内にあるすべてのcsvファイルを取得する。
+#フォルダjson内にあるすべてのjsonファイルを取得する。
 files = []
-files = glob.glob('../json/20180419/*.json')
+files = glob.glob('../json/20180925/*.json')
 
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)
