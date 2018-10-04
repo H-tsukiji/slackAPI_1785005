@@ -20,6 +20,7 @@ word_index = []
 
 mode = tokenizer.Tokenizer.SplitMode.C
 for line in lines:
+    line = re.sub(r"(<.+>)","",line)
     for i in [m.surface() for m in tokenizer_obj.tokenize(mode, line)]:
         #print(i)
         try:
