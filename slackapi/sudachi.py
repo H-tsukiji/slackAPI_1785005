@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import json,sys,codecs
+import json,sys,codecs,csv,re
 from sudachipy import tokenizer
 from sudachipy import dictionary
 from sudachipy import config
@@ -13,6 +13,10 @@ tokenizer_obj = dictionary.Dictionary(settings).create()
 inputfilename = sys.argv[1]
 file = codecs.open(inputfilename, "r","utf-8")
 lines = file.readlines()
+filename = re.sub("\.[a-z]+","",inputfilename)
+
+word_list = {}
+word_index = []
 
 mode = tokenizer.Tokenizer.SplitMode.C
 for line in lines:
@@ -24,5 +28,21 @@ for line in lines:
             continue
         part_list = tokenizer_obj.tokenize(mode, result)[0].part_of_speech()
         if (part_list[0] == '名詞') or (part_list[0] == '動詞'):
-            print(result)
-            print(part_list)
+            if part_list[1] == '数詞':
+                continue
+            if result not in word_index:
+                word_index.append(result)
+                word_list[result] = 1
+            else:
+                word_list[result] += 1
+
+try:
+    with open(filename+'.csv', 'w', encoding="utf-8") as csvfile:
+        writer = csv.writer(csvfile, lineterminator='\n')
+        for key in word_list:
+            writer.writerow([key, word_list[key]])
+# 起こりそうな例外をキャッチ
+except FileNotFoundError as e:
+    print(e)
+except csv.Error as e:
+    print(e)
