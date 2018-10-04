@@ -11,5 +11,5 @@ csvdata = csv.reader(file)
 
 for row in csvdata:
     userfile = open("20180419/"+row[0]+"_messages.txt","a",encoding="utf-8")
-    userfile.write("-----"+row[1]+"\n")
+    userfile.write(row[1]+"\n")
 userfile.close()
