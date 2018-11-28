@@ -1,9 +1,12 @@
 # -*- coding: utf-8 -*-
-#ログjsonファイルからslackのリアクションを取る
-#取る物
+#ログjsonファイルからslackのリアクションしてもらった人物とそのされた回数を出力するプログラム
+
+
+#取る物(まだ)
 # リアクションをもらった文面
-# 貰った相手の情報
 # 誰からもらったのか
+# それに加えてリアクションした人の一覧とその回数
+
 
 import codecs,json,csv,glob
 from datetime import datetime
@@ -24,35 +27,35 @@ def search_nameindex(username):
             name = i["name"]
     return name
 
-def loggets(logfile, logs):
+def count_reactions(logfile, list_users):
     for i in logfile:
         if 'reactions' in i:
             #print(i['reactions'][0])
             count = i['reactions'][0]['count']
             name = search_nameindex(i['user'])
-            for j in logs:
+            for j in list_users:
                 if name == j['name']:
                     j['count'] += count
 
 if __name__ == '__main__':
     
-    user_reactions = []
+    list_users = []
 
     for name in memberlist:
-        user_reactions.append({'name':name['name'],'count':0})
+        list_users.append({'name':name['name'],'count':0})
     
     for f in files:
         # ログのJSONファイルの読み込み
         fl = codecs.open(f, "r", "utf-8")
         f_json = json.load(fl)
-        loggets(f_json['messages'],user_reactions)
+        count_reactions(f_json['messages'],list_users)
 
     
     try:
         with open('count_reaction.csv', 'w', encoding="utf-8") as csvfile:
             writer = csv.writer(csvfile, lineterminator='\n')
             writer.writerow(['user', 'count'])
-            for i in user_reactions:
+            for i in list_users:
                 writer.writerow([i['name'], i['count']])
     # 起こりそうな例外をキャッチ
     except FileNotFoundError as e:
@@ -60,4 +63,4 @@ if __name__ == '__main__':
     except csv.Error as e:
         print(e)
     
-    #print(user_reactions)
+    #print(list_users)
