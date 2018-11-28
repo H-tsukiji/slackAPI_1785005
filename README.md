@@ -29,11 +29,18 @@ idとユーザ名がセットである。
 jsonファイル使いまわしてね
 
 ## ログを取る方法
+slackからログをjson形式で取得するプログラム  
 slacker_log.py  
-必要な情報  
-チャンネルid  
-現状オブジェクトで帰っているので、配列に整理するかなんかする必要がありそう・・・？  
-.bodyを付与することでできた。  
+
+「slacker_log.py」で取得したjsonファイルから会話ログのcsvに直す  
+log_analysis.py  
+
+「log_analysis.py」で作成した各チャンネルの会話ログのcsvファイルより各ユーザのメッセージ毎にテキストファイルを追加するプログラム(追記のa読み込みに注意)  
+user_message.py  
+
+「user_message.py」で作成したtxtファイルを構文解析して名詞系の語句頻度をcsvで出力するプログラム  
+sudachi.py  
+
 csvファイル「log_report_channel」に名前内容時間を書き込む  
 
 ## csvファイルの出力
@@ -44,4 +51,3 @@ csvファイルにユーザ名、内容、タイムスタンプを出力する�
 
 http://nuxx.noob.jp/archives/135  
 http://qiita.com/Yinaura/items/bd28c7b9ef614696fb7e
-

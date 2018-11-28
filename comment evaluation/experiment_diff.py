@@ -88,17 +88,9 @@ for line in f:
 #diff_text = cleanInput(diff_text)
 print(diff_text)
 
-
-
-
-
 #差分文章の形態素解析
 diff_list = Mecab_parce(diff_text)
 #print(diff_list)
-
-
-
-
 
 #イシューの形態素解析
 comments_lists = []
@@ -106,8 +98,6 @@ for issue in issue_comments:
     tmp_list = Mecab_parce(issue["comment"])
     comments_lists.append({"name":issue["name"],"parse":tmp_list})
 #print(comments_lists)
-
-
 
 term_index = []
 #差分の語句を登録

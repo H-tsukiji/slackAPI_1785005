@@ -19,16 +19,21 @@ csvdata = csv.reader(file)
 
 #1行づつ読み込みノイズとなるような記号とひらがなを排除
 def cleanInput(text):
-    text = re.sub('\n', ' ', text)
-    text = re.sub(r'[.,･%$&#:;＆。※↑↓→←、．，：；＾？～￥「」（）()【】『』<>・_=|?［］\[\]\"\']', ' ', text)
-    text = re.sub(r'[@＠]\w+', ' ', text)
-    text = re.sub(r'[0-9]', ' ', text)
-    text = re.sub(r'[０-９]', ' ', text)
-    text = re.sub('-', ' ', text)
-    text = re.sub('/', ' ', text)
-    text = re.sub('\r\n', ' ', text)
-    text = re.sub('　', ' ', text)
-    text = re.sub('[ぁ-ん]', ' ', text)
+
+    if (len(text)== 1):
+        text = re.sub(r'\w', ' ', text)
+
+    else:
+        text = re.sub('\n', ' ', text)
+        text = re.sub(r'[.,･%$&#:;＆。※↑↓→←、．…，：；＾？～￥「」（）()【】『』<>・_=|?［］\[\]\"\']', ' ', text)
+        text = re.sub(r'[@＠]\w+', ' ', text)
+        text = re.sub(r'[0-9]', ' ', text)
+        text = re.sub(r'[０-９]', ' ', text)
+        text = re.sub('-', ' ', text)
+        text = re.sub('/', ' ', text)
+        text = re.sub('\r\n', ' ', text)
+        text = re.sub('　', ' ', text)
+        text = re.sub('[ぁ-ん]', ' ', text)
     return text
 
 def writetext(line):
