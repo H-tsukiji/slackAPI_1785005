@@ -15,7 +15,6 @@ token = codecs.open("../../slackapi_token.txt", "r","utf-8")
 # 2018-4-sotsuken:C9EJZ0MMJ
 c_name = 'C4W2RL2BA'
 
- 
 # logの取得を送る　token,指定チャンネルid,タイムスタンプの有無などを条件付けする
 # 返しはインスタンス変数になってる(？)
 slacker = Slacker(token)
