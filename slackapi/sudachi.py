@@ -36,7 +36,11 @@ for line in lines:
                 word_list[result] = 1
             else:
                 word_list[result] += 1
+        elif (part_list[0] == '助動詞'):
+            #print(result,part_list)
+            pass
 
+'''
 try:
     with open(filename+'.csv', 'w', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile, lineterminator='\n')
@@ -47,3 +51,4 @@ except FileNotFoundError as e:
     print(e)
 except csv.Error as e:
     print(e)
+'''
