@@ -4,7 +4,6 @@ from sudachipy import tokenizer
 from sudachipy import dictionary
 from sudachipy import config
 
-
 #辞書読み込み？
 with open(config.SETTINGFILE, "r", encoding="utf-8") as f:
     settings = json.load(f)
