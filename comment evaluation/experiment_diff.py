@@ -88,10 +88,18 @@ for line in f:
 #diff_text = cleanInput(diff_text)
 print(diff_text)
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 #差分文章の形態素解析
 diff_list = Mecab_parce(diff_text)
 #print(diff_list)
 
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 #イシューの形態素解析
 comments_lists = []
 for issue in issue_comments:
@@ -159,5 +167,5 @@ data_list = np.array(cos_list)
 data_list = data_list.astype(np.int)
 result = cos_sim_matrix(data_list)
 print(result)
-#np.savetxt('result_cos.csv', result, delimiter=',')
+np.savetxt('result_cos.csv', result, delimiter=',')
 
