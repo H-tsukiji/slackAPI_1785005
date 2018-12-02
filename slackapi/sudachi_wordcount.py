@@ -36,7 +36,7 @@ for line in lines:
             else:
                 word_list[result] += 1
         elif (part_list[0] == '助動詞'):
-            #print(result,part_list)
+            print(result,part_list)
             pass
 
 '''
