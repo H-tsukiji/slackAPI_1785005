@@ -14,25 +14,25 @@ file = codecs.open(inputfilename, "r","utf-8")
 lines = file.readlines()
 filename = re.sub("\.[a-z]+","",inputfilename)
 
-jyodousi_file = open("jyodousi.csv", 'r', encoding="utf-8")
-csvdata = csv.reader(jyodousi_file)
+csvdata = []
 
-print(csvdata)
+with open("jyodousi.csv", "r", encoding="utf-8") as f:
+    reader = csv.reader(f)
+    for row in reader:
+        csvdata.append(row)
 
-
+#print(csvdata)
 
 def search_meaning(text):
-    global mean = []
+    mean = []
     for word in csvdata:
-        if (text in word[0]) == True:
-            mean = word[1]
-    if not mean:
-        mean = "null"
+        if text == word[0]:
+            mean.append(word[1])
     return mean
-
 
 word_list = {}
 word_index = []
+text = []
 
 if __name__ == '__main__':    
     mode = tokenizer.Tokenizer.SplitMode.C
@@ -47,6 +47,6 @@ if __name__ == '__main__':
             part_list = tokenizer_obj.tokenize(mode, result)[0].part_of_speech()
 
             if (part_list[0] == '助動詞'):
-                print(result,part_list)
-                text = search_meaning(result)
-                print(text)    
+                #print(result,part_list)
+                text.append(search_meaning(result))
+                print(text)
