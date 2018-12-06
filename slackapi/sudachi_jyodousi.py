@@ -30,10 +30,8 @@ def search_meaning(text):
             mean.append(word[1])
     return mean
 
-word_list = {}
-word_index = []
-text = []
-
+word_list = []
+total_count = 0
 if __name__ == '__main__':    
     mode = tokenizer.Tokenizer.SplitMode.C
     for line in lines:
@@ -48,5 +46,22 @@ if __name__ == '__main__':
 
             if (part_list[0] == '助動詞'):
                 #print(result,part_list)
-                text.append(search_meaning(result))
-                print(text)
+                total_count += 1
+                text = []
+                text.append(result)
+                text.extend(search_meaning(result))
+                #print(text)
+                word_list.append(text)
+    
+    order_count = 0
+    respect_count = 0
+    for word in word_list:
+        if ("使役" in word):
+            order_count += 1
+        '''
+        elif ("尊敬" in word) or ("丁寧" in word):
+            respect_count += 1
+        '''
+    print('order_count:', order_count)
+    print('total      :', total_count)
+    print('rate       :', order_count/total_count)
