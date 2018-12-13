@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#ユーザが指定したリプライのカウントを行うプログラム
+#ユーザが指定したリプライ(＠マークのやつ)のカウントを行うプログラム
 import sys,re,codecs,json,os,glob,csv
 
 files = []

@@ -22,7 +22,7 @@ def search_nameindex(username):
             name = i["name"]
     return name
 
-
+'''
 #やっぱ使わない
 def get_threadtl(c_name,thread_ts):
     result = slacker.channels.replies(c_name, thread_ts).body
@@ -30,7 +30,7 @@ def get_threadtl(c_name,thread_ts):
     f = codecs.open("ore.json","w","utf-8")
     f.write(json.dumps(result,indent=3,ensure_ascii=False));
     f.close()
-
+'''
 
 def start_thread(file_list, first_thread,thread_count):
     for log in file_list:
@@ -64,10 +64,11 @@ if __name__ == "__main__":
     #print(first_thread)
     #print(thread_count)
 
+    '''
     c_name = "C4W2RL2BA"
     thread_ts = "1535352566.000100"
     get_threadtl(c_name, thread_ts)
-
+    '''
 
     #スレッドの初めとなった回数をcsvで出力
     try:
