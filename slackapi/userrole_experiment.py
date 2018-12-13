@@ -84,6 +84,7 @@ def Cosine_similarity(csvfiles):
 def Leader_score(parameter_list):
     mention_data = Read_Mention_file()
     reaction_data = Read_reaction_file()
+    thread_data = Read_thread_file()
 
 
 def Read_reaction_file():
@@ -121,14 +122,11 @@ def Read_Mention_file():
     return mention_data
 
 def Read_thread_file():
-
     thread_data = {}
     f = codecs.open("thread_message_countlist.csv","r", "utf-8")
     thread_file = csv.reader(f)
     next(thread_file)
     for row in thread_file:
-        # username = str(row[0])
-        # sendnum = int(row[1])
         thread_data[row[0]] = {"send_count":row[1],"first_count":0}
     f.close()
     f = codecs.open("first_thread_user.csv","r", "utf-8")
