@@ -129,6 +129,20 @@ def Leader_score(memberlist):
             reader_score[username] += thread_num[username]
     print(reader_score)
 
+def Support_score():
+
+    # 各種データファイル読み込み
+    mention_data = Read_Mention_file()
+    reaction_data = Read_reaction_file()
+    thread_data = Read_thread_file()
+
+    # メンションによる特定のユーザとの会話数
+    # リアクションによる特定のユーザとの反応数
+    # スレッドにて返信をした回数
+    
+
+
+
 
 def Read_reaction_file():
     f = codecs.open("reaction_list.csv","r", "utf-8")
@@ -207,6 +221,7 @@ if __name__ == "__main__":
     #コサイン類似度算出
     #Cosine_similarity(files)
 
+    # リーダスコアの算出
     Leader_score(memberlist)
 
 
