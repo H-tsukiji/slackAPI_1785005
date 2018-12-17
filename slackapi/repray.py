@@ -47,10 +47,22 @@ if __name__ == '__main__':
                     else:
                         re_index[key] = re_index[key] + 1
 
+        # for line in fline:
+        #     #ユーザ指定のタグを検知する正規表現<@U0JACJLRJ>や<@U0J8PMAQJ|t.kasai>
+        #     reget = "<!channel>"
+        #     matchtext = re.finditer(reget,line)
+        #     if matchtext:
+        #         for user in memberlist:
+        #             userkey = "<@"+user['id']+">"
+        #             if (userkey in re_index) == False:
+        #                 re_index[userkey] = 1
+        #             else:
+        #                 re_index[userkey] = re_index[userkey] + 1
+
         re_index = sorted(re_index.items(), key=lambda x:x[1],reverse=True)
 
         try:
-            with open("rep_"+username+".csv", 'w', encoding="utf-8") as csvfile:
+            with open("rep/rep_"+username+".csv", 'w', encoding="utf-8") as csvfile:
                 writer = csv.writer(csvfile, lineterminator='\n')
                 writer.writerow(['userid', 'count'])
                 for i in re_index:

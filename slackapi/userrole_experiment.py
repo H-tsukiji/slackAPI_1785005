@@ -81,10 +81,24 @@ def Cosine_similarity(csvfiles):
     cos_result = cos_sim_matrix(cos_data)
     print(cos_result)
 
-def Leader_score(parameter_list):
+def Leader_score(memberlist):
     mention_data = Read_Mention_file()
     reaction_data = Read_reaction_file()
     thread_data = Read_thread_file()
+
+    # メンションによる全ユーザとの平均会話数
+    mention_sum = {}
+    for user, values in mention_data.items():
+        sum = 0
+        for count in values:
+            sum += int(count[1])
+        mention_sum[user] = sum / len(memberlist)
+
+    # リアクションによる全ユーザとの反応数の平均
+    # print(reaction_data)
+    for user, values in reaction_data.items():
+        print(user)
+
 
 
 def Read_reaction_file():
@@ -119,6 +133,8 @@ def Read_Mention_file():
         for row in csvdata:
             mention_data[username].append([row[0],row[1]])
         f.close()
+    mention_data = sorted(mention_data.items())
+    mention_data  = dict(mention_data)
     return mention_data
 
 def Read_thread_file():
@@ -152,6 +168,8 @@ if __name__ == "__main__":
     fm.close()
 
     #コサイン類似度算出
-    Cosine_similarity(files)
+    #Cosine_similarity(files)
+
+    Leader_score(memberlist)
 
 
