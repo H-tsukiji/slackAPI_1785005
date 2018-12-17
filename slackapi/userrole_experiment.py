@@ -82,22 +82,40 @@ def Cosine_similarity(csvfiles):
     print(cos_result)
 
 def Leader_score(memberlist):
+    # 各種データファイル読み込み
     mention_data = Read_Mention_file()
     reaction_data = Read_reaction_file()
     thread_data = Read_thread_file()
+    jyodoshi_data = Read_jyodoshi_file()
 
     # メンションによる全ユーザとの平均会話数
-    mention_sum = {}
+    mention_ave = {}
     for user, values in mention_data.items():
         sum = 0
         for count in values:
             sum += int(count[1])
-        mention_sum[user] = sum / len(memberlist)
+        mention_ave[user] = sum / len(memberlist)
 
     # リアクションによる全ユーザとの反応数の平均
-    # print(reaction_data)
+    reaction_ave = {}
     for user, values in reaction_data.items():
-        print(user)
+        sum = 0
+        for num in values.values():
+            sum += int(num)
+        reaction_ave[user] = sum / len(memberlist)
+
+    # スレッドの開始となった回数
+    thread_num = {}
+    for user, values in thread_data.items():
+        thread_num[user] = int(values['first_count'])
+
+    # 発言内の助動詞に基づいた使役の意味を含む発言の割合
+    jyodoshi_rate = {}
+    for user, values in jyodoshi_data.items():
+        jyodoshi_rate[user] = values['rate']
+    print(jyodoshi_rate)
+
+
 
 
 
@@ -153,6 +171,14 @@ def Read_thread_file():
     f.close()
     return thread_data
 
+def Read_jyodoshi_file():
+    jyodoshi = {}
+    f = codecs.open("jyodoshi_count.csv","r", "utf-8")
+    jyodoshi_file = csv.reader(f)
+    next(jyodoshi_file)
+    for row in jyodoshi_file:
+        jyodoshi[row[0]] = {"order_count":row[1], "total_count":row[2], "rate":row[3]}
+    return jyodoshi
 
 if __name__ == "__main__":
 
@@ -171,5 +197,6 @@ if __name__ == "__main__":
     #Cosine_similarity(files)
 
     Leader_score(memberlist)
+
 
 
