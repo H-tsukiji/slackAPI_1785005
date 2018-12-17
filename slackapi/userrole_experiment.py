@@ -112,11 +112,22 @@ def Leader_score(memberlist):
     # 発言内の助動詞に基づいた使役の意味を含む発言の割合
     jyodoshi_rate = {}
     for user, values in jyodoshi_data.items():
-        jyodoshi_rate[user] = values['rate']
-    print(jyodoshi_rate)
+        jyodoshi_rate[user] = float(values['rate'])
 
-
-
+    # リーダスコアの算出
+    reader_score = {}
+    for user in memberlist:
+        username = user['name']
+        reader_score[username] = 0.0
+        if user['name'] in mention_ave:
+            reader_score[username] += mention_ave[username]
+        if user['name'] in reaction_ave:
+            reader_score[username] += reaction_ave[username]
+        if user['name'] in jyodoshi_rate:
+            reader_score[username] += jyodoshi_rate[username]
+        if user['name'] in thread_num :
+            reader_score[username] += thread_num[username]
+    print(reader_score)
 
 
 def Read_reaction_file():
