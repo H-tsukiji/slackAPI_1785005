@@ -127,7 +127,13 @@ def Leader_score(memberlist):
             reader_score[username] += jyodoshi_rate[username]
         if user['name'] in thread_num :
             reader_score[username] += thread_num[username]
-    print(reader_score)
+    #print(reader_score)
+
+    print('Leader_Score')
+    for key, values in reader_score.items():
+        print(key)
+        print(values)
+        print("------")
 
 def Support_score():
 
@@ -137,12 +143,46 @@ def Support_score():
     thread_data = Read_thread_file()
 
     # メンションによる特定のユーザとの会話数
+    # mention_data 誰が誰にメンションしたかの回数
+
     # リアクションによる特定のユーザとの反応数
+    # mention_data 誰が誰にリアクションしたかの回数
+
     # スレッドにて返信をした回数
+    thread_send = {}
+    for user, values in thread_data.items():
+        thread_send[user] = int(values['send_count'])
+    # print(thread_send)
+
+    support_score = {}
+    for user in memberlist:
+        username = user['name']
+        support_score[username] = {}
+        if username in mention_data:
+            for row in mention_data[username]:
+                if row[0] in support_score[username]:
+                    support_score[username][row[0]] += int(row[1])
+                else :
+                    support_score[username][row[0]] = int(row[1])
+        if username in reaction_data:
+            for key, values in reaction_data[username].items():
+                if key in support_score[username]:
+                    support_score[username][key] += int(values)
+                else :
+                    support_score[username][key] = int(values)
+        if user['name'] in thread_send :
+            # reader_score[username] += thread_num[username]
+            pass
+        pass
+
+    print('Surrport_Score')
+    for key, values in support_score.items():
+        print("User:"+key)
+        for i,j in values.items():
+            print(i)
+            print(j)
+        print('---------------')
     
-
-
-
 
 def Read_reaction_file():
     f = codecs.open("reaction_list.csv","r", "utf-8")
@@ -219,10 +259,11 @@ if __name__ == "__main__":
     fm.close()
 
     #コサイン類似度算出
-    #Cosine_similarity(files)
+    Cosine_similarity(files)
 
     # リーダスコアの算出
     Leader_score(memberlist)
-
-
+    
+    #サポート性の算出
+    Support_score()
 
