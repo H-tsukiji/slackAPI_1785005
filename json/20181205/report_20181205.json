@@ -1,0 +1,1396 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "22be9fb7-cf61-47b3-9dee-e5c9961e5b2b",
+            "type": "message",
+            "text": "作業報告\n・正解音声と録音した音声を比較可能なようにプログラムを拡張\n→正解音声の方を，周波数を44100Hzとして変換することで，前と同様のプログラムで動作することを確認しました．\n今後は音声の正規化処理をするプログラムを実装していくつもりです．",
+            "user": "U12475CJC",
+            "ts": "1544011680.032500",
+            "edited": {
+                "user": "U12475CJC",
+                "ts": "1544011881.000000"
+            }
+        },
+        {
+            "client_msg_id": "30f0f613-4a78-4583-9679-161bd26a768d",
+            "type": "message",
+            "text": "作業報告\n助動詞に基づいた命令の意味を持った発言のカウントするプログラムの作成\nリーダ性を出すために、命令の意味を持った助動詞の回数をカウントするプログラムを作成しました\n実行結果はいかになります\n```\n ishikawa_messages.txt\norder_count: 2\ntotal      : 478\nrate       : 0.0041841004184100415\nkaiseiaoki_messages.txt\norder_count: 4\ntotal      : 217\nrate       : 0.018433179723502304\n\nko-hei_messages.txt\norder_count: 17\ntotal      : 1028\nrate       : 0.016536964980544747\n\nkurihara_messages.txt\norder_count: 0\ntotal      : 52\nrate       : 0.0\n\nmatsuoka_messages.txt\norder_count: 1\ntotal      : 16\nrate       : 0.0625\n\nshohei516_messages.txt\norder_count: 1\ntotal      : 42\nrate       : 0.023809523809523808\n\nt.kasai_messages.txt\norder_count: 2\ntotal      : 564\nrate       : 0.0035460992907801418\n\ntakahashiy_messages.txt\norder_count: 4\ntotal      : 128\nrate       : 0.03125\n\ntakano_messages.txt\norder_count: 12\ntotal      : 2488\nrate       : 0.00482315112540193\n\ntsukiji_messages.txt\norder_count: 4\ntotal      : 979\nrate       : 0.0040858018386108275\n\numetani_messages.txt\norder_count: 1\ntotal      : 54\nrate       : 0.018518518518518517\n\nyuta_messages.txt\norder_count: 0\ntotal      : 9\nrate       : 0.0 \n```",
+            "user": "U0JAEV08K",
+            "ts": "1544008082.031300",
+            "edited": {
+                "user": "U0JAEV08K",
+                "ts": "1544008133.000000"
+            }
+        },
+        {
+            "client_msg_id": "f24b6f38-7fb3-42ed-a4a7-1689bc246868",
+            "type": "message",
+            "text": "2018\/12\/05 作業報告\n・ソースコード収集(Keras関係)\n・大会登録",
+            "user": "U4YM85G94",
+            "ts": "1544004070.029000"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEKUU5929",
+                    "created": 1543992253,
+                    "timestamp": 1543992253,
+                    "name": "hisa-shige-haga.pptx",
+                    "title": "hisa-shige-haga.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 315280,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEKUU5929\/hisa-shige-haga.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEKUU5929\/download\/hisa-shige-haga.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FEKUU5929\/hisa-shige-haga.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEKUU5929-26a6cc0091"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1543992254.025200"
+        },
+        {
+            "client_msg_id": "B8C40C47-C50E-4513-A8AC-51672318768A",
+            "type": "message",
+            "text": "<@U0JACJLRJ> わかりました。",
+            "user": "U12475CJC",
+            "ts": "1543992254.025100"
+        },
+        {
+            "client_msg_id": "26ce424d-7cfd-466a-9f99-7d5d4bb690dd",
+            "type": "message",
+            "text": "<@U12475CJC> サーバに羽賀君のアカウントを作ってもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543992199.024900"
+        },
+        {
+            "client_msg_id": "fa5bdf67-9315-46a4-bc55-de106ca9aacc",
+            "type": "message",
+            "text": "作業報告\n・周波数の確認\n→築地さんに教えてもらったHotWavで，正解となる音声と自信の音声の，分割後の数値を比べたところ，\n自身：48000Hz\n正解音声：11025Hz\nとなっていました。おそらくこの差が何かのエラーを引き起こしているようです．\n明日以降mp3に変換するなどの対策を実装していきたいと思います．",
+            "user": "U12475CJC",
+            "ts": "1543920534.024100"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEHMNQ5R9",
+                    "created": 1543841202,
+                    "timestamp": 1543841202,
+                    "name": "DEIM_kamimura_v1.pptx",
+                    "title": "DEIM_kamimura_v1.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 54214,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEHMNQ5R9\/deim_kamimura_v1.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEHMNQ5R9\/download\/deim_kamimura_v1.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FEHMNQ5R9\/deim_kamimura_v1.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEHMNQ5R9-544a8bbcd9"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1543841203.020300"
+        },
+        {
+            "client_msg_id": "8b09e9af-f669-4bb7-92ac-cb820b6ad11a",
+            "type": "message",
+            "text": "作業報告\n・ゼミ用スライドの作成\n→先週の金曜日のゼミでの議論をスライドにまとめました．\n   ロジックを含めて構成する際にやはり関連研究でやられていないか確認する必要が出てきたので\n　明日以降それも追加で作業していきます．",
+            "user": "U12475CJC",
+            "ts": "1543841191.020200"
+        },
+        {
+            "client_msg_id": "b3259c45-194b-4dc8-97ae-f885f7e256a0",
+            "type": "message",
+            "text": "作業報告\n助動詞検索プログラムの仮完成\n挙動が怪しいですが、助動詞の意味合いけら使役の意味を持った発言を抽出できそうです\n\nあと、太橋君が手伝ってくれるのでお願いする内容の下準備をしていました\nGithubに記事を書いたのでそれを使いながらお願いしようと思います。\n<https:\/\/github.com\/kait-takanolab\/1785005_tsukiji_slackAPI\/wiki\/3%E5%B9%B4%E7%94%9F%E3%81%AE%E5%AD%90%E3%81%AB%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%9F%E3%81%84%E5%86%85%E5%AE%B9>",
+            "user": "U0JAEV08K",
+            "ts": "1543841083.019000",
+            "attachments": [
+                {
+                    "service_name": "GitHub",
+                    "title": "kait-takanolab\/1785005_tsukiji_slackAPI",
+                    "title_link": "https:\/\/github.com\/kait-takanolab\/1785005_tsukiji_slackAPI\/wiki\/3%E5%B9%B4%E7%94%9F%E3%81%AE%E5%AD%90%E3%81%AB%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%9F%E3%81%84%E5%86%85%E5%AE%B9",
+                    "text": "Contribute to kait-takanolab\/1785005_tsukiji_slackAPI development by creating an account on GitHub.",
+                    "fallback": "GitHub: kait-takanolab\/1785005_tsukiji_slackAPI",
+                    "from_url": "https:\/\/github.com\/kait-takanolab\/1785005_tsukiji_slackAPI\/wiki\/3%E5%B9%B4%E7%94%9F%E3%81%AE%E5%AD%90%E3%81%AB%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%9F%E3%81%84%E5%86%85%E5%AE%B9",
+                    "thumb_url": "https:\/\/avatars0.githubusercontent.com\/u\/19727895?s=400&v=4",
+                    "thumb_width": 250,
+                    "thumb_height": 250,
+                    "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                    "id": 1,
+                    "original_url": "https:\/\/github.com\/kait-takanolab\/1785005_tsukiji_slackAPI\/wiki\/3%E5%B9%B4%E7%94%9F%E3%81%AE%E5%AD%90%E3%81%AB%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%9F%E3%81%84%E5%86%85%E5%AE%B9"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2769c2de-fc79-4901-b93c-321faf760f67",
+            "type": "message",
+            "text": "2018\/12\/03 作業報告\n・ラベルとその機能の対応表を表示\n・クラスごとの確率を数値と棒グラフで表示",
+            "user": "U4YM85G94",
+            "ts": "1543832882.012900"
+        },
+        {
+            "client_msg_id": "dababa5e-8ad3-4567-9460-386acd572333",
+            "type": "message",
+            "text": "2018\/12\/01 作業報告\n・次ラベルに対するクラスごとの(分類)確率を出力した\n→「そのラベルのセットがどのクラスに分類されるか」という問題の答えが次ラベルの予測になっています",
+            "user": "U4YM85G94",
+            "ts": "1543711197.009800"
+        },
+        {
+            "client_msg_id": "61f66d10-e3cc-4f00-9e2a-f640f89797b6",
+            "type": "message",
+            "text": "2018\/11\/30 作業報告\n・実験システムの修正、テスト\n　- one-hotの際に配列の長さを整えて学習にかけました\n・スライドの追加、修正",
+            "user": "U4Y3V5NKX",
+            "ts": "1543574793.005000"
+        },
+        {
+            "client_msg_id": "c946869e-ed71-4a06-9400-e32c16a31c52",
+            "type": "message",
+            "text": "作業報告\n助動詞の意味一覧csvの作成\nWikipediaからの一覧を基にいみと語句の一覧を作成しました。\n後々図書館でもっとちゃんとした文献で確認しておきます\n意味として「尊敬」や「命令」があるのでそこからメッセージの内容を基に特徴が取れないかやってみます。\n\n余談ですが、slackのログから会話のスレッド機能で会話していた部分をAPI取れそうなので試してみます\n備忘録メモ：API　conversations.history",
+            "user": "U0JAEV08K",
+            "ts": "1543571470.003100"
+        },
+        {
+            "client_msg_id": "d37157d6-f4fc-4ca7-a873-c58049e16319",
+            "type": "message",
+            "text": "作業報告\n• トークンの型情報の抜き出し\n• 構文木をリスト形状に平坦化\n• 二項演算子が出現した時はトークンの出現順にもどした→構文木の情報を維持しつつ、ソースコードに近い状態にすることができました。\n次回は抽出したデータを符号化してCNNに投入できるようにしたいと思います。",
+            "user": "U4Y2B9X28",
+            "ts": "1543496575.049000"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEETQBT0C",
+                    "created": 1543493093,
+                    "timestamp": 1543493308,
+                    "name": "________________________________________________________________________",
+                    "title": "エラーが起きているソースコードの箇所／エラー内容",
+                    "mimetype": "text\/plain",
+                    "filetype": "space",
+                    "pretty_type": "ポスト",
+                    "user": "U12475CJC",
+                    "editable": true,
+                    "size": 1268,
+                    "mode": "space",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEETQBT0C\/________________________________________________________________________",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEETQBT0C\/download\/________________________________________________________________________",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FEETQBT0C\/________________________________________________________________________",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEETQBT0C-5a5440ae55",
+                    "preview": "<document><p>import librosa<\/p><p>import librosa.display<\/p><p>import os<\/p><p><\/p><p>def load_wave_data(audio_dir, file_name):<\/p><\/document>",
+                    "updated": 1543493308,
+                    "editor": "U12475CJC",
+                    "last_editor": "U12475CJC",
+                    "state": "locked"
+                }
+            ],
+            "upload": false,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1543493293.045600"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEGF2G2H4",
+                    "created": 1543493087,
+                    "timestamp": 1543493087,
+                    "name": "similation_experimrnt_result_v2.xlsx",
+                    "title": "similation_experimrnt_result_v2.xlsx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "filetype": "xlsx",
+                    "pretty_type": "Excel スプレッドシート",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 17472,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEGF2G2H4\/similation_experimrnt_result_v2.xlsx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEGF2G2H4\/download\/similation_experimrnt_result_v2.xlsx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FEGF2G2H4\/similation_experimrnt_result_v2.xlsx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEGF2G2H4-3061d5e57e"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1543493088.045300"
+        },
+        {
+            "client_msg_id": "58c41662-bd73-4622-bfe1-180c952862cc",
+            "type": "message",
+            "text": "作業報告\n・無音部分で単語区切りに自動でファイル分割してくれるプログラムの作成\n→正解音声として使用しようとしていた音声データが，1単語ごとではなく複数個の単語音声の集合となっていたので，それを個別の単語に分割するツールを作成しました．\n\n・音声を分割してDTWを計算した際の影響を調査する実験の続き\n→昨日の実験に加えて，時間を計測することと，さらに細かく分割した場合の結果をとりました．\n→簡潔にまとめると，分割数を少なく（なるべく分割せずに元データに近い状態で）した場合は時間がかかりすぎ，逆に分割数を細かくしすぎると，時間は短縮されるが，DTWの総和の誤差は大きくなる傾向になるようでした．\n分割数の秒数の目安は，主観ですが0.1分割（or元音声\/4秒に）くらいがちょうどよいように思います．\n\n・正解音声のDTWの計測\n→正解音声が単語ごとに男女１名づつ分あるので，同じ単語を話した男女同士の音声のDTWを図ろうとしたのですが，どうにも分割したあとのファイルを読み込み際にエラーが発生してしまうため，実行できませんでした．\n明日以降調べて修正していきます．",
+            "user": "U12475CJC",
+            "ts": "1543492617.045100",
+            "edited": {
+                "user": "U12475CJC",
+                "ts": "1543493077.000000"
+            }
+        },
+        {
+            "client_msg_id": "67260b93-9bae-4665-b464-a6ec92d2d4b6",
+            "type": "message",
+            "text": "作業報告\nプログラムの実装\n実データでのコミュニケーションの頻度を取るために\n@マークを付けてメッセージをした回数をユーザ毎に記録するプログラムと、リアクション(相手の、メッセージに対して絵のアイコンによる反応)をした回数をユーザ毎に記録するプログラムを作成しました。\n今後は命令や要求に関する発言の抽出を行いたいところですが、それの基準となる助動詞の活用形による抽出をしようと思います。\n実装自体はそこまで難しくないですが、助動詞の意味や活用に関する文献だとWikipediaなどにある活用一覧表みたいなのがないので自分で読んでまとめる工程が必要そうです。(図書館でコピーしてきて研究室でまとめるなどの作業の下準備も含めて)\nいったんWikipediaの一覧から対応データを作成してから文献として照らし合わせようかなと思います。",
+            "user": "U0JAEV08K",
+            "ts": "1543491217.042100"
+        },
+        {
+            "client_msg_id": "61ab4347-46c4-45e6-bf1a-6fe9bb22a8d1",
+            "type": "message",
+            "text": "2018\/11\/29 作業報告\n・論文の関連研究の部分を簡単に書きました\n・ユーザデータ作成のやり直し作業",
+            "user": "U2808K7U2",
+            "ts": "1543484960.035800"
+        },
+        {
+            "client_msg_id": "aaf3033f-25a0-48ce-a08f-be17e7853cf4",
+            "type": "message",
+            "text": "比較する音声データで，分割数が異なるときは，短い法の音声に合わさるようになっていると思います．そこ問題は，入力する前段階の処置として秒数をそろえるといったことをプログラムで処理させることで解決しようと思います．",
+            "user": "U12475CJC",
+            "ts": "1543472889.033700",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "453b3ae3-5b1d-4355-9b6d-cb0a3baae40e",
+            "type": "message",
+            "text": "発音記号数を分割数にするというのは良い考えだと僕も思います．\n発音記号の数と箇所が，その単語ごとの区切る目安となりえると思います．",
+            "user": "U12475CJC",
+            "ts": "1543471258.033500",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "7af23f07-cb40-41b6-b6e9-e10eb687f112",
+            "type": "message",
+            "text": "分割した時のじょうずな計算方法はあるの？",
+            "user": "U0JACJLRJ",
+            "ts": "1543471048.033300",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "90ab4109-90cd-43a7-b7a2-25647ba9f74a",
+            "type": "message",
+            "text": "先ほども言ったのですが，分割しない状態でのDTWの計算（最も正確なDTWの値）が，メモリの関係上難しそうなので，分割した結果が良くなるのか悪くなるのか一概には言えませんが，\n現状最も分割しない状態に近い状態（半分に分割）でのDTWの総和と，\n分割数を増やした場合のDTWの総和にほぼ誤差はないことから，おそらくですが，DTWの計算の結果に影響はないのでなないかと考えています．\n\n分割するのは，単純に分割しないと計算時間が膨大となってしまうからです．",
+            "user": "U12475CJC",
+            "ts": "1543470994.033100",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "b38b8989-ccc2-4be6-a541-80c1522bfe40",
+            "type": "message",
+            "text": "も含めて、返信メッセージのこと",
+            "user": "U0JACJLRJ",
+            "ts": "1543470541.032900",
+            "thread_ts": "1543404483.023900",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "cbb47115-6f82-4d04-8b67-3997a5b35bee",
+            "type": "message",
+            "text": ":slightly_smiling_face:",
+            "user": "U0JACJLRJ",
+            "ts": "1543470373.032700",
+            "thread_ts": "1543404483.023900",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "6d6f2cc7-bf05-40e2-9f55-5d449a529567",
+            "type": "message",
+            "text": "リアクションの定義を補足してもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543470328.032500",
+            "thread_ts": "1543404483.023900",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "de220229-5cfc-45ee-9ebf-d39f5c03d6a7",
+            "type": "message",
+            "text": "入力する秒数は，Zbox(僕が使用させてもらっているPC）君によるDTWの計算性能（どの秒数で分割したほうが早いのか／精度が良いのか）を検証した上で，最もトレードオフのとれた秒数でやろうと考えています．\n現状確認した限りでは，分割数を変化させても，DTWの総和にほぼ誤差はない（主観です）と思うので，計算速度が最も早くなりそうな秒数でやろうと考えています．",
+            "user": "U12475CJC",
+            "ts": "1543470193.032300",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "4810bc7c-0b9d-4102-902b-30dd9ec17092",
+            "type": "message",
+            "text": "・専門単語の使用頻度の正規化についてはいろいろ検討してみます。\n(いまいち発言数で正規化する方法がわかっていないので。。。語彙の数とかですかね？)\n・「＠マークされたユーザの分布とリアクションした＆された分布を抽出する」\nこれの補足ですが、DEIMではデモデータを使用したので会話のまとまりを作成でき「#start,#order」などのタグでリーダ性やサポート性を評価できたのですが、\n実データだと会話のまとまりを判定るのに目視となって現実的ではないので、コミュニケーションの頻度を図る評価として「@マークを使用した相手へのメッセージ送信」「リアクションによる相手への反応」でリーダ性やサポート性を評価したいと考えています。(厳密にはまだ決め切れていないのですが。。。)\nDEIMで「#order」タグで評価していた指示に関するリーダ性の評価をどうしようかも考えています。(形態素解析か何かで命令形とかできると楽なのですが)",
+            "user": "U0JAEV08K",
+            "ts": "1543469970.032000",
+            "edited": {
+                "user": "U0JAEV08K",
+                "ts": "1543470000.000000"
+            },
+            "thread_ts": "1543404483.023900",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "40cb7c6a-d3e1-4d6c-a24c-ebcad2fe9327",
+            "type": "message",
+            "text": "比較する音声データで、分割数が異なるときはどうしていますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543469400.031800",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "aeaa8a02-2287-4537-9934-1c00a81de165",
+            "type": "message",
+            "text": "発音記号数は、使えなさそうですか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543469344.031600",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "b8d93443-41ee-46fc-8ed8-cde54e418f98",
+            "type": "message",
+            "text": "分割した方が結果がいいのだっけ？",
+            "user": "U0JACJLRJ",
+            "ts": "1543469256.031400",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "263e4fb7-0256-407a-9634-08accb644f63",
+            "type": "message",
+            "text": "入力された秒数は、どのように決めますか",
+            "user": "U0JACJLRJ",
+            "ts": "1543469238.031200",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "8af5af44-cd9b-49c7-b576-ba38e7b9a7de",
+            "type": "message",
+            "text": "まず分割数の算出の仕方ですが，今僕が動かしているプログラムは，\n1．元となる音声ファイル名を入力\n2．何秒ごとに分割するのかを入力\n3．1.2をもう一回繰り返す\nという操作を行うと，入力されたファイル名を元に２つの音声ファイルを読み込み，入力された秒数ごとにそれらの音声ファイルを分割する仕様となっています.\nそしてその後，分割されたそれぞれの音声データの先頭から順番にDTWを計算していき，その結果を出力します．\n\nなので，分割数は音声ファイルの長さ（秒数）／入力された秒数となります",
+            "user": "U12475CJC",
+            "ts": "1543469119.030900",
+            "edited": {
+                "user": "U12475CJC",
+                "ts": "1543469194.000000"
+            },
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "f930ae82-d1c8-40c4-8132-59cd1bf5ba47",
+            "type": "message",
+            "text": "DTWを計算するときの、波形データについて補足をお願い",
+            "user": "U0JACJLRJ",
+            "ts": "1543468201.030700",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "e38e096d-3746-4191-8971-e6d881f87fcc",
+            "type": "message",
+            "text": "分割数の算出の仕方があれば教えて",
+            "user": "U0JACJLRJ",
+            "ts": "1543468174.030500",
+            "thread_ts": "1543407055.028200",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "a4c4404a-1517-4c94-9810-329fbcfca0a8",
+            "type": "message",
+            "text": "はどのような評価を意図しているかがわからないので、補足をお願い",
+            "user": "U0JACJLRJ",
+            "ts": "1543467448.030300",
+            "thread_ts": "1543404483.023900",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "abdfba9c-6322-4f06-b214-db962facb56a",
+            "type": "message",
+            "text": "「＠マークされたユーザの分布とリアクションした＆された分布を抽出する」",
+            "user": "U0JACJLRJ",
+            "ts": "1543467385.030100",
+            "thread_ts": "1543404483.023900",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "1b61b1c7-5a0a-48c4-b7cc-6fab4c5fb2d6",
+            "type": "message",
+            "text": "割合は、発言数か、割合の最大値で、正規化すると数値は大きくなると思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1543467358.029900",
+            "thread_ts": "1543404483.023900",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "a8ce7aec-84c9-463d-a4ba-b56cbd156c5b",
+            "type": "message",
+            "text": "専門単語の使用頻度はカウントできているようなので、良いと思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1543467301.029700",
+            "thread_ts": "1543404483.023900",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "d0ea79fe-2b35-4b2b-8389-02c5851de0a8",
+            "type": "message",
+            "text": "作業報告\n・TensorFlow.jsの調査\n・ソースコードの改良",
+            "user": "U4YM85G94",
+            "ts": "1543408378.029600"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEF2Q1GK1",
+                    "created": 1543407069,
+                    "timestamp": 1543407069,
+                    "name": "similation_experimrnt_result.xlsx",
+                    "title": "similation_experimrnt_result.xlsx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "filetype": "xlsx",
+                    "pretty_type": "Excel スプレッドシート",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 13052,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEF2Q1GK1\/similation_experimrnt_result.xlsx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEF2Q1GK1\/download\/similation_experimrnt_result.xlsx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FEF2Q1GK1\/similation_experimrnt_result.xlsx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEF2Q1GK1-55b8cb9f17"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1543407071.028300"
+        },
+        {
+            "client_msg_id": "e7a171bd-6c53-4daa-9997-4ff29c7839aa",
+            "type": "message",
+            "text": "作業報告\n・音声を分割してDTWを計算した際の影響を調査する実験\n→音声を分割してDTWを計算した際に，分割しなかった場合との差異があるのかわからないので，分割数を変更して値の変化を見てみました．\n\n結果として，分割して計算したDTWを合計すれば，ほぼ誤差は出ないようでした．もう少し分割数を変化させて確認していく予定です．",
+            "user": "U12475CJC",
+            "ts": "1543407055.028200",
+            "thread_ts": "1543407055.028200",
+            "reply_count": 12,
+            "reply_users_count": 2,
+            "latest_reply": "1543472889.033700",
+            "reply_users": [
+                "U0JACJLRJ",
+                "U12475CJC"
+            ],
+            "replies": [
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543468174.030500"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543468201.030700"
+                },
+                {
+                    "user": "U12475CJC",
+                    "ts": "1543469119.030900"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543469238.031200"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543469256.031400"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543469344.031600"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543469400.031800"
+                },
+                {
+                    "user": "U12475CJC",
+                    "ts": "1543470193.032300"
+                },
+                {
+                    "user": "U12475CJC",
+                    "ts": "1543470994.033100"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543471048.033300"
+                },
+                {
+                    "user": "U12475CJC",
+                    "ts": "1543471258.033500"
+                },
+                {
+                    "user": "U12475CJC",
+                    "ts": "1543472889.033700"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "79c6913c-88a9-47ee-9b93-067b6537837d",
+            "type": "message",
+            "text": "作業報告\n発言の語句総数と専門単語を使用した回数の割合を算出するプログラムの作成\n専門単語は以前に応用情報のテキストの索引を用いているので率がとても低めです。\nTFIDFによる使用単語事態の特徴を各ユーザ毎に出すのもユーザのコミュニケーションの質を表す指標になるかなと思います。\n\nユーザ役割の指標の一つとして\n＠マークされたユーザの分布とリアクションした＆された分布を抽出するプログラムを作成していきます。\n\n発言の語句総数と専門単語を使用した回数の割合を算出した結果\n```\nslackapi\/20180925\\ishikawa_messages.csv\n専門単語使用回数： 2\n総単語使用回数： 2066\n専門単語割合： 0.000968054211035818\nslackapi\/20180925\\kaiseiaoki_messages.csv\n専門単語使用回数： 0\n総単語使用回数： 560\n専門単語割合： 0.0\nslackapi\/20180925\\ko-hei_messages.csv\n専門単語使用回数： 25\n総単語使用回数： 4293\n専門単語割合： 0.0058234334963894714\nslackapi\/20180925\\kurihara_messages.csv\n専門単語使用回数： 4\n総単語使用回数： 209\n専門単語割合： 0.019138755980861243\nslackapi\/20180925\\matsuoka_messages.csv\n専門単語使用回数： 0\n総単語使用回数： 63\n専門単語割合： 0.0\nslackapi\/20180925\\shohei516_messages.csv\n専門単語使用回数： 2\n総単語使用回数： 245\n専門単語割合： 0.00816326530612245\nslackapi\/20180925\\takahashiy_messages.csv\n専門単語使用回数： 10\n総単語使用回数： 722\n専門単語割合： 0.013850415512465374\nslackapi\/20180925\\takano_messages.csv\n専門単語使用回数： 56\n総単語使用回数： 10914\n専門単語割合： 0.005131024372365769\nslackapi\/20180925\\tsukiji_messages.csv\n専門単語使用回数： 27\n総単語使用回数： 4438\n専門単語割合： 0.00608382154123479\nslackapi\/20180925\\t_messages.csv\n専門単語使用回数： 23\n総単語使用回数： 2112\n専門単語割合： 0.010890151515151516\nslackapi\/20180925\\umetani_messages.csv\n専門単語使用回数： 0\n総単語使用回数： 254\n専門単語割合： 0.0\nslackapi\/20180925\\yuta_messages.csv\n専門単語使用回数： 1\n総単語使用回数： 117\n専門単語割合： 0.008547008547008548\n```",
+            "user": "U0JAEV08K",
+            "ts": "1543404483.023900",
+            "edited": {
+                "user": "U0JAEV08K",
+                "ts": "1543404625.000000"
+            },
+            "thread_ts": "1543404483.023900",
+            "reply_count": 8,
+            "reply_users_count": 2,
+            "latest_reply": "1543470541.032900",
+            "reply_users": [
+                "U0JACJLRJ",
+                "U0JAEV08K"
+            ],
+            "replies": [
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543467301.029700"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543467358.029900"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543467385.030100"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543467448.030300"
+                },
+                {
+                    "user": "U0JAEV08K",
+                    "ts": "1543469970.032000"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543470328.032500"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543470373.032700"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543470541.032900"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "ad3fa8df-8bad-47fc-ac71-9995447fa565",
+            "type": "message",
+            "text": "2018\/11\/28　作業報告\n・スライド修正（ユーザデータ写真内訳枚数設定）\n・写真データ収集",
+            "user": "U2808K7U2",
+            "ts": "1543394177.019700"
+        },
+        {
+            "client_msg_id": "a783567e-8cc4-410f-abe2-0ee8a9e77500",
+            "type": "message",
+            "text": "2018\/11\/27(昨日) 作業報告\n・実験用アプリケーションの改良\n→レイアウトに変更を加えました。選択された単語のスコア(確率)を表示させる予定です。\n→TensorFlow.jsへの置き換えも検討しています。\n・実験方法のアイデア出し\n→評価方法について上村先輩から助言を頂きながら考えました。\n→コーティング支援なので、実際にコーディングしてもらうことを検討しています。\n→コーディングはアンケート形式で行い、コード片と機能ラベルを置き換える方法に基づいて、被験者に機能ラベルを並べてもらう方法をとろうと考えています。",
+            "user": "U4YM85G94",
+            "ts": "1543370574.018300"
+        },
+        {
+            "client_msg_id": "f3a77bc2-9e22-4984-9385-35fa9b546105",
+            "type": "message",
+            "text": "作業報告\n・２音声間の類似度を算出するプログラムの改良\n→苦手な発音記号を見つける為に，発音ができない単語をリストアップする方法として，DTWで距離の遠かった単語を抽出しようと考えたため，実装しています．\n→ファイル分割することで、２音声のDTWを算出することが可能となりました。\n→今後性能評価＋問題点の洗い出しをしていく予定です．",
+            "user": "U12475CJC",
+            "ts": "1543321384.005500"
+        },
+        {
+            "client_msg_id": "ba09612d-5c90-4f23-b3d7-44a5bf1eedf6",
+            "type": "message",
+            "text": "<https:\/\/js.tensorflow.org\/>",
+            "user": "U0JACJLRJ",
+            "ts": "1543294877.000300",
+            "attachments": [
+                {
+                    "title": "TensorFlow.js",
+                    "title_link": "https:\/\/js.tensorflow.org\/",
+                    "text": "A WebGL accelerated, browser based JavaScript library for training and deploying ML models",
+                    "fallback": "TensorFlow.js",
+                    "image_url": "https:\/\/js.tensorflow.org\/images\/TF_JS_twitter.png",
+                    "image_width": 427,
+                    "image_height": 250,
+                    "from_url": "https:\/\/js.tensorflow.org\/",
+                    "image_bytes": 20966,
+                    "service_icon": "https:\/\/js.tensorflow.org\/images\/favicon.png",
+                    "service_name": "js.tensorflow.org",
+                    "id": 1,
+                    "original_url": "https:\/\/js.tensorflow.org\/"
+                }
+            ],
+            "thread_ts": "1543237665.009000",
+            "parent_user_id": "U4YM85G94"
+        },
+        {
+            "client_msg_id": "585b897e-f8ae-486f-a1e9-8edb7b80bd49",
+            "type": "message",
+            "text": "DeeplearningのWebアプリケーションを作成する際に、TensorFlowJSを使ったやり方も調べてみてもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543294842.000100",
+            "thread_ts": "1543237665.009000",
+            "parent_user_id": "U4YM85G94"
+        },
+        {
+            "client_msg_id": "dafee324-941b-4684-a1e6-aaced138d42f",
+            "type": "message",
+            "text": "作業報告\n・実験用webアプリケーションの作成\n→入力欄にラベルの並びを入力すると、次に来ると予測されたラベルとそれに対応するソースコードを表示する",
+            "user": "U4YM85G94",
+            "ts": "1543237665.009000",
+            "thread_ts": "1543237665.009000",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1543294877.000300",
+            "reply_users": [
+                "U0JACJLRJ"
+            ],
+            "replies": [
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543294842.000100"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543294877.000300"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "99899abe-c8db-42c5-912e-083cc169c606",
+            "type": "message",
+            "text": "11\/26　作業報告\n・２音声間の類似度を算出するプログラムの改良\n→音声を任意の秒数で分割して保存してくれるプログラムを，参考サイトを元に作成しました．\nこのプログラムに，先日まで作っていた類似度を算出するプログラムをつなげようとしましたが，うまくいきませんでした．\n分割した音声ファイルを読み込む際に，１つ１つの音声データ（１次元配列）を２次元配列として格納しようとした際に，何かミスをしているようで，そこでエラーを吐いてしまっています．\nおそらくnumpy配列として読み込んだ音声データを２次元配列として格納する方法を間違えていると考えられるので，明日以降そこを調べて直していくつもりです．",
+            "user": "U12475CJC",
+            "ts": "1543232375.005400",
+            "edited": {
+                "user": "U12475CJC",
+                "ts": "1543233338.000000"
+            }
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FECTVLMDM",
+                    "created": 1543232199,
+                    "timestamp": 1543232199,
+                    "name": "実験結果v4.xlsx",
+                    "title": "実験結果v4.xlsx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "filetype": "xlsx",
+                    "pretty_type": "Excel スプレッドシート",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 112012,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FECTVLMDM\/____________v4.xlsx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FECTVLMDM\/download\/____________v4.xlsx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FECTVLMDM\/____________v4.xlsx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FECTVLMDM-6cbff8dce0"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1543232201.003300"
+        },
+        {
+            "client_msg_id": "645b4c13-3c81-40a7-8a2d-71332bf0de2a",
+            "type": "message",
+            "text": "作業報告\n実験結果の追加\n松岡さんと斎藤君の実験結果を追加したので、この前の結果ファイルを更新します",
+            "user": "U0JAEV08K",
+            "ts": "1543232194.003200"
+        },
+        {
+            "client_msg_id": "fc6ab9f5-14bc-46f5-832a-fa81519c3a96",
+            "type": "message",
+            "text": "2018\/11\/26　作業報告\n・クロスチェック\n・学士論文の執筆（先輩たちの論文を参考にしながら，1章を書いています．今後，実験等と並行しながら，論文を書くつもりです）",
+            "user": "U2808K7U2",
+            "ts": "1543223184.002100",
+            "edited": {
+                "user": "U2808K7U2",
+                "ts": "1543223286.000000"
+            }
+        },
+        {
+            "client_msg_id": "67f8ed11-dd40-49ce-866c-593bfd85feba",
+            "type": "message",
+            "text": "作業報告\n・２音声間の類似度を算出するプログラムの実装\n→時間がかかりすぎる問題を解決するために，音声ファイルをwav→mp3に変換するなどしましたが，やはり実行することができませんでした。\n一応音声を1\/10くらいにカットしたもの同士であれば実行はできました．同じ音声同士を比べた場合にも，しっかり類似度０．０（DTWによる同音声同士の類似度は０．０となるのが正しい）となったので\nうまく計算はできているようでした．\n一単語の音声全体で類似度を算出する場合，前処理として音声を何分割かに分割し，それぞれでDTWの計算を行い，最後に平均をとって類似度とする，という方法が妥当だと思うので，\nそのように実装を進めていくつもりです\n\n・DLした英単語音声の内容確認\n→確認した中で，使えそうなのは「TOEIC L&amp;R テスト基本単語帳」という教本に付属した音声群で，１ファイルに，１単語ごとに男性と女性それぞれの音声が収録されていました．\nそれが１フォルダ約９００個（９００単語），フォルダは全部で６個あったので，全部で約5400単語分の音声が利用可能という状況です．\nただ，それぞれの音声がどの単語なのかを示すINDEXのようなものは収録されていなかったため，全ファイルについてそれぞれのどの英単語なのかを確認する必要があるのがネックとなっています．\n元となった教本を買っていただけると，とても助かります．",
+            "user": "U12475CJC",
+            "ts": "1542972058.025800"
+        },
+        {
+            "client_msg_id": "b78f59ce-5b3d-4bdb-bcb5-e29834d316fd",
+            "type": "message",
+            "text": "作業報告\n・明日の学会発表スライドの調整\n→明日の学会発表用スライドの火曜日指摘された部分や自分が気になった部分を修正しました。\n一応マスターチャットの方に最終版として挙げておきます。",
+            "user": "UA0BWS0F8",
+            "ts": "1542893115.012300"
+        },
+        {
+            "client_msg_id": "e7ac4c59-a07f-4ef2-b5b4-b2e14b26f310",
+            "type": "message",
+            "text": "作業報告\n・2音声の類似度を算出するプログラムの実装\n→自分が持っている音声に適用させてみた所，データ長が大きくなりすぎるとプログラムが止まってしまうことがありました．\n処理としては片方の音声のある点から，もう片方の音声のある点への距離を算出するという物なので，\nあまりにも違う音声同士を比べていたために処理が重くなってしまっていたのかもしれません．\n明日新しく試してみます．\n\n・類似度算出機の性能評価用の音声の捜索\n→<http:\/\/www.kenkyusha.co.jp\/modules\/10_podcast02\/index.php?content_id=1>\n無料でDLできる音声ファイル群がまとまったサイト（上記URL）があったので，この中から使えそうなものを見つけたいと思います．",
+            "user": "U12475CJC",
+            "ts": "1542888372.010000",
+            "edited": {
+                "user": "U12475CJC",
+                "ts": "1542888551.000000"
+            }
+        },
+        {
+            "client_msg_id": "65d33068-5249-4f32-a8a9-a736cf681072",
+            "type": "message",
+            "text": "作業報告\n修士論文の関連研究の章をまとめました\nそれに加えて参考文献のナンバリングを整えました。\n次の工程として1章のDEIMとIEEJで別々になっているので合体する作業をやっています\n\n実験データのアップと追加\n先ほど話していたことからIEEJ「実験結果v3」をマスターチャットに置きました\nまたgithubにも置いたので参照してください\n<https:\/\/github.com\/kait-takanolab\/1785005_tsukiji_thesis\/blob\/master\/%E5%AE%9F%E9%A8%93%E7%B5%90%E6%9E%9Cv3.xlsx>\nデータの追加ですが、追加に結構時間がかかるため今週の土日までにはやっておきます(プラス2人ぐらい)",
+            "user": "U0JAEV08K",
+            "ts": "1542888055.006500",
+            "edited": {
+                "user": "U0JAEV08K",
+                "ts": "1542888104.000000"
+            }
+        },
+        {
+            "client_msg_id": "a5a6c13d-979c-4640-b59d-526ed107423b",
+            "type": "message",
+            "text": "2018\/11\/22 作業報告\n・ユーザデータの作成\n・スライド修正（加工処理の種類，加工処理判定の方法の追加，5ジャンルに分類した理由の説明を追加）",
+            "user": "U2808K7U2",
+            "ts": "1542874359.001900"
+        },
+        {
+            "client_msg_id": "ad01a474-6b3e-4bb1-a644-b3664872dd4c",
+            "type": "message",
+            "text": "作業報告\n• スライド修正\n• libclangの解読",
+            "user": "U4Y2B9X28",
+            "ts": "1542800541.029100"
+        },
+        {
+            "client_msg_id": "f4008e9d-843a-429d-bfc8-c5aa011ad022",
+            "type": "message",
+            "text": "作業報告\n・音声間の類似度算出用プログラムの作成\n<http:\/\/ksknw.hatenablog.com\/entry\/2017\/03\/26\/234048>\n<http:\/\/sinhrks.hatenablog.com\/entry\/2014\/11\/14\/232603>\n\n→上記の２つの記事を参考にプログラムを作成しはじめました．\n手法としては「動的時間伸縮法（DTW）」を用います．\nこの手法を用いると，波形が似通っていなくとも，2音声に時間的差がある場合でも，２音声間の類似度を算出可能であり、\n音声の類似度を算出する一般的な方法としてもよく用いられているそうです．",
+            "user": "U12475CJC",
+            "ts": "1542800278.027900",
+            "attachments": [
+                {
+                    "service_name": "やったことの説明",
+                    "title": "DTW (動的時間伸縮法)の実装 - やったことの説明",
+                    "title_link": "http:\/\/ksknw.hatenablog.com\/entry\/2017\/03\/26\/234048",
+                    "text": "概要 自分の勉強のために、Dynamic Time Warpingを実装した。 正弦波データでいろいろプロットした後、気温のデータに適用した。 たぶんバグってないと思う。 はじめに 時系列データの類似度(距離)を計算するとき、単純には例えば各時刻での二乗誤差の平均などを求めることを思いつくが、これは以下のようなデータに対して、直感に反する結果になる。 %matplotlib inline import numpy as np import pylab as plt import seaborn as sns T = 150 t = .4 A = np.sin(np.array(range(T)…",
+                    "fallback": "やったことの説明: DTW (動的時間伸縮法)の実装 - やったことの説明",
+                    "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/k\/ksknw\/20170326\/20170326233307.png",
+                    "ts": 1490539248,
+                    "from_url": "http:\/\/ksknw.hatenablog.com\/entry\/2017\/03\/26\/234048",
+                    "image_width": 359,
+                    "image_height": 250,
+                    "image_bytes": 86770,
+                    "service_icon": "https:\/\/cdn.image.st-hatena.com\/image\/favicon\/cbc53a70c4029baeb38f29584da59e02b2715b77\/version=1\/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fblog_custom_icon%2F93863801%2F1535615882466203",
+                    "id": 1,
+                    "original_url": "http:\/\/ksknw.hatenablog.com\/entry\/2017\/03\/26\/234048"
+                },
+                {
+                    "service_name": "StatsFragments",
+                    "title": "動的時間伸縮法 \/ DTW (Dynamic Time Warping) を可視化する - StatsFragments",
+                    "title_link": "http:\/\/sinhrks.hatenablog.com\/entry\/2014\/11\/14\/232603",
+                    "text": "いま手元に 20万件くらいの時系列があって、それらを適当にクラスタリングしたい。どうしたもんかなあ、と調べていたら {TSclust} というまさになパッケージがあることを知った。 このパッケージでは時系列の類似度を測るためのさまざまな手法 (=クラスタリングのための距離) を定義している。うちいくつかの手法を確認し、動的時間伸縮法 \/ DTW (Dynamic Time Warping) を試してみることにした。 DTWの概要 時系列相関 (CCF) の場合は 片方を 並行移動させているだけなので 2つの系列の周期が異なる場合は 相関はでにくい。 DTW では 2つの時系列の各点の距離を総当…",
+                    "fallback": "StatsFragments: 動的時間伸縮法 \/ DTW (Dynamic Time Warping) を可視化する - StatsFragments",
+                    "image_url": "http:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/s\/sinhrks\/20141114\/20141114224149.gif",
+                    "ts": 1415975163,
+                    "from_url": "http:\/\/sinhrks.hatenablog.com\/entry\/2014\/11\/14\/232603",
+                    "image_width": 375,
+                    "image_height": 250,
+                    "image_bytes": 7354361,
+                    "service_icon": "https:\/\/cdn.blog.st-hatena.com\/images\/favicon.ico",
+                    "id": 2,
+                    "original_url": "http:\/\/sinhrks.hatenablog.com\/entry\/2014\/11\/14\/232603"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "21d121f9-02a5-48c6-a61c-1cda10fd35c2",
+            "type": "message",
+            "text": "2018\/11\/21 作業報告\n・実験システムのテスト\n　- one-hotの2次配列にデータを加工して学習させた。→精度はいまいちでした\n・スライド追加\n　- 上の実験結果、考察の追加を行った。",
+            "user": "U4Y3V5NKX",
+            "ts": "1542797516.022500"
+        },
+        {
+            "client_msg_id": "e96f4885-7a0b-4c8b-b48f-4579714e8d34",
+            "type": "message",
+            "text": "11\/21 作業報告\n関連研究調べ\n残り一つのものを翻訳機にかけながら調べました。内容としてはブログ活動におけるインフルエンサーの指標を活動の時間的な部分と生産的な部分に着目して提案する内容でした。\n関係性が変化する点で似ているのでやや弱いかもしれませんが、絶対的な影響力を持つ人物だけでなく各個人ごとに変化する相対的な影響力を評価する点を新規性として定めたうえで実験で出るのかをためしていきます\n\n動画作成の小さい調整など\nいったん調整したものを作成しました。このまま何もなければ最終版とします(ナレーションとかもありますが）\n鷹野研究室のパートでのナレーションですが自分の部分の10秒のナレーションをとりあえず考えたのでここに書いておきます\n\n&gt; 学科紹介セリフ自身のパート(10秒)\n&gt; この研究ではオンライン上でのプログラミング講義での教師への支援活動を行っています\n&gt; In this research, we support activities for teachers at e-learning system.\n&gt; 私たちのシステムを用いることでプログラミング講義の指導をより効率的にする事を目指す\n&gt; We aim to make teaching of programming lecture more efficient by using our system\n&gt; 13秒ぐらい？",
+            "user": "U0JAEV08K",
+            "ts": "1542796653.020100"
+        },
+        {
+            "client_msg_id": "c65bcce2-4fbe-4721-8577-63a84d4a54bf",
+            "type": "message",
+            "text": "11\/20 作業報告\n・関連研究調べ\n院ゼミでも話しましたが、いくつか関連研究を調べました。\n残り二つは追って詳細を調べておきます\n調べたものは修論の参考文献として増やしていきます\n・院ゼミ\n話した内容として、\n関連研究と比較したときに自信の研究の新規制はどこあるのか\n→相対的に影響力のある人物を抽出及び評価する点にある\n有用性はどこか\n→その１：新たに増えた人物や他人物に対してのユーザ距離の推定\n→その２：その人物のインフルエンサーに情報を提供することで情報の伝播を円滑にする\nこれらを修論の最初の方に追記しておきます",
+            "user": "U0JAEV08K",
+            "ts": "1542707698.012000"
+        },
+        {
+            "client_msg_id": "91988623-67d4-4f8a-9a74-b636aa1828e5",
+            "type": "message",
+            "text": "作業報告\n・リス二ングにおいて聞き取れない音素の判定\/スピーキングで話せない音素を判定する研究\/ソフトの調査\n→<http:\/\/mintflag.com\/ai%E3%81%8C%E7%99%BA%E9%9F%B3%E3%82%92%E5%88%A4%E5%AE%9A%E3%81%99%E3%82%8B%E8%8B%B1%E8%AA%9E%E5%AD%A6%E7%BF%92%E3%82%A2%E3%83%97%E3%83%AA%E3%80%8Catoz%E3%80%8D%EF%BC%88%E7%84%A1%E6%96%99%EF%BC%89\/>\n\n<https:\/\/www.slideshare.net\/yishii_0207\/ss-32360106>\n\n↑発音できない箇所の音素レベルの特定はやはり多く行われていました．\n\nリスニングで聞き取れない音素を特定する研究／ソフトは今日調べた限りでは出てきませんでした．\n共起についても同様でした．",
+            "user": "U12475CJC",
+            "ts": "1542627476.005600",
+            "edited": {
+                "user": "U12475CJC",
+                "ts": "1542700637.000000"
+            },
+            "attachments": [
+                {
+                    "title": "英語学習者のための発話自動採点システムの開発.",
+                    "title_link": "https:\/\/www.slideshare.net\/yishii_0207\/ss-32360106",
+                    "text": "外国語教育メディア学会（LET）関西支部メソドロジー研究部会2013年度第三回研究会の発表資料です。 近藤悠介・石井雄隆. (2014). 英語学習者のための発話自動採点システムの開発. 外国語教育メディア学会（LET）関西支部メソドロジー研究部会2013年度第三回研究会.早稲田大学.",
+                    "fallback": "英語学習者のための発話自動採点システムの開発.",
+                    "thumb_url": "https:\/\/cdn.slidesharecdn.com\/ss_thumbnails\/methokenykondo2-140315233700-phpapp01-thumbnail-4.jpg?cb=1394926883",
+                    "from_url": "https:\/\/www.slideshare.net\/yishii_0207\/ss-32360106",
+                    "thumb_width": 768,
+                    "thumb_height": 432,
+                    "service_icon": "https:\/\/public.slidesharecdn.com\/favicon.ico?d8e2a4ed15",
+                    "service_name": "slideshare.net",
+                    "id": 1,
+                    "original_url": "https:\/\/www.slideshare.net\/yishii_0207\/ss-32360106"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE6S0EE8K",
+                    "created": 1542622184,
+                    "timestamp": 1542622184,
+                    "name": "イノベーションのナレ英訳v3.docx",
+                    "title": "イノベーションのナレ英訳v3.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 21298,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE6S0EE8K\/____________________________________v3.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE6S0EE8K\/download\/____________________________________v3.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FE6S0EE8K\/____________________________________v3.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE6S0EE8K-1a7ad1d60f"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1542622185.003400"
+        },
+        {
+            "client_msg_id": "355e4bad-880e-4886-b01e-850fb36af48c",
+            "type": "message",
+            "text": "11\/19 作業報告\n・関連研究の捜索(英語)\n影響力を持ったユーザ評価や抽出をしている研究をいくつか見つけたので明日以降に細かい内容を見ようと思います。\n・英語版のイノベーショングランプリの動画で入れるナレーションの翻訳\n柴本さんに頼んでいた英訳を見て更に手直ししたものを作成しました。\nできれば一度先生にチェックしてもらいたいので今度の院ゼミ等で見ていただけると幸いです。",
+            "user": "U0JAEV08K",
+            "ts": "1542622167.003300"
+        },
+        {
+            "client_msg_id": "fe754111-00d8-4953-9f28-ed8c0d1b75ee",
+            "type": "message",
+            "text": "作業報告\n・MATLABでLSTMを使った\n→ロジックは正しく生成されるようになったが、シード値を1文字しか入力できない(2文字以上入力すると正しく生成されなくなる)\n→<https:\/\/jp.mathworks.com\/help\/deeplearning\/examples\/generate-text-using-deep-learning.html>  <https:\/\/jp.mathworks.com\/help\/deeplearning\/examples\/word-by-word-text-generation-using-deep-learning.html>\n・Kaggleの記事を参考に試した\n→正しく動いた\n→まだサンプルを試しただけような状態なので、詳しく理解する必要がある\n→<https:\/\/www.kaggle.com\/shivamb\/beginners-guide-to-text-generation-using-lstms>",
+            "user": "U4YM85G94",
+            "ts": "1542365919.033300",
+            "attachments": [
+                {
+                    "title": "Generate Text Using Deep Learning - MATLAB &amp; Simulink - MathWorks 日本",
+                    "title_link": "https:\/\/jp.mathworks.com\/help\/deeplearning\/examples\/generate-text-using-deep-learning.html",
+                    "text": "This example shows how to train a deep learning long short-term memory (LSTM) network to generate text.",
+                    "fallback": "Generate Text Using Deep Learning - MATLAB &amp; Simulink - MathWorks 日本",
+                    "from_url": "https:\/\/jp.mathworks.com\/help\/deeplearning\/examples\/generate-text-using-deep-learning.html",
+                    "service_icon": "https:\/\/jp.mathworks.com\/favicon.ico",
+                    "service_name": "jp.mathworks.com",
+                    "id": 1,
+                    "original_url": "https:\/\/jp.mathworks.com\/help\/deeplearning\/examples\/generate-text-using-deep-learning.html"
+                },
+                {
+                    "title": "Word-By-Word Text Generation Using Deep Learning - MATLAB &amp; Simulink - MathWorks 日本",
+                    "title_link": "https:\/\/jp.mathworks.com\/help\/deeplearning\/examples\/word-by-word-text-generation-using-deep-learning.html",
+                    "text": "This example shows how to train a deep learning LSTM network to generate text word-by-word.",
+                    "fallback": "Word-By-Word Text Generation Using Deep Learning - MATLAB &amp; Simulink - MathWorks 日本",
+                    "from_url": "https:\/\/jp.mathworks.com\/help\/deeplearning\/examples\/word-by-word-text-generation-using-deep-learning.html",
+                    "service_icon": "https:\/\/jp.mathworks.com\/favicon.ico",
+                    "service_name": "jp.mathworks.com",
+                    "id": 2,
+                    "original_url": "https:\/\/jp.mathworks.com\/help\/deeplearning\/examples\/word-by-word-text-generation-using-deep-learning.html"
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE2HGP480",
+                    "created": 1542191435,
+                    "timestamp": 1542191435,
+                    "name": "SIG-KBS_fujita.pptx",
+                    "title": "SIG-KBS_fujita.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "UA0BWS0F8",
+                    "editable": false,
+                    "size": 746537,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE2HGP480\/sig-kbs_fujita.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE2HGP480\/download\/sig-kbs_fujita.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/UA0BWS0F8\/FE2HGP480\/sig-kbs_fujita.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE2HGP480-33cfefa8ab"
+                }
+            ],
+            "upload": true,
+            "user": "UA0BWS0F8",
+            "display_as_bot": false,
+            "ts": "1542191436.029800"
+        },
+        {
+            "client_msg_id": "605e11df-25f5-4390-89dc-37436e32acdf",
+            "type": "message",
+            "text": "作業報告\n・KBSの発表スライドの作成\n→コンテンツ推薦の手前まで(p.20)のスライドを作成\nコンテンツ推薦部分については明日追記及び図の修正をかける予定です。",
+            "user": "UA0BWS0F8",
+            "ts": "1542191420.029700"
+        },
+        {
+            "client_msg_id": "baf2d953-0228-479a-b826-6d731fcedebd",
+            "type": "message",
+            "text": "2018\/11\/13 作業報告\n・実験システムの考察\n　-BoWを辞め、kerasの例題のようにデータの加工をした（単語を数字に置き\n　換え配列にする）ところ、精度に向上が見られた。\n・スライドを編集\n　-行った実験のスライドを追加",
+            "user": "U4Y3V5NKX",
+            "ts": "1542114566.027600"
+        },
+        {
+            "client_msg_id": "eb461d5f-261a-4bc9-b6c9-2cfefce6e0ee",
+            "type": "message",
+            "text": "作業報告\n・院ゼミの参加\n藤田君の発表スライドは随時クロスチェックしたほうが良いと思った\n・動画作成\nいったん区切りをつけます\n完成したのでそれを見てプラスで意見を言っていただけば幸いです(先生方が集まれた時に相できればいいかなともいます。鈴木さんに相談しますが)",
+            "user": "U0JAEV08K",
+            "ts": "1542110999.024500"
+        },
+        {
+            "client_msg_id": "22F45B1D-DF3C-4B52-9C52-915E6EF6A4F4",
+            "type": "message",
+            "text": "作業報告\n・学科紹介ビデオに使う自分の研究紹介用コンテンツの作成\n・e-Learningシステム改修に向けた設計",
+            "user": "U12475CJC",
+            "ts": "1542029682.021800"
+        },
+        {
+            "client_msg_id": "9d835981-ce37-4287-a637-7e4126080c5b",
+            "type": "message",
+            "text": "作業報告\n・動画作成30秒の作成\n・出張所の作成\n・参加学会のまとめ作成",
+            "user": "U0JAEV08K",
+            "ts": "1542029601.020000"
+        },
+        {
+            "client_msg_id": "dd39c0a8-5a1b-4252-a51a-6c7a78bd1477",
+            "type": "message",
+            "text": "作業報告\n• Cソースコードの収集\n• インデントを削除するスクリプトを作成→Cソースコードに適応して明日学習させます。",
+            "user": "U4Y2B9X28",
+            "ts": "1542027953.018500"
+        },
+        {
+            "client_msg_id": "fa518915-f72a-4f1c-a0a4-3851710b63b3",
+            "type": "message",
+            "text": "この前の研究会を含めた参加学会一覧をまとめました\n国際の方が論文誌などの情報がよくわかんないです・・・・",
+            "user": "U0JAEV08K",
+            "ts": "1542015922.017700"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE2KDE9D4",
+                    "created": 1542015871,
+                    "timestamp": 1542015871,
+                    "name": "tsukiji_参加学会一覧.xlsx",
+                    "title": "tsukiji_参加学会一覧.xlsx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "filetype": "xlsx",
+                    "pretty_type": "Excel スプレッドシート",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 11568,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE2KDE9D4\/tsukiji___________________.xlsx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE2KDE9D4\/download\/tsukiji___________________.xlsx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FE2KDE9D4\/tsukiji___________________.xlsx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE2KDE9D4-adffa84dd7"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1542015872.016500"
+        },
+        {
+            "client_msg_id": "6f9bb211-5bf4-4b90-a75d-d75091899935",
+            "type": "message",
+            "text": "<@U0JACJLRJ> ページ番号は学会時に配布されたproceedingから引用しました．\nKohei kamimura, Kazuki Naganuma, Kosuke Takano, \"Development of an e-Coin System for managing user’s learning progress on different e-learning applications\", International Electronics Symposium on Knowledge Creation and Intelligent Computing (IES-KCIC), pp. 248-253, 2018",
+            "user": "U12475CJC",
+            "ts": "1542012656.016300"
+        },
+        {
+            "client_msg_id": "f4afff0f-1374-483d-8a78-7cad6a088df8",
+            "type": "message",
+            "text": "2018\/11\/12 作業報告\n・実験用データの収集\n　- ３つのラベルにおいてそれぞれ７，８，１０個の機能仕様文を集めた。\n・集めたデータを基に学習を行いmodelのテストをしたが、１つのラベルに固まってしまった。",
+            "user": "U4Y3V5NKX",
+            "ts": "1542011395.013300"
+        },
+        {
+            "client_msg_id": "A56D2DA1-723A-4347-96C3-307B3D65A947",
+            "type": "message",
+            "text": "Class -&gt; Lesson -&gt; Sentence and Audioの構造が良いように思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1541809875.010600"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE0J6MLJZ",
+                    "created": 1541809833,
+                    "timestamp": 1541809833,
+                    "name": "english-learning-system.pptx",
+                    "title": "File from iOS",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 168552,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE0J6MLJZ\/english-learning-system.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE0J6MLJZ\/download\/english-learning-system.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FE0J6MLJZ\/english-learning-system.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE0J6MLJZ-15b59018f3"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1541809835.009500"
+        },
+        {
+            "client_msg_id": "241E0D4C-6B2D-4CD1-A92C-7B2FC37D800C",
+            "type": "message",
+            "text": "<@U0JACJLRJ> おはようございます。\nありがとうございます。学科ブログに載せて頂いても構いません。",
+            "user": "U12475CJC",
+            "ts": "1541809242.009400"
+        },
+        {
+            "client_msg_id": "3B7A20C8-CC9B-480B-A352-7ACD868B6563",
+            "type": "message",
+            "text": "<@U12475CJC> UIB訪問の文章はとても良いと思います。学科ブログ記事にも掲載して良いでしょうか。",
+            "user": "U0JACJLRJ",
+            "ts": "1541809193.008500"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDZG3NMPE",
+                    "created": 1541758114,
+                    "timestamp": 1541758114,
+                    "name": "問題登録_デザイン.pptx",
+                    "title": "問題登録_デザイン.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 47035,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDZG3NMPE\/_________________________.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDZG3NMPE\/download\/_________________________.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FDZG3NMPE\/_________________________.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDZG3NMPE-a879810bb1"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1541758116.007100"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE0NMUT2B",
+                    "created": 1541758110,
+                    "timestamp": 1541758110,
+                    "name": "UIB訪問.docx",
+                    "title": "UIB訪問.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 15461,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE0NMUT2B\/uib______.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE0NMUT2B\/download\/uib______.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FE0NMUT2B\/uib______.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE0NMUT2B-d3573c81ee"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1541758111.006800"
+        },
+        {
+            "client_msg_id": "533df2a6-94e3-4643-be33-798f560e6da5",
+            "type": "message",
+            "text": "2018\/11\/9　作業報告\n・e-Listening システムのメンテナンスに向けて問題登録画面の設計\n・UIB訪問に関する資料の作成",
+            "user": "U12475CJC",
+            "ts": "1541758099.006700"
+        },
+        {
+            "client_msg_id": "e252c0d4-4f79-4ec6-946b-eb0f880d6f38",
+            "type": "message",
+            "text": "2018\/11\/9 作業報告\n- 電気学会の論文の英語化の下訳\n  -<https:\/\/github.com\/kait-takanolab\/1785009-kasai-thesis\/blob\/master\/%E9%9B%BB%E6%B0%97%E5%AD%A6%E4%BC%9A%E7%AC%AC75%E5%9B%9E%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%A0%94%E7%A9%B6%E4%BC%9A\/ieej_cis-kasai-english.doc>",
+            "user": "U0J8PMAQJ",
+            "ts": "1541755621.004600"
+        },
+        {
+            "client_msg_id": "569afbb0-13be-4271-91f2-529e0e8dc790",
+            "type": "message",
+            "text": "作業報告\n・研究会発表の練習とスライドの微修正\n上村君と笠井君に指摘してもらった点をフィードバックしながらスライドを微修正しました\n・動画作成\nエンディングと鷹野研究室のパートを作成しました。上村君の動画を入れる隙が微妙にないので再修正するかもしれませんがおいおいやります",
+            "user": "U0JAEV08K",
+            "ts": "1541502888.003700"
+        },
+        {
+            "client_msg_id": "4e4f2419-82be-4404-95c5-eb861737d062",
+            "type": "message",
+            "text": "2018\/11\/6　作業報告\n・先週のゼミでもらったアドバイスを元にスライドを追加・修正を行った\n　- 追加実験はまだ行えていないため早急に追加のデータ集めを行う",
+            "user": "U4Y3V5NKX",
+            "ts": "1541495665.001400"
+        },
+        {
+            "client_msg_id": "08e3f029-d71a-4edf-9bb2-76c834e4169d",
+            "type": "message",
+            "text": "2018\/11\/1 作業報告\n・文化祭準備\n　- 研究室の掃除、机の配置を行いました。\n　- 当日必要な足りなかった物を購入に行きました。（黒ビーズ３袋、お菓子）",
+            "user": "U4Y3V5NKX",
+            "ts": "1541080812.002000",
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U0JAEV08K",
+                        "U2808K7U2"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "cf0e281d-c501-43e6-85cb-ef5b50ae3aeb",
+            "type": "message",
+            "text": "2018\/10\/31 作業報告\n・スライドの修正\n　- ４ゼミでのアドバイスを元に修正を行います",
+            "user": "U4Y3V5NKX",
+            "ts": "1540984215.024000"
+        },
+        {
+            "client_msg_id": "ab3eab09-7cde-47f0-a75b-746e4536f59f",
+            "type": "message",
+            "text": "10\/31 作業報告\n・4ゼミの参加　柴本さんと久次君にはGithubでコメントを残しました\n・学科動画の会議\n来週は大学がお休みなので14日までに完成を目指して動画を作成します",
+            "user": "U0JAEV08K",
+            "ts": "1540983790.022800"
+        },
+        {
+            "client_msg_id": "88e2db49-a415-4d86-a877-2558ee425011",
+            "type": "message",
+            "text": "2018\/10\/31　作業報告\n・スライド修正（観光地推薦の例のスライドを修正）\n・観光地の学習用データのノイズ除去\n・3ゼミ\n・学科紹介動画に関する会議",
+            "user": "U2808K7U2",
+            "ts": "1540978849.020900",
+            "edited": {
+                "user": "U2808K7U2",
+                "ts": "1540978904.000000"
+            }
+        },
+        {
+            "client_msg_id": "31979D76-967A-4054-A1DC-9C914C2B33E5",
+            "type": "message",
+            "text": "2018\/10\/30 作業報告\n・スライド修正(ユーザデータ情報追加、カテゴリーの表記揺れ修正)\n・観光地データの再収集\n・院ゼミへの参加\n(1日の鎌倉のスケジュール説明等も築地先輩と藤田先輩としました)",
+            "user": "U2808K7U2",
+            "ts": "1540895902.019600"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDREXC474",
+                    "created": 1540895758,
+                    "timestamp": 1540895758,
+                    "name": "イノベーションのナレ英訳v2.docx",
+                    "title": "イノベーションのナレ英訳v2.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 20401,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDREXC474\/____________________________________v2.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDREXC474\/download\/____________________________________v2.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FDREXC474\/____________________________________v2.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDREXC474-f781b0f49f"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1540895760.017400"
+        },
+        {
+            "client_msg_id": "5fe043ae-78d8-4307-b5d7-4a6db48a2e17",
+            "type": "message",
+            "text": "10\/30 作業報告\n・イノベーショングランプリの英訳の見直し\n柴本さんに翻訳してもらった、イノベーショングランプリの見直し及び微修正を実験の手前まで行いました。\n一応、先生にも見てもらいたいです。\n字幕ぐらいは随時作ろうかと思います\n・PENSの子たちに研究紹介\n先生が前に言っていたので院ゼミの時間にPENSの子たちにポスターの研究紹介を行いました。\n研究紹介をしたのは僕と藤田君です。(笠井君は行方不明、4年は柴本さん以外帰宅ないしは行方不明)\n残りの時間で11月1日の鎌倉について俺と藤田君と柴本さんの3人でお寺とか神社とか江ノ島とか紹介(？)を話しました",
+            "user": "U0JAEV08K",
+            "ts": "1540895588.014400",
+            "edited": {
+                "user": "U0JAEV08K",
+                "ts": "1540895660.000000"
+            }
+        },
+        {
+            "client_msg_id": "3d6089fc-3f10-44a9-9c22-88abcb4bc60b",
+            "type": "message",
+            "text": "10\/29 作業報告\n・動画作成\n学科紹介の動画作成のプロトタイプとして試作しました\n入れるものが確定していないので暫定的に入れてシーンの速さを見ました\n\n・発表資料の調整と修論の図の作成\n金沢の発表資料で「発言」と「コメント」が混ざっていたので「発言」に統一しました\n実験データはgithubでのコメントとしているので実験の部分は「コメント」にしています\nこの前の院ゼミで言われていたユーザ間の距離を算出する説明ができる手順図を作成しました\n\n<https:\/\/github.com\/kait-takanolab\/1785005_tsukiji_thesis\/blob\/master\/%E7%AC%AC75%E5%9B%9E%E6%83%85%E5%A0%B1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%A0%94%E7%A9%B6%E4%BC%9A\/IEEJ_tsukiji_v5.pptx>\n<https:\/\/github.com\/kait-takanolab\/1785005_tsukiji_thesis\/blob\/master\/Master_thesis_tsukijiv5.docx>",
+            "user": "U0JAEV08K",
+            "ts": "1540813476.009000"
+        },
+        {
+            "client_msg_id": "95218955-c657-4c19-ba86-8f24f3e44241",
+            "type": "message",
+            "text": "2018\/10\/29 作業報告\n・ラベルの共起行列を作成\n→<https:\/\/github.com\/kait-takanolab\/1521082-shigeta-thesis\/blob\/master\/実験\/co-occur\/co-occurrence-matrix.ipynb>\n→共起関係から、ロジックを考慮した推薦候補の絞り込みができそうですが、この方法ではニューラルネットワークを使っていません",
+            "user": "U4YM85G94",
+            "ts": "1540798263.004100"
+        },
+        {
+            "client_msg_id": "c7bae241-da85-4706-b7a6-79ce1accc97f",
+            "type": "message",
+            "text": "2018\/10\/26 作業報告\n・データ数とエポック数を増やしたもので実験\n→うまくいかなかった(過剰に増やしても意味がなさそう)\n・ディープラーニングと自然言語処理の勉強",
+            "user": "U4YM85G94",
+            "ts": "1540554832.001400"
+        },
+        {
+            "client_msg_id": "44e2dc2c-e9ae-49ea-9765-b8fb3192566d",
+            "type": "message",
+            "text": "作業報告\n学科ビデオの打ち合わせ\n早速、イノベーショングランプリで使用したビデオを使い自分のパートを5秒から10秒程度で作成します\n明日に字幕なりなんなり入れて装飾します",
+            "user": "U0JAEV08K",
+            "ts": "1540384175.000100"
+        }
+    ],
+    "has_more": true,
+    "is_limited": false
+}

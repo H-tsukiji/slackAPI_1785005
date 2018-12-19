@@ -24,6 +24,10 @@ def Make_uservector(files,index):
     data_set = []
 
     for csvfile in files:
+        username = os.path.basename(csvfile)
+        username = re.sub("\.csv","",username)
+        print(username)
+
         f = codecs.open(csvfile,"r", "utf-8")
         csvdata = csv.reader(f)
 
@@ -79,7 +83,8 @@ def Cosine_similarity(csvfiles):
     cos_data = np.array(cosdata_set)
     cos_data = cos_data.astype(np.int)
     cos_result = cos_sim_matrix(cos_data)
-    print(cos_result)
+    # print(cos_result)
+    np.savetxt('cos_similarity.csv', cos_result, delimiter=',')
 
 def Leader_score(memberlist):
     # 各種データファイル読み込み
@@ -262,8 +267,8 @@ if __name__ == "__main__":
     Cosine_similarity(files)
 
     # リーダスコアの算出
-    Leader_score(memberlist)
+    # Leader_score(memberlist)
     
     #サポート性の算出
-    Support_score()
+    # Support_score()
 

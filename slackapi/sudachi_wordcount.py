@@ -12,7 +12,7 @@ tokenizer_obj = dictionary.Dictionary(settings).create()
 inputfilename = sys.argv[1]
 file = codecs.open(inputfilename, "r","utf-8")
 lines = file.readlines()
-filename = re.sub("\.[a-z]+","",inputfilename)
+filename = re.sub("\.txt+","",inputfilename)
 
 word_list = {}
 word_index = []
@@ -35,11 +35,10 @@ for line in lines:
                 word_list[result] = 1
             else:
                 word_list[result] += 1
-        elif (part_list[0] == '助動詞'):
-            print(result,part_list)
-            pass
+        # elif (part_list[0] == '助動詞'):
+        #     print(result,part_list)
+        #     pass
 
-'''
 try:
     with open(filename+'.csv', 'w', encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile, lineterminator='\n')
@@ -50,4 +49,3 @@ except FileNotFoundError as e:
     print(e)
 except csv.Error as e:
     print(e)
-'''

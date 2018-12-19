@@ -1,0 +1,1726 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "ecff064c-996c-41b5-b670-d97ff888d506",
+            "type": "message",
+            "text": "<@U4Y3V5NKX>\nソースコード検索エンジンやGithubでソースコード集めるのがええかも\n<https:\/\/searchcode.com\/>",
+            "user": "U0JAEV08K",
+            "ts": "1544069987.039400",
+            "attachments": [
+                {
+                    "title": "searchcode | source code search engine",
+                    "title_link": "https:\/\/searchcode.com\/",
+                    "text": "searchcode is a free source code and documentation search engine. API documentation, code snippets and open source (free sofware) repositories are indexed and searchable.",
+                    "fallback": "searchcode | source code search engine",
+                    "from_url": "https:\/\/searchcode.com\/",
+                    "service_icon": "https:\/\/searchcode.com\/static\/favicon.ico",
+                    "service_name": "searchcode.com",
+                    "id": 1,
+                    "original_url": "https:\/\/searchcode.com\/"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U4Y3V5NKX"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "df8fb868-783d-4900-9d0e-3c9be7d2b273",
+            "type": "message",
+            "text": "<@U0JACJLRJ> 羽賀君のアカウントをdolphinサーバの方に作成しました．まだ鍵の設定が必要なので，\n<@U4XUM59NX>君は，もし自分で作成できるならSSHキーを作成した上で，公開鍵の方を僕にくれれば設定しておきます．\n鍵の作り方がわからないなど理由があれば，次に研究室に来た時に一緒にやりましょう",
+            "user": "U12475CJC",
+            "ts": "1544001117.038500"
+        },
+        {
+            "client_msg_id": "C31DEF46-76E0-4D3F-9845-F870E3081BFE",
+            "type": "message",
+            "text": "芳賀君のシステムがログイン機能を実装して個々人のアカウントを管理できれば、現状の実装なら可能だと思います。\nコインを追加する部分に関数を足すだけなので",
+            "user": "U12475CJC",
+            "ts": "1543994335.035500",
+            "thread_ts": "1543992382.031100",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "8035c382-9839-4583-91ed-34e286036949",
+            "type": "message",
+            "text": "A Recommendation System of Source Code based on Programming Logic",
+            "user": "U0JACJLRJ",
+            "ts": "1543993268.033100",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543993298.000000"
+            }
+        },
+        {
+            "client_msg_id": "19a9887f-28e5-4b39-a0b3-5ab836ed5978",
+            "type": "message",
+            "text": "プログラミング・ロジックを考慮したソースコード推薦システムの検討",
+            "user": "U0JACJLRJ",
+            "ts": "1543993226.032200"
+        },
+        {
+            "client_msg_id": "805a9519-e6ca-4860-969b-bbbe94ac20cf",
+            "type": "message",
+            "text": "<@U0JACJLRJ>\n重田タイトル（スライドのそのまま）\nプログラミング・ロジックを考慮したソースコード推薦",
+            "user": "U4YM85G94",
+            "ts": "1543993198.031800"
+        },
+        {
+            "client_msg_id": "35b4f01c-5a39-4da7-b830-a3511e9f5712",
+            "type": "message",
+            "text": "<@U12475CJC> 羽賀君のe-Coinと繋げられないかな。3年生の課題にも良いかもしれませんね。",
+            "user": "U0JACJLRJ",
+            "ts": "1543992382.031100",
+            "thread_ts": "1543992382.031100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1543994335.035500",
+            "reply_users": [
+                "U12475CJC"
+            ],
+            "replies": [
+                {
+                    "user": "U12475CJC",
+                    "ts": "1543994335.035500"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "49e8815d-10b6-431f-82e8-c645f45e5c3b",
+            "type": "message",
+            "text": "<http:\/\/s1521042.html.xdomain.jp\/index5.html>",
+            "user": "U4XUM59NX",
+            "ts": "1543992310.030600"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEK0DUQ3S",
+                    "created": 1543987928,
+                    "timestamp": 1543987928,
+                    "name": "urano.pptx",
+                    "title": "urano.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 178380,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEK0DUQ3S\/urano.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEK0DUQ3S\/download\/urano.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FEK0DUQ3S\/urano.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEK0DUQ3S-f8fef64671"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1543987929.030000",
+            "reactions": [
+                {
+                    "name": "man-bowing",
+                    "users": [
+                        "U4Y2B9X28"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "c807f03a-2c71-4825-b62f-cebb4a09dde9",
+            "type": "message",
+            "text": "ありがたいアドバイス\n・卒論を12月後半に書き始めるとつらい\n・進捗はまとめて報告しない（こまめに、細かく）",
+            "user": "U4YM85G94",
+            "ts": "1543984720.029900"
+        },
+        {
+            "client_msg_id": "9144823c-edb2-4421-a15a-25a8d19ab9be",
+            "type": "message",
+            "text": "<https:\/\/colab.research.google.com\/notebooks\/welcome.ipynb>",
+            "user": "U0JACJLRJ",
+            "ts": "1543977967.028600",
+            "attachments": [
+                {
+                    "title": "Google Colaboratory",
+                    "title_link": "https:\/\/colab.research.google.com\/notebooks\/welcome.ipynb",
+                    "fallback": "Google Colaboratory",
+                    "image_url": "https:\/\/colab.research.google.com\/img\/colab_favicon_256px.png",
+                    "from_url": "https:\/\/colab.research.google.com\/notebooks\/welcome.ipynb",
+                    "image_width": 250,
+                    "image_height": 250,
+                    "image_bytes": 5500,
+                    "service_icon": "https:\/\/colab.research.google.com\/img\/favicon.ico?vrz=colab-20181203-085300-RC00_223803683",
+                    "service_name": "colab.research.google.com",
+                    "id": 1,
+                    "original_url": "https:\/\/colab.research.google.com\/notebooks\/welcome.ipynb"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "94a7634d-2e42-4fa5-ad89-9b431d396752",
+            "type": "message",
+            "text": "先頭のDESC、ENTYなどがラベルのようです。",
+            "user": "U0JACJLRJ",
+            "ts": "1543967746.028300",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543967748.000000"
+            }
+        },
+        {
+            "client_msg_id": "6bab5876-4777-487b-8962-c39641baa869",
+            "type": "message",
+            "text": "TRECデータのフォーマット例:\n```\nDESC:manner How did serfdom develop in and then leave Russia ?\nENTY:cremat What films featured the character Popeye Doyle ?\nDESC:manner How can I find a list of celebrities ' real names ?\nENTY:animal What fowl grabs the spotlight after the Chinese Year of the Monkey ?\n```",
+            "user": "U0JACJLRJ",
+            "ts": "1543967725.027600",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543967731.000000"
+            }
+        },
+        {
+            "client_msg_id": "1c62a114-13ac-4b30-91d1-2ea856a72fc5",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> Universal Sentence Encoderを使ったtransfer leaningの記事です。ソースコードも公開しているようです。TRECのデータを使用している箇所を、久次くんのデータに置き換えるとできるような気がします。",
+            "user": "U0JACJLRJ",
+            "ts": "1543966703.027100",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543967661.000000"
+            }
+        },
+        {
+            "client_msg_id": "94ad256f-00dd-43df-82b7-b7a2ddb4a111",
+            "type": "message",
+            "text": "<@U0JACJLRJ>分かりました。集めやすさに余り差はないと思います。ソフトウェア仕様書を読んだ際に、シナリオとして書かれているものであれば（1）のようなものが多く集まると思います。",
+            "user": "U4Y3V5NKX",
+            "ts": "1543966679.026400",
+            "thread_ts": "1543966025.025300",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "74841c8f-5f39-4c27-8df8-f317f0b02257",
+            "type": "message",
+            "text": "また、上記の(1)と(2)の分類について、いちおう仕様定義文に分類記号を振っておいてもらって良いですか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543966060.026000",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543966094.000000"
+            }
+        },
+        {
+            "client_msg_id": "57d8c77d-5a40-4ff4-88af-1e2084418aec",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> (1)ユーザの視点での仕様文（ユーザ操作仕様書のようなもの）と(2)システム処理の仕様文（やや機能仕様書よりのもの）が混在しているようですが、データ収集する際にどちらが集めやすいとかはありますか？あまり差はない？\n上で(ソースコードの説明ではなく、ユーザが利用する立場での機能説明)と書いたのは、(1)を意識していました",
+            "user": "U0JACJLRJ",
+            "ts": "1543966025.025300",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543966142.000000"
+            },
+            "thread_ts": "1543966025.025300",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1543966679.026400",
+            "reply_users": [
+                "U4Y3V5NKX"
+            ],
+            "replies": [
+                {
+                    "user": "U4Y3V5NKX",
+                    "ts": "1543966679.026400"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "a959c5da-042e-433e-a7d1-941d87e1dd51",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> 学習データは、仕様書定義でなくて良いので、該当する機能の文章(ソースコードの説明ではなく、ユーザが利用する立場での機能説明)を他からけっこう多めに集めることできますか。\n例えば、\nログイン機能: 100文\nプルダウン選択機能：100文\nテーブル表示機能：100文\n...など10カテゴリくらい",
+            "user": "U0JACJLRJ",
+            "ts": "1543965479.022500"
+        },
+        {
+            "client_msg_id": "a6a7bf8d-dfa3-4b2d-aa15-1209233938ce",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> あと、現在集めている仕様書定義の文章ですが、学習データとしては数が少ないのですが、テストデータとしてはとても良いデータだと思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1543965132.018500",
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U4Y3V5NKX"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b3f77a8f-70c7-4b19-bc27-13e60f5fc814",
+            "type": "message",
+            "text": "<@U0JACJLRJ>分かりました。調べて試してみます。",
+            "user": "U4Y3V5NKX",
+            "ts": "1543964388.016800",
+            "thread_ts": "1543964103.016600",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "67b960b3-26a9-4b02-86b8-d21f12104afb",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> 異なるラベルで単語が重複してしまうので、これがNGなのかわからないのですが、MATLABサンプルを試したいです。\n<https:\/\/www.mathworks.com\/help\/textanalytics\/ug\/train-a-sentiment-classifier.html>",
+            "user": "U0JACJLRJ",
+            "ts": "1543964103.016600",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543964307.000000"
+            },
+            "thread_ts": "1543964103.016600",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1543964388.016800",
+            "reply_users": [
+                "U4Y3V5NKX"
+            ],
+            "replies": [
+                {
+                    "user": "U4Y3V5NKX",
+                    "ts": "1543964388.016800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "582ed4c5-1e00-49f4-9dcb-212ad7fdc73c",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> ラベル付き(0とか1がラベル)で、単語に分解してもらえますか。\n```\nFor 0\nlogin 0\na 0\nuser 0\n...\nIf 0\nerror 0\nis 0\noccurred 0\n...\nUser 1\ncan 1\nview 1\n...\n```",
+            "user": "U0JACJLRJ",
+            "ts": "1543964023.015300",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543964030.000000"
+            }
+        },
+        {
+            "client_msg_id": "922cabda-0164-4bd3-8db6-a22f699257ed",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> ちょっと試して欲しいのですが、もし下記のような文章があったら、\n```\nFor login, a user needs to input user id and password : 0\nIf error is occurred, the corresponding messages are shown to a browser : 0\nUser can view a history of purchases : 1\n ```",
+            "user": "U0JACJLRJ",
+            "ts": "1543963926.013500"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEJHN2QTH",
+                    "created": 1543810537,
+                    "timestamp": 1543810537,
+                    "name": "shigeta-demo1.png",
+                    "title": "shigeta-demo1.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U4YM85G94",
+                    "editable": false,
+                    "size": 43866,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEJHN2QTH\/shigeta-demo1.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEJHN2QTH\/download\/shigeta-demo1.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEJHN2QTH-727804b528\/shigeta-demo1_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEJHN2QTH-727804b528\/shigeta-demo1_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEJHN2QTH-727804b528\/shigeta-demo1_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 357,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEJHN2QTH-727804b528\/shigeta-demo1_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 476,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEJHN2QTH-727804b528\/shigeta-demo1_160.png",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEJHN2QTH-727804b528\/shigeta-demo1_720.png",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 714,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEJHN2QTH-727804b528\/shigeta-demo1_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 793,
+                    "image_exif_rotation": 1,
+                    "original_w": 925,
+                    "original_h": 917,
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U4YM85G94\/FEJHN2QTH\/shigeta-demo1.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEJHN2QTH-a18750ae55"
+                }
+            ],
+            "upload": true,
+            "user": "U4YM85G94",
+            "display_as_bot": false,
+            "ts": "1543810540.010600",
+            "reactions": [
+                {
+                    "name": "slightly_smiling_face",
+                    "users": [
+                        "U0JACJLRJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "<@U0JACJLRJ> スクリーンショットです",
+            "files": [
+                {
+                    "id": "FEGTSTN7K",
+                    "created": 1543810533,
+                    "timestamp": 1543810533,
+                    "name": "shigeta-demo2.png",
+                    "title": "shigeta-demo2.png",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U4YM85G94",
+                    "editable": false,
+                    "size": 42331,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEGTSTN7K\/shigeta-demo2.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEGTSTN7K\/download\/shigeta-demo2.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEGTSTN7K-95f31b77f7\/shigeta-demo2_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEGTSTN7K-95f31b77f7\/shigeta-demo2_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEGTSTN7K-95f31b77f7\/shigeta-demo2_360.png",
+                    "thumb_360_w": 360,
+                    "thumb_360_h": 339,
+                    "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEGTSTN7K-95f31b77f7\/shigeta-demo2_480.png",
+                    "thumb_480_w": 480,
+                    "thumb_480_h": 452,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEGTSTN7K-95f31b77f7\/shigeta-demo2_160.png",
+                    "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEGTSTN7K-95f31b77f7\/shigeta-demo2_720.png",
+                    "thumb_720_w": 720,
+                    "thumb_720_h": 678,
+                    "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEGTSTN7K-95f31b77f7\/shigeta-demo2_800.png",
+                    "thumb_800_w": 800,
+                    "thumb_800_h": 753,
+                    "image_exif_rotation": 1,
+                    "original_w": 923,
+                    "original_h": 869,
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U4YM85G94\/FEGTSTN7K\/shigeta-demo2.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEGTSTN7K-ecab57c976"
+                }
+            ],
+            "upload": true,
+            "user": "U4YM85G94",
+            "display_as_bot": false,
+            "ts": "1543810536.010300",
+            "reactions": [
+                {
+                    "name": "slightly_smiling_face",
+                    "users": [
+                        "U0JACJLRJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "35a7700b-d130-4f74-9022-5a9ad6d52af4",
+            "type": "message",
+            "text": "（参考）下記の説明が具体的なのでリンクしておきます。\n<https:\/\/developers.google.com\/machine-learning\/guides\/text-classification\/step-2-5>",
+            "user": "U0JACJLRJ",
+            "ts": "1543793278.009800",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543793321.000000"
+            }
+        },
+        {
+            "client_msg_id": "b9f2d5be-217e-46b1-8af9-b9a60b3f3c0d",
+            "type": "message",
+            "text": "分かりました。",
+            "user": "U4Y3V5NKX",
+            "ts": "1543789240.009400",
+            "thread_ts": "1543780751.001800",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "fc32aedb-65cf-436e-a648-1c1eb0f818f6",
+            "type": "message",
+            "text": "下記の点再検討してしみましょう。\n(1)データ数が少ないときは、転移学習を試みる必要があります。特に<@U4Y3V5NKX> くんはWord2Vecの適用について再度チャレンジして欲しい\n(2)ソースコードのコメントとそのソースコード片を大量に集める方法ないでしょうか。&gt; <@U4YM85G94>\n(3)(i)編集中エディタの画像スクリーンショット、(ii)中間コード(<@U4Y2B9X28>くんが今着目しているもの)、(iii)ソースコード(<@U4Y2B9X28>くんが先日まで着目していたもの)の3段階ディープラーニングフィルタを適用する方式を検討してみてください。",
+            "user": "U0JACJLRJ",
+            "ts": "1543781253.009100",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y2B9X28"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9941a07b-77dd-4e73-bc86-c05578e6cf71",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> <@U4Y2B9X28> <@U4YM85G94> 現在の学習用データの件数を確認してもらえますか。ディープラーニングは、学習データ数が多いときに、パターン認識精度が向上します。学習データ数が少ないときは、思ったよりも認識精度はでないと思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1543780921.004500",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y3V5NKX",
+                        "U4YM85G94",
+                        "U4Y2B9X28"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "3301d6bb-319e-4028-ac6b-ab89595b7ade",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> ありがとう。お金(4113円)を渡すので、そのときにレシート類を下さい。また万一のため、レシート類のコピーを取っておいてもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543780751.001800",
+            "thread_ts": "1543780751.001800",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1543789240.009400",
+            "reply_users": [
+                "U4Y3V5NKX"
+            ],
+            "replies": [
+                {
+                    "user": "U4Y3V5NKX",
+                    "ts": "1543789240.009400"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y3V5NKX"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "文化祭の領収をまとめました。",
+            "files": [
+                {
+                    "id": "FEE4913LG",
+                    "created": 1543469488,
+                    "timestamp": 1543469488,
+                    "name": "2018文化祭領収.pdf",
+                    "title": "2018文化祭領収.pdf",
+                    "mimetype": "application\/pdf",
+                    "filetype": "pdf",
+                    "pretty_type": "PDF",
+                    "user": "U4Y3V5NKX",
+                    "editable": false,
+                    "size": 54624,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEE4913LG\/2018_______________.pdf",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEE4913LG\/download\/2018_______________.pdf",
+                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FEE4913LG-3897406ecb\/2018________________thumb_pdf.png",
+                    "thumb_pdf_w": 910,
+                    "thumb_pdf_h": 1286,
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U4Y3V5NKX\/FEE4913LG\/2018_______________.pdf",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEE4913LG-db0fbdb7e4"
+                }
+            ],
+            "upload": true,
+            "user": "U4Y3V5NKX",
+            "display_as_bot": false,
+            "ts": "1543469490.005400"
+        },
+        {
+            "client_msg_id": "120452da-4c90-4523-ad30-a6a9859363a8",
+            "type": "message",
+            "text": "日付を入れてみました。",
+            "user": "U0JACJLRJ",
+            "ts": "1543393573.005000",
+            "reactions": [
+                {
+                    "name": "kodakku4",
+                    "users": [
+                        "U12475CJC"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "pray",
+                    "users": [
+                        "U0JAEV08K",
+                        "U4Y3V5NKX",
+                        "U2808K7U2"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEDNY05M1",
+                    "created": 1543393563,
+                    "timestamp": 1543393563,
+                    "name": "graduation_thesis_template_h30.docx",
+                    "title": "graduation_thesis_template_h30.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 34796,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEDNY05M1\/graduation_thesis_template_h30.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEDNY05M1\/download\/graduation_thesis_template_h30.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FEDNY05M1\/graduation_thesis_template_h30.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEDNY05M1-5f6ca77c95"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1543393565.004600"
+        },
+        {
+            "client_msg_id": "7f225b94-ca73-4544-94fb-07390083936f",
+            "type": "message",
+            "text": "<https:\/\/japan.cnet.com\/article\/35128031\/>",
+            "user": "U0J8PMAQJ",
+            "ts": "1543387354.004200",
+            "attachments": [
+                {
+                    "service_name": "CNET Japan",
+                    "title": "Flickr、無料版の容量を1TBから1000点までに縮小へ--機能改善も",
+                    "title_link": "https:\/\/japan.cnet.com\/article\/35128031\/",
+                    "text": "写真共有サービスの「Flickr」を買収したSmugMugが、Flickrを熱心な写真愛好家向けのコミュニティーとして強化しようとしている。",
+                    "fallback": "CNET Japan: Flickr、無料版の容量を1TBから1000点までに縮小へ--機能改善も",
+                    "image_url": "https:\/\/japan.cnet.com\/storage\/2018\/11\/02\/353e0a0824effd130e4ee26305df18a1\/t\/640\/480\/d\/large-86567.jpg",
+                    "ts": 1541135640,
+                    "from_url": "https:\/\/japan.cnet.com\/article\/35128031\/",
+                    "image_width": 333,
+                    "image_height": 250,
+                    "image_bytes": 276356,
+                    "service_icon": "https:\/\/japan.cnet.com\/static\/img\/apple-touch-icon-57x57.png",
+                    "id": 1,
+                    "original_url": "https:\/\/japan.cnet.com\/article\/35128031\/"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "woman-bowing",
+                    "users": [
+                        "U2808K7U2"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2a5a7a53-6146-400f-b808-ad0b0b37ddda",
+            "type": "message",
+            "text": "<@U0JACJLRJ> 私だけkBook上で卒業研究の項目が閲覧できません．私だけkbook上では16生扱いなので閲覧権限をいただけるとありがたいです．",
+            "user": "U2808K7U2",
+            "ts": "1543381384.003900",
+            "edited": {
+                "user": "U2808K7U2",
+                "ts": "1543387671.000000"
+            }
+        },
+        {
+            "client_msg_id": "c571ebba-784a-4731-91e7-08a5953f423b",
+            "type": "message",
+            "text": "12\/5に卒研初版を提出するので4年生の子たちは、まずはセミナーのスライドの内容を張っていく感じで作成してください",
+            "user": "U0JAEV08K",
+            "ts": "1543381137.001900",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y2B9X28",
+                        "U2808K7U2"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "1fcc93e1-e565-4b81-98ca-114245de9a12",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> <@U4Y2B9X28>\n先週の水曜日に卒論のテンプレをダウンロードして，そのまま使っている人　へ\n\n(既にご存知かもしれませんが)表紙の指導教官の部分を「准教授」→「教授」に変更するようにしてください\nもしくは，築地先輩が修正してくれたものがknowledgeリポジトリにあるのでクローンし直してください",
+            "user": "U2808K7U2",
+            "ts": "1543211110.004800",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y3V5NKX",
+                        "U4Y2B9X28",
+                        "U4YM85G94"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "07fb070c-5c34-4bca-93ca-fea84aef040c",
+            "type": "message",
+            "text": "今日・明日は，クロスチェック日ですよー．皆，忘れないうちにやってねー",
+            "user": "U2808K7U2",
+            "ts": "1543210897.001900",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4YM85G94"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6e71a014-2453-409d-8862-d4c1bab88b20",
+            "type": "message",
+            "text": "Word2vecの英単語レベルでの学習\/分類済みモデルがダウンロード可能なリポジトリを見つけたので置いときます",
+            "user": "U12475CJC",
+            "ts": "1542786400.006600",
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U4Y3V5NKX"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "e3339855-7baf-4037-85aa-0b9fee8af9ad",
+            "type": "message",
+            "text": "<https:\/\/github.com\/3Top\/word2vec-api>",
+            "user": "U12475CJC",
+            "ts": "1542786317.005500",
+            "attachments": [
+                {
+                    "service_name": "GitHub",
+                    "title": "3Top\/word2vec-api",
+                    "title_link": "https:\/\/github.com\/3Top\/word2vec-api",
+                    "text": "Simple web service providing a word embedding model - 3Top\/word2vec-api",
+                    "fallback": "GitHub: 3Top\/word2vec-api",
+                    "from_url": "https:\/\/github.com\/3Top\/word2vec-api",
+                    "thumb_url": "https:\/\/avatars2.githubusercontent.com\/u\/3875618?s=400&v=4",
+                    "thumb_width": 250,
+                    "thumb_height": 250,
+                    "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                    "id": 1,
+                    "original_url": "https:\/\/github.com\/3Top\/word2vec-api"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "1db4992d-47a0-471b-a5d1-54b6d9eb1d31",
+            "type": "message",
+            "text": "<@U4Y3V5NKX>\n<https:\/\/qiita.com\/hiroto0227\/items\/680b772079cf2eba59d9>",
+            "user": "U0JACJLRJ",
+            "ts": "1542786056.005100",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1542786073.000000"
+            },
+            "attachments": [
+                {
+                    "service_name": "Qiita",
+                    "title": "kerasでword2vecを転移学習し、分類モデルの構築 - Qiita",
+                    "title_link": "https:\/\/qiita.com\/hiroto0227\/items\/680b772079cf2eba59d9",
+                    "text": "#目標 教師なしデータを使い、word2vecを学習させ、それをEmbedding層としてテキスト分類問題に応用する。 #知識 ## word2vec 単語をベクトル化する。今回はpythonライブラリであるgensimを使用して、...",
+                    "fallback": "Qiita: kerasでword2vecを転移学習し、分類モデルの構築 - Qiita",
+                    "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                    "from_url": "https:\/\/qiita.com\/hiroto0227\/items\/680b772079cf2eba59d9",
+                    "thumb_width": 200,
+                    "thumb_height": 200,
+                    "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                    "id": 1,
+                    "original_url": "https:\/\/qiita.com\/hiroto0227\/items\/680b772079cf2eba59d9"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "3ced9e3a-65f2-4025-ac65-e61beeef78bb",
+            "type": "message",
+            "text": "<@U4XUM59NX> JSiSEのURLです。\n<http:\/\/www.jsise.org\/society\/committee\/2018\/CFP_5th.html>",
+            "user": "UA0BWS0F8",
+            "ts": "1542781505.004800",
+            "attachments": [
+                {
+                    "title": "教育システム情報学会",
+                    "title_link": "http:\/\/www.jsise.org\/society\/committee\/2018\/CFP_5th.html",
+                    "text": "教育システム情報学会(Japanese Society for Information and Systems in Education)は教育分野におけるコンピュータ利用等に関する学術研究・調査および情報交換を行い，コンピュータの調査・研究を援助し普及することを目的に昭和49年8月に設立されました．本学会は日本学術会議の学術研究団体に登録されています．",
+                    "fallback": "教育システム情報学会",
+                    "from_url": "http:\/\/www.jsise.org\/society\/committee\/2018\/CFP_5th.html",
+                    "service_name": "jsise.org",
+                    "id": 1,
+                    "original_url": "http:\/\/www.jsise.org\/society\/committee\/2018\/CFP_5th.html"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "12e9b5a5-7995-49d3-90b3-792c5e66cb3a",
+            "type": "message",
+            "text": "■発表申込締切：\n2018年11月26日(月)\n■発表原稿提出締切：\n2018年12月11日(火)",
+            "user": "U0JACJLRJ",
+            "ts": "1542781468.004300"
+        },
+        {
+            "client_msg_id": "5647700f-426e-406c-a208-dfc8d303b9cf",
+            "type": "message",
+            "text": "Jsiseのテンプレートファイルです。",
+            "user": "U0JACJLRJ",
+            "ts": "1542781425.003700"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE8M7U8AG",
+                    "created": 1542781404,
+                    "timestamp": 1542781404,
+                    "name": "sample.docx",
+                    "title": "sample.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 331058,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE8M7U8AG\/sample.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE8M7U8AG\/download\/sample.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FE8M7U8AG\/sample.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE8M7U8AG-e3a6d1c590"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1542781406.003100"
+        },
+        {
+            "client_msg_id": "d9d0f8ce-94be-49ae-bf77-aa45428761b6",
+            "type": "message",
+            "text": "クロスチェックの習慣をつけて欲しい",
+            "user": "U0JACJLRJ",
+            "ts": "1542775950.002900"
+        },
+        {
+            "client_msg_id": "8af905cd-9b56-420d-865d-15b75fba75bd",
+            "type": "message",
+            "text": "卒論フォーマットふぁいる：githubのknowledgeに掲載\n<https:\/\/github.com\/kait-takanolab\/knowledge\/blob\/master\/graduation_thesis_template.docx>\n卒論初版:12\/5(水)に回収",
+            "user": "U0JACJLRJ",
+            "ts": "1542775935.002500",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1542776392.000000"
+            }
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE8R0T90A",
+                    "created": 1542775652,
+                    "timestamp": 1542775652,
+                    "name": "1421172-kamimura-thesis.docx",
+                    "title": "1421172-kamimura-thesis.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 2022451,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE8R0T90A\/1421172-kamimura-thesis.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE8R0T90A\/download\/1421172-kamimura-thesis.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FE8R0T90A\/1421172-kamimura-thesis.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE8R0T90A-c3837fb771"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1542775654.001600"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE9SHHB8X",
+                    "created": 1542775631,
+                    "timestamp": 1542775631,
+                    "name": "1421172-kamimura-thesis.pptx",
+                    "title": "1421172-kamimura-thesis.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 793253,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE9SHHB8X\/1421172-kamimura-thesis.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE9SHHB8X\/download\/1421172-kamimura-thesis.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FE9SHHB8X\/1421172-kamimura-thesis.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE9SHHB8X-95095c0244"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1542775632.001300"
+        },
+        {
+            "client_msg_id": "aa3c95bb-0d0d-4cab-931d-ecc71375084b",
+            "type": "message",
+            "text": "明日4限のICT1年生セミナーで、LINEトレーサー制作の続きをやります。ヘルプしてくれる4年生はいませんか。",
+            "user": "U0JACJLRJ",
+            "ts": "1542771143.001200"
+        },
+        {
+            "client_msg_id": "c2433ea2-e19c-4773-be21-5fd59a8d08bf",
+            "type": "message",
+            "text": "実験で使っているデータです\n<https:\/\/github.com\/kait-takanolab\/1521039-urano-thesis\/blob\/master\/data\/fill-in-the-blank\/question01-shuffled.tsv>",
+            "user": "U4Y2B9X28",
+            "ts": "1542173491.013300"
+        },
+        {
+            "client_msg_id": "aaa092ba-4801-4195-bd10-ccc6625a7af9",
+            "type": "message",
+            "text": "関連研究の調査数を増やすこと（CiNiiなど）",
+            "user": "U0JACJLRJ",
+            "ts": "1542169677.012900",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1542169686.000000"
+            }
+        },
+        {
+            "client_msg_id": "3a13a222-f38b-4a1c-a04b-108e78b724e4",
+            "type": "message",
+            "text": "<!channel> 4年生と院生は明日の10:20から卒業アルバムの撮影があるので必ず来てください。",
+            "user": "U0JAEV08K",
+            "ts": "1542083041.011900",
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U4Y3V5NKX",
+                        "UA0BWS0F8",
+                        "U2808K7U2"
+                    ],
+                    "count": 3
+                },
+                {
+                    "name": "grinning",
+                    "users": [
+                        "U0JACJLRJ",
+                        "U12475CJC"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "U12475CJC"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d391eca0-8770-48cd-b6ca-bc39faf5d9f6",
+            "type": "message",
+            "text": "<!channel> 明日は補講日ですが、４ゼミは行われます。参加お願いします。",
+            "user": "U4Y3V5NKX",
+            "ts": "1541471894.009300",
+            "reactions": [
+                {
+                    "name": "woman-gesturing-ok",
+                    "users": [
+                        "U0JAEV08K",
+                        "U12475CJC",
+                        "U4Y2B9X28",
+                        "U4XUM59NX",
+                        "U4YM85G94"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "40fa2e8f-51c9-4f3b-8a39-b691de67af94",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> にも聞かれたんだけど行方不明\n白いケースの中に入ってるのかと思ったけど無いらしい",
+            "user": "U4Y2B9X28",
+            "ts": "1541328169.008200",
+            "thread_ts": "1541328113.008000",
+            "parent_user_id": "U2808K7U2"
+        },
+        {
+            "client_msg_id": "BD7EFE31-EF52-4E49-844E-11268BF307D4",
+            "type": "message",
+            "text": "<@U4Y2B9X28> \n発注ミスした黒いビーズ、どこに置いたか覚えてる？",
+            "user": "U2808K7U2",
+            "ts": "1541328113.008000",
+            "thread_ts": "1541328113.008000",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1541328169.008200",
+            "reply_users": [
+                "U4Y2B9X28"
+            ],
+            "replies": [
+                {
+                    "user": "U4Y2B9X28",
+                    "ts": "1541328169.008200"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "955f46f5-6ced-4a3c-b23d-c262015f3587",
+            "type": "message",
+            "text": "返送料として元払いで600円かかるそうなので予算に入れておいてください",
+            "user": "U0J8PMAQJ",
+            "ts": "1541303038.006900"
+        },
+        {
+            "client_msg_id": "5b25909b-33a1-417b-ac90-a199a02b6c9b",
+            "type": "message",
+            "text": "今日明日中に返品処理をお願いします :pray:",
+            "user": "U0J8PMAQJ",
+            "ts": "1541302066.006400"
+        },
+        {
+            "client_msg_id": "62464c07-f258-4ba9-b7af-b0030cf8d887",
+            "type": "message",
+            "text": "<!channel>\nTo: 4年生\n発注ミスしたアイロンビーズの返品処理を誰かやってほしいです\n返送手順と返送先ラベル・返品受付IDは僕の机の上に置いておくので誰かお願いします\n期限は11月25日です",
+            "user": "U0J8PMAQJ",
+            "ts": "1541301978.005600",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y2B9X28",
+                        "U4Y3V5NKX"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "893793B1-3D76-41B1-A74A-9BCB7F4217D2",
+            "type": "message",
+            "text": "アイロンビーズの白(2袋)・肌色・青・水色を調達しました。\n約1000円くらいです",
+            "user": "U2808K7U2",
+            "ts": "1541242528.003300",
+            "edited": {
+                "user": "U2808K7U2",
+                "ts": "1541242545.000000"
+            },
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U4Y2B9X28",
+                        "U0JAEV08K"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9FD01101-66CB-4045-98A2-01F38E0AAC1F",
+            "type": "message",
+            "text": "現在帰宅中の為、研究室には10時半頃には行けるようにします。",
+            "user": "U12475CJC",
+            "ts": "1541204286.001100"
+        },
+        {
+            "client_msg_id": "47F4C18D-D2C3-480B-A816-83DA59CC6BEC",
+            "type": "message",
+            "text": "おっけー。\n\n多分、外に何かしら貼っといた方が良いと思うので、適当に作っておきまーす",
+            "user": "U2808K7U2",
+            "ts": "1541141446.007500",
+            "thread_ts": "1541138426.006200",
+            "parent_user_id": "U2808K7U2",
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U4Y3V5NKX"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "93909b5e-078a-4a51-86c5-dbf4c97e7d4e",
+            "type": "message",
+            "text": "作ってないです。",
+            "user": "U4Y3V5NKX",
+            "ts": "1541138497.006500",
+            "thread_ts": "1541138426.006200",
+            "parent_user_id": "U2808K7U2"
+        },
+        {
+            "client_msg_id": "43BCE542-F274-4C5B-BD64-211C6B1B3501",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> \nごめん、確認なんだけどさ、昨日の準備の段階で、\n「鷹野研究室はコチラ」\nみたいな貼り紙した？もしくは、当日する予定ある？\nてか、作った？\n(作ってないなら、作ってないで大丈夫なので、なる早で返信おなしゃす)",
+            "user": "U2808K7U2",
+            "ts": "1541138426.006200",
+            "edited": {
+                "user": "U2808K7U2",
+                "ts": "1541138475.000000"
+            },
+            "thread_ts": "1541138426.006200",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1541141446.007500",
+            "reply_users": [
+                "U4Y3V5NKX",
+                "U2808K7U2"
+            ],
+            "replies": [
+                {
+                    "user": "U4Y3V5NKX",
+                    "ts": "1541138497.006500"
+                },
+                {
+                    "user": "U2808K7U2",
+                    "ts": "1541141446.007500"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "1FDBC8A2-CFC1-428C-B8A6-E54D8A86D05E",
+            "type": "message",
+            "text": "<!channel> \n明日・明後日に関してですが\n9:30 研究室集合\nでお願いします。\n\n2日間、よろしくお願いしますm(_ _)m",
+            "user": "U2808K7U2",
+            "ts": "1541136738.004400",
+            "reactions": [
+                {
+                    "name": "woman-gesturing-ok",
+                    "users": [
+                        "U0JAEV08K",
+                        "U4Y3V5NKX"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "97d2831b-04cc-4cbd-9f0d-56dcca971fce",
+            "type": "message",
+            "text": "<@U0JACJLRJ>本日、研究室の掃除と配置を行いました。\n買い出しとして、お菓子と黒のビーズを買いました。値段:1779円になりました。",
+            "user": "U4Y3V5NKX",
+            "ts": "1541059791.002600",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U2808K7U2"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "248fe6bc-cba8-4e23-9672-117aa2a5861f",
+            "type": "message",
+            "text": "申し訳ないですが、扁桃炎と熱で行けそうにないです",
+            "user": "U4YM85G94",
+            "ts": "1541036077.000300",
+            "thread_ts": "1540988287.016200",
+            "parent_user_id": "U4Y3V5NKX",
+            "reactions": [
+                {
+                    "name": "odaijini",
+                    "users": [
+                        "U4Y3V5NKX"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "ee533574-24fe-48e8-af57-2b7dcc44b5ce",
+            "type": "message",
+            "text": "すみません、ありがとうございます\n改めて気をつけます",
+            "user": "U4YM85G94",
+            "ts": "1541036033.000100",
+            "thread_ts": "1540962502.012000",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "5d17332e-8e2b-4f32-81b1-521a623d6620",
+            "type": "message",
+            "text": "ありがとうございます",
+            "user": "U4Y3V5NKX",
+            "ts": "1541029733.000100",
+            "thread_ts": "1541028758.001900",
+            "parent_user_id": "U2808K7U2"
+        },
+        {
+            "client_msg_id": "EAC277CC-E82B-4A0A-A551-582DE0FB6A0A",
+            "type": "message",
+            "text": "<@U4Y3V5NKX> \nおはようございます。\nNaiさんが、鷹野先生から借りていたアイロンを持ってきてくれました。\n共同机(?)に置いておくので、使ってみてー",
+            "user": "U2808K7U2",
+            "ts": "1541028758.001900",
+            "thread_ts": "1541028758.001900",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1541029733.000100",
+            "reply_users": [
+                "U4Y3V5NKX"
+            ],
+            "replies": [
+                {
+                    "user": "U4Y3V5NKX",
+                    "ts": "1541029733.000100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "94be3ebd-62ad-4b5a-8536-85d39ad19f43",
+            "type": "message",
+            "text": "<!channel> 明日は１３時から文化祭の準備を行おうと考えています。参加できる方よろしくお願いします。\n行うことは\n・研究室掃除\n・買い出し\n・配置決め\n・アイロンの練習\nになります。４年生で参加できない方は何かしらの反応ください。",
+            "user": "U4Y3V5NKX",
+            "ts": "1540988287.016200",
+            "thread_ts": "1540988287.016200",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1541036077.000300",
+            "reply_users": [
+                "U4YM85G94"
+            ],
+            "replies": [
+                {
+                    "user": "U4YM85G94",
+                    "ts": "1541036077.000300"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y2B9X28",
+                        "U4XUM59NX"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "woman-gesturing-no",
+                    "users": [
+                        "U2808K7U2"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "23e63bcc-3b47-4324-8555-05b6f5958369",
+            "type": "message",
+            "text": "<!channel>\n4ゼミ欠席している人は必ずabsenceなどで報告する事\n先週に続いて休んでいる人は2週間分卒論完成がずれている事を理解したうえで埋め合わせをしてください\n明日から11月です。卒論執筆も始まる時期でもあるのでそこの自覚をもって行動してください",
+            "user": "U0JAEV08K",
+            "ts": "1540962502.012000",
+            "thread_ts": "1540962502.012000",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1541036033.000100",
+            "reply_users": [
+                "U4YM85G94"
+            ],
+            "replies": [
+                {
+                    "user": "U4YM85G94",
+                    "ts": "1541036033.000100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "988893d6-0b7e-4485-ad3e-ad336b3b10aa",
+            "type": "message",
+            "text": "本日15時から奨学金の返納説明あるため4ゼミ途中で抜けます。",
+            "user": "U4Y3V5NKX",
+            "ts": "1540948378.007800"
+        },
+        {
+            "client_msg_id": "520cd261-88c0-47f7-bdb0-fb4c69aca312",
+            "type": "message",
+            "text": "分かりました。他の4年生と話してみます。",
+            "user": "U4Y3V5NKX",
+            "ts": "1540550736.005800",
+            "thread_ts": "1540549919.003700",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "9bbc80a7-a154-4f08-b93f-e7c9b61024a2",
+            "type": "message",
+            "text": "俺と柴本さんとPENSの子たちいない居ないけど、4年生の子たちだけでできるなら構わないよ",
+            "user": "U0JAEV08K",
+            "ts": "1540550279.005600",
+            "thread_ts": "1540549919.003700",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "8e7a6132-3ce1-454f-89a1-009ac26040a2",
+            "type": "message",
+            "text": "1日だと4年生全員参加できそうなので、行おうかと考えてました。掃除もPENSの方も一緒の方がいいですかね？",
+            "user": "U4Y3V5NKX",
+            "ts": "1540550221.005400",
+            "thread_ts": "1540549919.003700",
+            "parent_user_id": "U0JAEV08K"
+        },
+        {
+            "client_msg_id": "c2ba145f-e40c-4876-beb9-407665462179",
+            "type": "message",
+            "text": "<!channel>\n11月14日(水)の10:20～11:00に卒業アルバムの撮影をするので、4年生と院生は必ず来てください",
+            "user": "U0JAEV08K",
+            "ts": "1540550022.005300",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y3V5NKX",
+                        "U2808K7U2",
+                        "U4XUM59NX"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "4d5105a0-eaa3-416d-a9e1-6de86583d7c4",
+            "type": "message",
+            "text": "<@U4Y3V5NKX>\nPENSの子たちとその日は鎌倉行く予定があるから、2日ではダメな感じ？",
+            "user": "U0JAEV08K",
+            "ts": "1540549919.003700",
+            "thread_ts": "1540549919.003700",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1540550736.005800",
+            "reply_users": [
+                "U4Y3V5NKX",
+                "U0JAEV08K"
+            ],
+            "replies": [
+                {
+                    "user": "U4Y3V5NKX",
+                    "ts": "1540550221.005400"
+                },
+                {
+                    "user": "U0JAEV08K",
+                    "ts": "1540550279.005600"
+                },
+                {
+                    "user": "U4Y3V5NKX",
+                    "ts": "1540550736.005800"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "46684c6d-b397-49ee-96b8-17bb35ecbcf0",
+            "type": "message",
+            "text": "<!channel> 11\/1（木）に文化祭の準備を行おうと思います。主に研究室内の掃除、当日の配置決めができればと考えています。何か意見ありましたらお願いします。",
+            "user": "U4Y3V5NKX",
+            "ts": "1540546741.002700",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y2B9X28",
+                        "U4YM85G94"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2c1a9654-2f8b-4252-9e0d-1973bb07bbbb",
+            "type": "message",
+            "text": "三ツ矢サイダーとおーいお茶は来週届くので、事務室に受け取りにいってもらうと思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1540354365.000100",
+            "reactions": [
+                {
+                    "name": "woman-gesturing-ok",
+                    "users": [
+                        "U0JAEV08K"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b3755edc-4ea1-49ed-bb11-fe6f15204e93",
+            "type": "message",
+            "text": "発注しました。\n合計: 23,562円です。",
+            "user": "U0JACJLRJ",
+            "ts": "1540354322.000100",
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U4XUM59NX"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "a3711557-2dc2-4342-847e-c88abb33e846",
+            "type": "message",
+            "text": "はい、大丈夫だと思います",
+            "user": "U4XUM59NX",
+            "ts": "1540353906.000100",
+            "thread_ts": "1540353857.000100",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "b963b2cc-eeb0-44c7-a83d-b7b7bfec3c53",
+            "type": "message",
+            "text": "三ツ矢サイダーは送料が850円くらいかかるけど良い？",
+            "user": "U0JACJLRJ",
+            "ts": "1540353857.000100",
+            "thread_ts": "1540353857.000100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1540353906.000100",
+            "reply_users": [
+                "U4XUM59NX"
+            ],
+            "replies": [
+                {
+                    "user": "U4XUM59NX",
+                    "ts": "1540353906.000100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "type": "message",
+            "text": "すみません、こちらでした",
+            "files": [
+                {
+                    "id": "FDL7QKYUQ",
+                    "created": 1540353551,
+                    "timestamp": 1540353551,
+                    "name": "文化祭の購入リストこっち.xlsx",
+                    "title": "文化祭の購入リストこっち.xlsx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "filetype": "xlsx",
+                    "pretty_type": "Excel スプレッドシート",
+                    "user": "U4XUM59NX",
+                    "editable": false,
+                    "size": 12497,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDL7QKYUQ\/____________________________________.xlsx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDL7QKYUQ\/download\/____________________________________.xlsx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U4XUM59NX\/FDL7QKYUQ\/____________________________________.xlsx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDL7QKYUQ-fe66117263"
+                }
+            ],
+            "upload": true,
+            "user": "U4XUM59NX",
+            "display_as_bot": false,
+            "ts": "1540353552.000100"
+        },
+        {
+            "client_msg_id": "2b130cfb-6ff4-4a84-b03f-1909170bc612",
+            "type": "message",
+            "text": "エコベール 食器用洗剤レモン 本体1000mlが1360円になっていてちょっとだけ高くなってました。他については値段は変わっていないと思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1540353458.000100"
+        },
+        {
+            "client_msg_id": "c2d0245d-8eff-4b55-98b7-af17fe20dcee",
+            "type": "message",
+            "text": "Amazonで合計12,726円になりますが、これで良い？",
+            "user": "U0JACJLRJ",
+            "ts": "1540353382.000100"
+        },
+        {
+            "client_msg_id": "0f2b0f26-ad5c-4850-8f9b-2ce58489ede0",
+            "type": "message",
+            "text": "個数の列の数が正しい購入数です",
+            "user": "U4XUM59NX",
+            "ts": "1540353275.000100",
+            "thread_ts": "1540353186.000100",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "f1fe5878-8fec-45ca-b2cb-7512d5873f93",
+            "type": "message",
+            "text": "個数の数だけ買えばよい？使用用途のところに書いてある数と違うのもあるけど。",
+            "user": "U0JACJLRJ",
+            "ts": "1540353186.000100",
+            "thread_ts": "1540353186.000100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1540353275.000100",
+            "reply_users": [
+                "U4XUM59NX"
+            ],
+            "replies": [
+                {
+                    "user": "U4XUM59NX",
+                    "ts": "1540353275.000100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "bc5eccbf-6c13-4ff9-9106-6c5596e041f9",
+            "type": "message",
+            "text": "そうです",
+            "user": "U4XUM59NX",
+            "ts": "1540353071.000100",
+            "thread_ts": "1540353004.000100",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "47435307-b73c-4910-a977-37c55855eeda",
+            "type": "message",
+            "text": "文化祭の購入品リストは、10\/17に挙がっているもので良い？",
+            "user": "U0JACJLRJ",
+            "ts": "1540353004.000100",
+            "thread_ts": "1540353004.000100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1540353071.000100",
+            "reply_users": [
+                "U4XUM59NX"
+            ],
+            "replies": [
+                {
+                    "user": "U4XUM59NX",
+                    "ts": "1540353071.000100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "91d1e565-1ffc-46bd-975e-a79b71b3f63f",
+            "type": "message",
+            "text": "<@U4Y2B9X28> <@U4XUM59NX> <@U2808K7U2> <@U4YM85G94>\n「実験環境のスライドを作り、実験データの件数などを表で示してください。」\n先週のセミナーで貰ったアドバイスになります。まだスライドにない場合は追加しておいてください。遅くなり申し訳ありません。",
+            "user": "U4Y3V5NKX",
+            "ts": "1540177293.000100",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U2808K7U2",
+                        "U4YM85G94"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "C4235ADD-9F7A-4E64-A045-70474C3CD70B",
+            "type": "message",
+            "text": "<@U4XUM59NX>\n<https:\/\/app.levelenter.com\/vr\/view\/login.html>",
+            "user": "U0JAEV08K",
+            "ts": "1539752651.000100",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4XUM59NX"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "<!channel> 購入リスト確定、前日にお菓子購入",
+            "files": [
+                {
+                    "id": "FDFQDLLLB",
+                    "created": 1539751618,
+                    "timestamp": 1539751618,
+                    "name": "文化祭の購入リスト.xlsx",
+                    "title": "文化祭の購入リスト.xlsx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "filetype": "xlsx",
+                    "pretty_type": "Excel スプレッドシート",
+                    "user": "U4XUM59NX",
+                    "editable": false,
+                    "size": 12069,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDFQDLLLB\/___________________________.xlsx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDFQDLLLB\/download\/___________________________.xlsx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U4XUM59NX\/FDFQDLLLB\/___________________________.xlsx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDFQDLLLB-3c700b2107"
+                }
+            ],
+            "upload": true,
+            "user": "U4XUM59NX",
+            "display_as_bot": false,
+            "ts": "1539751619.000100"
+        },
+        {
+            "client_msg_id": "08a9bf52-a6a5-4b0f-9310-a61b0a42c610",
+            "type": "message",
+            "text": "・4年生文化祭参加状況（仮）\n\n１日(準備期間)：柴本、久次、重田、羽賀(16時まで)\n\n２日(準備期間)：浦野、柴本、久次、羽賀(16時まで)\n\n３日：浦野、柴本（AM？）、羽賀(16時まで)\n\n４日：柴本（AM？）、久次、重田\n\n５日：浦野、柴本、久次、重田",
+            "user": "U4Y3V5NKX",
+            "ts": "1539749777.000100",
+            "edited": {
+                "user": "U4Y3V5NKX",
+                "ts": "1539749955.000000"
+            }
+        },
+        {
+            "client_msg_id": "1528e125-52d4-4c59-b7d8-f286f40d7900",
+            "type": "message",
+            "text": "4,5日は不参加。他日は16:00まで参加",
+            "user": "U4XUM59NX",
+            "ts": "1539748328.000100",
+            "thread_ts": "1539658856.000100",
+            "parent_user_id": "U4Y3V5NKX"
+        },
+        {
+            "client_msg_id": "16717b40-256f-4a55-9a8f-d96d72088cd4",
+            "type": "message",
+            "text": "2日、3日は参加できません。それ以外は準備期間含め参加できます。",
+            "user": "U4YM85G94",
+            "ts": "1539663197.000100",
+            "thread_ts": "1539658856.000100",
+            "parent_user_id": "U4Y3V5NKX"
+        },
+        {
+            "client_msg_id": "4ab01d16-0f5a-4967-9e0a-6721d4ff2da1",
+            "type": "message",
+            "text": "3日私用のため参加できません。\nそれ以外は参加できます",
+            "user": "U4Y3V5NKX",
+            "ts": "1539659942.000100",
+            "thread_ts": "1539658856.000100",
+            "parent_user_id": "U4Y3V5NKX"
+        },
+        {
+            "client_msg_id": "f6b858a7-fbd5-4168-aca2-ff07db82ee95",
+            "type": "message",
+            "text": "準備は出れません（学会の為）\n当日と片づけは参加します",
+            "user": "U12475CJC",
+            "ts": "1539659682.000100",
+            "thread_ts": "1539658856.000100",
+            "parent_user_id": "U4Y3V5NKX"
+        },
+        {
+            "client_msg_id": "CF04C58F-A272-496D-B3AF-7F94215E6C0F",
+            "type": "message",
+            "text": "準備は出ますが、他の四年生が3,4日終日まで出ないのであれば、3,4日の午前中のみ参加します(部活の方もあるので)",
+            "user": "U2808K7U2",
+            "ts": "1539659613.000100",
+            "thread_ts": "1539658856.000100",
+            "parent_user_id": "U4Y3V5NKX"
+        },
+        {
+            "client_msg_id": "b3c879c4-ec69-4192-8907-ae0b7682ba1e",
+            "type": "message",
+            "text": "4日は私用で外しますがそれ以外は予備日含め参加できます",
+            "user": "U4Y2B9X28",
+            "ts": "1539658910.000100",
+            "edited": {
+                "user": "U4Y2B9X28",
+                "ts": "1539658918.000000"
+            },
+            "thread_ts": "1539658856.000100",
+            "parent_user_id": "U4Y3V5NKX"
+        }
+    ],
+    "has_more": true,
+    "is_limited": false
+}

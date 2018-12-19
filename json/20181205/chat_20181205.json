@@ -1,0 +1,1439 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "b5a66f50-d45e-489d-8b30-25a55242926c",
+            "type": "message",
+            "text": "A Programming Support System for Learning Motion Design in VR\/AR Contents",
+            "user": "U0JACJLRJ",
+            "ts": "1543993787.011300"
+        },
+        {
+            "client_msg_id": "cd6de2e3-11fe-49d5-96c1-c6219e58613d",
+            "type": "message",
+            "text": "著者：羽賀大樹，鷹野孝典\nタイトル：VR\/ARコンテンツ作成のためのモーションデザインを対象としたプログラミング学習支援システム",
+            "user": "U0JACJLRJ",
+            "ts": "1543993554.009600",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543993633.000000"
+            }
+        },
+        {
+            "client_msg_id": "22f3b04e-d100-445e-b2e5-dfa4d998fbda",
+            "type": "message",
+            "text": "<https:\/\/www.gakkai-web.net\/p\/ipsj\/zenkoku\/new2.php>",
+            "user": "U0JACJLRJ",
+            "ts": "1543993046.009400"
+        },
+        {
+            "client_msg_id": "f11d4038-27fe-4ca1-8fad-aaf659d56919",
+            "type": "message",
+            "text": "githubに置いているファイルの用途がわからないことがあるので、read.mdなどに書いておきませんか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543968033.008900",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y3V5NKX",
+                        "U4YM85G94",
+                        "U12475CJC"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "f12fcc26-7cdf-4d0b-9acd-3217d79c0651",
+            "type": "message",
+            "text": "To 4年生：\nあとのこり2ヶ月だし、原則、毎日午前中には研究室にきて作業を進めましょう。",
+            "user": "U0JACJLRJ",
+            "ts": "1543904170.007600",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y3V5NKX"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "b20774e5-1415-43f5-ab4b-b6742bb680ed",
+            "type": "message",
+            "text": "情報処理学会の申し込み締め切り：\n2018年12月7日（金）15：00まで",
+            "user": "U0JACJLRJ",
+            "ts": "1543903879.007000"
+        },
+        {
+            "client_msg_id": "eaab8c6e-3f95-45be-ae8c-35f9d1c60e77",
+            "type": "message",
+            "text": "なるほど。ありがとう。",
+            "user": "U0JACJLRJ",
+            "ts": "1543633689.006300",
+            "thread_ts": "1543632912.006100",
+            "parent_user_id": "U12475CJC"
+        },
+        {
+            "client_msg_id": "C48D0F55-35FA-49CA-BAC8-8D892260880D",
+            "type": "message",
+            "text": "<@U0JACJLRJ> 田中博研の子に昨日聞いた話だと、ローソンの前の道で事故があったらしいですが、僕が帰る時には、k1とk2の間の所に車と人が沢山いました。真相はちょっとわからないです。",
+            "user": "U12475CJC",
+            "ts": "1543632912.006100",
+            "thread_ts": "1543632912.006100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1543633689.006300",
+            "reply_users": [
+                "U0JACJLRJ"
+            ],
+            "replies": [
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543633689.006300"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "7916da89-b195-4beb-bf39-00157831f2df",
+            "type": "message",
+            "text": "<@U0JAEV08K> <@U12475CJC> <@U0J8PMAQJ> 昨日校内で車事故があったらしいのだけど、昨日の夜に聞いた音はそれだった？",
+            "user": "U0JACJLRJ",
+            "ts": "1543632697.002500",
+            "reactions": [
+                {
+                    "name": "scream",
+                    "users": [
+                        "U0J8PMAQJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "42217d5a-00b7-4bd6-bd43-9f03d25ca6ba",
+            "type": "message",
+            "text": "PENSの先生のKAIT訪問に関する、月曜日の予定です。\n---\n14:00 Meet at Hon-atsugi station\n14:30 Arrival at KAIT\n14:30 - 16:00 International office, campus tour, Lab visits, and so on\n16:00 - 18:00 Workshop (Media hall, K1-12F)\n---",
+            "user": "U0JACJLRJ",
+            "ts": "1543562162.001000"
+        },
+        {
+            "client_msg_id": "0dceab05-386a-455f-a2b5-405996a7273a",
+            "type": "message",
+            "text": "To 4年生：\n原則、毎日午前中には研究室にきて作業を進めましょう。",
+            "user": "U0JACJLRJ",
+            "ts": "1543561290.000200",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4YM85G94"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "6ef4226f-d7be-431c-9197-f6c7372f91ec",
+            "type": "message",
+            "text": "To 4年生：\n原則、毎日午前中には研究室にきて作業を進めましょう。",
+            "user": "U0JACJLRJ",
+            "ts": "1543459649.014000",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y2B9X28"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "02a21079-1224-45ea-a567-3db6ac3a0d20",
+            "type": "message",
+            "text": "わかりました。",
+            "user": "U0JACJLRJ",
+            "ts": "1543459609.013000",
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "d35d313f-2733-47ac-baf1-bd569d16ac53",
+            "type": "message",
+            "text": "今やってる実家に送る荷物の準備が終わったら研究室行くのでそのときお話します",
+            "user": "U0J8PMAQJ",
+            "ts": "1543458210.012800",
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "26845781-ce96-4cee-b269-b8c27de88744",
+            "type": "message",
+            "text": "一応ウイルススキャンの有名所としては ClamAV とかがあります",
+            "user": "U0J8PMAQJ",
+            "ts": "1543458099.012600",
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "ba0d1389-e9de-4e71-bb26-09556f46be82",
+            "type": "message",
+            "text": "完全にエンタープライズ系なので個人的には全くわからないです。。",
+            "user": "U0J8PMAQJ",
+            "ts": "1543458081.012400",
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "1d7ce39b-300f-4780-b929-114efd41668e",
+            "type": "message",
+            "text": "Linuxも最近は、企業などでもインストールしていると思うけど、そのあたりの事情は詳しいですか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543457990.012200",
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "39ba9ee7-007c-4ad6-a36e-391285475df0",
+            "type": "message",
+            "text": "Linux1mo企業などは、インストールしていると思うけど。",
+            "user": "U0JACJLRJ",
+            "ts": "1543457952.012000",
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "40949f8f-b394-4cfe-b4c7-76a5339e1714",
+            "type": "message",
+            "text": "そうですね。",
+            "user": "U0JACJLRJ",
+            "ts": "1543457930.011800",
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "7bad3e6a-8a36-4d1d-9cd1-9dc77c96863b",
+            "type": "message",
+            "text": "セキュリティソフトっていうとウイルススキャンとかですか？",
+            "user": "U0J8PMAQJ",
+            "ts": "1543457909.011600",
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "a253449c-0511-4051-8e74-b6bb02e6235c",
+            "type": "message",
+            "text": "無償で良いものありますか。インストールしてもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543457770.011400",
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "305ab6d5-ff4c-4a68-88b8-b8c2cd62063a",
+            "type": "message",
+            "text": "セキュリティソフトの類は入ってないはずです",
+            "user": "U0J8PMAQJ",
+            "ts": "1543457713.011000",
+            "edited": {
+                "user": "U0J8PMAQJ",
+                "ts": "1543457748.000000"
+            },
+            "thread_ts": "1543457632.010900",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "97f82d7d-f086-49d8-921d-55eaf5d176f8",
+            "type": "message",
+            "text": "<@U0J8PMAQJ> <@U12475CJC> <@U0JAEV08K> Ubuntuのサーバ用のセキュリティソフトですが、デフォルトでインストールされていましたっけ？",
+            "user": "U0JACJLRJ",
+            "ts": "1543457632.010900",
+            "thread_ts": "1543457632.010900",
+            "reply_count": 10,
+            "reply_users_count": 2,
+            "latest_reply": "1543459609.013000",
+            "reply_users": [
+                "U0J8PMAQJ",
+                "U0JACJLRJ"
+            ],
+            "replies": [
+                {
+                    "user": "U0J8PMAQJ",
+                    "ts": "1543457713.011000"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543457770.011400"
+                },
+                {
+                    "user": "U0J8PMAQJ",
+                    "ts": "1543457909.011600"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543457930.011800"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543457952.012000"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543457990.012200"
+                },
+                {
+                    "user": "U0J8PMAQJ",
+                    "ts": "1543458081.012400"
+                },
+                {
+                    "user": "U0J8PMAQJ",
+                    "ts": "1543458099.012600"
+                },
+                {
+                    "user": "U0J8PMAQJ",
+                    "ts": "1543458210.012800"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543459609.013000"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "483E4A81-68C6-46F0-B377-B986B2B6B9AC",
+            "type": "message",
+            "text": "ありがとうございます。捺印して、今日の1年生の特別専攻セミナーくらいのタイミングでお返しします",
+            "user": "U2808K7U2",
+            "ts": "1543456505.009500",
+            "thread_ts": "1543456188.007200",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "d62ff1b4-279a-4316-bb7b-03137bd645fd",
+            "type": "message",
+            "text": "<@U2808K7U2> SA報告書を机に置いたので、捺印を押してもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543456188.007200",
+            "thread_ts": "1543456188.007200",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1543456505.009500",
+            "reply_users": [
+                "U2808K7U2"
+            ],
+            "replies": [
+                {
+                    "user": "U2808K7U2",
+                    "ts": "1543456505.009500"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "2d744aac-c959-4c64-a48f-ef4d87a454ab",
+            "type": "message",
+            "text": "私も試してうまくいきました。",
+            "user": "U0JACJLRJ",
+            "ts": "1543398533.005500",
+            "thread_ts": "1543269597.000400",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "508ff814-79e4-4163-b129-76fd66c88a51",
+            "type": "message",
+            "text": "<!channel> 12\/3(月)の午後に、PENSから4人の先生がきます。10月に在籍した、Naiさんの先生たちです。学生の皆さんも、研究室にいるようにお願いします。また、講演なども予定すると思うので、そちらへの参加をお願いします。",
+            "user": "U0JACJLRJ",
+            "ts": "1543398162.003700",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U12475CJC",
+                        "U0JAEV08K",
+                        "U4Y2B9X28",
+                        "U4Y3V5NKX",
+                        "U4YM85G94",
+                        "U2808K7U2"
+                    ],
+                    "count": 6
+                }
+            ]
+        },
+        {
+            "client_msg_id": "efe7453c-c4f9-43e1-9a7c-c46bc273e016",
+            "type": "message",
+            "text": "設定を確認しました．文字色の変更や字幕部分に背景をつけることができました．なので，動画内の背景と字幕が同化して見えづらい等の問題は解消できそうです",
+            "user": "U2808K7U2",
+            "ts": "1543289009.000400",
+            "thread_ts": "1543269597.000400",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "2fa2311c-7680-464f-8eae-59b3be61889f",
+            "type": "message",
+            "text": "<@U12475CJC> <@U2808K7U2> この設定を確認してもらえますか\n<https:\/\/support.microsoft.com\/ja-jp\/help\/3078107\/closed-captions-in-movies-tv-content-on-windows-10>",
+            "user": "U0JACJLRJ",
+            "ts": "1543269597.000400",
+            "attachments": [
+                {
+                    "title": "Windows 10 の映画 &amp; テレビ用の字幕",
+                    "title_link": "https:\/\/support.microsoft.com\/ja-jp\/help\/3078107\/closed-captions-in-movies-tv-content-on-windows-10",
+                    "text": "Windows 10 で映画 &amp; テレビのコンテンツの字幕を使用およびカスタマイズする方法について説明します。",
+                    "fallback": "Windows 10 の映画 &amp; テレビ用の字幕",
+                    "from_url": "https:\/\/support.microsoft.com\/ja-jp\/help\/3078107\/closed-captions-in-movies-tv-content-on-windows-10",
+                    "service_name": "support.microsoft.com",
+                    "id": 1,
+                    "original_url": "https:\/\/support.microsoft.com\/ja-jp\/help\/3078107\/closed-captions-in-movies-tv-content-on-windows-10"
+                }
+            ],
+            "thread_ts": "1543269597.000400",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1543398533.005500",
+            "reply_users": [
+                "U2808K7U2",
+                "U0JACJLRJ"
+            ],
+            "replies": [
+                {
+                    "user": "U2808K7U2",
+                    "ts": "1543289009.000400"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543398533.005500"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U2808K7U2",
+                        "U12475CJC"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "20e7c94b-f115-43e9-8a70-6fa0dba3240a",
+            "type": "message",
+            "text": "bid data -&gt; big data",
+            "user": "U0JACJLRJ",
+            "ts": "1543227486.003700"
+        },
+        {
+            "client_msg_id": "2998e17c-3180-45dd-9824-b0a30263c85b",
+            "type": "message",
+            "text": "<@U12475CJC> <@U0JAEV08K> <@U2808K7U2> 動画のスクリプトファイルです。Windows10のメディアプレイヤーでは表示できました。",
+            "user": "U0JACJLRJ",
+            "ts": "1543227274.003300"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEBKP0V3N",
+                    "created": 1543227237,
+                    "timestamp": 1543227237,
+                    "name": "kait.srt",
+                    "title": "kait.srt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "プレーンテキスト",
+                    "user": "U0JACJLRJ",
+                    "editable": true,
+                    "size": 1240,
+                    "mode": "snippet",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEBKP0V3N\/kait.srt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEBKP0V3N\/download\/kait.srt",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FEBKP0V3N\/kait.srt",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEBKP0V3N-7412d6cf49",
+                    "edit_link": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FEBKP0V3N\/kait.srt\/edit",
+                    "preview": "1 \r\n00:00:03,000 --> 00:00:08,000 \r\nKanagawa Instituite of Technology has edcucated creative and collaborative \r\nstuedents in engineering field.\r\n\r",
+                    "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text\/plain',window.getSelection().toString().replace(\/\​\/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>1 <\/pre><\/div>\n<div><pre>00:00:03,000 --&gt; 00:00:08,000 <\/pre><\/div>\n<div><pre>Kanagawa Instituite of Technology has edcucated creative and collaborative <\/pre><\/div>\n<div><pre>stuedents in engineering field.<\/pre><\/div>\n<div><pre><\/pre><\/div>\n<div><pre><\/pre><\/div>\n<\/div>\n<\/div>\n",
+                    "lines": 50,
+                    "lines_more": 45,
+                    "preview_is_truncated": true
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1543227238.002300",
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U0JAEV08K",
+                        "U2808K7U2"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "67c3a8db-a7bf-46e5-9475-158e001e2fa0",
+            "type": "message",
+            "text": "<https:\/\/www.amazon.co.jp\/TOEIC-R-L-R%E3%83%86%E3%82%B9%E3%83%88-%E5%9F%BA%E6%9C%AC%E5%8D%98%E8%AA%9E%E5%B8%B3\/product-reviews\/4327430919>",
+            "user": "U12475CJC",
+            "ts": "1543224741.002100",
+            "attachments": [
+                {
+                    "title": "Amazon.co.jp：カスタマーレビュー: TOEIC(R) L&amp;Rテスト 基本単語帳",
+                    "title_link": "https:\/\/www.amazon.co.jp\/TOEIC-R-L-R%E3%83%86%E3%82%B9%E3%83%88-%E5%9F%BA%E6%9C%AC%E5%8D%98%E8%AA%9E%E5%B8%B3\/product-reviews\/4327430919",
+                    "text": "<http:\/\/Amazon.com|Amazon.com> で、TOEIC(R) L&amp;Rテスト 基本単語帳 の役立つカスタマーレビューとレビュー評価をご覧ください。ユーザーの皆様からの正直で公平な製品レビューをお読みください。",
+                    "fallback": "Amazon.co.jp：カスタマーレビュー: TOEIC(R) L&amp;Rテスト 基本単語帳",
+                    "from_url": "https:\/\/www.amazon.co.jp\/TOEIC-R-L-R%E3%83%86%E3%82%B9%E3%83%88-%E5%9F%BA%E6%9C%AC%E5%8D%98%E8%AA%9E%E5%B8%B3\/product-reviews\/4327430919",
+                    "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                    "service_name": "amazon.co.jp",
+                    "id": 1,
+                    "original_url": "https:\/\/www.amazon.co.jp\/TOEIC-R-L-R%E3%83%86%E3%82%B9%E3%83%88-%E5%9F%BA%E6%9C%AC%E5%8D%98%E8%AA%9E%E5%B8%B3\/product-reviews\/4327430919"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "e724b92e-8a2a-474e-a1e0-d12abf62ca69",
+            "type": "message",
+            "text": "<@U4XUM59NX> JSiSE 第5回の申し込み締切が本日なので、申し込みサイトよりお願いできますか。\n著者：羽賀大樹，鷹野孝典\nタイトル：VR\/VRコンテンツ作成のためのモーションデザインを対象としたプログラミング学習支援システム",
+            "user": "U0JACJLRJ",
+            "ts": "1543203881.001700"
+        },
+        {
+            "client_msg_id": "67A6AD30-ED4B-4486-88CF-06241F8D1037",
+            "type": "message",
+            "text": "おつかれさま。",
+            "user": "U0JACJLRJ",
+            "ts": "1542942955.004200"
+        },
+        {
+            "client_msg_id": "5a27dcdc-e5df-4511-ba1c-d14af96db3cd",
+            "type": "message",
+            "text": "お疲れ様でした！！",
+            "user": "U0J8PMAQJ",
+            "ts": "1542938620.003300",
+            "thread_ts": "1542938052.002700",
+            "parent_user_id": "UA0BWS0F8"
+        },
+        {
+            "client_msg_id": "559CC6AF-DF2D-4ECD-9744-1820EB58EC8D",
+            "type": "message",
+            "text": "おつかれ！",
+            "user": "U0JAEV08K",
+            "ts": "1542938437.003000",
+            "thread_ts": "1542938052.002700",
+            "parent_user_id": "UA0BWS0F8"
+        },
+        {
+            "client_msg_id": "e4ac1f4d-bd1d-40f9-81f3-1f9b9c7ed1cb",
+            "type": "message",
+            "text": "僕の発表終わりました。",
+            "user": "UA0BWS0F8",
+            "ts": "1542938052.002700",
+            "thread_ts": "1542938052.002700",
+            "reply_count": 2,
+            "reply_users_count": 2,
+            "latest_reply": "1542938620.003300",
+            "reply_users": [
+                "U0JAEV08K",
+                "U0J8PMAQJ"
+            ],
+            "replies": [
+                {
+                    "user": "U0JAEV08K",
+                    "ts": "1542938437.003000"
+                },
+                {
+                    "user": "U0J8PMAQJ",
+                    "ts": "1542938620.003300"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "tada",
+                    "users": [
+                        "U0JAEV08K",
+                        "U0J8PMAQJ",
+                        "U4Y3V5NKX",
+                        "U12475CJC",
+                        "U4YM85G94",
+                        "U2808K7U2"
+                    ],
+                    "count": 6
+                },
+                {
+                    "name": "clap",
+                    "users": [
+                        "U0J8PMAQJ",
+                        "U12475CJC"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "muscle",
+                    "users": [
+                        "U0J8PMAQJ",
+                        "U12475CJC"
+                    ],
+                    "count": 2
+                },
+                {
+                    "name": "+1",
+                    "users": [
+                        "U0J8PMAQJ",
+                        "U12475CJC"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "c5486fd5-346e-4ab1-9324-01fe4eff9d85",
+            "type": "message",
+            "text": "承知しました。体調があまり優れないようでしたら、補講でも問題ありませんよ。\n今期はあまり講義を取っていない分余裕があるので…",
+            "user": "UD76E6LLV",
+            "ts": "1542849579.002100"
+        },
+        {
+            "client_msg_id": "946d14ee-191b-43ef-a017-767328eee502",
+            "type": "message",
+            "text": "<@UD76E6LLV> 体調が良くなく、ちょっと遅れます。",
+            "user": "U0JACJLRJ",
+            "ts": "1542846424.000500",
+            "reactions": [
+                {
+                    "name": "pill",
+                    "users": [
+                        "U0JAEV08K",
+                        "UD76E6LLV"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "7B129F22-BDF5-47BE-9540-33AB08F43180",
+            "type": "message",
+            "text": "<@U0JACJLRJ>  \nコの字型のジャンパ線で出来る限り安価のものがありましたので、念のため、リンクを貼っておきます\n<https:\/\/www.amazon.co.jp\/Perfk-ジャンプワイヤ（140個入）-ブレッドボード-ジャンパー線-はんだレス-シールド用\/dp\/B07F2FL1HD\/ref=sr_1_28?ie=UTF8&amp;qid=1542769456&amp;sr=8-28&amp;keywords=ジャンパー線+ブレッドボード>",
+            "user": "U2808K7U2",
+            "ts": "1542769600.006600",
+            "attachments": [
+                {
+                    "title": "Perfk ジャンプワイヤ（140個入） ブレッドボード ジャンパー線 はんだレス DIY シールド用",
+                    "title_link": "https:\/\/www.amazon.co.jp\/Perfk-ジャンプワイヤ（140個入）-ブレッドボード-ジャンパー線-はんだレス-シールド用\/dp\/B07F2FL1HD\/ref=sr_1_28?ie=UTF8&qid=1542769456&sr=8-28&keywords=ジャンパー線+ブレッドボード",
+                    "text": "説明: - このブレッドボードジャンパーケーブルキットは、DIYシールドプロジェクトに最適です。 - これらのケーブルは、メスヘッダー間またはブレッドボード上の2点間のジャンパーに適しています。 - 1つのボックスは異なる色で、異なる配線を区別するのに便利な14の長さを含む。 - 長さ：2mm、5mm、7mm、10mm、12mm、15mm、17mm、20mm、22mm、25mm、50mm、75mm、100mm、125mm（各10個） - 透明な箱が付いていて、保管と整理が容易です。ボックスサイズ：約165×55×10mmパッケージに含まれるもの:140ｘはんだレスブレッドボードジャンパー...",
+                    "fallback": "Perfk ジャンプワイヤ（140個入） ブレッドボード ジャンパー線 はんだレス DIY シールド用",
+                    "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/41sufL48f-L._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_SCLZZZZZZZ_.jpg",
+                    "from_url": "https:\/\/www.amazon.co.jp\/Perfk-ジャンプワイヤ（140個入）-ブレッドボード-ジャンパー線-はんだレス-シールド用\/dp\/B07F2FL1HD\/ref=sr_1_28?ie=UTF8&qid=1542769456&sr=8-28&keywords=ジャンパー線+ブレッドボード",
+                    "image_width": 429,
+                    "image_height": 250,
+                    "image_bytes": 13517,
+                    "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+                    "service_name": "amazon.co.jp",
+                    "id": 1,
+                    "original_url": "https:\/\/www.amazon.co.jp\/Perfk-ジャンプワイヤ（140個入）-ブレッドボード-ジャンパー線-はんだレス-シールド用\/dp\/B07F2FL1HD\/ref=sr_1_28?ie=UTF8&amp;qid=1542769456&amp;sr=8-28&amp;keywords=ジャンパー線+ブレッドボード"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "slightly_smiling_face",
+                    "users": [
+                        "U0JACJLRJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "7f69672b-93c6-41c0-94cb-5a0e79aa1856",
+            "type": "message",
+            "text": "わかりました．",
+            "user": "U12475CJC",
+            "ts": "1542594303.004400"
+        },
+        {
+            "client_msg_id": "D048E7ED-5808-4DE6-9384-C18495971B50",
+            "type": "message",
+            "text": "火曜日の授業から大学に行く予定です。",
+            "user": "U0JACJLRJ",
+            "ts": "1542512861.003500"
+        },
+        {
+            "client_msg_id": "3B25E40F-8307-4720-93AC-285F54567C41",
+            "type": "message",
+            "text": "親に不幸がありました。タイミングによっては返信など遅れると思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1542512822.002400",
+            "reactions": [
+                {
+                    "name": "kidoku",
+                    "users": [
+                        "U0JAEV08K",
+                        "U12475CJC",
+                        "U4Y3V5NKX",
+                        "U2808K7U2",
+                        "UADFUGKGE"
+                    ],
+                    "count": 5
+                }
+            ]
+        },
+        {
+            "client_msg_id": "a5e5e9da-d826-490c-97bf-cafc86d8307c",
+            "type": "message",
+            "text": "DEIM2019の情報です。\n<http:\/\/db-event.jpn.org\/deim2019\/>",
+            "user": "U0JACJLRJ",
+            "ts": "1541996666.029200",
+            "attachments": [
+                {
+                    "title": "DEIM2019 第11回データ工学と情報マネジメントに関するフォーラム",
+                    "title_link": "http:\/\/db-event.jpn.org\/deim2019\/",
+                    "text": "データ工学と情報マネジメントに関するフォーラム(DEIM)は， データ工学と情報マネジメントに関する 様々な研究テーマの討論・意見交換を目的とした合宿形式の ワークショップです．合宿形式とすることに より深い議論や活発な研究交流を促進する事を狙いと しております．大学・企業の若手教員・研究者・技術者 および学生からの発表の他に，一般からの 発表も広く受け付けています．産学連携の発表も歓迎しています．",
+                    "fallback": "DEIM2019 第11回データ工学と情報マネジメントに関するフォーラム",
+                    "from_url": "http:\/\/db-event.jpn.org\/deim2019\/",
+                    "service_name": "db-event.jpn.org",
+                    "id": 1,
+                    "original_url": "http:\/\/db-event.jpn.org\/deim2019\/"
+                }
+            ],
+            "reactions": [
+                {
+                    "name": "white_check_mark",
+                    "users": [
+                        "U12475CJC"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "a1d38ad4-0f42-4c76-9294-d312c94f51fc",
+            "type": "message",
+            "text": "<@U0JACJLRJ> 確認しました．ありがとうございます．",
+            "user": "U12475CJC",
+            "ts": "1541990551.028900"
+        },
+        {
+            "client_msg_id": "1487e320-2bc6-4127-91f9-32221e1a2bab",
+            "type": "message",
+            "text": "<@U12475CJC> 英訳を追記してみました。",
+            "user": "U0JACJLRJ",
+            "ts": "1541990417.028300"
+        },
+        {
+            "client_msg_id": "e5190a7e-effd-4fc2-a2fb-621969a1f1b1",
+            "type": "message",
+            "text": "<@U12475CJC> くんのUIB訪問記事です。\n<http:\/\/blog.cs.kanagawa-it.ac.jp\/2018\/11\/report-of-visiting-uib-for-next-oversea.html>",
+            "user": "U0JACJLRJ",
+            "ts": "1541911657.027900",
+            "attachments": [
+                {
+                    "title": "Report of visiting UIB for next oversea study program  \/ UIB海外研修プログラムにむけた視察報告 ",
+                    "title_link": "http:\/\/blog.cs.kanagawa-it.ac.jp\/2018\/11\/report-of-visiting-uib-for-next-oversea.html",
+                    "text": "私（上村、情報工学専攻M1、UIB海外研修1期生）は，インドネシアでの国際会参加後の 2018 年 10 月 31 日から 11 月 1 日の 2 日間， UIB （ University International of Batam ）へ訪問してきました．本学情報学部では ...",
+                    "fallback": "Report of visiting UIB for next oversea study program  \/ UIB海外研修プログラムにむけた視察報告 ",
+                    "image_url": "https:\/\/2.bp.blogspot.com\/--UtnK4qShIY\/W-eK2Uu4OGI\/AAAAAAAAD3Q\/Ygc0B8X82CsU6RUZU5FunEgrK5-I4fvQACLcBGAs\/w1200-h630-p-k-no-nu\/IMG_4002.jpg",
+                    "from_url": "http:\/\/blog.cs.kanagawa-it.ac.jp\/2018\/11\/report-of-visiting-uib-for-next-oversea.html",
+                    "image_width": 476,
+                    "image_height": 250,
+                    "image_bytes": 154402,
+                    "service_icon": "http:\/\/blog.cs.kanagawa-it.ac.jp\/favicon.ico",
+                    "service_name": "blog.cs.kanagawa-it.ac.jp",
+                    "id": 1,
+                    "original_url": "http:\/\/blog.cs.kanagawa-it.ac.jp\/2018\/11\/report-of-visiting-uib-for-next-oversea.html"
+                }
+            ]
+        },
+        {
+            "client_msg_id": "DA52B945-6CC9-49F3-89BB-65DB9F3C61BA",
+            "type": "message",
+            "text": "築地くんの発表が終了しました。",
+            "user": "U0JACJLRJ",
+            "ts": "1541813840.027400"
+        },
+        {
+            "client_msg_id": "F5AEB5C1-6720-4ECC-9EAB-691112A84AB9",
+            "type": "message",
+            "text": "11\/15(木)4限から、ライントレーサーの作成をICT1年生セミナーで行います。電子工作の経験のある人など、サポートしてくれると助かります。",
+            "user": "U0JACJLRJ",
+            "ts": "1541717280.027000"
+        },
+        {
+            "client_msg_id": "c43a41ab-ca85-4c98-9e23-c64d46cc578b",
+            "type": "message",
+            "text": "時間に従って、影響力に変化の出たユーザはいたか。",
+            "user": "U0JACJLRJ",
+            "ts": "1541566225.023000"
+        },
+        {
+            "client_msg_id": "2697243f-b6c8-44d4-971c-827661994bcc",
+            "type": "message",
+            "text": "グループ（クラスター）が複数できた時に、あるグループでの影響力のある人物が、他のグループでも影響力をもつ可能性を提示できるか。",
+            "user": "U0JACJLRJ",
+            "ts": "1541566160.022400",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1541566163.000000"
+            }
+        },
+        {
+            "client_msg_id": "8aeca0cc-7e51-41a9-9912-918fac776632",
+            "type": "message",
+            "text": "大きい規模の組織でも抽出可能であるか。",
+            "user": "U0JACJLRJ",
+            "ts": "1541565765.021300"
+        },
+        {
+            "client_msg_id": "e19355fd-f96e-4ad7-9fef-f6195885a724",
+            "type": "message",
+            "text": "講演時間　1件当り25分（発表20分　質疑5分）",
+            "user": "U0JACJLRJ",
+            "ts": "1541565258.020800"
+        },
+        {
+            "client_msg_id": "c5c83bc8-e326-491e-9305-1b4f106b3fae",
+            "type": "message",
+            "text": "質問を考えながら聞きましょう。",
+            "user": "U0JACJLRJ",
+            "ts": "1541564911.020600"
+        },
+        {
+            "client_msg_id": "3de7a200-8a4a-4e2a-b278-cb941f70be23",
+            "type": "message",
+            "text": "PENS研修報告会です。\n---\nNov 8, 13:20-14:50 (We have a tea party after the presentation)\nK3-3503 (K3 building)\n--- (edited)",
+            "user": "U0JACJLRJ",
+            "ts": "1541464550.019600",
+            "reactions": [
+                {
+                    "name": "+1",
+                    "users": [
+                        "U12475CJC",
+                        "U2808K7U2",
+                        "U0JAEV08K"
+                    ],
+                    "count": 3
+                }
+            ]
+        },
+        {
+            "client_msg_id": "DFB2D951-6802-4A7C-A8A3-9F7A342FD583",
+            "type": "message",
+            "text": "必要に応じて、飲み物を出したり、荷物など置いてもらってください。",
+            "user": "U0JACJLRJ",
+            "ts": "1541197923.017500"
+        },
+        {
+            "client_msg_id": "ACBBE6B4-4CA2-4CCE-A3B3-F4AF50764279",
+            "type": "message",
+            "text": "羽田空港に到着しました。OBOGが来たら、念のためお昼頃から来る予定とお伝えください。",
+            "user": "U0JACJLRJ",
+            "ts": "1541197854.015700"
+        },
+        {
+            "client_msg_id": "DC58B907-A794-46D6-90E3-F4F6B5B2756D",
+            "type": "message",
+            "text": "先日、田中博先生にご協力頂いて、研究室まで運びました。\nご連絡ありがとうございます。",
+            "user": "U2808K7U2",
+            "ts": "1541035213.013500",
+            "thread_ts": "1541033693.012000",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "A5B0DB44-2A2D-4D24-BFB7-CE8549418F3A",
+            "type": "message",
+            "text": "事務室に誰もいない場合は他の先生などに頼んで、取りに行ってみてください。",
+            "user": "U0JACJLRJ",
+            "ts": "1541033693.012000",
+            "thread_ts": "1541033693.012000",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1541035213.013500",
+            "reply_users": [
+                "U2808K7U2"
+            ],
+            "replies": [
+                {
+                    "user": "U2808K7U2",
+                    "ts": "1541035213.013500"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "70504C09-609C-4032-838B-D4AC12FFE518",
+            "type": "message",
+            "text": "学園祭用のジュースセットが事務室に届いていると思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1541033679.011900"
+        },
+        {
+            "client_msg_id": "D5235FC4-D19B-4520-B281-88005C70E74C",
+            "type": "message",
+            "text": "深夜にスラバヤに到着し、abdisと会いました。昨日は早朝からバタムに来ています。知人の家に泊まっているのでpcからインターネットは繋げない状況です。",
+            "user": "U0JACJLRJ",
+            "ts": "1541033660.011800"
+        },
+        {
+            "client_msg_id": "EB68658D-C3FB-4775-9495-231120A4C2F1",
+            "type": "message",
+            "text": "一昨日、上村くんの発表が無事終わりました。",
+            "user": "U0JACJLRJ",
+            "ts": "1541033341.011700",
+            "reactions": [
+                {
+                    "name": "tada",
+                    "users": [
+                        "U2808K7U2",
+                        "U0JAEV08K",
+                        "UA0BWS0F8",
+                        "U4Y2B9X28"
+                    ],
+                    "count": 4
+                }
+            ]
+        },
+        {
+            "client_msg_id": "91C744AC-A0A0-42E0-B9A2-35CC12D96D55",
+            "type": "message",
+            "text": "<@U0JAEV08K> 今、ホットクの試作をpia室でPENSの学生とやっているので、研究室を閉めてます。\n20時過ぎまで戻れそうにないので、もし鍵がなければpia室までお願いしますm(_ _)m",
+            "user": "U2808K7U2",
+            "ts": "1540810383.011200",
+            "edited": {
+                "user": "U2808K7U2",
+                "ts": "1540810482.000000"
+            },
+            "reactions": [
+                {
+                    "name": "woman-gesturing-ok",
+                    "users": [
+                        "U0JAEV08K"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "C99E2EAF-30D1-47F5-914E-520A1FB6CF41",
+            "type": "message",
+            "text": "わかりました",
+            "user": "U0JAEV08K",
+            "ts": "1540607259.009100"
+        },
+        {
+            "client_msg_id": "0588714c-fdb3-4725-8062-0a28d8551076",
+            "type": "message",
+            "text": "学園祭の出し物の予行演習（アイロンビーズの練習会）をやるようでしたら、PENS生も誘ってみてください。11\/3, 4の午後は鷹野研で手伝ってもらう予定です。",
+            "user": "U0JACJLRJ",
+            "ts": "1540593372.008700"
+        },
+        {
+            "client_msg_id": "14804af7-e030-4009-9128-9d3f0b58df43",
+            "type": "message",
+            "text": "PENS生のスケジュールです。\n---\n■ 学園祭準備\n1) 10\/29(月)18:00-: ホットク（韓国のお菓子）の試作\n2) 11\/2(金): テント準備など\n\n■ 工房体験\n3) 10\/29(月) 3限: サンドブラスティング（ガラス細工）\n\n■ 学園祭\n4) 11\/3, 4 ともに午前中: 国際課のお手伝い\n\n■ 鎌倉ツアー\n5) 11\/1: 鎌倉ツアー\n---",
+            "user": "U0JACJLRJ",
+            "ts": "1540593295.007500",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1540593396.000000"
+            }
+        },
+        {
+            "client_msg_id": "71f72c50-6e7e-4ce5-99ab-9485153f2ce8",
+            "type": "message",
+            "text": "<@U2808K7U2> <@U4YM85G94> <@U4Y2B9X28> <@U4Y3V5NKX> <@U4XUM59NX> 火曜日4限（上と同じ時間）か水曜日に鷹野研の研究の取り組みの紹介や、観光地、日本文化、遊び、はやっている物、自分の趣味などを紹介して、交流をはかってもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1540593146.006000"
+        },
+        {
+            "client_msg_id": "7827e97f-d85b-402a-827d-425be82bdb2c",
+            "type": "message",
+            "text": "<@U0JAEV08K> <@UA0BWS0F8> <@U0J8PMAQJ> 火曜日4限あたりに、国際シンポジウムのポスター発表をPENS学生にしてもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1540592949.004000"
+        },
+        {
+            "client_msg_id": "a6bd5d44-ec2b-494a-8c0e-9fbeddecdd5f",
+            "type": "message",
+            "text": "タイの国際空港につきました。",
+            "user": "U0JACJLRJ",
+            "ts": "1540592684.003200",
+            "reactions": [
+                {
+                    "name": "clap",
+                    "users": [
+                        "U0JAEV08K",
+                        "U2808K7U2"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDPEJ897F",
+                    "created": 1540563523,
+                    "timestamp": 1540563523,
+                    "name": "Figures-KCIC-kamimura.pptx",
+                    "title": "Figures-KCIC-kamimura.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 93166,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDPEJ897F\/figures-kcic-kamimura.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDPEJ897F\/download\/figures-kcic-kamimura.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FDPEJ897F\/figures-kcic-kamimura.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDPEJ897F-1bb5a1aa0e"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1540563524.002700"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDQ9LSUUX",
+                    "created": 1540562263,
+                    "timestamp": 1540562263,
+                    "name": "KCIC2018-kamimura-v8.pptx",
+                    "title": "KCIC2018-kamimura-v8.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 2108644,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDQ9LSUUX\/kcic2018-kamimura-v8.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDQ9LSUUX\/download\/kcic2018-kamimura-v8.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FDQ9LSUUX\/kcic2018-kamimura-v8.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDQ9LSUUX-39124340e4"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1540562265.002400"
+        },
+        {
+            "client_msg_id": "3408d850-b554-4404-8c97-e261cda6196c",
+            "type": "message",
+            "text": "<@U0JACJLRJ> 修正版をあげます",
+            "user": "U12475CJC",
+            "ts": "1540544154.002300"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDN9P7EC8",
+                    "created": 1540544141,
+                    "timestamp": 1540544141,
+                    "name": "KCIC2018-kamimura-v7.pptx",
+                    "title": "KCIC2018-kamimura-v7.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 2106153,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDN9P7EC8\/kcic2018-kamimura-v7.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDN9P7EC8\/download\/kcic2018-kamimura-v7.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FDN9P7EC8\/kcic2018-kamimura-v7.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDN9P7EC8-91b309445d"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1540544142.001700"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDN6W1E8G",
+                    "created": 1540533137,
+                    "timestamp": 1540533137,
+                    "name": "KCIC2018-kamimura-v6.pptx",
+                    "title": "KCIC2018-kamimura-v6.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 2085450,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDN6W1E8G\/kcic2018-kamimura-v6.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDN6W1E8G\/download\/kcic2018-kamimura-v6.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FDN6W1E8G\/kcic2018-kamimura-v6.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDN6W1E8G-bca2d34f08"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1540533139.001400"
+        },
+        {
+            "client_msg_id": "3E00CBCF-647B-43C5-89A2-4CA7AB51D413",
+            "type": "message",
+            "text": "4部印刷しました",
+            "user": "U2808K7U2",
+            "ts": "1540533058.001200",
+            "thread_ts": "1540531514.000800",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "12f3e3a4-c07a-4d72-8091-e790aa854494",
+            "type": "message",
+            "text": "<@U2808K7U2> 15:00に広報課に一緒に行くのお願いします。Ozawa君の議事録を3部程印刷しておいてもらえませんか。",
+            "user": "U0JACJLRJ",
+            "ts": "1540531514.000800",
+            "thread_ts": "1540531514.000800",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1540533058.001200",
+            "reply_users": [
+                "U2808K7U2"
+            ],
+            "replies": [
+                {
+                    "user": "U2808K7U2",
+                    "ts": "1540533058.001200"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U2808K7U2"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "3A06AAF8-4BE1-4634-A1C3-2AF622A8FC54",
+            "type": "message",
+            "text": "ありがとうございます。\n確認します",
+            "user": "U12475CJC",
+            "ts": "1540512253.000100"
+        },
+        {
+            "client_msg_id": "f8b3234b-f911-47b5-9be5-553932b00246",
+            "type": "message",
+            "text": "<@U12475CJC> スライド7まで修正しました。",
+            "user": "U0JACJLRJ",
+            "ts": "1540506196.000100"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDQ5WGPV4",
+                    "created": 1540506175,
+                    "timestamp": 1540506175,
+                    "name": "1885010_kamimura_KCIC_v5.pptx",
+                    "title": "1885010_kamimura_KCIC_v5.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 2079930,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDQ5WGPV4\/1885010_kamimura_kcic_v5.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDQ5WGPV4\/download\/1885010_kamimura_kcic_v5.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FDQ5WGPV4\/1885010_kamimura_kcic_v5.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDQ5WGPV4-863994a3a1"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1540506177.000100"
+        },
+        {
+            "client_msg_id": "de3c600f-f459-4700-be94-986885c14b86",
+            "type": "message",
+            "text": "わかりました．",
+            "user": "U12475CJC",
+            "ts": "1540471926.000100"
+        },
+        {
+            "client_msg_id": "2cf4613f-b1ee-4949-a2d5-99bb42084cd1",
+            "type": "message",
+            "text": "<@U12475CJC> とりあえず帰宅して下さい。",
+            "user": "U0JACJLRJ",
+            "ts": "1540471883.000100"
+        },
+        {
+            "client_msg_id": "6662fd08-43d8-4fdf-ab53-2f82415c8a2d",
+            "type": "message",
+            "text": "<@U0JACJLRJ> 発表練習に関しても, まだ大学にいると思うので，先生が可能な時にいっていただければ，可能です",
+            "user": "U12475CJC",
+            "ts": "1540466764.000100"
+        },
+        {
+            "type": "message",
+            "text": "<@U0JACJLRJ> 現在のスライドです．残りはcomon solutionの所を修正するつもりです．後は一応完成しています．",
+            "files": [
+                {
+                    "id": "FDN5MUSTC",
+                    "created": 1540464923,
+                    "timestamp": 1540464923,
+                    "name": "1885010_kamimura_KCIC_v4.pptx",
+                    "title": "1885010_kamimura_KCIC_v4.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 2079314,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDN5MUSTC\/1885010_kamimura_kcic_v4.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDN5MUSTC\/download\/1885010_kamimura_kcic_v4.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FDN5MUSTC\/1885010_kamimura_kcic_v4.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDN5MUSTC-419d02dd58"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1540464924.000100"
+        },
+        {
+            "client_msg_id": "40F57F73-B065-4844-8BFE-BF0CC078458D",
+            "type": "message",
+            "text": "<@U12475CJC> 荷物の準備などあるので、帰宅します。スライドを送ってください。もし可能でしたら家でSkypeで発表練習を聞きます。",
+            "user": "U0JACJLRJ",
+            "ts": "1540463945.000100"
+        },
+        {
+            "client_msg_id": "5160102E-DB73-47D1-A3AA-F4DC12536F5F",
+            "type": "message",
+            "text": "10\/29ですが3限の工房体験は参加できません(二俣川に行かなければいけないので)\nですが、18:00〜のホットクの試作は参加できると思います。\n人員が足りなければ、加えてもらっても構いません。",
+            "user": "U2808K7U2",
+            "ts": "1540448058.000100",
+            "reactions": [
+                {
+                    "name": "slightly_smiling_face",
+                    "users": [
+                        "U0JACJLRJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "65debdc2-cbf5-422b-8a29-fdafcb58d7f7",
+            "type": "message",
+            "text": "11\/2は厳しいか。",
+            "user": "U0JACJLRJ",
+            "ts": "1540443526.000100"
+        },
+        {
+            "client_msg_id": "9cd4cb3e-5369-4a76-9cee-c80c66e16258",
+            "type": "message",
+            "text": "時間があったら是非参加して欲しいのですが、参加できる人お知らせください！",
+            "user": "U0JACJLRJ",
+            "ts": "1540443515.000100"
+        },
+        {
+            "client_msg_id": "3288db33-6296-4055-bf99-88de6cb4e7d8",
+            "type": "message",
+            "text": "来週のPENS生との交流企画です。\n---\n\n■ 学園祭準備\n1) 10\/29(月)18:00-: ホットク（韓国のお菓子）の試作\n2) 11\/2(金): テント準備など\n\n■ 工房体験\n3) 10\/29(月) 3限: サンドブラスティング（ガラス細工）\n---",
+            "user": "U0JACJLRJ",
+            "ts": "1540443488.000100"
+        },
+        {
+            "client_msg_id": "c0731c65-d2a3-4193-8f03-2e682fdcef87",
+            "type": "message",
+            "text": "10\/29月曜日の3限に、PENS生が工房体験をします。一緒に参加できる人、お知らせください！",
+            "user": "U0JACJLRJ",
+            "ts": "1540363415.000100"
+        },
+        {
+            "client_msg_id": "15d89068-b010-4888-9084-58459b3d4809",
+            "type": "message",
+            "text": "<@U12475CJC> <@UDGLEMJJE> <@UA0BWS0F8>\n10月26日（金）12：40－13：30に行われるケバブパーティーの場所です。\n\n天候が良い（＋寒くない）場合：幾徳開館　第2食堂の外庭\n天候が悪い場合：第2食堂入口の右側のスペース",
+            "user": "U0JACJLRJ",
+            "ts": "1540299077.000100"
+        },
+        {
+            "client_msg_id": "a3c04456-ba84-448f-917a-4bcea0adc55f",
+            "type": "message",
+            "text": "わかりました。",
+            "user": "U4YM85G94",
+            "ts": "1540262731.000100",
+            "thread_ts": "1540246130.000100",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "910fe0a4-a3ed-44fb-895e-5c10e97081cc",
+            "type": "message",
+            "text": "(3) <@U4Y2B9X28> <@U4XUM59NX> <@U4Y3V5NKX> 観光のお勧め場所、日本文化、遊び、はやっている物、自分の趣味などの紹介を英語でできるように準備をお願いできますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1540246251.000100"
+        },
+        {
+            "client_msg_id": "63d504a8-f15f-4e9c-b52c-51069c3b2061",
+            "type": "message",
+            "text": "(2) <@U2808K7U2> <@U4YM85G94> 研究室での研究の取り組みを英語で紹介できるようにできますか。以前作ったOCのポスターが残っていると思いますが、それを作成するようなイメージです。",
+            "user": "U0JACJLRJ",
+            "ts": "1540246130.000100",
+            "thread_ts": "1540246130.000100",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1540262731.000100",
+            "reply_users": [
+                "U4YM85G94"
+            ],
+            "replies": [
+                {
+                    "user": "U4YM85G94",
+                    "ts": "1540262731.000100"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U2808K7U2"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "5d24b003-d085-4303-a28b-956b63e34f36",
+            "type": "message",
+            "text": "英語でのコミュニケーションは大変だと思いますが、以下の準備をお願いして良いですか。\n(1)院生 <@U0JAEV08K> <@U0J8PMAQJ> <@U12475CJC> <@UA0BWS0F8> ：9月国際シンポジウムの時のポスター発表内容で良いので（準備できるなら他でも構いません）、英語で研究紹介をプレゼンできるようにしてください。",
+            "user": "U0JACJLRJ",
+            "ts": "1540246046.000100"
+        },
+        {
+            "client_msg_id": "21b15923-cf88-41db-89f6-28eca4458e99",
+            "type": "message",
+            "text": "(1) 学園祭の準備をお願いします。私は11\/3(土)には戻るので、学園祭に参加するようにします。\n(2)PENS学生のサポートをお願いします。学園祭の準備を手伝ってもらったり、一緒にお昼を多部にいくなど積極的に交流をしてください。",
+            "user": "U0JACJLRJ",
+            "ts": "1540244718.000100"
+        },
+        {
+            "client_msg_id": "497e8f8d-435e-4ad9-84d2-0dae76dcfe2c",
+            "type": "message",
+            "text": "来週1週間上村くんと出張します。いくつかお願いがあります。",
+            "user": "U0JACJLRJ",
+            "ts": "1540244578.000100"
+        },
+        {
+            "client_msg_id": "cd182029-5dcc-4076-b8dd-87b9382fe87e",
+            "type": "message",
+            "text": "情報処理試験を受ける人は、頑張ってください。",
+            "user": "U0JACJLRJ",
+            "ts": "1540078591.000100",
+            "reactions": [
+                {
+                    "name": "skull",
+                    "users": [
+                        "U0JAEV08K",
+                        "U12475CJC"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "A37C05B9-F516-4AFF-ADB0-EB59B7DE3C8E",
+            "type": "message",
+            "text": "向かっています",
+            "user": "U0JACJLRJ",
+            "ts": "1539844107.000100",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U4Y2B9X28",
+                        "U2808K7U2"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "BB0DFA32-77CF-4DC1-B260-7B00BD08952B",
+            "type": "message",
+            "text": "先に駐車場に来てしまいました。",
+            "user": "U2808K7U2",
+            "ts": "1539843893.000100"
+        }
+    ],
+    "has_more": true,
+    "is_limited": false
+}

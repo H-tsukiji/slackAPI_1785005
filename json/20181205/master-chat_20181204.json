@@ -1,0 +1,1561 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "type": "message",
+            "text": "周波数確認できるソフト",
+            "files": [
+                {
+                    "id": "FEJ3KLZFT",
+                    "created": 1543911226,
+                    "timestamp": 1543911226,
+                    "name": "HotWav.zip",
+                    "title": "HotWav.zip",
+                    "mimetype": "application\/zip",
+                    "filetype": "zip",
+                    "pretty_type": "Zip",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 2667082,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEJ3KLZFT\/hotwav.zip",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEJ3KLZFT\/download\/hotwav.zip",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FEJ3KLZFT\/hotwav.zip",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEJ3KLZFT-e627259e44"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1543911227.039100"
+        },
+        {
+            "client_msg_id": "9c099a27-9cdf-4d00-aec6-be0ed7ec0991",
+            "type": "message",
+            "text": "プログラムが22kHzの音を44kHzに変えようとしてエラー出てる気がする。。。\n音の周波数も気にしてみてください",
+            "user": "U0JAEV08K",
+            "ts": "1543911211.039000"
+        },
+        {
+            "client_msg_id": "401a5720-d0bd-443d-8ae0-2842be081e08",
+            "type": "message",
+            "text": "<@U12475CJC>\n日本人ローカルに聞こえない方向にもっていくと良いかもしれません\n研究課題をわかりやすく説明するための例を考えると良い\nスライド番号を付けておく\n技術的な課題の説明になるとよい\n舌（口）の動かし方に関する重要性も説明しておく",
+            "user": "U0JACJLRJ",
+            "ts": "1543909644.036900",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543910114.000000"
+            },
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U12475CJC"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "1412a0aa-97ce-458d-815a-0f03091564d2",
+            "type": "message",
+            "text": "すごい僕にめっちゃメンション来てるモテモテだ",
+            "user": "U0J8PMAQJ",
+            "ts": "1543909599.036300"
+        },
+        {
+            "client_msg_id": "9682255f-1860-455c-bd42-73ea5ec9c279",
+            "type": "message",
+            "text": "<@U0J8PMAQJ>\n金曜日にデータベース問い合わせ周りを実装し、説明する。",
+            "user": "UA0BWS0F8",
+            "ts": "1543909581.035900"
+        },
+        {
+            "client_msg_id": "b43e9272-0203-426f-ac8f-6c0bb1196b4a",
+            "type": "message",
+            "text": "言質ですご査収ください :innocent:",
+            "user": "U0J8PMAQJ",
+            "ts": "1543909564.035700"
+        },
+        {
+            "client_msg_id": "f8a15426-9a4c-42d9-8a69-937245979339",
+            "type": "message",
+            "text": "金曜日までにデータベースの問い合わせ実装は終わらせます :innocent:",
+            "user": "U0J8PMAQJ",
+            "ts": "1543909538.034700"
+        },
+        {
+            "client_msg_id": "8c13922c-de53-44de-b082-ffb401f65629",
+            "type": "message",
+            "text": "<@U0J8PMAQJ>\n金曜日に実装の中間状況を説明する",
+            "user": "U0JAEV08K",
+            "ts": "1543909534.034500"
+        },
+        {
+            "client_msg_id": "60e08106-02d3-4bda-87b6-4d26bd7d23ee",
+            "type": "message",
+            "text": "<@U0J8PMAQJ> 実装の具体的な手順\/作業とつまってる箇所とは",
+            "user": "U12475CJC",
+            "ts": "1543909416.032900"
+        },
+        {
+            "client_msg_id": "1ec38786-f2eb-46c5-8f31-386d0549a284",
+            "type": "message",
+            "text": "<@U0J8PMAQJ>\n「実行検証実績」-&gt; 他の用語も検討してみる",
+            "user": "U0JACJLRJ",
+            "ts": "1543908883.032000",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543908887.000000"
+            }
+        },
+        {
+            "client_msg_id": "4caea420-2c73-4c78-830b-32e5becf66df",
+            "type": "message",
+            "text": "<@UA0BWS0F8>\n実験：推薦ユーザの人数をさらに増やすと、良い実験になるでしょう\nコンテンツの内容比較による協調フィルタリングによる推薦結果と比較してみてほしい",
+            "user": "U0JACJLRJ",
+            "ts": "1543908388.030900",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543908434.000000"
+            }
+        },
+        {
+            "client_msg_id": "f837ad90-b215-45b5-bcae-6b1c52c516b2",
+            "type": "message",
+            "text": "<@UA0BWS0F8>\n実験の結果の示し方で、どうやって意外な情報を推薦できたかを考えてみる\n先生が言ってたような既存の情報推薦の結果と照らし合わせて既存に内容情報が推薦されていれば意外な情報を推薦ができた等",
+            "user": "U0JAEV08K",
+            "ts": "1543908374.030600"
+        },
+        {
+            "client_msg_id": "e282df4a-4b3d-48c2-8c51-747074fb9130",
+            "type": "message",
+            "text": "<@UA0BWS0F8> ・課題にあげられている部分が解決されるとどんな嬉しいことがあるのかを説明する（もしくは説明しなくても論文には必要かもしれません）\n・ユーザ数の増加→具体的にどのくらい増やすのか\n・有効性\/特徴を示す\/明らかにするには何を示せればいいのか\n・カテゴリ1つ1つの類似度を考慮するとは。。。。？",
+            "user": "U12475CJC",
+            "ts": "1543907954.028300",
+            "edited": {
+                "user": "U12475CJC",
+                "ts": "1543907984.000000"
+            }
+        },
+        {
+            "client_msg_id": "cc3a5da1-172a-4e92-8a29-908ea2593ad9",
+            "type": "message",
+            "text": "<@U0JAEV08K>\n「組織の活性化」、「個々人の成長」などは有用性のキーワード\n研究の目的：２つの手法を提案する\nインフルエンサー：この用語で良いか？一応、説明しておくと良い\n2つの手法とも、「によって、インフルエンサーを見つける手法」という風に説明すると、聞き手はわかりやすいかもしれません。",
+            "user": "U0JACJLRJ",
+            "ts": "1543904660.024000",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543906873.000000"
+            }
+        },
+        {
+            "client_msg_id": "e150adb2-02af-4560-bacd-7098f04ae21f",
+            "type": "message",
+            "text": "12\/11(火): タイトル候補3件",
+            "user": "U0JACJLRJ",
+            "ts": "1543904554.023700"
+        },
+        {
+            "client_msg_id": "7cb3ceaa-9e3e-4d5f-a061-1fc51612d3e9",
+            "type": "message",
+            "text": "<@U12475CJC> <@U0J8PMAQJ> 今日からDEIM投稿サイトが開設したようです。",
+            "user": "U0JACJLRJ",
+            "ts": "1543807757.022100",
+            "reactions": [
+                {
+                    "name": "white_check_mark",
+                    "users": [
+                        "U12475CJC",
+                        "U0J8PMAQJ"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "710bd869-e026-4eb2-9baa-0be0743f6988",
+            "type": "message",
+            "text": "問題ないと思います。実家から福岡にくる可能性ある？",
+            "user": "U0JACJLRJ",
+            "ts": "1543632820.021200",
+            "thread_ts": "1543561559.010600",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "type": "message",
+            "subtype": "thread_broadcast",
+            "text": "ボキャブラリー確保的な意味でのタイトル案\n- 仮想環境上における実行検証実績に基づいたシステム障害解決支援機構の構築",
+            "user": "U0J8PMAQJ",
+            "ts": "1543571468.020600",
+            "thread_ts": "1543561522.009500",
+            "root": {
+                "client_msg_id": "d5875a62-6051-4923-a217-26a73aeaf557",
+                "type": "message",
+                "text": "<@U12475CJC> <@U0J8PMAQJ> Deimのタイトル",
+                "user": "U0JACJLRJ",
+                "ts": "1543561522.009500",
+                "thread_ts": "1543561522.009500",
+                "reply_count": 1,
+                "reply_users_count": 1,
+                "latest_reply": "1543571468.020600",
+                "reply_users": [
+                    "U0J8PMAQJ"
+                ],
+                "replies": [
+                    {
+                        "user": "U0J8PMAQJ",
+                        "ts": "1543571468.020600"
+                    }
+                ],
+                "subscribed": false,
+                "reactions": [
+                    {
+                        "name": "eyes",
+                        "users": [
+                            "U0J8PMAQJ"
+                        ],
+                        "count": 1
+                    }
+                ]
+            },
+            "client_msg_id": "fe277407-8f40-4dd3-b2b8-c1fc95348f28"
+        },
+        {
+            "client_msg_id": "B594F96F-67D1-455A-BCCC-8E67A0F2541E",
+            "type": "message",
+            "text": "その代わりに、全国大会終わったら、帰省してもいいですか………。\n今年の春逃すと、1年半以上、帰れないことになるので、いい加減、帰りたいです………。",
+            "user": "U2808K7U2",
+            "ts": "1543570696.020200",
+            "thread_ts": "1543561559.010600",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "5dec610b-47b9-4c0d-960a-36f1dc44257a",
+            "type": "message",
+            "text": "<@U2808K7U2> :slightly_smiling_face:",
+            "user": "U0JACJLRJ",
+            "ts": "1543570314.017600",
+            "thread_ts": "1543561559.010600",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "cea7bb25-7dac-4126-9905-08d9f92426ef",
+            "type": "message",
+            "text": "<@U0JAEV08K> 相対的な関係性の距離計算：\nDEIM2017:アプローチ1\n電気学会: アプローチ2",
+            "user": "U0JACJLRJ",
+            "ts": "1543564188.017400",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543564200.000000"
+            },
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U0JAEV08K"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "96417B16-9B56-4371-A67D-66C5331C2B5E",
+            "type": "message",
+            "text": "<@U0JACJLRJ>  情処全国大会というと、第81回 IPSJ (3\/14-3\/16 in 福大)で、間違いないでしょうか。\n\nとりあえず、容態も安定してきているので、死なない程度に、行けるように頑張ろうと思います。",
+            "user": "U2808K7U2",
+            "ts": "1543563844.016500",
+            "thread_ts": "1543561559.010600",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "37bb1b8d-c7a5-46f4-bb2d-1f43d2c3380c",
+            "type": "message",
+            "text": "<@U0J8PMAQJ>\nセミナーで先生から受けた研究概要に関するフィードバックを直接DEIMのペーパーに書くと良いと思います(アブスト？)",
+            "user": "U0JAEV08K",
+            "ts": "1543562183.013200",
+            "edited": {
+                "user": "U0JAEV08K",
+                "ts": "1543562197.000000"
+            },
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U0J8PMAQJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "462746e7-a9b1-4a2f-8f4d-e0ec97919455",
+            "type": "message",
+            "text": "TODO：かさぽん7日までにデータベース構築",
+            "user": "U0J8PMAQJ",
+            "ts": "1543562119.012000"
+        },
+        {
+            "client_msg_id": "bfa432b3-618a-4b4d-8010-fccadd4c75a1",
+            "type": "message",
+            "text": "<@U0J8PMAQJ> <@U2808K7U2> 情処全国大会はいかがですか。",
+            "user": "U0JACJLRJ",
+            "ts": "1543561559.010600",
+            "thread_ts": "1543561559.010600",
+            "reply_count": 4,
+            "reply_users_count": 2,
+            "latest_reply": "1543632820.021200",
+            "reply_users": [
+                "U2808K7U2",
+                "U0JACJLRJ"
+            ],
+            "replies": [
+                {
+                    "user": "U2808K7U2",
+                    "ts": "1543563844.016500"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543570314.017600"
+                },
+                {
+                    "user": "U2808K7U2",
+                    "ts": "1543570696.020200"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1543632820.021200"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U0J8PMAQJ",
+                        "U2808K7U2"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d5875a62-6051-4923-a217-26a73aeaf557",
+            "type": "message",
+            "text": "<@U12475CJC> <@U0J8PMAQJ> Deimのタイトル",
+            "user": "U0JACJLRJ",
+            "ts": "1543561522.009500",
+            "thread_ts": "1543561522.009500",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1543571468.020600",
+            "reply_users": [
+                "U0J8PMAQJ"
+            ],
+            "replies": [
+                {
+                    "user": "U0J8PMAQJ",
+                    "ts": "1543571468.020600"
+                }
+            ],
+            "subscribed": false,
+            "reactions": [
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U0J8PMAQJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "706b1498-1d79-40e3-86c4-5d7f54ead208",
+            "type": "message",
+            "text": "<@U0J8PMAQJ> 構築中のDBの属性を示して下さい",
+            "user": "U0JACJLRJ",
+            "ts": "1543561504.009100",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U0J8PMAQJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "e00a7153-3741-4bd2-97f5-557bf2c3dbe0",
+            "type": "message",
+            "text": "わかりました．今日は準備不足で十分なものは見せられませんが，来週以降はまとめるようにします．",
+            "user": "U12475CJC",
+            "ts": "1543561494.008700",
+            "edited": {
+                "user": "U12475CJC",
+                "ts": "1543561545.000000"
+            },
+            "thread_ts": "1543561351.007700",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "47f385b2-6d6d-460f-b5ae-530ba8f06e9c",
+            "type": "message",
+            "text": "<@U12475CJC> <@U0JAEV08K> <@U0J8PMAQJ> <@UA0BWS0F8> 研究の概要、特徴、有用性についてのスライドは（いつも）準備するようにしてみてください",
+            "user": "U0JACJLRJ",
+            "ts": "1543561351.007700",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543561430.000000"
+            },
+            "thread_ts": "1543561351.007700",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1543561494.008700",
+            "reply_users": [
+                "U12475CJC"
+            ],
+            "replies": [
+                {
+                    "user": "U12475CJC",
+                    "ts": "1543561494.008700"
+                }
+            ],
+            "subscribed": false,
+            "pinned_to": [
+                "C4W2RL2BA"
+            ],
+            "pinned_info": {
+                "channel": "C4W2RL2BA",
+                "pinned_by": "U0J8PMAQJ",
+                "pinned_ts": 1543561541
+            },
+            "reactions": [
+                {
+                    "name": "white_check_mark",
+                    "users": [
+                        "U0JAEV08K"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "eyes",
+                    "users": [
+                        "U0J8PMAQJ"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "8beab8c6-f9ef-424d-b32e-b2b7083df9bc",
+            "type": "message",
+            "text": "<https:\/\/www.kait.jp\/campuslife\/schedule\/>",
+            "user": "U0JAEV08K",
+            "ts": "1543560549.007100"
+        },
+        {
+            "client_msg_id": "6bd8bf52-a19f-4c84-b7e5-43a2029cc9c2",
+            "type": "message",
+            "text": "To: M2\n- 12月中に副査の先生に挨拶\n- 冬休み明けに進捗8割修論的なものを副査に見せる",
+            "user": "U0J8PMAQJ",
+            "ts": "1543560256.006500",
+            "pinned_to": [
+                "C4W2RL2BA"
+            ],
+            "pinned_info": {
+                "channel": "C4W2RL2BA",
+                "pinned_by": "U0J8PMAQJ",
+                "pinned_ts": 1543560286
+            }
+        },
+        {
+            "client_msg_id": "efc64a2f-6dcd-4934-beb2-3535fa0fa7bb",
+            "type": "message",
+            "text": "様式１：学位申請書・論文概要提出(M2)\n指導教員および研究科(教務課)に提出\n様式3：論文要旨(M2)\n指導教員に提出\n\n締め切り：1月10日",
+            "user": "U0JAEV08K",
+            "ts": "1543559924.004400",
+            "pinned_to": [
+                "C4W2RL2BA"
+            ],
+            "pinned_info": {
+                "channel": "C4W2RL2BA",
+                "pinned_by": "U0J8PMAQJ",
+                "pinned_ts": 1543560282
+            }
+        },
+        {
+            "client_msg_id": "9cb50dca-ce1c-4587-8a54-72acda7ad315",
+            "type": "message",
+            "text": "様式1と3：学生 -&gt; 教員\n様式2と4：教員のみ",
+            "user": "U0JACJLRJ",
+            "ts": "1543559714.002700",
+            "pinned_to": [
+                "C4W2RL2BA"
+            ],
+            "pinned_info": {
+                "channel": "C4W2RL2BA",
+                "pinned_by": "U0J8PMAQJ",
+                "pinned_ts": 1543560269
+            }
+        },
+        {
+            "client_msg_id": "2092b5d4-75d7-446e-a4d0-a696b7bebac0",
+            "type": "message",
+            "text": "主要スケジュール：\n■修論提出期限 ： 平成31年1月29日(火)\n■修論発表会　 ： 平成30年2月13日(水)　会場：K1-201, 202\n■中間発表会　 ： 平成30年2月13日(水)　会場：K1-2F ラウンジ",
+            "user": "U0JAEV08K",
+            "ts": "1543559551.000900",
+            "pinned_to": [
+                "C4W2RL2BA"
+            ],
+            "pinned_info": {
+                "channel": "C4W2RL2BA",
+                "pinned_by": "U0J8PMAQJ",
+                "pinned_ts": 1543560264
+            }
+        },
+        {
+            "client_msg_id": "C01C3DC3-DC98-4646-B301-2EAF15B9B197",
+            "type": "message",
+            "text": "やった内容としては、2章の関連研究がそれぞれの論文に分かれていたのをまとまりよく修正しました\nそれに加えて参考文献のナンバリングを統一して、全ての文献を参照している状態にしています。\n先週話した新しく見つけたブログのコミュニティにおけるインフルエンサーの文献も加えてあります。\n\n修士論文の修正でまだやっていない(苦戦している)内容としては、1章の研究背景から研究目的の内容を統合する所です。\n新規性とて、「ユーザの関係を評価する事で対象ユーザに対して相対的に影響力を持つユーザを評価することができる点にある」をDEIMの部分に入れる点となぜ相対的に影響力を持つユーザを評価することが重要であるのかを説明する点をMAWの内容より追加する点で手こづっています。\nDEIMの元文章が複雑に絡み合っているので、上手いこと追加するのに時間がかかりそうです。\n\n次やることとしては実装におけるコミュニケーションの質を図る指標としてユーザ発言内での専門単語の密度を図る部分の実装と、実ログにおける影響力を持ったユーザ評価をする+距離の算出をやりたいと思います。(夜に帰宅した時に密度の部分の実装をしようかなと思います。",
+            "user": "U0JAEV08K",
+            "ts": "1543297826.021100"
+        },
+        {
+            "client_msg_id": "f4afa71c-635a-4560-8a78-2ca51d32ac52",
+            "type": "message",
+            "text": "病院行くので、帰宅します。",
+            "user": "U0JACJLRJ",
+            "ts": "1543297272.007100"
+        },
+        {
+            "client_msg_id": "41a7d227-3bcd-451a-b265-a8cd2f705bc2",
+            "type": "message",
+            "text": "<@U0J8PMAQJ> 作業報告を詳細にお願いします。",
+            "user": "U0JACJLRJ",
+            "ts": "1543297263.006500"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FECMJTTLJ",
+                    "created": 1543297245,
+                    "timestamp": 1543297245,
+                    "name": "Master_thesis_tsukijiv6.docx",
+                    "title": "File from iOS",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 926372,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FECMJTTLJ\/master_thesis_tsukijiv6.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FECMJTTLJ\/download\/master_thesis_tsukijiv6.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FECMJTTLJ\/master_thesis_tsukijiv6.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FECMJTTLJ-78af5a6daa"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1543297246.005500"
+        },
+        {
+            "client_msg_id": "D83FAC54-0AA3-42D8-8331-F0CEB8E3FA2D",
+            "type": "message",
+            "text": "少し時間が空いたので、現段階での修士論文をここに共有しておきます。",
+            "user": "U0JAEV08K",
+            "ts": "1543297185.005200"
+        },
+        {
+            "client_msg_id": "8ce74d6b-c26a-493f-bf06-c67df3a6110a",
+            "type": "message",
+            "text": "(2)について例えば、DTWで距離の遠かった単語が、発音がうまくできない単語なので、これをリストアップして、苦手な発音記号を見つけることができるかもしれない",
+            "user": "U0JACJLRJ",
+            "ts": "1543297043.004300",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1543297055.000000"
+            }
+        },
+        {
+            "client_msg_id": "76e19cf7-50d3-4bdd-9fdd-17f3236978a4",
+            "type": "message",
+            "text": "リスニングの場合：ディクテーションすれば(1)のようなやり方も可能？\n(2)聞き取れなかった単語群から、聞き取りが苦手な発音記号をみつける",
+            "user": "U0JACJLRJ",
+            "ts": "1543296821.003300"
+        },
+        {
+            "client_msg_id": "c50fd69b-f972-4bee-bd85-2cfc42ed7c03",
+            "type": "message",
+            "text": "<@U12475CJC>\nスピーキングの場合：(1)正しい単語と、誤認識された単語の発音記号レベルでの差分\n(2)正しく発音できなかった単語群から、発音が苦手な発音記号をみつける",
+            "user": "U0JACJLRJ",
+            "ts": "1543296755.002000"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE9V9MHM1",
+                    "created": 1542893602,
+                    "timestamp": 1542893602,
+                    "name": "SIG-KBS_fujita_v4.pptx",
+                    "title": "SIG-KBS_fujita_v4.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "UA0BWS0F8",
+                    "editable": false,
+                    "size": 1032419,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE9V9MHM1\/sig-kbs_fujita_v4.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE9V9MHM1\/download\/sig-kbs_fujita_v4.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/UA0BWS0F8\/FE9V9MHM1\/sig-kbs_fujita_v4.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE9V9MHM1-14506bafe4"
+                }
+            ],
+            "upload": true,
+            "user": "UA0BWS0F8",
+            "display_as_bot": false,
+            "ts": "1542893604.001100"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FEBCTNW30",
+                    "created": 1542887722,
+                    "timestamp": 1542887722,
+                    "name": "実験結果v3.xlsx",
+                    "title": "実験結果v3.xlsx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "filetype": "xlsx",
+                    "pretty_type": "Excel スプレッドシート",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 76089,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEBCTNW30\/____________v3.xlsx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FEBCTNW30\/download\/____________v3.xlsx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FEBCTNW30\/____________v3.xlsx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FEBCTNW30-eb37df631f"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1542887723.000100"
+        },
+        {
+            "client_msg_id": "58874ded-48b3-407b-9b23-9eddc4b937eb",
+            "type": "message",
+            "text": "・S15：’感情判定モデル’の文字ももっと大きくて大丈夫だと思います．\n・S26：方式２：の’：’が抜けてるように思います．\n・文字の途中で改行していることが多いので，できるところは区切り良く改行するとよいと思います．\n・S32：実験データの正解コンテンツについて，もう少し詳しく述べる必要があると思います．\n・実験結果：色を変えていることに意味があるなら，その意味を空いている箇所に補足するとわかりやすいと思います．\n・実験考察で，口頭でのみ説明している部分が多いかつそこが重要であると思うので，そこを説明するスライドを作ると良いと思います．",
+            "user": "U12475CJC",
+            "ts": "1542695547.003200",
+            "edited": {
+                "user": "U12475CJC",
+                "ts": "1542695795.000000"
+            }
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE7NJQZCK",
+                    "created": 1542694575,
+                    "timestamp": 1542694575,
+                    "name": "SIG-KBS_fujita_v3.pptx",
+                    "title": "SIG-KBS_fujita_v3.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "UA0BWS0F8",
+                    "editable": false,
+                    "size": 986542,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE7NJQZCK\/sig-kbs_fujita_v3.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE7NJQZCK\/download\/sig-kbs_fujita_v3.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/UA0BWS0F8\/FE7NJQZCK\/sig-kbs_fujita_v3.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE7NJQZCK-174a01d7d9"
+                }
+            ],
+            "upload": true,
+            "user": "UA0BWS0F8",
+            "display_as_bot": false,
+            "ts": "1542694576.000100"
+        },
+        {
+            "client_msg_id": "7A5800AE-4EA5-4B90-B6A3-858DA56315BC",
+            "type": "message",
+            "text": "PPTにある3つの感情行列のスライドは関係性がわかりやすく良いと思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1542512944.002000"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE5G0F2TX",
+                    "created": 1542356354,
+                    "timestamp": 1542356354,
+                    "name": "感情行列3兄弟v2.pptx",
+                    "title": "感情行列3兄弟v2.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U12475CJC",
+                    "editable": false,
+                    "size": 46045,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE5G0F2TX\/____________3______v2.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE5G0F2TX\/download\/____________3______v2.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FE5G0F2TX\/____________3______v2.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE5G0F2TX-2dd5f828c2"
+                }
+            ],
+            "upload": true,
+            "user": "U12475CJC",
+            "display_as_bot": false,
+            "ts": "1542356356.031200"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE59CHMJ6",
+                    "created": 1542353197,
+                    "timestamp": 1542353197,
+                    "name": "感情行列3兄弟.pptx",
+                    "title": "感情行列3兄弟.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 41390,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE59CHMJ6\/____________3______.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE59CHMJ6\/download\/____________3______.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FE59CHMJ6\/____________3______.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE59CHMJ6-ae059c278c"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1542353198.030900"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE4H0L1EC",
+                    "created": 1542352774,
+                    "timestamp": 1542352774,
+                    "name": "image.png",
+                    "title": "画像がペーストされた日時: 2018-11-16, 4:19 午後",
+                    "mimetype": "image\/png",
+                    "filetype": "png",
+                    "pretty_type": "PNG",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 42651,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE4H0L1EC\/image.png",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE4H0L1EC\/download\/image.png",
+                    "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FE4H0L1EC-0b885062e8\/image_64.png",
+                    "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FE4H0L1EC-0b885062e8\/image_80.png",
+                    "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FE4H0L1EC-0b885062e8\/image_360.png",
+                    "thumb_360_w": 243,
+                    "thumb_360_h": 360,
+                    "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FE4H0L1EC-0b885062e8\/image_160.png",
+                    "image_exif_rotation": 1,
+                    "original_w": 317,
+                    "original_h": 470,
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FE4H0L1EC\/image.png",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE4H0L1EC-6ebf81f988"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1542352776.030600"
+        },
+        {
+            "client_msg_id": "cbb28835-d782-4c42-b435-0f347809712f",
+            "type": "message",
+            "text": "ユーザ感情表現行列＝対象ユーザがコンテンツに抱く感情\nカテゴリ感情表現行列＝対象ユーザがコンテンツに抱く感情をカテゴリに集約したもの\nコンテンツ感情表現行列＝コンテンツが不特定多数のユーザに与えている感情",
+            "user": "U0JAEV08K",
+            "ts": "1542352529.030300",
+            "edited": {
+                "user": "U0JAEV08K",
+                "ts": "1542352576.000000"
+            },
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U12475CJC"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "client_msg_id": "bf4a3e44-2bdc-4737-9177-470378d3bf83",
+            "type": "message",
+            "text": "[先行研究]推薦コンテンツに対するユーザの直感的な興味を高める\n[本提案手法]共通コンテンツ数が少ない場合においても，ユーザ間距離の算出精度を改善することができる．",
+            "user": "U0JAEV08K",
+            "ts": "1542351510.028400"
+        },
+        {
+            "client_msg_id": "b9b428d0-b33c-4333-b742-afa07f93d541",
+            "type": "message",
+            "text": "to: 藤田さん\n・関連研究と先行研究のスライドは順番逆の方が流れがすっきりする気がします．\n・感情表現行列のスライド→ユーザがそれぞれ誰なのか明示的に示した方が良いと思います．\n・STEPの数字と場所が怪しい",
+            "user": "U12475CJC",
+            "ts": "1542350790.027900"
+        },
+        {
+            "client_msg_id": "17843D84-926E-405D-8E84-54B668B6EEE3",
+            "type": "message",
+            "text": "<@U12475CJC> くんや <@U0J8PMAQJ> くんの研究についても、前回のゼミ後にちょっと話し合ったので、これらもディスカッションしておいてもらえますか。 ",
+            "user": "U0JACJLRJ",
+            "ts": "1542350009.027500",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U12475CJC",
+                        "U0J8PMAQJ"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE6A3E9L7",
+                    "created": 1542349092,
+                    "timestamp": 1542349092,
+                    "name": "SIG-KBS_fujita.pptx",
+                    "title": "SIG-KBS_fujita.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "UA0BWS0F8",
+                    "editable": false,
+                    "size": 844763,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE6A3E9L7\/sig-kbs_fujita.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE6A3E9L7\/download\/sig-kbs_fujita.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/UA0BWS0F8\/FE6A3E9L7\/sig-kbs_fujita.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE6A3E9L7-921e5f69e5"
+                }
+            ],
+            "upload": true,
+            "user": "UA0BWS0F8",
+            "display_as_bot": false,
+            "ts": "1542349093.022900"
+        },
+        {
+            "client_msg_id": "231f9d36-bbf8-4a4f-aac9-26eca9f7c32f",
+            "type": "message",
+            "text": "参加登録の方は登録済みでした。",
+            "user": "UA0BWS0F8",
+            "ts": "1542346420.022600",
+            "thread_ts": "1542340733.021500",
+            "parent_user_id": "U0JACJLRJ"
+        },
+        {
+            "client_msg_id": "68B57E1F-117D-4299-9CD5-81EBA89641A5",
+            "type": "message",
+            "text": "（論文投稿時に、同時申し込みしているよね？）",
+            "user": "U0JACJLRJ",
+            "ts": "1542340766.022200"
+        },
+        {
+            "client_msg_id": "D5BCA46F-4EB8-4E14-B54B-A914B9281B20",
+            "type": "message",
+            "text": "<@UA0BWS0F8> もしまだなら、人工知能学会 合同研究会の参加登録をWebから事前に済ましておいてください。",
+            "user": "U0JACJLRJ",
+            "ts": "1542340733.021500",
+            "thread_ts": "1542340733.021500",
+            "reply_count": 1,
+            "reply_users_count": 1,
+            "latest_reply": "1542346420.022600",
+            "reply_users": [
+                "UA0BWS0F8"
+            ],
+            "replies": [
+                {
+                    "user": "UA0BWS0F8",
+                    "ts": "1542346420.022600"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "78910813-60F0-41B8-9EA1-885E2402CCB7",
+            "type": "message",
+            "text": "<@UA0BWS0F8> 先週のゼミで、全部のコンテンツが推薦対象としても良いのではと発言しましたが、私の勘違いです。類似すると判定されたユーザが持つ未知コンテンツが推薦対象となることで問題ないと思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1542336992.020400",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1542337006.000000"
+            }
+        },
+        {
+            "client_msg_id": "DB50E4A3-94FD-4E47-BD48-5D8B5C767CE3",
+            "type": "message",
+            "text": "今日の院ゼミは藤田くんの発表練習などお願いします。",
+            "user": "U0JACJLRJ",
+            "ts": "1542336888.017900",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U12475CJC",
+                        "U0J8PMAQJ"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "Test",
+            "files": [
+                {
+                    "id": "FE3Q3QTRU",
+                    "created": 1542117179,
+                    "timestamp": 1542117179,
+                    "name": "kasai.pptx",
+                    "title": "File from iOS",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 848928,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE3Q3QTRU\/kasai.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE3Q3QTRU\/download\/kasai.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FE3Q3QTRU\/kasai.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE3Q3QTRU-0b95320792"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1542117181.016800"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FE2AF7A93",
+                    "created": 1542093947,
+                    "timestamp": 1542093947,
+                    "name": "SIG-KBS_fujita_v15.docx",
+                    "title": "SIG-KBS_fujita_v15.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "UA0BWS0F8",
+                    "editable": false,
+                    "size": 314253,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE2AF7A93\/sig-kbs_fujita_v15.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FE2AF7A93\/download\/sig-kbs_fujita_v15.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/UA0BWS0F8\/FE2AF7A93\/sig-kbs_fujita_v15.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FE2AF7A93-cd762b13fb"
+                }
+            ],
+            "upload": true,
+            "user": "UA0BWS0F8",
+            "display_as_bot": false,
+            "ts": "1542093948.014800"
+        },
+        {
+            "client_msg_id": "300D6815-4527-4E6C-B58A-047E1017196A",
+            "type": "message",
+            "text": "<@U0JACJLRJ> わかりました。今日のレポートで報告します。",
+            "user": "U12475CJC",
+            "ts": "1541996928.014700"
+        },
+        {
+            "client_msg_id": "2BF112B6-A752-42CE-AE8A-59BFC3499894",
+            "type": "message",
+            "text": "<@U12475CJC> KCICの論文のページ番号を調べて、書誌情報をまとめておいてください。",
+            "user": "U0JACJLRJ",
+            "ts": "1541996868.014200"
+        },
+        {
+            "client_msg_id": "639C1A91-A53E-4B09-95B4-B5206ED865D5",
+            "type": "message",
+            "text": "質問やコメント\n\n類似度スコアについて：\n発言について制約はあったか。引用などは考慮したか。\n\nセッティングの意味：「教師がやはり影響がある」といった当たり前のことを評価したいのか。\n実験の目的をはっきりとした方が良い\n実際の会議で利用を目指すと良い\n\n重み -&gt; バイアスをかける\n\nセミナー外の発言はあったのか\n\nはじめに言った人\n語尾なども考慮すると、影響評価の精度がますのでは。\n影響を与える発言の定義がまだあいまい。",
+            "user": "U0JACJLRJ",
+            "ts": "1541813699.012900",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1541813805.000000"
+            }
+        },
+        {
+            "client_msg_id": "291FC4D6-A3A2-44A0-B657-E0207A434523",
+            "type": "message",
+            "text": "<@U0JAEV08K> <@U0J8PMAQJ> <@UA0BWS0F8> 発表論文リスト、コンテンスト結果、受賞歴などをまとめておくようにしてください。",
+            "user": "U0JACJLRJ",
+            "ts": "1541809029.012700"
+        },
+        {
+            "client_msg_id": "AFF77255-4F48-4C48-9C9E-7BF6F14DC869",
+            "type": "message",
+            "text": "電気学会研究会資料 情報システム研究会",
+            "user": "U0JACJLRJ",
+            "ts": "1541808973.011100"
+        },
+        {
+            "client_msg_id": "9A51489E-2DD7-4BEF-9772-140405B9B411",
+            "type": "message",
+            "text": "<@U0J8PMAQJ> pp.45-49",
+            "user": "U0JACJLRJ",
+            "ts": "1541808923.010300"
+        },
+        {
+            "client_msg_id": "8385823C-E284-4D4C-8828-46B70363F883",
+            "type": "message",
+            "text": "<@U0JAEV08K> pp.39-44",
+            "user": "U0JACJLRJ",
+            "ts": "1541808907.009900"
+        },
+        {
+            "client_msg_id": "451D9AFC-B22E-42EF-B5E2-4C76E5B6DD92",
+            "type": "message",
+            "text": "<@UA0BWS0F8> 11\/23発表スライドの準備を始めていますか？",
+            "user": "U0JACJLRJ",
+            "ts": "1541804456.009500"
+        },
+        {
+            "client_msg_id": "F114BD8E-2F46-4ED7-A45A-7D285F9508FC",
+            "type": "message",
+            "text": "<@U0JAEV08K> 研究の概要、特徴、有用性を明確・簡潔に説明できるようにしておきましょう。",
+            "user": "U0JACJLRJ",
+            "ts": "1541804393.008700",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1541804435.000000"
+            }
+        },
+        {
+            "client_msg_id": "2620fb4a-8b68-45f2-8ae7-946a1ca3d3fc",
+            "type": "message",
+            "text": "わかりました",
+            "user": "U12475CJC",
+            "ts": "1541734765.008500"
+        },
+        {
+            "client_msg_id": "e81c534b-5bc5-4879-83f0-a216cdae6865",
+            "type": "message",
+            "text": "わかりました",
+            "user": "U0J8PMAQJ",
+            "ts": "1541734011.008100"
+        },
+        {
+            "client_msg_id": "33074878-432F-458C-BE98-F4375E0B83D4",
+            "type": "message",
+            "text": "<@U0J8PMAQJ> <@UA0BWS0F8> <@U12475CJC> 金沢出張のため、今日の院ゼミは、自主ゼミでお願いします。",
+            "user": "U0JACJLRJ",
+            "ts": "1541732939.007600",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U0J8PMAQJ",
+                        "UA0BWS0F8"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "BD60829E-C056-433D-91F2-A32D8D8CD8D3",
+            "type": "message",
+            "text": "<@U12475CJC> e-Listneningシステムなどの英語学習システムのメンテナンスをお願いします。12\/22のTOEICに向けて勉強会などに利用したいです。",
+            "user": "U0JACJLRJ",
+            "ts": "1541732902.006600"
+        },
+        {
+            "client_msg_id": "FC222B55-1E13-4B40-8044-B059EBD71152",
+            "type": "message",
+            "text": "<@U0J8PMAQJ> <@UA0BWS0F8> これまで出した国内論文のいくつかを英語論文にしておいた方が良いと思うので、英訳などをしてもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1541732859.005200",
+            "reactions": [
+                {
+                    "name": "heavy_check_mark",
+                    "users": [
+                        "U0J8PMAQJ",
+                        "UA0BWS0F8"
+                    ],
+                    "count": 2
+                }
+            ]
+        },
+        {
+            "client_msg_id": "d5f8c40b-1b04-4ce7-9762-2514ca88ed26",
+            "type": "message",
+            "text": "<@U0JAEV08K> ありがとう。",
+            "user": "U0JACJLRJ",
+            "ts": "1541556398.003500",
+            "reactions": [
+                {
+                    "name": "pray",
+                    "users": [
+                        "U0JAEV08K"
+                    ],
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDXEXCTTL",
+                    "created": 1541556369,
+                    "timestamp": 1541556369,
+                    "name": "IEEJ_tsukiji_v6.pptx",
+                    "title": "IEEJ_tsukiji_v6.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 440847,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDXEXCTTL\/ieej_tsukiji_v6.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDXEXCTTL\/download\/ieej_tsukiji_v6.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FDXEXCTTL\/ieej_tsukiji_v6.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDXEXCTTL-e77466d23e"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1541556370.003000"
+        },
+        {
+            "client_msg_id": "0B03265D-3CAF-4D5C-A1B3-49E67C3A3B8D",
+            "type": "message",
+            "text": "わかりましたありがとうございます\n多分今共有してくれたファイルPENSの子達のスライドだと思います",
+            "user": "U0JAEV08K",
+            "ts": "1541556289.002900"
+        },
+        {
+            "client_msg_id": "54d9844b-ffc6-4e57-85c4-72575515e748",
+            "type": "message",
+            "text": "<@U0JAEV08K> 質問対策をしましょう。",
+            "user": "U0JACJLRJ",
+            "ts": "1541556165.001500"
+        },
+        {
+            "client_msg_id": "eb7f46e4-7f69-4669-9c39-92afb19de1ba",
+            "type": "message",
+            "text": "<@U0JAEV08K> おおむね良いと思います。実験目的のスライドをちょっと修正しました。",
+            "user": "U0JACJLRJ",
+            "ts": "1541556132.001100"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDVR4PF1N",
+                    "created": 1541480615,
+                    "timestamp": 1541480615,
+                    "name": "IEEJ_tsukiji_v5.pptx",
+                    "title": "IEEJ_tsukiji_v5.pptx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+                    "filetype": "pptx",
+                    "pretty_type": "PowerPoint プレゼンテーション",
+                    "user": "U0JAEV08K",
+                    "editable": false,
+                    "size": 440477,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDVR4PF1N\/ieej_tsukiji_v5.pptx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDVR4PF1N\/download\/ieej_tsukiji_v5.pptx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FDVR4PF1N\/ieej_tsukiji_v5.pptx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDVR4PF1N-f5b077c997"
+                }
+            ],
+            "upload": true,
+            "user": "U0JAEV08K",
+            "display_as_bot": false,
+            "ts": "1541480616.000100"
+        },
+        {
+            "client_msg_id": "a7e79716-97db-4d65-84fd-f07b6cab8f66",
+            "type": "message",
+            "text": "あと、学会事務局の岩間様にも、昨晩訂正版を提出した旨、連絡をしておくと良いと思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1540166746.000100",
+            "thread_ts": "1540127200.000100",
+            "parent_user_id": "UA0BWS0F8"
+        },
+        {
+            "client_msg_id": "8cee71f2-af29-4430-90bb-404f87f6f3a0",
+            "type": "message",
+            "text": "ご苦労さま。メールで原稿を送っておいてもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1540164734.000100",
+            "thread_ts": "1540127200.000100",
+            "parent_user_id": "UA0BWS0F8"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDJU54L90",
+                    "created": 1540136660,
+                    "timestamp": 1540136660,
+                    "name": "研究室ムービー_英語版ナレ原稿.txt",
+                    "title": "研究室ムービー_英語版ナレ原稿.txt",
+                    "mimetype": "text\/plain",
+                    "filetype": "text",
+                    "pretty_type": "プレーンテキスト",
+                    "user": "U2808K7U2",
+                    "editable": false,
+                    "size": 5408,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDJU54L90\/___________________________________________.txt",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDJU54L90\/download\/___________________________________________.txt",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U2808K7U2\/FDJU54L90\/___________________________________________.txt",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDJU54L90-97925ba955"
+                }
+            ],
+            "upload": true,
+            "user": "U2808K7U2",
+            "display_as_bot": false,
+            "ts": "1540136661.000100"
+        },
+        {
+            "client_msg_id": "7754acbd-4ef6-4d3d-950d-c04bc006af8b",
+            "type": "message",
+            "text": "築地先輩の動画のナレーション原稿を英訳したので，あげておきます",
+            "user": "U2808K7U2",
+            "ts": "1540136637.000100"
+        },
+        {
+            "client_msg_id": "51d24ec5-b306-4bf1-837b-4e8281990fa3",
+            "type": "message",
+            "text": "論文の提出を完了しました。",
+            "user": "UA0BWS0F8",
+            "ts": "1540127200.000100",
+            "thread_ts": "1540127200.000100",
+            "reply_count": 2,
+            "reply_users_count": 1,
+            "latest_reply": "1540166746.000100",
+            "reply_users": [
+                "U0JACJLRJ"
+            ],
+            "replies": [
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1540164734.000100"
+                },
+                {
+                    "user": "U0JACJLRJ",
+                    "ts": "1540166746.000100"
+                }
+            ],
+            "subscribed": false
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDK3PEQJH",
+                    "created": 1540127016,
+                    "timestamp": 1540127016,
+                    "name": "SIG-KBS_fujita_v15.docx",
+                    "title": "SIG-KBS_fujita_v15.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "UA0BWS0F8",
+                    "editable": false,
+                    "size": 314227,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDK3PEQJH\/sig-kbs_fujita_v15.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDK3PEQJH\/download\/sig-kbs_fujita_v15.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/UA0BWS0F8\/FDK3PEQJH\/sig-kbs_fujita_v15.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDK3PEQJH-3d1edc4b93"
+                }
+            ],
+            "upload": true,
+            "user": "UA0BWS0F8",
+            "display_as_bot": false,
+            "ts": "1540127017.000100"
+        },
+        {
+            "client_msg_id": "733ce50b-f034-4b26-be45-50a0fcb315b3",
+            "type": "message",
+            "text": "確認しました。一部修正箇所に誤字が存在しましたので，訂正しました。\n今日は修正した以下のものを投稿しておきます。",
+            "user": "UA0BWS0F8",
+            "ts": "1540127002.000100"
+        },
+        {
+            "client_msg_id": "89623283-dc9d-4538-bd02-25a7356c5561",
+            "type": "message",
+            "text": "アイディアに関する部分を丁寧に図示してください。読者の理解に役立つし、私の一連の質問に対しても、その図を参照しながらすることで、わかりやすい回答をしてもらえるのではないかと思います。",
+            "user": "U0JACJLRJ",
+            "ts": "1540125349.000100"
+        },
+        {
+            "client_msg_id": "841b62b4-7e25-404a-a167-7148f40d10c4",
+            "type": "message",
+            "text": "文章の可読性に難があるので、院生に頼んで事前にチェックをしてもらうようにしてください。書き漏らしがないように網羅的に書いてくれるのは非常によく、なるべく正確に表現したい気持ちも理解できますが、やはり読みにくいし、正しく理解して修正することができません。",
+            "user": "U0JACJLRJ",
+            "ts": "1540125202.000100",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1540125855.000000"
+            }
+        },
+        {
+            "client_msg_id": "4721fe90-42c1-4466-98d2-9156f39f1103",
+            "type": "message",
+            "text": "提案方式の特徴、研究課題を明確にし、それに沿って、実現可能性を検証しているということがわかるように、実験を行い、結果をしめしてください。",
+            "user": "U0JACJLRJ",
+            "ts": "1540125157.000100"
+        },
+        {
+            "client_msg_id": "33b6a6cc-1dc5-4495-9e9b-1c861a76710b",
+            "type": "message",
+            "text": "メールでおくりましたが、4章と5章を修正しました。文章の体裁はなおしましたが、藤田君の説明で理解できていない部分があります。",
+            "user": "U0JACJLRJ",
+            "ts": "1540125078.000100"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDJQ7DD43",
+                    "created": 1540124927,
+                    "timestamp": 1540124927,
+                    "name": "SIG-KBS_fujita_v14.docx",
+                    "title": "SIG-KBS_fujita_v14.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "U0JACJLRJ",
+                    "editable": false,
+                    "size": 315029,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDJQ7DD43\/sig-kbs_fujita_v14.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDJQ7DD43\/download\/sig-kbs_fujita_v14.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FDJQ7DD43\/sig-kbs_fujita_v14.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDJQ7DD43-da8dbf26d3"
+                }
+            ],
+            "upload": true,
+            "user": "U0JACJLRJ",
+            "display_as_bot": false,
+            "ts": "1540124928.000100"
+        },
+        {
+            "type": "message",
+            "text": "",
+            "files": [
+                {
+                    "id": "FDJ3MG97S",
+                    "created": 1540107147,
+                    "timestamp": 1540107147,
+                    "name": "SIG-KBS_fujita_v13.docx",
+                    "title": "SIG-KBS_fujita_v13.docx",
+                    "mimetype": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "filetype": "docx",
+                    "pretty_type": "Word 文書",
+                    "user": "UA0BWS0F8",
+                    "editable": false,
+                    "size": 313230,
+                    "mode": "hosted",
+                    "is_external": false,
+                    "external_type": "",
+                    "is_public": true,
+                    "public_url_shared": false,
+                    "display_as_bot": false,
+                    "username": "",
+                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDJ3MG97S\/sig-kbs_fujita_v13.docx",
+                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FDJ3MG97S\/download\/sig-kbs_fujita_v13.docx",
+                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/UA0BWS0F8\/FDJ3MG97S\/sig-kbs_fujita_v13.docx",
+                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FDJ3MG97S-292cbe3134"
+                }
+            ],
+            "upload": true,
+            "user": "UA0BWS0F8",
+            "display_as_bot": false,
+            "ts": "1540107149.000100"
+        },
+        {
+            "client_msg_id": "b5b2eed9-fa4e-459d-868e-ac10ae621e84",
+            "type": "message",
+            "text": "・ミスマッチが起きてしまったケースはカテゴリ感情を用いた場合ですが，原因として，ユーザ1のみが既知コンテンツとしてFF15の感情値をもっており，ユーザ1が興味を持つカテゴリはゲームとアニメであり，また，ユーザ2はゲームとアニメに加えて小説のカテゴリに興味を持っており，その情報を用いてカテゴリ間の感情の類似度を算出しているのですが，その際にアニメの感情値は類似している一方，ゲームはあまり類似していないのですが，算出結果はカテゴリ全体の感情の類似度を見てしまっていることが理由ではないかと考えています。\n・表5のユーザ2の既知コンテンツ全体の感情値e1~e8毎の平均値を指してます。\n追記・修正したものを↓に挙げます",
+            "user": "UA0BWS0F8",
+            "ts": "1540104585.000100",
+            "edited": {
+                "user": "UA0BWS0F8",
+                "ts": "1540107185.000000"
+            }
+        },
+        {
+            "client_msg_id": "FF5B1C0F-184B-4C6C-85F0-80A8C992EDC3",
+            "type": "message",
+            "text": "理解できないまま議論が進むのもよろしくないので、他に院生にも意見をもらうと良いです。",
+            "user": "U0JACJLRJ",
+            "ts": "1540104153.000100"
+        },
+        {
+            "client_msg_id": "C8EDD730-8CF1-47AA-B25C-E18572D13390",
+            "type": "message",
+            "text": "上の説明で既知のコンテンツ全体の感情平均について言及していますが、それの意味など良くわかっていません。",
+            "user": "U0JACJLRJ",
+            "ts": "1540103986.000100",
+            "edited": {
+                "user": "U0JACJLRJ",
+                "ts": "1540104007.000000"
+            }
+        },
+        {
+            "client_msg_id": "E033F452-EE15-471C-95F6-673A443002FF",
+            "type": "message",
+            "text": "他の院生の意見も聞いてもらえますか。",
+            "user": "U0JACJLRJ",
+            "ts": "1540103859.000100"
+        },
+        {
+            "client_msg_id": "19f308f4-f8dd-41ab-ba1a-5f76c2b6f9a8",
+            "type": "message",
+            "text": "一部修正",
+            "user": "UA0BWS0F8",
+            "ts": "1540103606.000100"
+        }
+    ],
+    "has_more": true,
+    "is_limited": false
+}
