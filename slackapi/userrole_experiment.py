@@ -264,11 +264,11 @@ if __name__ == "__main__":
     fm.close()
 
     #コサイン類似度算出
-    Cosine_similarity(files)
+    # Cosine_similarity(files)
 
     # リーダスコアの算出
     # Leader_score(memberlist)
     
     #サポート性の算出
-    # Support_score()
+    Support_score()
 
