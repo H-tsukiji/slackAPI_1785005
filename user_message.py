@@ -9,6 +9,6 @@ inputfilename = re.sub("\.[a-z]+","",inputfilename)
 csvdata = csv.reader(file)
 
 for row in csvdata:
-    userfile = open("20190214/"+row[0]+"_messages.txt","a",encoding="utf-8")
+    userfile = open("logdata/20190214/"+row[0]+"_messages.txt","a",encoding="utf-8")
     userfile.write(row[1]+"\n")
 userfile.close()
