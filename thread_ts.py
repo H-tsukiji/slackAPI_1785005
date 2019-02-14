@@ -4,12 +4,12 @@ import sys,codecs,json,glob,csv
 from slacker import Slacker
 
 # API token tokenが入ったファイルの読み込みをして取得(セキュリティ回避)
-token = codecs.open("../../slackapi_token.txt", "r","utf-8")
+token = codecs.open("../slackapi_token.txt", "r","utf-8")
 slacker = Slacker(token)
 
 #フォルダjson内にあるすべてのjsonファイルを取得する。
 files = []
-files = glob.glob('../json/20180925/*.json')
+files = glob.glob('logdata/json/20180925/*.json')
 
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)
