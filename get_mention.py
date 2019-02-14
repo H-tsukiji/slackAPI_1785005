@@ -62,7 +62,7 @@ if __name__ == '__main__':
         re_index = sorted(re_index.items(), key=lambda x:x[1],reverse=True)
 
         try:
-            with open("logdata/rep/rep_"+username+".csv", 'w', encoding="utf-8") as csvfile:
+            with open("logdata/mention/mention_"+username+".csv", 'w', encoding="utf-8") as csvfile:
                 writer = csv.writer(csvfile, lineterminator='\n')
                 writer.writerow(['userid', 'count'])
                 for i in re_index:

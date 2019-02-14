@@ -206,7 +206,7 @@ def Read_reaction_file():
 
 def Read_Mention_file():
     #csvファイルの取得
-    mention_folder = 'rep'
+    mention_folder = 'mention'
     files = []
     files = glob.glob(mention_folder+'/*.csv')
     mention_data = {}
@@ -215,7 +215,7 @@ def Read_Mention_file():
         csvdata = csv.reader(f)
         next(csvdata)
         username = os.path.basename(userfile)
-        username = re.sub('rep_','',username)
+        username = re.sub('mention_','',username)
         username = re.sub('_messages.csv','',username)
         mention_data[username] = []
         for row in csvdata:
