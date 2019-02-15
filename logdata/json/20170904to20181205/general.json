@@ -1,1403 +1,1403 @@
 {
-    "ok": true,
-    "messages": [
-        {
-            "client_msg_id": "374aa5ec-6d58-4564-a896-300076b66e8f",
-            "type": "message",
-            "text": "ありがとうございます :pray:",
-            "user": "U4Y2B9X28",
-            "ts": "1544000252.001700",
-            "thread_ts": "1544000192.001300",
-            "parent_user_id": "U0JAEV08K"
-        },
-        {
-            "type": "message",
-            "text": "",
-            "files": [
-                {
-                    "id": "FELSM2C87",
-                    "created": 1544000211,
-                    "timestamp": 1544000211,
-                    "name": "C言語プログラミングユニットⅠ.zip",
-                    "title": "C言語プログラミングユニットⅠ.zip",
-                    "mimetype": "application\/zip",
-                    "filetype": "zip",
-                    "pretty_type": "Zip",
-                    "user": "U0JAEV08K",
-                    "editable": false,
-                    "size": 27535744,
-                    "mode": "hosted",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FELSM2C87\/c__________________________________________.zip",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FELSM2C87\/download\/c__________________________________________.zip",
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FELSM2C87\/c__________________________________________.zip",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FELSM2C87-3e18553b7e"
-                }
-            ],
-            "upload": true,
-            "user": "U0JAEV08K",
-            "display_as_bot": false,
-            "ts": "1544000216.001400"
-        },
-        {
-            "client_msg_id": "3a6838e1-e4a6-411a-94f4-d380af41f95b",
-            "type": "message",
-            "text": "<@U4Y2B9X28>\n僕が一年生の時なので今と問題が違うと思いますが、一応あったので\n僕のC言語ファイルを送ります。",
-            "user": "U0JAEV08K",
-            "ts": "1544000192.001300",
-            "thread_ts": "1544000192.001300",
-            "reply_count": 1,
-            "reply_users_count": 1,
-            "latest_reply": "1544000252.001700",
-            "reply_users": [
-                "U4Y2B9X28"
-            ],
-            "replies": [
-                {
-                    "user": "U4Y2B9X28",
-                    "ts": "1544000252.001700"
-                }
-            ],
-            "subscribed": false
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 残留届の提出 at9:00.",
-            "user": "USLACKBOT",
-            "ts": "1542931204.000100"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  11月23日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届の提出 at9:00” ",
-            "user": "U4Y3V5NKX",
-            "ts": "1542252486.001800"
-        },
-        {
-            "client_msg_id": "ac3d607d-7317-447d-9219-4e67a088d277",
-            "type": "message",
-            "text": "ビーズをローソンに運び、960円かかりました。\nレシート明日持っていきます。",
-            "user": "U4YM85G94",
-            "ts": "1541579520.001700"
-        },
-        {
-            "client_msg_id": "1096BA77-7E12-4850-A83F-0F41330D42BF",
-            "type": "message",
-            "text": "おそらく、それです。\n\n羽賀くんが作ってくれた文化祭購入リストのビーズ黒の項目のリンクであれば間違いなくこれです。\nお忙しい中、申し訳ありませんが返品処理をお願いいたします。",
-            "user": "U2808K7U2",
-            "ts": "1541057872.005600",
-            "thread_ts": "1541053467.001200",
-            "parent_user_id": "U0JACJLRJ"
-        },
-        {
-            "client_msg_id": "0F1D27C5-509C-4EC8-B22B-4E71F4397E65",
-            "type": "message",
-            "text": "昨日の時点では他の4年生が、直接買うかもしれないと言っていたので、注文は待った方がいいかもしれません\n今日は4年生だけで準備すると言っていたので彼らがどうしているかによりますが…",
-            "user": "U0JAEV08K",
-            "ts": "1541053610.003200",
-            "thread_ts": "1541053350.001000",
-            "parent_user_id": "U0JACJLRJ"
-        },
-        {
-            "client_msg_id": "205ae184-81be-49f0-a5c5-f2745f9d380c",
-            "type": "message",
-            "text": "これですか：\n<http:\/\/amzn.asia\/d\/8LLDwG4>",
-            "user": "U0JACJLRJ",
-            "ts": "1541053467.001200",
-            "attachments": [
-                {
-                    "title": "BAD+91n&amp;BAD+97V BAD+83~BAD+83jBAD+83~BAD+83jBAD+83ABAD+83CBAD+83BAD+8DBAD+83BAD+93BAD+83rBAD+81[BAD+83Y Col.24 BAD+8DBAD+95 100g MB-500",
-                    "title_link": "http:\/\/amzn.asia\/d\/8LLDwG4",
-                    "text": "BAD+91n&amp;BAD+97V BAD+83~BAD+83jBAD+83~BAD+83jBAD+83ABAD+83CBAD+83BAD+8DBAD+83BAD+93BAD+83rBAD+81[BAD+83Y Col.24 BAD+8DBAD+95 100g MB-500",
-                    "fallback": "BAD+91n&amp;BAD+97V BAD+83~BAD+83jBAD+83~BAD+83jBAD+83ABAD+83CBAD+83BAD+8DBAD+83BAD+93BAD+83rBAD+81[BAD+83Y Col.24 BAD+8DBAD+95 100g MB-500",
-                    "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/513JP8Ln7KL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(7%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
-                    "from_url": "http:\/\/amzn.asia\/d\/8LLDwG4",
-                    "image_width": 476,
-                    "image_height": 250,
-                    "image_bytes": 22194,
-                    "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
-                    "service_name": "amazon.co.jp",
-                    "id": 1,
-                    "original_url": "http:\/\/amzn.asia\/d\/8LLDwG4"
-                }
-            ],
-            "thread_ts": "1541053467.001200",
-            "reply_count": 1,
-            "reply_users_count": 1,
-            "latest_reply": "1541057872.005600",
-            "reply_users": [
-                "U2808K7U2"
-            ],
-            "replies": [
-                {
-                    "user": "U2808K7U2",
-                    "ts": "1541057872.005600"
-                }
-            ],
-            "subscribed": false
-        },
-        {
-            "client_msg_id": "d11e6eda-9e9a-443f-9d0e-d74f3cc90672",
-            "type": "message",
-            "text": "<@U2808K7U2> わかりました。アマゾンのWebサイトで確認してみます。",
-            "user": "U0JACJLRJ",
-            "ts": "1541053350.001000",
-            "thread_ts": "1541053350.001000",
-            "reply_count": 1,
-            "reply_users_count": 1,
-            "latest_reply": "1541053610.003200",
-            "reply_users": [
-                "U0JAEV08K"
-            ],
-            "replies": [
-                {
-                    "user": "U0JAEV08K",
-                    "ts": "1541053610.003200"
-                }
-            ],
-            "subscribed": false
-        },
-        {
-            "client_msg_id": "1362C685-6CA4-405E-8DF4-2D1FDAA57BC7",
-            "type": "message",
-            "text": "<@U0JACJLRJ> 学園祭でのアイロンビーズの件ですが、Amazonで発注した黒のアイロンビーズが規格違いで使えないことがたった今発覚したため、返品もしくは返金処理をお願いしたいです。\n(黒のビーズは、当日までに店頭購入する予定です)",
-            "user": "U2808K7U2",
-            "ts": "1540871303.005400"
-        },
-        {
-            "user": "UDGLEMJJE",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1539815576.000200",
-            "text": "<@UDGLEMJJE>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UDDR9BE6Q",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1539571152.000200",
-            "text": "<@UDDR9BE6Q>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UDE6N0AMB",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1539571101.000200",
-            "text": "<@UDE6N0AMB>さんがチャンネルに参加しました"
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 残留届の提出.",
-            "user": "USLACKBOT",
-            "ts": "1538697608.000100"
-        },
-        {
-            "user": "UD76E6LLV",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1538642394.000200",
-            "text": "<@UD76E6LLV>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UD0TJN728",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1537932408.000200",
-            "text": "<@UD0TJN728>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UD0FNSFC1",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1537932385.000200",
-            "text": "<@UD0FNSFC1>さんがチャンネルに参加しました"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  10月5日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届の提出” ",
-            "user": "U4YM85G94",
-            "ts": "1537514893.000100",
-            "reactions": [
-                {
-                    "name": "+1",
-                    "users": [
-                        "U0J8PMAQJ"
-                    ],
-                    "count": 1
-                }
-            ]
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 残留届の提出.",
-            "user": "USLACKBOT",
-            "ts": "1536883223.000100"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  9月14日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届の提出” ",
-            "user": "U4Y3V5NKX",
-            "ts": "1535697277.000100"
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 残留届の提出.",
-            "user": "USLACKBOT",
-            "ts": "1535673607.000100"
-        },
-        {
-            "type": "message",
-            "text": "",
-            "files": [
-                {
-                    "id": "FCFED02KZ",
-                    "created": 1535081551,
-                    "timestamp": 1535081551,
-                    "name": "Chula_workshop_Kohei_KAIT.pptx",
-                    "title": "File from iOS",
-                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
-                    "filetype": "pptx",
-                    "pretty_type": "PowerPoint プレゼンテーション",
-                    "user": "U0JAEV08K",
-                    "editable": false,
-                    "size": 481712,
-                    "mode": "hosted",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FCFED02KZ\/chula_workshop_kohei_kait.pptx",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FCFED02KZ\/download\/chula_workshop_kohei_kait.pptx",
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FCFED02KZ\/chula_workshop_kohei_kait.pptx",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FCFED02KZ-c5785a1b2d"
-                }
-            ],
-            "upload": true,
-            "user": "U0JAEV08K",
-            "display_as_bot": false,
-            "ts": "1535081552.000100"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  8月31日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届の提出” ",
-            "user": "UA0BWS0F8",
-            "ts": "1534901401.000100"
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 残留届を提出して下さい。",
-            "user": "USLACKBOT",
-            "ts": "1532044813.000326"
-        },
-        {
-            "client_msg_id": "5AD93BBD-3258-4DB2-A97E-451B7D6BECBD",
-            "type": "message",
-            "text": "わかりました",
-            "user": "U0JAEV08K",
-            "ts": "1531839400.000026"
-        },
-        {
-            "client_msg_id": "1fa15bc2-b5fa-4da8-bf56-0787273af2e0",
-            "type": "message",
-            "text": "デモを作りこんで、どうにか間に合わせるみなたいなことは、しなくて良いです。",
-            "user": "U0JACJLRJ",
-            "ts": "1531836920.000316"
-        },
-        {
-            "client_msg_id": "155f2608-1f3b-40fa-860e-d302b01b2b4f",
-            "type": "message",
-            "text": "役割が分担できれば、どうにかできる範囲でお願いします。",
-            "user": "U0JACJLRJ",
-            "ts": "1531836817.000595"
-        },
-        {
-            "client_msg_id": "c6f9517f-1858-4476-83ec-7e16e563c5dc",
-            "type": "message",
-            "text": "下記の対応の準備をお願いできますか。\n1. 築地君と上村君と笠井君が作成したビデオ2本の上映\n2. 青木君のspeakingシステムと上村君のlisteningシステム\n3. 芳賀君のarダイナミックプレビューと、柴本さんのWebでの画像編集機能\n4. 中間発表のポスター資料\n5. その他動くデモ",
-            "user": "U0JACJLRJ",
-            "ts": "1531836772.000083",
-            "reactions": [
-                {
-                    "name": "heavy_check_mark",
-                    "users": [
-                        "U0J8PMAQJ",
-                        "U4XUM59NX",
-                        "U12475CJC",
-                        "U0JAEV08K",
-                        "U2808K7U2"
-                    ],
-                    "count": 5
-                }
-            ]
-        },
-        {
-            "client_msg_id": "c8d10c59-879b-4efe-b78d-317184ba2589",
-            "type": "message",
-            "text": "急で申し訳ありませんが、今準備している中間発表の内容などで、対応をお願いします。",
-            "user": "U0JACJLRJ",
-            "ts": "1531826879.000002"
-        },
-        {
-            "client_msg_id": "6fdf88d5-aab6-446f-80ce-3da7ddbe6c8a",
-            "type": "message",
-            "text": "みなさん、7\/22にオープンキャンパスの研究室公開担当でした！",
-            "user": "U0JACJLRJ",
-            "ts": "1531826803.000200",
-            "edited": {
-                "user": "U0JACJLRJ",
-                "ts": "1531826814.000000"
-            },
-            "reactions": [
-                {
-                    "name": "kodakku1",
-                    "users": [
-                        "U0J8PMAQJ",
-                        "U12475CJC",
-                        "U4Y2B9X28",
-                        "U4YM85G94"
-                    ],
-                    "count": 4
-                },
-                {
-                    "name": "thinking_face",
-                    "users": [
-                        "U0J8PMAQJ",
-                        "U12475CJC",
-                        "U4Y2B9X28"
-                    ],
-                    "count": 3
-                },
-                {
-                    "name": "fearful",
-                    "users": [
-                        "U0J8PMAQJ",
-                        "U12475CJC",
-                        "U4Y2B9X28",
-                        "U4XUM59NX",
-                        "U4Y3V5NKX",
-                        "U4YM85G94",
-                        "U2808K7U2"
-                    ],
-                    "count": 7
-                },
-                {
-                    "name": "skull",
-                    "users": [
-                        "U0JAEV08K",
-                        "U12475CJC",
-                        "U4Y2B9X28",
-                        "UA0BWS0F8"
-                    ],
-                    "count": 4
-                },
-                {
-                    "name": "boom",
-                    "users": [
-                        "U4Y2B9X28",
-                        "U12475CJC"
-                    ],
-                    "count": 2
-                },
-                {
-                    "name": "dizzy",
-                    "users": [
-                        "UA0BWS0F8",
-                        "U12475CJC"
-                    ],
-                    "count": 2
-                }
-            ]
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  7月20日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届を提出して下さい。” ",
-            "user": "U2808K7U2",
-            "ts": "1530850212.000053",
-            "reactions": [
-                {
-                    "name": "pray",
-                    "users": [
-                        "U4XUM59NX"
-                    ],
-                    "count": 1
-                }
-            ]
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 残留届を出して下さい",
-            "user": "USLACKBOT",
-            "ts": "1530835220.000249"
-        },
-        {
-            "type": "message",
-            "text": "明日のチュラ研修生のプログラムです。",
-            "files": [
-                {
-                    "id": "FBE5MKR9Q",
-                    "created": 1530015578,
-                    "timestamp": 1530015578,
-                    "name": "Program-research_plan-June27.pdf",
-                    "title": "Program-research_plan-June27.pdf",
-                    "mimetype": "application\/pdf",
-                    "filetype": "pdf",
-                    "pretty_type": "PDF",
-                    "user": "U0JACJLRJ",
-                    "editable": false,
-                    "size": 70877,
-                    "mode": "hosted",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FBE5MKR9Q\/program-research_plan-june27.pdf",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FBE5MKR9Q\/download\/program-research_plan-june27.pdf",
-                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FBE5MKR9Q-a3138666ff\/program-research_plan-june27_thumb_pdf.png",
-                    "thumb_pdf_w": 909,
-                    "thumb_pdf_h": 1286,
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FBE5MKR9Q\/program-research_plan-june27.pdf",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FBE5MKR9Q-417483fe51",
-                    "reactions": [
-                        {
-                            "name": "heavy_check_mark",
-                            "users": [
-                                "U0J8PMAQJ",
-                                "U4Y3V5NKX",
-                                "U2808K7U2",
-                                "UA0BWS0F8"
-                            ],
-                            "count": 4
-                        }
-                    ]
-                }
-            ],
-            "upload": true,
-            "user": "U0JACJLRJ",
-            "display_as_bot": false,
-            "reactions": [
-                {
-                    "name": "heavy_check_mark",
-                    "users": [
-                        "U0J8PMAQJ",
-                        "U4Y3V5NKX",
-                        "U2808K7U2",
-                        "UA0BWS0F8"
-                    ],
-                    "count": 4
-                }
-            ],
-            "ts": "1530015580.000076"
-        },
-        {
-            "client_msg_id": "1D7B19CB-E374-4EC6-9288-B68957AF890E",
-            "type": "message",
-            "text": "長沼君、チーさん、トリンくんもお誘いください。",
-            "user": "U0JACJLRJ",
-            "ts": "1529927741.000357",
-            "reactions": [
-                {
-                    "name": "tada",
-                    "users": [
-                        "U12475CJC"
-                    ],
-                    "count": 1
-                },
-                {
-                    "name": "+1",
-                    "users": [
-                        "U12475CJC",
-                        "U2808K7U2",
-                        "U4Y3V5NKX"
-                    ],
-                    "count": 3
-                }
-            ]
-        },
-        {
-            "client_msg_id": "EEBB84FE-C38D-42C4-A058-F5DA3D792114",
-            "type": "message",
-            "text": "チュラ研修生の研究テーマ企画発表会を開催します。\n鷹野研／セミナーのみなさんも聴講しましょう。\n---\n日時：6月27日（水）5限\n場所：K1 305教室\n---",
-            "user": "U0JACJLRJ",
-            "ts": "1529927493.000197",
-            "edited": {
-                "user": "U0JACJLRJ",
-                "ts": "1529927524.000000"
-            }
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  7月6日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届を出して下さい” ",
-            "user": "U2808K7U2",
-            "ts": "1529672195.000025"
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 延長届けを出してね:heart:",
-            "user": "USLACKBOT",
-            "ts": "1529625602.000003"
-        },
-        {
-            "client_msg_id": "3bc942d3-5179-4ebd-ab35-fac54d560db6",
-            "type": "message",
-            "text": "<https:\/\/www.youtube.com\/watch?v=vh3ZFtVqzac>",
-            "user": "U12475CJC",
-            "ts": "1528958621.000050",
-            "attachments": [
-                {
-                    "service_name": "YouTube",
-                    "service_url": "https:\/\/www.youtube.com\/",
-                    "title": "ドラえもん-山野さと子 - ドラえもんのうた",
-                    "title_link": "https:\/\/www.youtube.com\/watch?v=vh3ZFtVqzac",
-                    "author_name": "CHIA-CHEN LIU",
-                    "author_link": "https:\/\/www.youtube.com\/channel\/UCcEQjoQ4eWGSTtVGfAKsa7A",
-                    "thumb_url": "https:\/\/i.ytimg.com\/vi\/vh3ZFtVqzac\/hqdefault.jpg",
-                    "thumb_width": 480,
-                    "thumb_height": 360,
-                    "fallback": "YouTube Video: ドラえもん-山野さと子 - ドラえもんのうた",
-                    "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vh3ZFtVqzac?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
-                    "video_html_width": 400,
-                    "video_html_height": 225,
-                    "from_url": "https:\/\/www.youtube.com\/watch?v=vh3ZFtVqzac",
-                    "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
-                    "id": 1,
-                    "original_url": "https:\/\/www.youtube.com\/watch?v=vh3ZFtVqzac"
-                }
-            ]
-        },
-        {
-            "type": "message",
-            "text": "",
-            "files": [
-                {
-                    "id": "FB8CKNTF1",
-                    "created": 1528958021,
-                    "timestamp": 1528958039,
-                    "name": "thai_song",
-                    "title": "thai song",
-                    "mimetype": "text\/plain",
-                    "filetype": "space",
-                    "pretty_type": "ポスト",
-                    "user": "U12475CJC",
-                    "editable": true,
-                    "size": 3787,
-                    "mode": "space",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB8CKNTF1\/thai_song",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB8CKNTF1\/download\/thai_song",
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FB8CKNTF1\/thai_song",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FB8CKNTF1-41ca4754b9",
-                    "preview": "<document><p>บอก ฉัน สัก คำ ว่า เธอ ทำ ได้ อย่างไร<\/p><p>เพราะ ฉัน รู้สึก ดี ทุกครั้ง ที่อยู่ กับ เธอ<\/p><p>ที่จริง นับตั้งแต่ ที่เรา นั้นแรกเจอ<\/p><p>ไม่คิดว่า จะรัก ได้ มากมาย<\/p><\/document>",
-                    "updated": 1528958039,
-                    "editor": "U12475CJC",
-                    "last_editor": "U12475CJC",
-                    "state": "locked"
-                }
-            ],
-            "upload": false,
-            "user": "U12475CJC",
-            "display_as_bot": false,
-            "ts": "1528958194.000174"
-        },
-        {
-            "type": "message",
-            "text": "",
-            "files": [
-                {
-                    "id": "FB6L1NZC0",
-                    "created": 1528957962,
-                    "timestamp": 1528957979,
-                    "name": "__________________________________________",
-                    "title": "恋するフォーチューンクッキー",
-                    "mimetype": "text\/plain",
-                    "filetype": "space",
-                    "pretty_type": "ポスト",
-                    "user": "U12475CJC",
-                    "editable": true,
-                    "size": 3044,
-                    "mode": "space",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB6L1NZC0\/__________________________________________",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB6L1NZC0\/download\/__________________________________________",
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FB6L1NZC0\/__________________________________________",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FB6L1NZC0-2573525d06",
-                    "preview": "<document><p>Anata no koto ga suki na no ni<\/p><p>Watashi ni maru de kyoumi nai<\/p><p>Nandomeka no shitsuren no junbi<\/p><p>Yeah, yeah, yeah~<\/p><\/document>",
-                    "updated": 1528957979,
-                    "editor": "U12475CJC",
-                    "last_editor": "U12475CJC",
-                    "state": "locked"
-                }
-            ],
-            "upload": false,
-            "user": "U12475CJC",
-            "display_as_bot": false,
-            "ts": "1528958010.000314"
-        },
-        {
-            "type": "message",
-            "text": "",
-            "files": [
-                {
-                    "id": "FB6L1HL56",
-                    "created": 1528957932,
-                    "timestamp": 1528957979,
-                    "name": "_______________",
-                    "title": "ドラえもん",
-                    "mimetype": "text\/plain",
-                    "filetype": "space",
-                    "pretty_type": "ポスト",
-                    "user": "U12475CJC",
-                    "editable": true,
-                    "size": 1168,
-                    "mode": "space",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB6L1HL56\/_______________",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB6L1HL56\/download\/_______________",
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FB6L1HL56\/_______________",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FB6L1HL56-7902375798",
-                    "preview": "<document><p>konnna koto iina dekitara iina<\/p><p>annna yume konnna yume ippai aru kedo<\/p><p>minnna minnna minnna kanaete kureru<\/p><p>husugina pokke de kanaete kureru<\/p><\/document>",
-                    "updated": 1528957979,
-                    "editor": "U12475CJC",
-                    "last_editor": "U12475CJC",
-                    "state": "locked"
-                }
-            ],
-            "upload": false,
-            "user": "U12475CJC",
-            "display_as_bot": false,
-            "ts": "1528957952.000192"
-        },
-        {
-            "client_msg_id": "8acc7df7-406d-41ef-9300-e488512d4c84",
-            "type": "message",
-            "text": "<https:\/\/dolphin.mkm.ic.kanagawa-it.ac.jp\/~kamimura\/e-listening\/public\/>",
-            "user": "U12475CJC",
-            "ts": "1528957860.000175"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  6月22日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届けを出してね:heart:” ",
-            "user": "U0JAEV08K",
-            "ts": "1528446870.000215"
-        },
-        {
-            "client_msg_id": "a26c4954-4127-4095-b166-cce05a747c71",
-            "type": "message",
-            "text": "<@U2808K7U2>わかりました",
-            "user": "U4Y3V5NKX",
-            "ts": "1528444683.000165"
-        },
-        {
-            "client_msg_id": "D84432C4-E9F4-464B-A492-EB53DB345195",
-            "type": "message",
-            "text": "<@U4Y3V5NKX>\n出せそうなら出しておいてもらえると助かる",
-            "user": "U2808K7U2",
-            "ts": "1528443722.000295"
-        },
-        {
-            "client_msg_id": "927f055c-2796-47fa-b881-97a858931508",
-            "type": "message",
-            "text": "出してません",
-            "user": "U4Y3V5NKX",
-            "ts": "1528443662.000408"
-        },
-        {
-            "client_msg_id": "1620FCD6-6FB6-4F9B-A26F-D9E611FC28A3",
-            "type": "message",
-            "text": "<@U4Y3V5NKX> 残留届って出した？",
-            "user": "U2808K7U2",
-            "ts": "1528443639.000481"
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 残留届を出してください",
-            "user": "USLACKBOT",
-            "ts": "1528416022.000380"
-        },
-        {
-            "type": "message",
-            "text": "5月28日（月）より、チュラロンコーン大学の学生が研究室に来ます。Chalisa Kittirojrattanaさんです。\n研究室でのお世話やコミュケーションなどをはかって、Chalisaさんとみなさんの双方にとって、良い体験ができるように協力お願いします。",
-            "user": "U0JACJLRJ",
-            "ts": "1527309351.000016",
-            "reactions": [
-                {
-                    "name": "tada",
-                    "users": [
-                        "U12475CJC",
-                        "U4XUM59NX",
-                        "U0JAEV08K",
-                        "U2808K7U2"
-                    ],
-                    "count": 4
-                }
-            ]
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  6月8日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : to “残留届を出してください” ",
-            "user": "U2808K7U2",
-            "ts": "1527223173.000110",
-            "reactions": [
-                {
-                    "name": "pray",
-                    "users": [
-                        "U4XUM59NX",
-                        "U4Y2B9X28",
-                        "U0J8PMAQJ",
-                        "U4YM85G94"
-                    ],
-                    "count": 4
-                }
-            ]
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 延長届を出してください",
-            "user": "USLACKBOT",
-            "ts": "1527206426.000396"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  5月25日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
-            "user": "U12475CJC",
-            "ts": "1526033723.000104"
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 残留届を出してください",
-            "user": "USLACKBOT",
-            "ts": "1525996826.000428"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  5月11日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届を出してください” ",
-            "user": "UA5NHRKCP",
-            "ts": "1524801475.000197"
-        },
-        {
-            "type": "message",
-            "text": "残留届を印刷して共同机において置いたので，活用してください．",
-            "user": "U12475CJC",
-            "ts": "1524791093.000110"
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 延長届を出してください",
-            "user": "USLACKBOT",
-            "ts": "1524787228.000002"
-        },
-        {
-            "type": "message",
-            "text": "CIJネクストの説明会があります。本日11:10am、704 I科セミナー室です。\n\n　　11:10～12:00  会社説明会\n　　12:00～12:20 先輩との質疑応答(五百蔵研OB木村くん)\n　　12:20～12:30 第一次選考のご案内",
-            "user": "U0JACJLRJ",
-            "ts": "1524702137.000034"
-        },
-        {
-            "user": "UADFUGKGE",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1524622001.000163",
-            "text": "<@UADFUGKGE>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UABCFHPR7",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1524550097.000300",
-            "text": "<@UABCFHPR7>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UACV5QSS3",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1524544099.000111",
-            "text": "<@UACV5QSS3>さんがチャンネルに参加しました"
-        },
-        {
-            "client_msg_id": "7FCFB71C-2F42-4AE4-BA5A-B3A1AF67A9D3",
-            "type": "message",
-            "text": "<@U7D4HNSKX> <@UA8J83XGB> <@UA8R59T45> \nお疲れ様です。大学院１年の上村です。\n既に先生が何回か仰っているのですが、\nSlackのid(display name)を半角英数字に変更してもらえませんか？",
-            "user": "U12475CJC",
-            "ts": "1524442753.000128"
-        },
-        {
-            "type": "message",
-            "text": "サイトをみて面白いと思ったのですが、ユニットのレポートとバイトで来週結構忙しく、私の参加は厳しいと思います。\n鷹野先生本当に申し訳ありません。",
-            "user": "UA68UE2VC",
-            "ts": "1524317839.000073"
-        },
-        {
-            "type": "message",
-            "text": "<@U0JACJLRJ> おはようございます。\nサイトの内容を見てみました．応募してみたいと僕も思います．",
-            "user": "U12475CJC",
-            "ts": "1524187853.000060"
-        },
-        {
-            "type": "message",
-            "text": "アルゴリズムの検証には非常に便利です。どんどん使いましょう。",
-            "user": "U0JACJLRJ",
-            "ts": "1524182659.000079",
-            "thread_ts": "1522897454.000231",
-            "parent_user_id": "U0JAEV08K"
-        },
-        {
-            "type": "message",
-            "text": "<@U12475CJC> <@UA68UE2VC> <@U4Y2B9X28> これも応募しておきませんか。\n<http:\/\/ligp.gingerapp.co.jp\/form\/>",
-            "user": "U0JACJLRJ",
-            "ts": "1524182553.000266",
-            "attachments": [
-                {
-                    "service_name": "ラーニングイノベーショングランプリ",
-                    "title": "一次審査応募 - ラーニングイノベーショングランプリ",
-                    "title_link": "http:\/\/ligp.gingerapp.co.jp\/form\/",
-                    "text": "応募フォーム FacebooktwitterHatena",
-                    "fallback": "ラーニングイノベーショングランプリ: 一次審査応募 - ラーニングイノベーショングランプリ",
-                    "from_url": "http:\/\/ligp.gingerapp.co.jp\/form\/",
-                    "id": 1,
-                    "original_url": "http:\/\/ligp.gingerapp.co.jp\/form\/"
-                }
-            ]
-        },
-        {
-            "user": "UA83LUHK2",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1524042728.000019",
-            "text": "<@UA83LUHK2>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA85J25L1",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1524030875.000100",
-            "text": "<@UA85J25L1>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA8J83XGB",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1524027990.000096",
-            "text": "<@UA8J83XGB>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA8R59T45",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1524027474.000141",
-            "text": "<@UA8R59T45>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA94V2GF9",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1523960395.000180",
-            "text": "<@UA94V2GF9>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA6L5R7M1",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1523666327.000067",
-            "text": "<@UA6L5R7M1>さんがチャンネルに参加しました"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  4月27日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
-            "user": "U12475CJC",
-            "ts": "1523599765.000068"
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 延長届を出してください",
-            "user": "USLACKBOT",
-            "ts": "1523577610.000447"
-        },
-        {
-            "user": "UA5GZKRKM",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1523538879.000002",
-            "text": "<@UA5GZKRKM>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA5HJU666",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1523529540.000180",
-            "text": "<@UA5HJU666>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA6E6PYSK",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1523504754.000098",
-            "text": "<@UA6E6PYSK>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA68UE2VC",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1523500330.000186",
-            "text": "<@UA68UE2VC>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA4SAEVQS",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1523447332.000418",
-            "text": "<@UA4SAEVQS>さんがチャンネルに参加しました"
-        },
-        {
-            "user": "UA5NHRKCP",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1523421993.000263",
-            "text": "<@UA5NHRKCP>さんがチャンネルに参加しました"
-        },
-        {
-            "type": "message",
-            "text": "MATLAB学校アカウントで使えるらしいです",
-            "user": "U0JAEV08K",
-            "ts": "1522897454.000231",
-            "thread_ts": "1522897454.000231",
-            "reply_count": 1,
-            "reply_users_count": 1,
-            "latest_reply": "1524182659.000079",
-            "reply_users": [
-                "U0JACJLRJ"
-            ],
-            "replies": [
-                {
-                    "user": "U0JACJLRJ",
-                    "ts": "1524182659.000079"
-                }
-            ],
-            "subscribed": false,
-            "reactions": [
-                {
-                    "name": "tada",
-                    "users": [
-                        "U0J8PMAQJ",
-                        "U12475CJC",
-                        "U2808K7U2"
-                    ],
-                    "count": 3
-                },
-                {
-                    "name": "muscle",
-                    "users": [
-                        "U0J8PMAQJ",
-                        "U12475CJC",
-                        "U2808K7U2",
-                        "U4YM85G94"
-                    ],
-                    "count": 4
-                }
-            ]
-        },
-        {
-            "type": "message",
-            "text": "",
-            "files": [
-                {
-                    "id": "FA2H857FH",
-                    "created": 1522897426,
-                    "timestamp": 1522897426,
-                    "name": "TAH-Student.pdf",
-                    "title": "TAH-Student.pdf",
-                    "mimetype": "application\/pdf",
-                    "filetype": "pdf",
-                    "pretty_type": "PDF",
-                    "user": "U0JAEV08K",
-                    "editable": false,
-                    "size": 169302,
-                    "mode": "hosted",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FA2H857FH\/tah-student.pdf",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FA2H857FH\/download\/tah-student.pdf",
-                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FA2H857FH-b6a031f15f\/tah-student_thumb_pdf.png",
-                    "thumb_pdf_w": 910,
-                    "thumb_pdf_h": 1286,
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FA2H857FH\/tah-student.pdf",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FA2H857FH-c28f1df869"
-                }
-            ],
-            "upload": true,
-            "user": "U0JAEV08K",
-            "display_as_bot": false,
-            "ts": "1522897427.000230"
-        },
-        {
-            "user": "UA0BWS0F8",
-            "type": "message",
-            "subtype": "channel_join",
-            "ts": "1522651942.000003",
-            "text": "<@UA0BWS0F8>さんがチャンネルに参加しました"
-        },
-        {
-            "type": "message",
-            "text": "昨年度卒業生のアカウントをdiactivateしました",
-            "user": "U0J8PMAQJ",
-            "ts": "1522635072.000094"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  4月13日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
-            "user": "U12475CJC",
-            "ts": "1522380670.000147"
-        },
-        {
-            "bot_id": "B01",
-            "type": "message",
-            "text": "リマインダー : 延長届を出してください",
-            "user": "USLACKBOT",
-            "ts": "1520553624.000491"
-        },
-        {
-            "type": "message",
-            "subtype": "reminder_add",
-            "text": "  3月9日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
-            "user": "U12475CJC",
-            "ts": "1519363773.000155"
-        },
-        {
-            "type": "message",
-            "text": "<!everyone> \n明日（2\/20）最後の懇親会というか飲み会やります。\n参加自由なので3・4年生関係なく参加できる人だけ参加してほしい感じです。（遠方の人は無理しなくて大丈夫です）\nピザとかビールとかワインとかの予定です。\n18時開始の予定です。よろしくお願いします。",
-            "user": "U0J8PMAQJ",
-            "ts": "1519027641.000200",
-            "reactions": [
-                {
-                    "name": "+1",
-                    "users": [
-                        "U105P17QT",
-                        "U107MMD8Q",
-                        "U107TJHPF",
-                        "U107G430F",
-                        "U12475CJC"
-                    ],
-                    "count": 5
-                },
-                {
-                    "name": "hand",
-                    "users": [
-                        "U0JAEV08K",
-                        "U12475CJC"
-                    ],
-                    "count": 2
-                },
-                {
-                    "name": "sob",
-                    "users": [
-                        "U2808K7U2",
-                        "U12475CJC",
-                        "U4XUM59NX"
-                    ],
-                    "count": 3
-                }
-            ]
-        },
-        {
-            "type": "message",
-            "text": "はーい、海外研修頑張って:+1:",
-            "user": "U12475CJC",
-            "ts": "1519000129.000102",
-            "thread_ts": "1518858669.000083",
-            "parent_user_id": "U106UP90U"
-        },
-        {
-            "type": "message",
-            "text": "わかりました。宜しくお願いします",
-            "user": "U2808K7U2",
-            "ts": "1518965100.000033",
-            "thread_ts": "1518858669.000083",
-            "parent_user_id": "U106UP90U"
-        },
-        {
-            "type": "message",
-            "text": "柴本さんと重田くんの分は別の日に補填するから大丈夫，いつやるかはまた今度決めましょう",
-            "user": "U12475CJC",
-            "ts": "1518919526.000028",
-            "thread_ts": "1518858669.000083",
-            "parent_user_id": "U106UP90U"
-        },
-        {
-            "type": "message",
-            "text": "海外研修組(私と重田君)が、参加できないのですが、必要な情報は後日、我々にも共有されるという認識で大丈夫でしょうか…。",
-            "user": "U2808K7U2",
-            "ts": "1518915131.000084",
-            "thread_ts": "1518858669.000083",
-            "parent_user_id": "U106UP90U"
-        },
-        {
-            "type": "message",
-            "text": "<!everyone> \n3年生の皆さんへ\nお疲れ様です、石川です。少し前に4年生から研究紹介があったと思いますが、来年度に向けて、4年生がおこなってきた卒業研究の引き継ぎ会を2月26日（月）に実施します。\nこの引き継ぎ会では、4年生が取り組んできた研究内容を3年生が引き継げるように、そして4年生に上がる皆さんが1年間研究室で卒業研究に取り組んでいく中で、\n必要な情報を共有する回になります。出来る限り参加してください。",
-            "user": "U106UP90U",
-            "ts": "1518858669.000083",
-            "edited": {
-                "user": "U106UP90U",
-                "ts": "1518858700.000000"
-            },
-            "thread_ts": "1518858669.000083",
-            "reply_count": 4,
-            "reply_users_count": 2,
-            "latest_reply": "1519000129.000102",
-            "reply_users": [
-                "U2808K7U2",
-                "U12475CJC"
-            ],
-            "replies": [
-                {
-                    "user": "U2808K7U2",
-                    "ts": "1518915131.000084"
-                },
-                {
-                    "user": "U12475CJC",
-                    "ts": "1518919526.000028"
-                },
-                {
-                    "user": "U2808K7U2",
-                    "ts": "1518965100.000033"
-                },
-                {
-                    "user": "U12475CJC",
-                    "ts": "1519000129.000102"
-                }
-            ],
-            "subscribed": false,
-            "reactions": [
-                {
-                    "name": "tada",
-                    "users": [
-                        "U12475CJC"
-                    ],
-                    "count": 1
-                },
-                {
-                    "name": "pray",
-                    "users": [
-                        "U105P17QT",
-                        "U107TJHPF",
-                        "U10J4NGHH",
-                        "U107MMD8Q",
-                        "U107G430F",
-                        "U4Y3V5NKX"
-                    ],
-                    "count": 6
-                },
-                {
-                    "name": "+1",
-                    "users": [
-                        "U4Y2B9X28",
-                        "U4XUM59NX"
-                    ],
-                    "count": 2
-                }
-            ]
-        },
-        {
-            "type": "message",
-            "text": "昔の引継ぎに関する資料を送ります",
-            "user": "U0JAEV08K",
-            "ts": "1518671895.000142",
-            "reactions": [
-                {
-                    "name": "pray",
-                    "users": [
-                        "U105P17QT",
-                        "U107MMD8Q",
-                        "U4XUM59NX",
-                        "U2808K7U2",
-                        "U4YM85G94"
-                    ],
-                    "count": 5
-                }
-            ]
-        },
-        {
-            "type": "message",
-            "text": "",
-            "files": [
-                {
-                    "id": "F9AFVK1FH",
-                    "created": 1518671876,
-                    "timestamp": 1518671876,
-                    "name": "卒論とセミナーの進め方.pptx",
-                    "title": "卒論とセミナーの進め方.pptx",
-                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
-                    "filetype": "pptx",
-                    "pretty_type": "PowerPoint プレゼンテーション",
-                    "user": "U0JAEV08K",
-                    "editable": false,
-                    "size": 409341,
-                    "mode": "hosted",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F9AFVK1FH\/_________________________________.pptx",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F9AFVK1FH\/download\/_________________________________.pptx",
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/F9AFVK1FH\/_________________________________.pptx",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-F9AFVK1FH-3299b24fb2"
-                }
-            ],
-            "upload": true,
-            "user": "U0JAEV08K",
-            "display_as_bot": false,
-            "ts": "1518671877.000028"
-        },
-        {
-            "type": "message",
-            "text": "",
-            "files": [
-                {
-                    "id": "F99E8AWGJ",
-                    "created": 1518671822,
-                    "timestamp": 1518671822,
-                    "name": "卒研ゼミへの心構え.pdf",
-                    "title": "卒研ゼミへの心構え.pdf",
-                    "mimetype": "application\/pdf",
-                    "filetype": "pdf",
-                    "pretty_type": "PDF",
-                    "user": "U0JAEV08K",
-                    "editable": false,
-                    "size": 571393,
-                    "mode": "hosted",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F99E8AWGJ\/___________________________.pdf",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F99E8AWGJ\/download\/___________________________.pdf",
-                    "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-F99E8AWGJ-d0155531cc\/____________________________thumb_pdf.png",
-                    "thumb_pdf_w": 909,
-                    "thumb_pdf_h": 1286,
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/F99E8AWGJ\/___________________________.pdf",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-F99E8AWGJ-2ce5e3a756"
-                }
-            ],
-            "upload": true,
-            "user": "U0JAEV08K",
-            "display_as_bot": false,
-            "ts": "1518671824.000044"
-        },
-        {
-            "type": "message",
-            "text": "",
-            "files": [
-                {
-                    "id": "F99DNUP1A",
-                    "created": 1518671821,
-                    "timestamp": 1518671821,
-                    "name": "研究室引継ぎ講習会_ver2.pptx",
-                    "title": "研究室引継ぎ講習会_ver2.pptx",
-                    "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
-                    "filetype": "pptx",
-                    "pretty_type": "PowerPoint プレゼンテーション",
-                    "user": "U0JAEV08K",
-                    "editable": false,
-                    "size": 945071,
-                    "mode": "hosted",
-                    "is_external": false,
-                    "external_type": "",
-                    "is_public": true,
-                    "public_url_shared": false,
-                    "display_as_bot": false,
-                    "username": "",
-                    "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F99DNUP1A\/____________________________ver2.pptx",
-                    "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F99DNUP1A\/download\/____________________________ver2.pptx",
-                    "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/F99DNUP1A\/____________________________ver2.pptx",
-                    "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-F99DNUP1A-528ffbd846"
-                }
-            ],
-            "upload": true,
-            "user": "U0JAEV08K",
-            "display_as_bot": false,
-            "ts": "1518671821.000152"
-        },
-        {
-            "type": "message",
-            "text": "<@U0JACJLRJ> わかりました",
-            "user": "U0J8PMAQJ",
-            "ts": "1518598710.000126"
-        },
-        {
-            "type": "message",
-            "text": "修士中間ポスターは18時以降に速やかにはがしてください、とのことです",
-            "user": "U0JACJLRJ",
-            "ts": "1518598495.000248",
-            "reactions": [
-                {
-                    "name": "heavy_check_mark",
-                    "users": [
-                        "U0J8PMAQJ",
-                        "U12475CJC"
-                    ],
-                    "count": 2
-                }
-            ]
-        },
+   "ok": true,
+   "messages": [
       {
-        "type": "message",
-        "text": "<@U0JACJLRJ> ありがとうございます！先生のご指導のおかげです。",
-        "user": "U107MMD8Q",
-        "ts": "1518429705.000253"
+         "client_msg_id": "374aa5ec-6d58-4564-a896-300076b66e8f",
+         "type": "message",
+         "text": "ありがとうございます :pray:",
+         "user": "U4Y2B9X28",
+         "ts": "1544000252.001700",
+         "thread_ts": "1544000192.001300",
+         "parent_user_id": "U0JAEV08K"
       },
+      {
+         "type": "message",
+         "text": "",
+         "files": [
             {
+               "id": "FELSM2C87",
+               "created": 1544000211,
+               "timestamp": 1544000211,
+               "name": "C言語プログラミングユニットⅠ.zip",
+               "title": "C言語プログラミングユニットⅠ.zip",
+               "mimetype": "application\/zip",
+               "filetype": "zip",
+               "pretty_type": "Zip",
+               "user": "U0JAEV08K",
+               "editable": false,
+               "size": 27535744,
+               "mode": "hosted",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FELSM2C87\/c__________________________________________.zip",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FELSM2C87\/download\/c__________________________________________.zip",
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FELSM2C87\/c__________________________________________.zip",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FELSM2C87-3e18553b7e"
+            }
+         ],
+         "upload": true,
+         "user": "U0JAEV08K",
+         "display_as_bot": false,
+         "ts": "1544000216.001400"
+      },
+      {
+         "client_msg_id": "3a6838e1-e4a6-411a-94f4-d380af41f95b",
+         "type": "message",
+         "text": "<@U4Y2B9X28>\n僕が一年生の時なので今と問題が違うと思いますが、一応あったので\n僕のC言語ファイルを送ります。",
+         "user": "U0JAEV08K",
+         "ts": "1544000192.001300",
+         "thread_ts": "1544000192.001300",
+         "reply_count": 1,
+         "reply_users_count": 1,
+         "latest_reply": "1544000252.001700",
+         "reply_users": [
+            "U4Y2B9X28"
+         ],
+         "replies": [
+            {
+               "user": "U4Y2B9X28",
+               "ts": "1544000252.001700"
+            }
+         ],
+         "subscribed": false
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 残留届の提出 at9:00.",
+         "user": "USLACKBOT",
+         "ts": "1542931204.000100"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  11月23日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届の提出 at9:00” ",
+         "user": "U4Y3V5NKX",
+         "ts": "1542252486.001800"
+      },
+      {
+         "client_msg_id": "ac3d607d-7317-447d-9219-4e67a088d277",
+         "type": "message",
+         "text": "ビーズをローソンに運び、960円かかりました。\nレシート明日持っていきます。",
+         "user": "U4YM85G94",
+         "ts": "1541579520.001700"
+      },
+      {
+         "client_msg_id": "1096BA77-7E12-4850-A83F-0F41330D42BF",
+         "type": "message",
+         "text": "おそらく、それです。\n\n羽賀くんが作ってくれた文化祭購入リストのビーズ黒の項目のリンクであれば間違いなくこれです。\nお忙しい中、申し訳ありませんが返品処理をお願いいたします。",
+         "user": "U2808K7U2",
+         "ts": "1541057872.005600",
+         "thread_ts": "1541053467.001200",
+         "parent_user_id": "U0JACJLRJ"
+      },
+      {
+         "client_msg_id": "0F1D27C5-509C-4EC8-B22B-4E71F4397E65",
+         "type": "message",
+         "text": "昨日の時点では他の4年生が、直接買うかもしれないと言っていたので、注文は待った方がいいかもしれません\n今日は4年生だけで準備すると言っていたので彼らがどうしているかによりますが…",
+         "user": "U0JAEV08K",
+         "ts": "1541053610.003200",
+         "thread_ts": "1541053350.001000",
+         "parent_user_id": "U0JACJLRJ"
+      },
+      {
+         "client_msg_id": "205ae184-81be-49f0-a5c5-f2745f9d380c",
+         "type": "message",
+         "text": "これですか：\n<http:\/\/amzn.asia\/d\/8LLDwG4>",
+         "user": "U0JACJLRJ",
+         "ts": "1541053467.001200",
+         "attachments": [
+            {
+               "title": "BAD+91n&amp;BAD+97V BAD+83~BAD+83jBAD+83~BAD+83jBAD+83ABAD+83CBAD+83BAD+8DBAD+83BAD+93BAD+83rBAD+81[BAD+83Y Col.24 BAD+8DBAD+95 100g MB-500",
+               "title_link": "http:\/\/amzn.asia\/d\/8LLDwG4",
+               "text": "BAD+91n&amp;BAD+97V BAD+83~BAD+83jBAD+83~BAD+83jBAD+83ABAD+83CBAD+83BAD+8DBAD+83BAD+93BAD+83rBAD+81[BAD+83Y Col.24 BAD+8DBAD+95 100g MB-500",
+               "fallback": "BAD+91n&amp;BAD+97V BAD+83~BAD+83jBAD+83~BAD+83jBAD+83ABAD+83CBAD+83BAD+8DBAD+83BAD+93BAD+83rBAD+81[BAD+83Y Col.24 BAD+8DBAD+95 100g MB-500",
+               "image_url": "https:\/\/images-fe.ssl-images-amazon.com\/images\/I\/513JP8Ln7KL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIAmznPrime%2cBottomLeft%2c0%2c-5_PIStarRatingFOURANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(7%20Reviews)%2c445%2c286%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+               "from_url": "http:\/\/amzn.asia\/d\/8LLDwG4",
+               "image_width": 476,
+               "image_height": 250,
+               "image_bytes": 22194,
+               "service_icon": "https:\/\/www.amazon.co.jp\/favicon.ico",
+               "service_name": "amazon.co.jp",
+               "id": 1,
+               "original_url": "http:\/\/amzn.asia\/d\/8LLDwG4"
+            }
+         ],
+         "thread_ts": "1541053467.001200",
+         "reply_count": 1,
+         "reply_users_count": 1,
+         "latest_reply": "1541057872.005600",
+         "reply_users": [
+            "U2808K7U2"
+         ],
+         "replies": [
+            {
+               "user": "U2808K7U2",
+               "ts": "1541057872.005600"
+            }
+         ],
+         "subscribed": false
+      },
+      {
+         "client_msg_id": "d11e6eda-9e9a-443f-9d0e-d74f3cc90672",
+         "type": "message",
+         "text": "<@U2808K7U2> わかりました。アマゾンのWebサイトで確認してみます。",
+         "user": "U0JACJLRJ",
+         "ts": "1541053350.001000",
+         "thread_ts": "1541053350.001000",
+         "reply_count": 1,
+         "reply_users_count": 1,
+         "latest_reply": "1541053610.003200",
+         "reply_users": [
+            "U0JAEV08K"
+         ],
+         "replies": [
+            {
+               "user": "U0JAEV08K",
+               "ts": "1541053610.003200"
+            }
+         ],
+         "subscribed": false
+      },
+      {
+         "client_msg_id": "1362C685-6CA4-405E-8DF4-2D1FDAA57BC7",
+         "type": "message",
+         "text": "<@U0JACJLRJ> 学園祭でのアイロンビーズの件ですが、Amazonで発注した黒のアイロンビーズが規格違いで使えないことがたった今発覚したため、返品もしくは返金処理をお願いしたいです。\n(黒のビーズは、当日までに店頭購入する予定です)",
+         "user": "U2808K7U2",
+         "ts": "1540871303.005400"
+      },
+      {
+         "user": "UDGLEMJJE",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1539815576.000200",
+         "text": "<@UDGLEMJJE>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UDDR9BE6Q",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1539571152.000200",
+         "text": "<@UDDR9BE6Q>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UDE6N0AMB",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1539571101.000200",
+         "text": "<@UDE6N0AMB>さんがチャンネルに参加しました"
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 残留届の提出.",
+         "user": "USLACKBOT",
+         "ts": "1538697608.000100"
+      },
+      {
+         "user": "UD76E6LLV",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1538642394.000200",
+         "text": "<@UD76E6LLV>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UD0TJN728",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1537932408.000200",
+         "text": "<@UD0TJN728>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UD0FNSFC1",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1537932385.000200",
+         "text": "<@UD0FNSFC1>さんがチャンネルに参加しました"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  10月5日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届の提出” ",
+         "user": "U4YM85G94",
+         "ts": "1537514893.000100",
+         "reactions": [
+            {
+               "name": "+1",
+               "users": [
+                  "U0J8PMAQJ"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 残留届の提出.",
+         "user": "USLACKBOT",
+         "ts": "1536883223.000100"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  9月14日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届の提出” ",
+         "user": "U4Y3V5NKX",
+         "ts": "1535697277.000100"
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 残留届の提出.",
+         "user": "USLACKBOT",
+         "ts": "1535673607.000100"
+      },
+      {
+         "type": "message",
+         "text": "",
+         "files": [
+            {
+               "id": "FCFED02KZ",
+               "created": 1535081551,
+               "timestamp": 1535081551,
+               "name": "Chula_workshop_Kohei_KAIT.pptx",
+               "title": "File from iOS",
+               "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+               "filetype": "pptx",
+               "pretty_type": "PowerPoint プレゼンテーション",
+               "user": "U0JAEV08K",
+               "editable": false,
+               "size": 481712,
+               "mode": "hosted",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FCFED02KZ\/chula_workshop_kohei_kait.pptx",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FCFED02KZ\/download\/chula_workshop_kohei_kait.pptx",
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FCFED02KZ\/chula_workshop_kohei_kait.pptx",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FCFED02KZ-c5785a1b2d"
+            }
+         ],
+         "upload": true,
+         "user": "U0JAEV08K",
+         "display_as_bot": false,
+         "ts": "1535081552.000100"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  8月31日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届の提出” ",
+         "user": "UA0BWS0F8",
+         "ts": "1534901401.000100"
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 残留届を提出して下さい。",
+         "user": "USLACKBOT",
+         "ts": "1532044813.000326"
+      },
+      {
+         "client_msg_id": "5AD93BBD-3258-4DB2-A97E-451B7D6BECBD",
+         "type": "message",
+         "text": "わかりました",
+         "user": "U0JAEV08K",
+         "ts": "1531839400.000026"
+      },
+      {
+         "client_msg_id": "1fa15bc2-b5fa-4da8-bf56-0787273af2e0",
+         "type": "message",
+         "text": "デモを作りこんで、どうにか間に合わせるみなたいなことは、しなくて良いです。",
+         "user": "U0JACJLRJ",
+         "ts": "1531836920.000316"
+      },
+      {
+         "client_msg_id": "155f2608-1f3b-40fa-860e-d302b01b2b4f",
+         "type": "message",
+         "text": "役割が分担できれば、どうにかできる範囲でお願いします。",
+         "user": "U0JACJLRJ",
+         "ts": "1531836817.000595"
+      },
+      {
+         "client_msg_id": "c6f9517f-1858-4476-83ec-7e16e563c5dc",
+         "type": "message",
+         "text": "下記の対応の準備をお願いできますか。\n1. 築地君と上村君と笠井君が作成したビデオ2本の上映\n2. 青木君のspeakingシステムと上村君のlisteningシステム\n3. 芳賀君のarダイナミックプレビューと、柴本さんのWebでの画像編集機能\n4. 中間発表のポスター資料\n5. その他動くデモ",
+         "user": "U0JACJLRJ",
+         "ts": "1531836772.000083",
+         "reactions": [
+            {
+               "name": "heavy_check_mark",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U4XUM59NX",
+                  "U12475CJC",
+                  "U0JAEV08K",
+                  "U2808K7U2"
+               ],
+               "count": 5
+            }
+         ]
+      },
+      {
+         "client_msg_id": "c8d10c59-879b-4efe-b78d-317184ba2589",
+         "type": "message",
+         "text": "急で申し訳ありませんが、今準備している中間発表の内容などで、対応をお願いします。",
+         "user": "U0JACJLRJ",
+         "ts": "1531826879.000002"
+      },
+      {
+         "client_msg_id": "6fdf88d5-aab6-446f-80ce-3da7ddbe6c8a",
+         "type": "message",
+         "text": "みなさん、7\/22にオープンキャンパスの研究室公開担当でした！",
+         "user": "U0JACJLRJ",
+         "ts": "1531826803.000200",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1531826814.000000"
+         },
+         "reactions": [
+            {
+               "name": "kodakku1",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U4Y2B9X28",
+                  "U4YM85G94"
+               ],
+               "count": 4
+            },
+            {
+               "name": "thinking_face",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U4Y2B9X28"
+               ],
+               "count": 3
+            },
+            {
+               "name": "fearful",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U4Y2B9X28",
+                  "U4XUM59NX",
+                  "U4Y3V5NKX",
+                  "U4YM85G94",
+                  "U2808K7U2"
+               ],
+               "count": 7
+            },
+            {
+               "name": "skull",
+               "users": [
+                  "U0JAEV08K",
+                  "U12475CJC",
+                  "U4Y2B9X28",
+                  "UA0BWS0F8"
+               ],
+               "count": 4
+            },
+            {
+               "name": "boom",
+               "users": [
+                  "U4Y2B9X28",
+                  "U12475CJC"
+               ],
+               "count": 2
+            },
+            {
+               "name": "dizzy",
+               "users": [
+                  "UA0BWS0F8",
+                  "U12475CJC"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  7月20日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届を提出して下さい。” ",
+         "user": "U2808K7U2",
+         "ts": "1530850212.000053",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U4XUM59NX"
+               ],
+               "count": 1
+            }
+         ]
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 残留届を出して下さい",
+         "user": "USLACKBOT",
+         "ts": "1530835220.000249"
+      },
+      {
+         "type": "message",
+         "text": "明日のチュラ研修生のプログラムです。",
+         "files": [
+            {
+               "id": "FBE5MKR9Q",
+               "created": 1530015578,
+               "timestamp": 1530015578,
+               "name": "Program-research_plan-June27.pdf",
+               "title": "Program-research_plan-June27.pdf",
+               "mimetype": "application\/pdf",
+               "filetype": "pdf",
+               "pretty_type": "PDF",
+               "user": "U0JACJLRJ",
+               "editable": false,
+               "size": 70877,
+               "mode": "hosted",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FBE5MKR9Q\/program-research_plan-june27.pdf",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FBE5MKR9Q\/download\/program-research_plan-june27.pdf",
+               "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FBE5MKR9Q-a3138666ff\/program-research_plan-june27_thumb_pdf.png",
+               "thumb_pdf_w": 909,
+               "thumb_pdf_h": 1286,
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JACJLRJ\/FBE5MKR9Q\/program-research_plan-june27.pdf",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FBE5MKR9Q-417483fe51",
+               "reactions": [
+                  {
+                     "name": "heavy_check_mark",
+                     "users": [
+                        "U0J8PMAQJ",
+                        "U4Y3V5NKX",
+                        "U2808K7U2",
+                        "UA0BWS0F8"
+                     ],
+                     "count": 4
+                  }
+               ]
+            }
+         ],
+         "upload": true,
+         "user": "U0JACJLRJ",
+         "display_as_bot": false,
+         "reactions": [
+            {
+               "name": "heavy_check_mark",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U4Y3V5NKX",
+                  "U2808K7U2",
+                  "UA0BWS0F8"
+               ],
+               "count": 4
+            }
+         ],
+         "ts": "1530015580.000076"
+      },
+      {
+         "client_msg_id": "1D7B19CB-E374-4EC6-9288-B68957AF890E",
+         "type": "message",
+         "text": "長沼君、チーさん、トリンくんもお誘いください。",
+         "user": "U0JACJLRJ",
+         "ts": "1529927741.000357",
+         "reactions": [
+            {
+               "name": "tada",
+               "users": [
+                  "U12475CJC"
+               ],
+               "count": 1
+            },
+            {
+               "name": "+1",
+               "users": [
+                  "U12475CJC",
+                  "U2808K7U2",
+                  "U4Y3V5NKX"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "client_msg_id": "EEBB84FE-C38D-42C4-A058-F5DA3D792114",
+         "type": "message",
+         "text": "チュラ研修生の研究テーマ企画発表会を開催します。\n鷹野研／セミナーのみなさんも聴講しましょう。\n---\n日時：6月27日（水）5限\n場所：K1 305教室\n---",
+         "user": "U0JACJLRJ",
+         "ts": "1529927493.000197",
+         "edited": {
+            "user": "U0JACJLRJ",
+            "ts": "1529927524.000000"
+         }
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  7月6日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届を出して下さい” ",
+         "user": "U2808K7U2",
+         "ts": "1529672195.000025"
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 延長届けを出してね:heart:",
+         "user": "USLACKBOT",
+         "ts": "1529625602.000003"
+      },
+      {
+         "client_msg_id": "3bc942d3-5179-4ebd-ab35-fac54d560db6",
+         "type": "message",
+         "text": "<https:\/\/www.youtube.com\/watch?v=vh3ZFtVqzac>",
+         "user": "U12475CJC",
+         "ts": "1528958621.000050",
+         "attachments": [
+            {
+               "service_name": "YouTube",
+               "service_url": "https:\/\/www.youtube.com\/",
+               "title": "ドラえもん-山野さと子 - ドラえもんのうた",
+               "title_link": "https:\/\/www.youtube.com\/watch?v=vh3ZFtVqzac",
+               "author_name": "CHIA-CHEN LIU",
+               "author_link": "https:\/\/www.youtube.com\/channel\/UCcEQjoQ4eWGSTtVGfAKsa7A",
+               "thumb_url": "https:\/\/i.ytimg.com\/vi\/vh3ZFtVqzac\/hqdefault.jpg",
+               "thumb_width": 480,
+               "thumb_height": 360,
+               "fallback": "YouTube Video: ドラえもん-山野さと子 - ドラえもんのうた",
+               "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/vh3ZFtVqzac?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>",
+               "video_html_width": 400,
+               "video_html_height": 225,
+               "from_url": "https:\/\/www.youtube.com\/watch?v=vh3ZFtVqzac",
+               "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+               "id": 1,
+               "original_url": "https:\/\/www.youtube.com\/watch?v=vh3ZFtVqzac"
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "text": "",
+         "files": [
+            {
+               "id": "FB8CKNTF1",
+               "created": 1528958021,
+               "timestamp": 1528958039,
+               "name": "thai_song",
+               "title": "thai song",
+               "mimetype": "text\/plain",
+               "filetype": "space",
+               "pretty_type": "ポスト",
+               "user": "U12475CJC",
+               "editable": true,
+               "size": 3787,
+               "mode": "space",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB8CKNTF1\/thai_song",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB8CKNTF1\/download\/thai_song",
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FB8CKNTF1\/thai_song",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FB8CKNTF1-41ca4754b9",
+               "preview": "<document><p>บอก ฉัน สัก คำ ว่า เธอ ทำ ได้ อย่างไร<\/p><p>เพราะ ฉัน รู้สึก ดี ทุกครั้ง ที่อยู่ กับ เธอ<\/p><p>ที่จริง นับตั้งแต่ ที่เรา นั้นแรกเจอ<\/p><p>ไม่คิดว่า จะรัก ได้ มากมาย<\/p><\/document>",
+               "updated": 1528958039,
+               "editor": "U12475CJC",
+               "last_editor": "U12475CJC",
+               "state": "locked"
+            }
+         ],
+         "upload": false,
+         "user": "U12475CJC",
+         "display_as_bot": false,
+         "ts": "1528958194.000174"
+      },
+      {
+         "type": "message",
+         "text": "",
+         "files": [
+            {
+               "id": "FB6L1NZC0",
+               "created": 1528957962,
+               "timestamp": 1528957979,
+               "name": "__________________________________________",
+               "title": "恋するフォーチューンクッキー",
+               "mimetype": "text\/plain",
+               "filetype": "space",
+               "pretty_type": "ポスト",
+               "user": "U12475CJC",
+               "editable": true,
+               "size": 3044,
+               "mode": "space",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB6L1NZC0\/__________________________________________",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB6L1NZC0\/download\/__________________________________________",
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FB6L1NZC0\/__________________________________________",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FB6L1NZC0-2573525d06",
+               "preview": "<document><p>Anata no koto ga suki na no ni<\/p><p>Watashi ni maru de kyoumi nai<\/p><p>Nandomeka no shitsuren no junbi<\/p><p>Yeah, yeah, yeah~<\/p><\/document>",
+               "updated": 1528957979,
+               "editor": "U12475CJC",
+               "last_editor": "U12475CJC",
+               "state": "locked"
+            }
+         ],
+         "upload": false,
+         "user": "U12475CJC",
+         "display_as_bot": false,
+         "ts": "1528958010.000314"
+      },
+      {
+         "type": "message",
+         "text": "",
+         "files": [
+            {
+               "id": "FB6L1HL56",
+               "created": 1528957932,
+               "timestamp": 1528957979,
+               "name": "_______________",
+               "title": "ドラえもん",
+               "mimetype": "text\/plain",
+               "filetype": "space",
+               "pretty_type": "ポスト",
+               "user": "U12475CJC",
+               "editable": true,
+               "size": 1168,
+               "mode": "space",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB6L1HL56\/_______________",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FB6L1HL56\/download\/_______________",
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U12475CJC\/FB6L1HL56\/_______________",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FB6L1HL56-7902375798",
+               "preview": "<document><p>konnna koto iina dekitara iina<\/p><p>annna yume konnna yume ippai aru kedo<\/p><p>minnna minnna minnna kanaete kureru<\/p><p>husugina pokke de kanaete kureru<\/p><\/document>",
+               "updated": 1528957979,
+               "editor": "U12475CJC",
+               "last_editor": "U12475CJC",
+               "state": "locked"
+            }
+         ],
+         "upload": false,
+         "user": "U12475CJC",
+         "display_as_bot": false,
+         "ts": "1528957952.000192"
+      },
+      {
+         "client_msg_id": "8acc7df7-406d-41ef-9300-e488512d4c84",
+         "type": "message",
+         "text": "<https:\/\/dolphin.mkm.ic.kanagawa-it.ac.jp\/~kamimura\/e-listening\/public\/>",
+         "user": "U12475CJC",
+         "ts": "1528957860.000175"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  6月22日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届けを出してね:heart:” ",
+         "user": "U0JAEV08K",
+         "ts": "1528446870.000215"
+      },
+      {
+         "client_msg_id": "a26c4954-4127-4095-b166-cce05a747c71",
+         "type": "message",
+         "text": "<@U2808K7U2>わかりました",
+         "user": "U4Y3V5NKX",
+         "ts": "1528444683.000165"
+      },
+      {
+         "client_msg_id": "D84432C4-E9F4-464B-A492-EB53DB345195",
+         "type": "message",
+         "text": "<@U4Y3V5NKX>\n出せそうなら出しておいてもらえると助かる",
+         "user": "U2808K7U2",
+         "ts": "1528443722.000295"
+      },
+      {
+         "client_msg_id": "927f055c-2796-47fa-b881-97a858931508",
+         "type": "message",
+         "text": "出してません",
+         "user": "U4Y3V5NKX",
+         "ts": "1528443662.000408"
+      },
+      {
+         "client_msg_id": "1620FCD6-6FB6-4F9B-A26F-D9E611FC28A3",
+         "type": "message",
+         "text": "<@U4Y3V5NKX> 残留届って出した？",
+         "user": "U2808K7U2",
+         "ts": "1528443639.000481"
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 残留届を出してください",
+         "user": "USLACKBOT",
+         "ts": "1528416022.000380"
+      },
+      {
+         "type": "message",
+         "text": "5月28日（月）より、チュラロンコーン大学の学生が研究室に来ます。Chalisa Kittirojrattanaさんです。\n研究室でのお世話やコミュケーションなどをはかって、Chalisaさんとみなさんの双方にとって、良い体験ができるように協力お願いします。",
+         "user": "U0JACJLRJ",
+         "ts": "1527309351.000016",
+         "reactions": [
+            {
+               "name": "tada",
+               "users": [
+                  "U12475CJC",
+                  "U4XUM59NX",
+                  "U0JAEV08K",
+                  "U2808K7U2"
+               ],
+               "count": 4
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  6月8日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : to “残留届を出してください” ",
+         "user": "U2808K7U2",
+         "ts": "1527223173.000110",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U4XUM59NX",
+                  "U4Y2B9X28",
+                  "U0J8PMAQJ",
+                  "U4YM85G94"
+               ],
+               "count": 4
+            }
+         ]
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 延長届を出してください",
+         "user": "USLACKBOT",
+         "ts": "1527206426.000396"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  5月25日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
+         "user": "U12475CJC",
+         "ts": "1526033723.000104"
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 残留届を出してください",
+         "user": "USLACKBOT",
+         "ts": "1525996826.000428"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  5月11日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “残留届を出してください” ",
+         "user": "UA5NHRKCP",
+         "ts": "1524801475.000197"
+      },
+      {
+         "type": "message",
+         "text": "残留届を印刷して共同机において置いたので，活用してください．",
+         "user": "U12475CJC",
+         "ts": "1524791093.000110"
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 延長届を出してください",
+         "user": "USLACKBOT",
+         "ts": "1524787228.000002"
+      },
+      {
+         "type": "message",
+         "text": "CIJネクストの説明会があります。本日11:10am、704 I科セミナー室です。\n\n　　11:10～12:00  会社説明会\n　　12:00～12:20 先輩との質疑応答(五百蔵研OB木村くん)\n　　12:20～12:30 第一次選考のご案内",
+         "user": "U0JACJLRJ",
+         "ts": "1524702137.000034"
+      },
+      {
+         "user": "UADFUGKGE",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524622001.000163",
+         "text": "<@UADFUGKGE>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UABCFHPR7",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524550097.000300",
+         "text": "<@UABCFHPR7>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UACV5QSS3",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524544099.000111",
+         "text": "<@UACV5QSS3>さんがチャンネルに参加しました"
+      },
+      {
+         "client_msg_id": "7FCFB71C-2F42-4AE4-BA5A-B3A1AF67A9D3",
+         "type": "message",
+         "text": "<@U7D4HNSKX> <@UA8J83XGB> <@UA8R59T45> \nお疲れ様です。大学院１年の上村です。\n既に先生が何回か仰っているのですが、\nSlackのid(display name)を半角英数字に変更してもらえませんか？",
+         "user": "U12475CJC",
+         "ts": "1524442753.000128"
+      },
+      {
+         "type": "message",
+         "text": "サイトをみて面白いと思ったのですが、ユニットのレポートとバイトで来週結構忙しく、私の参加は厳しいと思います。\n鷹野先生本当に申し訳ありません。",
+         "user": "UA68UE2VC",
+         "ts": "1524317839.000073"
+      },
+      {
+         "type": "message",
+         "text": "<@U0JACJLRJ> おはようございます。\nサイトの内容を見てみました．応募してみたいと僕も思います．",
+         "user": "U12475CJC",
+         "ts": "1524187853.000060"
+      },
+      {
+         "type": "message",
+         "text": "アルゴリズムの検証には非常に便利です。どんどん使いましょう。",
+         "user": "U0JACJLRJ",
+         "ts": "1524182659.000079",
+         "thread_ts": "1522897454.000231",
+         "parent_user_id": "U0JAEV08K"
+      },
+      {
+         "type": "message",
+         "text": "<@U12475CJC> <@UA68UE2VC> <@U4Y2B9X28> これも応募しておきませんか。\n<http:\/\/ligp.gingerapp.co.jp\/form\/>",
+         "user": "U0JACJLRJ",
+         "ts": "1524182553.000266",
+         "attachments": [
+            {
+               "service_name": "ラーニングイノベーショングランプリ",
+               "title": "一次審査応募 - ラーニングイノベーショングランプリ",
+               "title_link": "http:\/\/ligp.gingerapp.co.jp\/form\/",
+               "text": "応募フォーム FacebooktwitterHatena",
+               "fallback": "ラーニングイノベーショングランプリ: 一次審査応募 - ラーニングイノベーショングランプリ",
+               "from_url": "http:\/\/ligp.gingerapp.co.jp\/form\/",
+               "id": 1,
+               "original_url": "http:\/\/ligp.gingerapp.co.jp\/form\/"
+            }
+         ]
+      },
+      {
+         "user": "UA83LUHK2",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524042728.000019",
+         "text": "<@UA83LUHK2>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA85J25L1",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524030875.000100",
+         "text": "<@UA85J25L1>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA8J83XGB",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524027990.000096",
+         "text": "<@UA8J83XGB>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA8R59T45",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1524027474.000141",
+         "text": "<@UA8R59T45>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA94V2GF9",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523960395.000180",
+         "text": "<@UA94V2GF9>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA6L5R7M1",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523666327.000067",
+         "text": "<@UA6L5R7M1>さんがチャンネルに参加しました"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  4月27日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
+         "user": "U12475CJC",
+         "ts": "1523599765.000068"
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 延長届を出してください",
+         "user": "USLACKBOT",
+         "ts": "1523577610.000447"
+      },
+      {
+         "user": "UA5GZKRKM",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523538879.000002",
+         "text": "<@UA5GZKRKM>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA5HJU666",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523529540.000180",
+         "text": "<@UA5HJU666>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA6E6PYSK",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523504754.000098",
+         "text": "<@UA6E6PYSK>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA68UE2VC",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523500330.000186",
+         "text": "<@UA68UE2VC>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA4SAEVQS",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523447332.000418",
+         "text": "<@UA4SAEVQS>さんがチャンネルに参加しました"
+      },
+      {
+         "user": "UA5NHRKCP",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1523421993.000263",
+         "text": "<@UA5NHRKCP>さんがチャンネルに参加しました"
+      },
+      {
+         "type": "message",
+         "text": "MATLAB学校アカウントで使えるらしいです",
+         "user": "U0JAEV08K",
+         "ts": "1522897454.000231",
+         "thread_ts": "1522897454.000231",
+         "reply_count": 1,
+         "reply_users_count": 1,
+         "latest_reply": "1524182659.000079",
+         "reply_users": [
+            "U0JACJLRJ"
+         ],
+         "replies": [
+            {
+               "user": "U0JACJLRJ",
+               "ts": "1524182659.000079"
+            }
+         ],
+         "subscribed": false,
+         "reactions": [
+            {
+               "name": "tada",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U2808K7U2"
+               ],
+               "count": 3
+            },
+            {
+               "name": "muscle",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC",
+                  "U2808K7U2",
+                  "U4YM85G94"
+               ],
+               "count": 4
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "text": "",
+         "files": [
+            {
+               "id": "FA2H857FH",
+               "created": 1522897426,
+               "timestamp": 1522897426,
+               "name": "TAH-Student.pdf",
+               "title": "TAH-Student.pdf",
+               "mimetype": "application\/pdf",
+               "filetype": "pdf",
+               "pretty_type": "PDF",
+               "user": "U0JAEV08K",
+               "editable": false,
+               "size": 169302,
+               "mode": "hosted",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FA2H857FH\/tah-student.pdf",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-FA2H857FH\/download\/tah-student.pdf",
+               "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-FA2H857FH-b6a031f15f\/tah-student_thumb_pdf.png",
+               "thumb_pdf_w": 910,
+               "thumb_pdf_h": 1286,
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/FA2H857FH\/tah-student.pdf",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-FA2H857FH-c28f1df869"
+            }
+         ],
+         "upload": true,
+         "user": "U0JAEV08K",
+         "display_as_bot": false,
+         "ts": "1522897427.000230"
+      },
+      {
+         "user": "UA0BWS0F8",
+         "type": "message",
+         "subtype": "channel_join",
+         "ts": "1522651942.000003",
+         "text": "<@UA0BWS0F8>さんがチャンネルに参加しました"
+      },
+      {
+         "type": "message",
+         "text": "昨年度卒業生のアカウントをdiactivateしました",
+         "user": "U0J8PMAQJ",
+         "ts": "1522635072.000094"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  4月13日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
+         "user": "U12475CJC",
+         "ts": "1522380670.000147"
+      },
+      {
+         "bot_id": "B01",
+         "type": "message",
+         "text": "リマインダー : 延長届を出してください",
+         "user": "USLACKBOT",
+         "ts": "1520553624.000491"
+      },
+      {
+         "type": "message",
+         "subtype": "reminder_add",
+         "text": "  3月9日 (金) 9:00 , 日本標準時 にこのチャンネルでこれをリマインドするよう設定しました : “延長届を出してください” ",
+         "user": "U12475CJC",
+         "ts": "1519363773.000155"
+      },
+      {
+         "type": "message",
+         "text": "<!everyone> \n明日（2\/20）最後の懇親会というか飲み会やります。\n参加自由なので3・4年生関係なく参加できる人だけ参加してほしい感じです。（遠方の人は無理しなくて大丈夫です）\nピザとかビールとかワインとかの予定です。\n18時開始の予定です。よろしくお願いします。",
+         "user": "U0J8PMAQJ",
+         "ts": "1519027641.000200",
+         "reactions": [
+            {
+               "name": "+1",
+               "users": [
+                  "U105P17QT",
+                  "U107MMD8Q",
+                  "U107TJHPF",
+                  "U107G430F",
+                  "U12475CJC"
+               ],
+               "count": 5
+            },
+            {
+               "name": "hand",
+               "users": [
+                  "U0JAEV08K",
+                  "U12475CJC"
+               ],
+               "count": 2
+            },
+            {
+               "name": "sob",
+               "users": [
+                  "U2808K7U2",
+                  "U12475CJC",
+                  "U4XUM59NX"
+               ],
+               "count": 3
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "text": "はーい、海外研修頑張って:+1:",
+         "user": "U12475CJC",
+         "ts": "1519000129.000102",
+         "thread_ts": "1518858669.000083",
+         "parent_user_id": "U106UP90U"
+      },
+      {
+         "type": "message",
+         "text": "わかりました。宜しくお願いします",
+         "user": "U2808K7U2",
+         "ts": "1518965100.000033",
+         "thread_ts": "1518858669.000083",
+         "parent_user_id": "U106UP90U"
+      },
+      {
+         "type": "message",
+         "text": "柴本さんと重田くんの分は別の日に補填するから大丈夫，いつやるかはまた今度決めましょう",
+         "user": "U12475CJC",
+         "ts": "1518919526.000028",
+         "thread_ts": "1518858669.000083",
+         "parent_user_id": "U106UP90U"
+      },
+      {
+         "type": "message",
+         "text": "海外研修組(私と重田君)が、参加できないのですが、必要な情報は後日、我々にも共有されるという認識で大丈夫でしょうか…。",
+         "user": "U2808K7U2",
+         "ts": "1518915131.000084",
+         "thread_ts": "1518858669.000083",
+         "parent_user_id": "U106UP90U"
+      },
+      {
+         "type": "message",
+         "text": "<!everyone> \n3年生の皆さんへ\nお疲れ様です、石川です。少し前に4年生から研究紹介があったと思いますが、来年度に向けて、4年生がおこなってきた卒業研究の引き継ぎ会を2月26日（月）に実施します。\nこの引き継ぎ会では、4年生が取り組んできた研究内容を3年生が引き継げるように、そして4年生に上がる皆さんが1年間研究室で卒業研究に取り組んでいく中で、\n必要な情報を共有する回になります。出来る限り参加してください。",
+         "user": "U106UP90U",
+         "ts": "1518858669.000083",
+         "edited": {
+            "user": "U106UP90U",
+            "ts": "1518858700.000000"
+         },
+         "thread_ts": "1518858669.000083",
+         "reply_count": 4,
+         "reply_users_count": 2,
+         "latest_reply": "1519000129.000102",
+         "reply_users": [
+            "U2808K7U2",
+            "U12475CJC"
+         ],
+         "replies": [
+            {
+               "user": "U2808K7U2",
+               "ts": "1518915131.000084"
+            },
+            {
+               "user": "U12475CJC",
+               "ts": "1518919526.000028"
+            },
+            {
+               "user": "U2808K7U2",
+               "ts": "1518965100.000033"
+            },
+            {
+               "user": "U12475CJC",
+               "ts": "1519000129.000102"
+            }
+         ],
+         "subscribed": false,
+         "reactions": [
+            {
+               "name": "tada",
+               "users": [
+                  "U12475CJC"
+               ],
+               "count": 1
+            },
+            {
+               "name": "pray",
+               "users": [
+                  "U105P17QT",
+                  "U107TJHPF",
+                  "U10J4NGHH",
+                  "U107MMD8Q",
+                  "U107G430F",
+                  "U4Y3V5NKX"
+               ],
+               "count": 6
+            },
+            {
+               "name": "+1",
+               "users": [
+                  "U4Y2B9X28",
+                  "U4XUM59NX"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "text": "昔の引継ぎに関する資料を送ります",
+         "user": "U0JAEV08K",
+         "ts": "1518671895.000142",
+         "reactions": [
+            {
+               "name": "pray",
+               "users": [
+                  "U105P17QT",
+                  "U107MMD8Q",
+                  "U4XUM59NX",
+                  "U2808K7U2",
+                  "U4YM85G94"
+               ],
+               "count": 5
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "text": "",
+         "files": [
+            {
+               "id": "F9AFVK1FH",
+               "created": 1518671876,
+               "timestamp": 1518671876,
+               "name": "卒論とセミナーの進め方.pptx",
+               "title": "卒論とセミナーの進め方.pptx",
+               "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+               "filetype": "pptx",
+               "pretty_type": "PowerPoint プレゼンテーション",
+               "user": "U0JAEV08K",
+               "editable": false,
+               "size": 409341,
+               "mode": "hosted",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F9AFVK1FH\/_________________________________.pptx",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F9AFVK1FH\/download\/_________________________________.pptx",
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/F9AFVK1FH\/_________________________________.pptx",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-F9AFVK1FH-3299b24fb2"
+            }
+         ],
+         "upload": true,
+         "user": "U0JAEV08K",
+         "display_as_bot": false,
+         "ts": "1518671877.000028"
+      },
+      {
+         "type": "message",
+         "text": "",
+         "files": [
+            {
+               "id": "F99E8AWGJ",
+               "created": 1518671822,
+               "timestamp": 1518671822,
+               "name": "卒研ゼミへの心構え.pdf",
+               "title": "卒研ゼミへの心構え.pdf",
+               "mimetype": "application\/pdf",
+               "filetype": "pdf",
+               "pretty_type": "PDF",
+               "user": "U0JAEV08K",
+               "editable": false,
+               "size": 571393,
+               "mode": "hosted",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F99E8AWGJ\/___________________________.pdf",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F99E8AWGJ\/download\/___________________________.pdf",
+               "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/T0J8LKSTV-F99E8AWGJ-d0155531cc\/____________________________thumb_pdf.png",
+               "thumb_pdf_w": 909,
+               "thumb_pdf_h": 1286,
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/F99E8AWGJ\/___________________________.pdf",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-F99E8AWGJ-2ce5e3a756"
+            }
+         ],
+         "upload": true,
+         "user": "U0JAEV08K",
+         "display_as_bot": false,
+         "ts": "1518671824.000044"
+      },
+      {
+         "type": "message",
+         "text": "",
+         "files": [
+            {
+               "id": "F99DNUP1A",
+               "created": 1518671821,
+               "timestamp": 1518671821,
+               "name": "研究室引継ぎ講習会_ver2.pptx",
+               "title": "研究室引継ぎ講習会_ver2.pptx",
+               "mimetype": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+               "filetype": "pptx",
+               "pretty_type": "PowerPoint プレゼンテーション",
+               "user": "U0JAEV08K",
+               "editable": false,
+               "size": 945071,
+               "mode": "hosted",
+               "is_external": false,
+               "external_type": "",
+               "is_public": true,
+               "public_url_shared": false,
+               "display_as_bot": false,
+               "username": "",
+               "url_private": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F99DNUP1A\/____________________________ver2.pptx",
+               "url_private_download": "https:\/\/files.slack.com\/files-pri\/T0J8LKSTV-F99DNUP1A\/download\/____________________________ver2.pptx",
+               "permalink": "https:\/\/kait-takanolab.slack.com\/files\/U0JAEV08K\/F99DNUP1A\/____________________________ver2.pptx",
+               "permalink_public": "https:\/\/slack-files.com\/T0J8LKSTV-F99DNUP1A-528ffbd846"
+            }
+         ],
+         "upload": true,
+         "user": "U0JAEV08K",
+         "display_as_bot": false,
+         "ts": "1518671821.000152"
+      },
+      {
+         "type": "message",
+         "text": "<@U0JACJLRJ> わかりました",
+         "user": "U0J8PMAQJ",
+         "ts": "1518598710.000126"
+      },
+      {
+         "type": "message",
+         "text": "修士中間ポスターは18時以降に速やかにはがしてください、とのことです",
+         "user": "U0JACJLRJ",
+         "ts": "1518598495.000248",
+         "reactions": [
+            {
+               "name": "heavy_check_mark",
+               "users": [
+                  "U0J8PMAQJ",
+                  "U12475CJC"
+               ],
+               "count": 2
+            }
+         ]
+      },
+      {
+         "type": "message",
+         "text": "<@U0JACJLRJ> ありがとうございます！先生のご指導のおかげです。",
+         "user": "U107MMD8Q",
+         "ts": "1518429705.000253"
+      },
+      {
          "reactions": [
             {
                "name": "clap",
@@ -2352,11 +2352,11 @@
          "ts": "1511095855.000014"
       },
       {
-        "ts": "1510876827.000364",
-        "user": "USLACKBOT",
-        "text": "Reminder: 延長届を出してください",
-        "type": "message",
-        "bot_id": "B01"
+         "ts": "1510876827.000364",
+         "user": "USLACKBOT",
+         "text": "Reminder: 延長届を出してください",
+         "type": "message",
+         "bot_id": "B01"
       },
       {
          "type": "message",
@@ -6189,7 +6189,6 @@
             "permalink_public": "https://slack-files.com/T0J8LKSTV-F4FMR37FB-60d9f9fd7a",
             "edit_link": "https://kait-takanolab.slack.com/files/takahashim/F4FMR37FB/-.txt/edit",
             "preview": "コマンドプロンプト起動\r\n↓\r\nipconfigを入力\r\n↓\r\nデフォルトゲートウェイのアドレスにブラウザでアクセス\r",
-            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\​/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>コマンドプロンプト起動</pre></div>\n<div><pre>↓</pre></div>\n<div><pre>ipconfigを入力</pre></div>\n<div><pre>↓</pre></div>\n<div><pre>デフォルトゲートウェイのアドレスにブラウザでアクセス</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n",
             "lines": 9,
             "lines_more": 4,
             "preview_is_truncated": false,
@@ -13032,7 +13031,6 @@
             "permalink_public": "https://slack-files.com/T0J8LKSTV-F2U86LR5E-f29fb8637c",
             "edit_link": "https://kait-takanolab.slack.com/files/otaki/F2U86LR5E/call_python.php/edit",
             "preview": "<?php\n\n           $fullPath =\n           'python ./cifar10_classifier.py F-2.jpg';\n\t\texec($fullPath, $outpara);",
-            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\​/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;?php</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre>           <span class=\"cm-variable-2\">$fullPath</span> <span class=\"cm-operator\">=</span></pre></div>\n<div><pre>           <span class=\"cm-string\">'python ./cifar10_classifier.py F-2.jpg'</span>;</pre></div>\n<div><pre>\t\t<span class=\"cm-builtin\">exec</span>(<span class=\"cm-variable-2\">$fullPath</span>, <span class=\"cm-variable-2\">$outpara</span>);</pre></div>\n</div>\n</div>\n",
             "lines": 17,
             "lines_more": 12,
             "preview_is_truncated": false,
@@ -13087,7 +13085,6 @@
             "permalink_public": "https://slack-files.com/T0J8LKSTV-F2U87459U-ebcd87fcb8",
             "edit_link": "https://kait-takanolab.slack.com/files/otaki/F2U87459U/index.html/edit",
             "preview": "<!DOCTYPE html>\r\n<html lang=\"ja\">\r\n  <head>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Caffe demo</title>\r",
-            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\​/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;!DOCTYPE html&gt;</span></pre></div>\n<div><pre><span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">html</span> <span class=\"cm-attribute\">lang</span>=<span class=\"cm-string\">&quot;ja&quot;</span><span class=\"cm-tag cm-bracket\">&gt;</span></pre></div>\n<div><pre>  <span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">head</span><span class=\"cm-tag cm-bracket\">&gt;</span></pre></div>\n<div><pre>    <span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">meta</span> <span class=\"cm-attribute\">charset</span>=<span class=\"cm-string\">&quot;UTF-8&quot;</span><span class=\"cm-tag cm-bracket\">&gt;</span></pre></div>\n<div><pre>    <span class=\"cm-tag cm-bracket\">&lt;</span><span class=\"cm-tag\">title</span><span class=\"cm-tag cm-bracket\">&gt;</span>Caffe demo<span class=\"cm-tag cm-bracket\">&lt;/</span><span class=\"cm-tag\">title</span><span class=\"cm-tag cm-bracket\">&gt;</span></pre></div>\n</div>\n</div>\n",
             "lines": 37,
             "lines_more": 32,
             "preview_is_truncated": false,
@@ -13386,7 +13383,6 @@
             "permalink_public": "https://slack-files.com/T0J8LKSTV-F2R5F7VC4-d58fbe9cfd",
             "edit_link": "https://kait-takanolab.slack.com/files/takano/F2R5F7VC4/nise_output.php/edit",
             "preview": "<?php\r\n\r\n$output = \"[[  6.41370425e-05   5.87245677e-06   6.95947119e-06   1.53077056e-03\r\n   9.10422614e-07   3.27380898e-04   9.98056471e-01   1.23282302e-06\r\n   5.93633877e-06   3.67704018e-07]]\r",
-            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\​/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;?php</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-variable-2\">$output</span> <span class=\"cm-operator\">=</span> <span class=\"cm-string\">&quot;</span><span class=\"cm-string\">[[  6.41370425e-05   5.87245677e-06   6.95947119e-06   1.53077056e-03</span></pre></div>\n<div><pre>   <span class=\"cm-string\">9.10422614e-07   3.27380898e-04   9.98056471e-01   1.23282302e-06</span></pre></div>\n<div><pre>   <span class=\"cm-string\">5.93633877e-06   3.67704018e-07]]</span></pre></div>\n</div>\n</div>\n",
             "lines": 10,
             "lines_more": 5,
             "preview_is_truncated": false,
@@ -13433,7 +13429,6 @@
             "permalink_public": "https://slack-files.com/T0J8LKSTV-F2R5FKWNL-ee7d251a7b",
             "edit_link": "https://kait-takanolab.slack.com/files/takano/F2R5FKWNL/get_label.php/edit",
             "preview": "<?php\r\n\r\n$ret = exec (\"php /home/takano/public_html/nise_output.php\");\r\n\r\nprint $ret;\r",
-            "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\​/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-meta\">&lt;?php</span></pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-variable-2\">$ret</span> <span class=\"cm-operator\">=</span> <span class=\"cm-builtin\">exec</span> (<span class=\"cm-string\">&quot;</span><span class=\"cm-string\">php /home/takano/public_html/nise_output.php&quot;</span>);</pre></div>\n<div><pre>&#8203;</pre></div>\n<div><pre><span class=\"cm-keyword\">print</span> <span class=\"cm-variable-2\">$ret</span>;</pre></div>\n</div>\n</div>\n",
             "lines": 7,
             "lines_more": 2,
             "preview_is_truncated": false,
@@ -14375,7 +14370,7 @@
          "text": "金曜日1、2限に情報工学基礎ユニット2のSAを募集しています。4年生で誰かお願いします。",
          "ts": "1474335425.000004"
       }
-    ],
-    "has_more": true,
-    "is_limited": false
+   ],
+   "has_more": true,
+   "is_limited": false
 }
