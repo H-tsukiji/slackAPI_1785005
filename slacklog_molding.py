@@ -56,8 +56,6 @@ if __name__ == '__main__':
 
     # print(logs)
 
-
-
     sumlog = sorted(logs, key=lambda x:(x[0],x[2]))
 
     with open('slacklog.csv', 'w', encoding="utf-8") as csvfile:
