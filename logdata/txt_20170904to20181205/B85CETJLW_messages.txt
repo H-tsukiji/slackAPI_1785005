@@ -1,0 +1,23 @@
+1: fred
+2: baz
+3: grault
+4: corge
+5: bar
+6: waldo
+7: thud
+8: garply
+9: qux
+10: quux
+11: xyzzy
+12: foo
+13: plugh
+
+1: garply, fred
+2: grault, qux
+3: quux, bar
+
+1: yokoyama
+2: hisatsugu
+3: satou
+4: urano
+5: shibata

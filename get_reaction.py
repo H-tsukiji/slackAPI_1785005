@@ -10,7 +10,7 @@ from datetime import datetime
 
 #フォルダjson内にあるすべてのjsonファイルを取得する。
 files = []
-files = glob.glob('logdata/json/20180925/*.json')
+files = glob.glob('logdata/json/20170904to20181205/*.json')
 
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)
@@ -18,6 +18,7 @@ memberlist = json.load(fm)
 def search_nameindex(username):
     for i in memberlist:
         if (username in i["id"]) == True:
+            global name
             name = i["name"]
     return name
 
@@ -32,6 +33,7 @@ def count_reactions(logfile, list_users):
                 for j in list_users:
                     if name == j['name']:
                         j['count'] += count
+
 
 def Reactioners(logfile, reaction_list):
     for i in logfile:

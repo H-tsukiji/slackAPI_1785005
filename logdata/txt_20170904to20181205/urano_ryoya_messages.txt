@@ -1,0 +1,102 @@
+<@U4Y2B9X28|urano_ryoya> has joined the channel
+<@U4Y2B9X28|urano_ryoya> has joined the channel
+2017年度セミナーのチャンネルを作りました。招待漏れがある場合等はこちらから入ってください。
+:point_right: <#C4Y3WBMLM|2017-seminar>
+よろしくお願いします :bow:
+<@U0JACJLRJ> はい、そうです。招待していませんでした。すみません
+これは研究室のイントラ内のみですか？
+dnsmasqだ :sparkles: 
+ラボスピーカ向け、了解です。研究室行ったら使ってみます
+インターンと重複しているため出席できません。すみません。
+<@U4Y2B9X28>さんがチャンネルに参加しました
+<@U4Y2B9X28>さんがチャンネルに参加しました
+<@U4Y2B9X28>さんがチャンネルの目的を設定しました : 2018年度卒研チャンネル
+呼び忘れてる人に気付いたら適宜招待してあげてください。
+<https://github.com/kait-takanolab/knowledge>
+ほしい物品の値段が高めなんですが相談が必要ですか？それとも買い物リストに書き込むだけで大丈夫ですか？
+<!channel> 平成29年度の卒業論文要旨集をもらってない人が居たら連絡ください
+ありがとうございます:bow:
+セミナーメモ（順不同）
+- ソースコードの静的解析からスコアは算出しないのか？
+- なぜスコア算出にあたり実行結果を使ったのか？
+- 実装についてだけでなく、目的について詳しく書く
+- 評価方法で特色を出す
+	* 安易に汎用性を特色にしない
+	* プログラミング言語の選択に教育的意味をもたせる
+- 他研究で達成されたことを整理
+	* そこからどうやって発展させるか？自分の研究は何を特色とするか？
+- なぜ○○をもってその手法が良いと思ったのか？
+- 既存のソースコード推薦は何をやっているのか？
+<@U4Y3V5NKX> <https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&amp;active_action=repository_view_main_item_detail&amp;item_id=187408&amp;item_no=1&amp;page_id=13&amp;block_id=8>
+自分の関連研究リサーチリストです。ソースコード推薦に関わるものもあるのでリンクを載せます。
+<https://github.com/kait-takanolab/1521039-urano-thesis/issues/1>
+<@U4Y2BNA2Y> Image magickでGIF作成すると良いかもしれないです
+<https://www.imagemagick.org/script/index.php>
+<http://www.protein.osaka-u.ac.jp/rcsfp/supracryst/suzuki/jpxtal/Katsutani/gif1.php>
+あと類似（？）のサービス
+<https://ja.duolingo.com/>
+<http://r.gnavi.co.jp/g-interview/entry/yoppy/4550>
+これすごい
+<https://twitter.com/tymo_unity/status/1010113971028803585?s=19>
+ありがとうございます :pray: :pray:  :pray:
+2018/7/4 中間報告用のスライドを作成しました。
+<https://github.com/kait-takanolab/1521039-urano-thesis/blob/master/1521039-urano-slide.odp>
+土曜行きます
+レビューありがとうございます。とりあえず指示通り修正してOC向けにプリントします。
+*2018/7/21 作業報告*
+• OC会場準備
+  * 机の再配置・床の掃除をしました
+• 中間発表スライドの修正
+  * Windowsで表示できるようにpptxで作り直しました。以後pptxで作成します。
+  * <https://github.com/kait-takanolab/1521039-urano-thesis/blob/master/1521039-urano-slide_0725.pptx>
+  * 指示された箇所の文章を修正しました
+2018/7/24 作業報告
+• 中間発表練習
+• 中間発表スライド修正
+• 中間発表スライド掲示
+2018/07/25 作業報告
+• 中間発表
+• ポスターの回収
+• 清原先生からの意見：<https://github.com/kait-takanolab/1521039-urano-thesis/issues/17>
+肉は5500円だった
+のでピザは予定通り6000円で
+受け取り最短でお願いします
+最小でも超えるのは確定なので大丈夫
+ピザ受け取りが30分位になりそうだからちょっと遅れる
+ご飯は炊かれてる？
+了解です
+2018/08/02 作業報告
+• IntelliCode を試用しました。
+  * 機能としてはスニペット等の一連の意味を持ったコード片を推薦するのではなく、あくまで今までのメソッド補完の機能が提供されていました。
+  * ただ、今までのメソッド補完がオブジェクトに基づいただけであるのに対して、文脈に沿ったメソッドを推薦していました。
+  * 使用した雑感などはこの記事と概ね同じです <https://qiita.com/yossy6954/items/f4c8b5f5f8f4c7a843c6>
+作業報告
+• python3.6/tensorflowの動作環境をローカルマシン上に用意して確認しました
+• tensorflowのチュートリアルを試しました
+ありがとうございます!
+作業報告
+• 穴埋め式の学習データを作成 <https://github.com/kait-takanolab/1521039-urano-thesis/blob/master/data/fill-in-the-blank/question01.tsv>
+• 穴埋め部分に学習データを入れたソースコードを生成し、コンパイル・実行をするスクリプトを作成
+2018/09/17 作業報告
+• 学習データに複雑な条件式の問題を追加
+• スライド内容を若干追加
+2018/09/20 作業報告
+• for文の条件分を問題にした学習データの追加
+• 合同ゼミのメモをissueに追加
+4日は私用で外しますがそれ以外は予備日含め参加できます
+<@U4Y3V5NKX> にも聞かれたんだけど行方不明
+白いケースの中に入ってるのかと思ったけど無いらしい
+作業報告
+• Cソースコードの収集
+• インデントを削除するスクリプトを作成→Cソースコードに適応して明日学習させます。
+実験で使っているデータです
+<https://github.com/kait-takanolab/1521039-urano-thesis/blob/master/data/fill-in-the-blank/question01-shuffled.tsv>
+作業報告
+• スライド修正
+• libclangの解読
+作業報告
+• トークンの型情報の抜き出し
+• 構文木をリスト形状に平坦化
+• 二項演算子が出現した時はトークンの出現順にもどした→構文木の情報を維持しつつ、ソースコードに近い状態にすることができました。
+次回は抽出したデータを符号化してCNNに投入できるようにしたいと思います。
+ありがとうございます :pray:

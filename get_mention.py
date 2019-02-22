@@ -3,7 +3,7 @@
 import sys,re,codecs,json,os,glob,csv
 
 files = []
-files = glob.glob('logdata/20180925/*.txt')
+files = glob.glob('logdata/20170904to20181205/*.txt')
 
 fm = codecs.open("memberlist.json","r","utf-8")
 memberlist = json.load(fm)

@@ -1,0 +1,172 @@
+微妙に遅刻します 後5分くらいで到着します
+<@U0JACJLRJ>: これ発表っていつでしたっけ？
+3年生の懇親会って明日でいいんですよね？
+<@U0JACJLRJ> 今日の懇親会って17時くらいに集合でいいんですか？
+<!channel> 買い出し組誰かー連絡取れる人ー
+あ、卵と牛乳おねがいします
+（ホットケーキを作ろうという個々試み
+んー、卵10個もいらないと思うので、半分パックのものがあれば
+牛乳も1lいらないと思うのでその半分のがアレば良さそうです（ありそうもなかったら1lでもいいんじゃなでしょうか）
+最悪余ったのは研究室に投げてもいいとのことですが、卵や牛乳は一報ほしいとのこと（メモ）
+冷蔵庫に懇親会で余った卵2個と牛乳（開封済み残り300mlほど）が残ってます（その他ジュース類が余ってると思います）。
+講演会も懇親会も参加出来ると思いますが、懇親会は学割が聞いてどの程度の額なのか気になります
+<@U0JACJLRJ> それくらいなら参加できそうです
+↑これ自分が書いてないですけど使っちゃっていいと思いますが これだけだと動かないです
+過去の研究とか見たいんですけど、今研究室行っても大丈夫ですか？
+では今から向かいます
+<@U0JACJLRJ> 大丈夫です ちょっと今1万円札しか持ってないのですが、事前に崩しておいたほうが得策ですか？
+わかりました
+<@U0JACJLRJ> Web上で動くものでしょうか？
+りょーかいです
+<@U106Y1J7N|kurihara> uploaded a file: <https://kait-takanolab.slack.com/files/kurihara/F350HFNQ4/build.zip|English learning> and commented: <@U0JACJLRJ> 先程言われたものができましたー。大体できているのですが、1文字のものを先頭表示した場合実質答えになってしまう処理の対策をしてません。
+<@U106Y1J7N|kurihara> uploaded a file: <https://kait-takanolab.slack.com/files/kurihara/F35K7HQ5Q/english-learning.zip|@kasai ソースコードです>
+朱京波, 片上大輔, 新田克己: "ウェブベース英単語学習支援システムの提案", 電子情報通信学会技術研究報告, Vol. 105, No.581, pp.13-18(2006)
+本研究ではWordMapと呼ぼれる新しい概念とそれを用いた英単語学習支援システムを提案する。提案するシステムではビジュアル化したユーザインタフェースWordMapによって学習者が容易に知っている語彙の偏りと学習状況を把握できるようになり、英単語学習効果を上げる。記事推薦システムによりユーザにとって学習価値の高いコンテンツを提供する。
+ZHU Jingbo
+
+<@U0JACJLRJ> どうやってきめますか？
+5分くらい遅れます
+<@U106Y1J7N|kurihara> uploaded a file: <https://kait-takanolab.slack.com/files/kurihara/F3JHPSNTC/2016-12-24_22.21.34.png|`npm xmas`>
+<http://iscover-p.ieice.org/cms/>
+<@U0JACJLRJ> 23日の方は大丈夫そうです。
+<@U0JACJLRJ> 報告用のチャンネルとかありますか？
+<http://cweb.canon.jp/drv-upd/satera-mfp/mf8200s-winx64.html>
+<@U0JAEV08K> ラバーストラップがついてる鍵がおいてあります
+<@U0JAEV08K> SlackのDM開くと梅谷くんの名前わかります
+<@U106Y1J7N|kurihara> has joined the channel
+ set up a reminder to “残留届が切れました” in this channel at 8AM Thursday, April 20, Japan Standard Time.
+ set up a reminder to “残留届が切れました” in this channel at 8AM Thursday, April 20, Japan Standard Time.
+<@U106Y1J7N|kurihara> pinned a message to this channel.
+:innocent:
+<@U106Y1J7N|kurihara> set the channel purpose: 鷹野セミナーの2017年4月現在4年生用チャンネル
+2017/04/14 :house:
+* Javaオンラインコンパイラの論文やポスター、ソースコードなどを受け取り、ソースコードリーディングや読むなどをしました。
+星野くん: 既存のデータベースを利用する方式でも良いのではないか
+pinyin（ピンイン）
+青木くん: 発音の正解データをどうやって用意するのか？（曖昧）
+04/27 :house: 
+* とりあえずソースコードを書いてデータを投げれるようなフォームを作りました
+<@U0JACJLRJ> 石川くんが日程決めると思う（？）ので確定ではないのですが、おそらく来週の火曜日か金曜日になると思います
+<@U0JACJLRJ> 面白そうだとは思います。具体的になんのプログラミングをしたいかにもよるとは思いますが…
+* スライドの作成
+* 関連研究の調査
+不完全な氷を錬成した結果氷を入れるケースが水浸しになった :sweat_smile:
+<@U106Y1J7N|kurihara> uploaded a file: <https://kait-takanolab.slack.com/files/kurihara/F5L7004CA/pasted_image_at_2017_05_31_11_27.png|Pasted image at 2017-05-31, 11:27> and commented: ここのオートコレクトの
+<@U106Y1J7N|kurihara> uploaded a file: <https://kait-takanolab.slack.com/files/kurihara/F5KKR7BBK/pasted_image_at_2017_05_31_11_27.png|Pasted image at 2017-05-31, 11:27> and commented: というふうにすると「、。」が「，．」になります（IMEの設定で変える方法もあるけど、全体に影響するのでこれくらいのほうが良さそう）。
+既存の文字は変更されないので検索で適当に、。を検索すればいいと思います（てきとう）
+クロスチェックの指摘される基準がいまいちわからないのですが、それを定義したテキストファイルってどこかにありますか？毎回毎回同じようなチェックを人力でやるのも手間ですし、指摘されてわざわざ治す前にそもそもしっかりとした定義があったほうがいいように思います 人によってその指摘がいいかどうかもよくわからないですし
+* エディタの枠組みを作成しました
+added an integration to this channel: <https://kait-takanolab.slack.com/services/B6EK7H622|github>
+<@U106Y1J7N>さんががファイル (<https://kait-takanolab.slack.com/files/U106Y1J7N/F6EREG9E3/screenshot_from_2017-07-26_16-32-25.png|reportにGithubのcommitなどを通知するようにしました（進捗通知用です）。>) をアップロードしてコメントしました : 現在追加したのは↑の4つです。追加したいリポジトリがあればお伝えください。
+昨日追加された分のリポジトリの通知がreportに飛ぶようにしました
+製作途中のシステム公開をしようとしたが、ポートの壁にぶち当たったのでリバースプロキシでどうにかしようとするところまで作業しました
+<@U0JACJLRJ> ありがとうございます。使ってみます
+<@U0JACJLRJ> 基本的には$.ajaxのような、ajax通信を行うものとして考えて大丈夫です
+関数自体は単体で動きます（その部分のコードが前後で依存してるかはわからないです）。 後、fetchは比較的新しい関数なので、単体で使うならばIEあたりは動かないかもしれません。
+<@U0JACJLRJ> 9100に公開しているはずなのですがアクセスできないようなのですが、本当に使えるのでしょうか…？
+アクセスできるようになりました（がこちらの設定ミスで表示できないのでそれは待ってください）
+とりあえず一旦見えるようになりました。  <http://dolphin.mkm.ic.kanagawa-it.ac.jp:9100/>
+<@U0JACJLRJ> ソースコードの断片のみをかき集めるのをできるかはわかりませんが、クローラを作ることはできると思います
+Qiita上で動くクローラを作りました。ソースコードはおそらく&lt;pre&gt;要素や&lt;code&gt;で取得できると思いますが、その辺の解析は後にでも回せそうなのでひとまずDBにHTMLを全部格納するようにしました
+学内回線まだ復旧してっぽいですよ（調べたわけではないのですが、他も全体的に死んでいるので）
+青木くん <http://dolphin.mkm.ic.kanagawa-it.ac.jp/~kaisei/>
+上村くん <http://dolphin.mkm.ic.kanagawa-it.ac.jp/~kamimura/public/problem.html>
+私 <http://dolphin.mkm.ic.kanagawa-it.ac.jp:9100/>
+私はサーバー起動してから自動起動するようにしてないので今は落ちてますね
+（ごめん）
+後超今さらだけど
+&gt; 『香港少年』、間もなく開園！
+って多分開園じゃなくて開演だよね
+クロールに関してなら
+npm run crawler:qiita といったコマンドを実行すると、DBに格納されます
+自分が17:30頃研究室来た時電気はつけっぱなしで誰もおらず、一時的な退席だと思って気にしてなかったのですが、一向に誰も戻る気配がないので、研究室が誰もいなくなるのなら戸締まりきっちりするようにした方が良いかと思われます
+打ち上げ費用などはどうなっていますか？（どこかで議論されていますか？）
+残留届けを更新しました。次の更新は10月5日です。
+ set up a reminder to “残留届けを更新してください” in this channel at 8AM Thursday, October 5th, Japan Standard Time.
+研究室Githubのメンバーの整理とグループの作成を行いました（チームは今のところメンバーのグループ分けにしか使っていませんが、Githubの機能でMentionを飛ばすなどが出来ます）。 <https://github.com/orgs/kait-takanolab/teams>
+あ、後強制するわけじゃないですがGithubもアイコン設定されているとわかりやすいかもです…
+<https://www.google.com/forms/about/>
+スライド、バージョン管理できるといいですね…
+<@U0JACJLRJ> 明日のセミナーではいつも通りのスライド発表をする方も行いますか？
+ありがとうございます:pray:
+@takano わかりました
+<@U106Y1J7N>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U106Y1J7N/F7E8AHJ4X/img_20171004_201759094.jpg|IMG_20171004_201759094.jpg>
+Reminder: 残留届けを更新してください
+1日通知間違えました（おそらく）
+OC打ち上げ費用の残りって後2000円ほどあるらしいですが使いみちって明確に決まってますか？
+箱ティッシュ希望です〜
+話変わりますけど研究室普通にWiiありますね…
+<@U0JAEV08K> すいません、見に覚えがないので出してないと思います…
+残留届けって提出されましたか？
+ set up a reminder “残留届けが切れました。更新してください。” in this channel at 9AM Friday, October 20th, Japan Standard Time.
+もうgeneralで設定しましたよ
+OCから変わっていませんが、デモプログラムはdolphin上で稼働中だと思います
+<http://dolphin.mkm.ic.kanagawa-it.ac.jp:9100/> です 右側の検索結果はモックになっていて
+「$.ajaxでのデータ取得」
+「クラステンプレート」
+「Universal Module Definition」
+という3つの項目しかないので検索引っ掛けるときは上記のキーワードの一部入力で引っかかると思います
+検索バーに検索キーワード入れて検索ボタン押すかEnter押すと表示されるはずです
+適当に歌詞どっかから引っ張ってきて <https://hogehoge.tk/nihongo/> とかに貼り付けると早いと思います
+<@U0JACJLRJ> すいません、来週こそ行けるようにします…
+私も特に大事なデータはないと思います。よろしくお願いします。
+大丈夫です
+* コミットメッセージに具体的な変更点を書く
+英語の発音、と聞くたびに最近この記事を思い出します <http://eikaiwa.dmm.com/blog/1991/>
+関連研究の調査をしました
+冷蔵庫に10/21までの卵が…
+あ、そういえば研究室メンバーの論文(thesisリポジトリ）のcommitのみを通知するチャンネル作ってみました <#C7U5528Q7|thesis-notification> (別に強制ではないので通知がほしい人はどうぞ)
+↑、昨日の話だったんで学部生のみの通知となってますけど院生のリポジトリも追加したほうが良いですかね？
+そういえば残留届けって提出しましたか？（したのならリマインダー設定します
+遅れましたが設定しました:sparkles:
+<http://gatherer.lab/>
+パンさん（今年の夏の留学生）からの依頼
+
+Hi! Everyone :hugging_face: me and paopao need your help    —Please help us fill and spread this form to your Japanese friends :slightly_smiling_face: this is just to make sure that our results we got from anaylyzing photos from food advertisements from both countries are correct.
+<https://docs.google.com/forms/d/e/1FAIpQLSfXDn6eYMqgzKC-zHRg5rLGmmcfp2Fse7_SlGNpocimoIXQxA/viewform?usp=sf_link>
+
+We need 12 more people to fill this form please help us :pray::skin-tone-3:
+dockerインストールしました
+残留届けって出しましたか？
+Dolphinの環境を日本語に設定しました
+調子が悪いっていうのはどういう？
+ずっと前から指摘されていると思いますが、sourceがtwittbotのものはbotなので適宜排除したほうがよろしいかと
+アリスとボブの後はチャーリーもしくはキャロルらしいですね <https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%A8%E3%83%9C%E3%83%96>
+（告知が遅くて申し訳ないのですが）諸事情により残留届けを出しそこねているので今日までは22時までに帰宅するようone以外します。明日から残留届けの提出を再開します。
+後、扉の開け閉めは静かにおねがいします。
+・集めたソースコードの構文解析をして関数を抽出するコードを書きました
+<@U105P17QT> ポン酢がほしいらしいです
+昆布なさそうなのでお願いします
+・構文解析で識別子レベルに分解し，識別子がWordNetに掲載しているかどうかでスコアを算出するためのパラメータを算出するコードを書きました
+
+
+score自体の算出はまだやっていません．diffは現在時刻とファイル更新日時とのミリ秒をとっただけです．
+現状ではscoreを算出しているだけなので，推薦をする際はそれまでのコードをコンテキストを引数にして推薦をするようにしたいと考えています．
+node.jsのドキュメントを読み込んで，ドキュメントの説明文と 併記されているサンプルコードは記号等を取り除き， 全てword2vecに投げるようにしました． サンプルコード自体は別途保存し， 学習データにヒントを与えると類語を拾い出してくれるので，上位10件のキーワードを元にソースコード検索を行い， キーワードに引っかかったものは重みを加算していき，引っかかったソースコード全部をソートして，スニペットの推薦を行うことができました．精度はあんまり良くないです．
+
+- タブレッドでのプログラミングを支援する雛形作成システム（そのまま）
+- コンテキストを意識したスニペット推薦システム
+- タブレットでのプログラミング入力支援システム
+*候補はここに書き込んで良いようです*
+*実験データなどもGitHubにあげる，無論卒論も更新があったらアップロード推奨*
+はじめにを書きました
+<@U0JACJLRJ> WebUIではコンテキストを元に，ということでこのような1番目のブロックが例えば「readFile」というタイトルがつけられたら，1つ下のブロックに最大5つの候補が表示され，ボタンをおすと切り替わるようなものになりました
+<@U106Y1J7N>さんがこのファイルをアップロードしました : <https://kait-takanolab.slack.com/files/U106Y1J7N/F8WCUAWAV/screenshot_from_2018-01-23_13-01-26.png|Screenshot from 2018-01-23 13-01-26.png>
+実験はターミナル上で行っています
+*今日中にラベルを作る*
+*お昼近いので体裁に気をつけて書く*
+卒検の要領
+<http://kait-kbook.sakura.ne.jp/it/+ap019/%5E03-yoryo.pdf>
+ユーザーとかはユーザみたいです
+&gt; 卒業論文は，ワードプロセッサ（Microsoft Word 等）を用いて作成し，印刷する．用
+紙は A４判を用い，40文字（全角）×40行の左横書きを標準とする．各ページにおいて
+は，左25mm，右20mm，上25mm，下20mm の余白をとる．
+<http://kait-kbook.sakura.ne.jp/it/+ap019/%5E03-yoryo.pdf>
+作業途中報告
+推薦精度を図るために適合率・再現率を利用したF値を取るためのコード書いています
+提案方式のスコアリングを元に関連ソースコード上位20件の選択を行い，適合率・再現率・F値の計算を行いました．実験の考察は後日やります．
+<@U106Y1J7N>さんがメッセージをこのチャンネルにピン留めしました。
+<@U0JACJLRJ> 土曜日にしていただけると助かります
+明日雪がやばそうです <http://www.jma.go.jp/jp/warn/1410000.html>
+<@U12475CJC>　少し厳しいです　すいません
+フォントサイズはいくつでしょうか（サンプルは10.5，かさいさん・築地さんのは10でした）
